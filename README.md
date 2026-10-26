@@ -13,7 +13,7 @@ A gallery of daily news: one editorial illustration per day, with a short museum
 | News research and verification (Phase 3) | **Built and tested**: code in `src/news/`, supervised dry runs in `logs/research/` |
 | Daily pipeline (Phase 4) | **Built; 2 supervised dry runs published locally** (runbook: `ops/daily-run.md`) |
 | Public website | **Live** at https://alexdecsi.github.io/daily-canvas/ (GitHub Pages; republished automatically when `public/` changes on `main`) |
-| Daily schedule | **Not scheduled yet.** Next: a Claude cloud environment + 9 p.m. scheduled task (`docs/SETUP.md`) |
+| Daily schedule | **Scheduled on the owner's Mac** (Claude desktop app): 9:07 p.m. run, backup checks 11:07 p.m. and 8:07 a.m. Runs only while the Mac is awake and the app is open. First automatic entry expected Oct 26. |
 
 ## Preview the gallery on your Mac
 
@@ -77,5 +77,5 @@ python3 -m unittest discover tests
 ## Folders
 
 - `logs/changes.md`: decisions and owner feedback
-- `logs/daily/`, `reports/weekly/`: run logs and weekly summaries (start once the pipeline exists)
+- `logs/daily/`: one log per news day · `reports/weekly/`: weekly summaries, written once per week by the daily task (`src/pipeline/weekly.py`)
 - `.claude/launch.json`: lets Claude Code open the preview in its browser pane

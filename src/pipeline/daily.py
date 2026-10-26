@@ -7,6 +7,11 @@ This script handles everything around them:
     python3 src/pipeline/daily.py status
         Today's Boston date, whether it's done, and missed days to backfill.
 
+    python3 src/pipeline/daily.py due
+        A quick check for the scheduled task: prints NOTHING TO DO (exit 2) when the
+        due day is published, no missed days are waiting, no commits are waiting to be
+        pushed and no weekly report is due, so the backup runs (11:07 p.m., 8:07 a.m.) cost almost nothing.
+
     python3 src/pipeline/daily.py prepare [YYYY-MM-DD]
         (No date: the day that is due: today after 9 p.m. Boston time, else yesterday.)
         Lock the date, stop if it's already published, start the run log, and
@@ -167,6 +172,34 @@ def cmd_status():
         print(f"  backlog remains after this run: {missing[cap:]}")
     if due > last:
         print("The project window has ended: no new daily entries (backfill/corrections only with owner approval).")
+    return 0
+
+
+def unpushed_commits():
+    """Number of local commits not yet on GitHub (0 if it can't be determined)."""
+    result = subprocess.run(["git", "rev-list", "--count", "origin/main..HEAD"], cwd=ROOT, capture_output=True, text=True)
+    return int(result.stdout.strip() or 0) if result.returncode == 0 else 0
+
+
+def cmd_due():
+    import weekly  # local import: weekly.py imports this module too
+    due = due_day()
+    work = []
+    if due <= CONFIG["last_day"] and not is_published(due):
+        work.append(f"{due} is due")
+    missing = [d for d in missing_dates(due, CONFIG["launch_date"], CONFIG["last_day"]) if d != due]
+    if missing:
+        work.append(f"{len(missing)} missed day(s): {missing[:LIMITS['backfill_dates_per_run']]}")
+    pushes = unpushed_commits()
+    if pushes:
+        work.append(f"{pushes} commit(s) waiting to be pushed")
+    week = weekly.week_due(due)
+    if week:
+        work.append(f"weekly report {week} is due")
+    if not work:
+        print(f"NOTHING TO DO (due day {due} is published; no backlog, pushes or reports waiting)")
+        return 2
+    print("WORK: " + "; ".join(work))
     return 0
 
 
@@ -368,12 +401,14 @@ def cmd_fail(day, reason):
 
 
 def main(argv):
-    if not argv or argv[0] not in ("status", "prepare", "finalize", "fail"):
+    if not argv or argv[0] not in ("status", "due", "prepare", "finalize", "fail"):
         print(__doc__)
         return 1
     cmd = argv[0]
     if cmd == "status":
         return cmd_status()
+    if cmd == "due":
+        return cmd_due()
     if cmd == "prepare":
         return cmd_prepare(argv[1] if len(argv) > 1 else None)
     if cmd == "finalize":

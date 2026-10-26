@@ -270,3 +270,18 @@ No changes made; nothing scheduled.
 **Known limitation:**
 - No entry appears on nights the Mac is asleep or off; those days are backfilled later and marked as made late.
 - The cloud option remains blocked until Northeastern enables GitHub for Claude Code cloud sessions.
+
+## 2026-10-25: Backup run times and weekly reports
+
+**Owner feedback:** "yes thats great". This approved backup checks at ~11 p.m. and ~8 a.m. and building the weekly reports.
+
+**Changes:**
+- `daily.py due`: a quick check that prints NOTHING TO DO unless the due day is unpublished, missed days wait, commits wait to be pushed, or a weekly report is due. Backup runs stop there, at almost no cost.
+- `src/pipeline/weekly.py`: writes `reports/weekly/<YYYY-Www>.md` once per finished Mon–Sun week from entries, daily logs and this change log.
+  - Content: an entries table, missed runs flagged even when recovered, failed runs, unresolved days after launch, usage, and owner feedback.
+  - The daily task adds 2–4 sentences of agent notes. A week is never regenerated.
+- Tests: 4 new weekly tests; 57 pass.
+- Scheduled task `daily-canvas-nightly` updated:
+  - cron `7 8,21,23 * * *` (8:07 a.m., 9:07 p.m., 11:07 p.m. local Boston time)
+  - the prompt starts with the quick check and has a weekly-report step
+  - copy in `ops/scheduled-task-prompt.md`
