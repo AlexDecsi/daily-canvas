@@ -1,7 +1,56 @@
 {
-  "sample": true,
-  "_note": "SAMPLE DATA \u2014 fictional story for layout testing; not real news.",
   "date": "2026-10-25",
-  "status": "pending",
-  "reason": "Sample: not enough verified sources yet; should NOT appear on the site."
+  "published_at": "2026-10-26T00:02:02.397826Z",
+  "status": "published",
+  "prelaunch": true,
+  "title": "Machado returns to Venezuela",
+  "caption": "María Corina Machado, Venezuela's opposition leader and 2025 Nobel Peace Prize laureate, is embraced by supporters at a church in Lara state after about ten months abroad. \"I am here. With you,\" she wrote on announcing her return. Venezuela has been run by an acting president with US backing since the US military removed Nicolás Maduro in January; no election has been scheduled.",
+  "stories": [
+    {
+      "name": "María Corina Machado returns to Venezuela",
+      "role": "focal",
+      "facts": [
+        "Opposition leader and 2025 Nobel Peace Prize laureate María Corina Machado returned to Venezuela after about 10 months abroad, announcing: \"I am here. With you.\"",
+        "She was seen at a church in Lara state, where dozens of supporters greeted and hugged her, some recording on raised phones (AP).",
+        "Venezuela has been run by acting president Delcy Rodríguez, with US backing, since the US military removed Nicolás Maduro in January 2026; no election has been scheduled."
+      ],
+      "sources": [
+        {
+          "publisher": "CBS News (AP contributed)",
+          "title": "Venezuela opposition leader María Corina Machado returns to country",
+          "url": "https://www.cbsnews.com/news/venezuela-opposition-maria-corina-machado-return/",
+          "published_at": "2026-10-25T18:09:57Z"
+        },
+        {
+          "publisher": "Al Jazeera (with AP)",
+          "title": "Venezuela's opposition leader Maria Corina Machado returns from exile",
+          "url": "https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile",
+          "published_at": "2026-10-25T18:55:39Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "title": "María Corina Machado Returns to Venezuela",
+          "url": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html",
+          "published_at": "2026-10-25T20:35:51Z"
+        },
+        {
+          "publisher": "NPR",
+          "title": "Venezuela's opposition leader María Corina Machado returns after months in exile",
+          "url": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile",
+          "published_at": "2026-10-25T16:18:41Z"
+        }
+      ]
+    }
+  ],
+  "artwork": {
+    "path": "artwork/2026-10-25.svg",
+    "format": "svg",
+    "alt": "Poster-style illustration: a woman in a white top, representing opposition leader María Corina Machado, embraces a gray-haired supporter in a red top in front of a whitewashed church with a bell tower, while a crowd of smiling supporters around them cheers and holds up phones to record the moment.",
+    "method": "code-generated SVG (graphic-poster kit, src/art/daily/)",
+    "revision": "r3"
+  },
+  "backfill": {
+    "is_backfill": false,
+    "reason": null
+  }
 }

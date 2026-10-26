@@ -1,0 +1,80 @@
+{
+  "date": "2026-10-24",
+  "runs": [
+    {
+      "started_at": "2026-10-26T00:02:48.711641Z",
+      "outcome": "backfilled",
+      "steps": [
+        {
+          "at": "2026-10-26T00:02:48.711645Z",
+          "step": "prepare: lock acquired (backfill)"
+        },
+        {
+          "at": "2026-10-26T00:02:53.685619Z",
+          "step": "prepare: ran src/news/feeds.py"
+        },
+        {
+          "at": "2026-10-26T00:02:53.739605Z",
+          "step": "prepare: ran src/news/cluster.py"
+        },
+        {
+          "at": "2026-10-26T00:02:53.894029Z",
+          "step": "prepare: ran src/news/wiki_events.py"
+        },
+        {
+          "at": "2026-10-26T00:05:33.830494Z",
+          "step": "finalize: published to local site"
+        }
+      ],
+      "_new_run": true,
+      "mode": "backfill",
+      "prelaunch": true,
+      "finished_at": "2026-10-26T00:05:33.830276Z",
+      "link_checks": [
+        {
+          "url": "https://www.pbs.org/newshour/politics/trump-casts-his-midterm-ballot-early-in-florida",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.bostonglobe.com/2026/10/24/nation/obama-midterms-campaign-trail/",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/10/24/trump-midterm-election-early-vote-florida.html",
+          "ok": true,
+          "note": "HTTP 200"
+        }
+      ],
+      "samples_removed": [],
+      "stories_shown": [
+        "Trump votes early as Obama returns to the campaign trail"
+      ],
+      "usage": {
+        "feed_requests": 29,
+        "wikipedia_requests": 1,
+        "article_reads": 4,
+        "article_reads_note": "3 succeeded, 1 returned 403",
+        "web_searches": 1,
+        "render_rounds": 2
+      }
+    },
+    {
+      "started_at": "2026-10-26T00:05:33.907970Z",
+      "outcome": "already_published",
+      "steps": [
+        {
+          "at": "2026-10-26T00:05:33.907974Z",
+          "step": "prepare: entry exists, no action"
+        }
+      ],
+      "_new_run": true
+    }
+  ]
+}

@@ -175,3 +175,44 @@ Each got 1 draft + 2 self-critique revisions. Main fixes:
 **Effect on 2026-10-25:**
 - Re-ranked: Machado's return (led 8 US front pages, US-linked) → Alaska DOJ lawsuit → Serbia (dropped from the brief). Boston stories now appear in the top 15.
 - Brief revised: focal Machado, supporting the Alaska lawsuit (CBS full article + NPR + Guardian). Passes checks.
+
+## 2026-10-25/26: Phase 4: end-to-end daily run built and dry-run twice
+
+**Owner request:** "start stage 4".
+
+**Built:**
+- `src/pipeline/daily.py` (status / prepare / finalize / fail):
+  - a per-date lock, with takeover when a lock is stale
+  - duplicate protection: refuses an already-published date and never overwrites one
+  - missed-day detection from the launch date, capped at 2 backfills per run, oldest first
+  - stops after 2026-12-18
+  - research gathering: feeds for today; feeds plus Wikipedia-as-of-cutoff for past dates
+  - finalize checks the brief, the artwork, caption length (75 words), alt length and the art-review flag, checks every source link, then publishes atomically: it rolls back if the site build fails, removes the sample data when the first real entry lands, and writes `logs/daily/<date>.json`
+- `src/art/check_art.py`: technical art checks (size, title/desc, no scripts, external links or images, ≤250 KB).
+- `src/art/render_png.py`: 1200 px and 360 px (phone) previews via cairosvg, rsvg-convert, Chrome or Quick Look.
+- `config/pipeline.json`: run limits. `launch_date` stays null until Phase 5.
+- `ops/daily-run.md`: the step-by-step runbook; it becomes the cloud task's instructions.
+- People kit: a neutral "speak" expression, added because the "shout" face read as angry on a real public figure.
+- Gallery: the backfill note now shows Boston dates (it showed the UTC date "Oct 26" for an entry made on the evening of Oct 25).
+- Tests: 50 pass, including locks, missed days, the project window, entries built only from brief stories, and the art checks.
+
+**Dry run 1, 2026-10-25 (live):**
+- Machado embraced by supporters at a church in Lara state. Art took 3 render rounds:
+  1. hug unreadable, stiff outstretched arms, glow washing out the crowd
+  2. the partner was hidden behind Machado
+  3. accepted
+- Published (pre-launch). Removed the 5 sample entries.
+- Link checks: 3 links returned HTTP 200; NYT returned 403 (bot-blocked, noted).
+
+**Dry run 2, 2026-10-24 (simulated missed day → backfill):**
+- Trump votes early in West Palm Beach as Obama returns to the trail (Cleveland, then Detroit). Sources: AP via PBS, NYT via the Boston Globe, BBC, CNBC.
+- An advance notice of Obama's schedule was not treated as confirmation; I waited for after-the-fact reporting.
+- Art took 2 rounds. Round 1 problems: oversized sticker, crowded reporters, Obama's face reading as angry.
+- Published as `backfilled`. Re-running prepare on the date correctly refused with "already published".
+
+**Usage:**
+- The 5-hour plan window went from 12% to 14% across both dry runs (~1% per run, measured inside a long session). Extra usage is disabled on the account, so there are no overage charges.
+- Wall-clock: ~2 minutes from prepare to finalize, after the research was done.
+- Expect roughly 15–30 minutes per unattended run, including research.
+
+**Still not done:** public hosting, the cloud schedule, the launch date, and the weekly report generator (Phase 5/6).

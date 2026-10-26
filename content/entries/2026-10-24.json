@@ -1,45 +1,57 @@
 {
-  "sample": true,
-  "_note": "SAMPLE DATA \u2014 fictional story for layout testing; not real news.",
   "date": "2026-10-24",
-  "status": "published",
-  "published_at": "2026-10-24T21:00:00-04:00",
-  "title": "Sample: Harbor switches on floating solar",
-  "caption": "A fictional coastal city connects rows of floating solar panels in its harbor. Supporting story: none. This sample shows how an environment story might be labeled.",
+  "published_at": "2026-10-26T00:05:32.132063Z",
+  "status": "backfilled",
+  "prelaunch": true,
+  "title": "Trump votes early as Obama returns to the trail",
+  "caption": "President Trump, wearing an \"I Voted\" sticker, talks to reporters after casting his midterm ballot early in West Palm Beach, Florida, with Melania Trump beside him. That evening, former President Barack Obama, back on the campaign trail after a first stop in Cleveland, rallied Democrats in a Detroit high-school gym, calling Trump's second term \"two years of chaos and cruelty and corruption.\"",
   "stories": [
     {
-      "name": "Floating solar array (fictional)",
+      "name": "Trump votes early as Obama returns to the campaign trail",
       "role": "focal",
       "facts": [
-        "Fictional sample fact."
+        "On Saturday, October 24, President Trump cast his midterm ballot early at the Palm Beach County Supervisor of Elections office in West Palm Beach, Florida, arriving with first lady Melania Trump.",
+        "Wearing an \"I Voted\" sticker, he told reporters he had voted the Republican line: \"Very much so.\"",
+        "The same day, former President Barack Obama held his first midterm rally in Cleveland with Democratic nominees Sherrod Brown and Amy Acton, then spoke at an evening rally in a Detroit high-school gym.",
+        "Obama called Trump's second term \"two years of chaos and cruelty and corruption.\""
       ],
       "sources": [
         {
-          "publisher": "Example News (placeholder)",
-          "title": "Placeholder article",
-          "url": "https://example.com/sample/solar",
-          "published_at": null,
-          "checked_at": null
+          "publisher": "PBS NewsHour (Associated Press)",
+          "title": "Trump casts his midterm ballot early in Florida",
+          "url": "https://www.pbs.org/newshour/politics/trump-casts-his-midterm-ballot-early-in-florida",
+          "published_at": "2026-10-24T21:29:15Z"
         },
         {
-          "publisher": "Example News (placeholder)",
-          "title": "Second placeholder",
-          "url": "https://example.com/sample/solar-2",
-          "published_at": null,
-          "checked_at": null
+          "publisher": "The Boston Globe (The New York Times)",
+          "title": "Obama returns to the trail, setting up dueling appearances with Trump",
+          "url": "https://www.bostonglobe.com/2026/10/24/nation/obama-midterms-campaign-trail/",
+          "published_at": "2026-10-24T21:58:51Z"
+        },
+        {
+          "publisher": "BBC News",
+          "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
+          "url": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo",
+          "published_at": "2026-10-25T02:27:15Z"
+        },
+        {
+          "publisher": "CNBC",
+          "title": "Trump casts his midterm election ballot early in Florida",
+          "url": "https://www.cnbc.com/2026/10/24/trump-midterm-election-early-vote-florida.html",
+          "published_at": "2026-10-24T21:28:44Z"
         }
       ]
     }
   ],
   "artwork": {
-    "path": "artwork/2026-10-24-sample.svg",
+    "path": "artwork/2026-10-24.svg",
     "format": "svg",
-    "alt": "Sample illustration: rows of blue floating solar panels on a harbor at sunset, with a city skyline and a small sailboat.",
-    "method": "hand-coded SVG placeholder",
-    "revision": "sample-1"
+    "alt": "Poster-style illustration split diagonally between day and evening. On the sunny left, Donald Trump in a navy suit and red tie, with a small voting sticker, stands outside a low Florida elections office beside Melania Trump as two reporters hold out microphones. On the right, Barack Obama speaks from a lectern in a high-school gym with packed bleachers and a basketball hoop, facing a cheering crowd.",
+    "method": "code-generated SVG (graphic-poster kit, src/art/daily/)",
+    "revision": "r2"
   },
   "backfill": {
-    "is_backfill": false,
-    "reason": null
+    "is_backfill": true,
+    "reason": "Supervised dry run 2: a simulated missed day, made on October 25 using only reporting published by the end of October 24 (Boston time)."
   }
 }

@@ -11,7 +11,7 @@ positive swings the limb forward (toward where the figure faces), negative backw
 
 (x, y) is the point between the feet. By default faces are blank (no eyes or
 mouth). Key figures can get a simple profile face with an expression via
-Look(face="smile" | "shout" | "frown" | "stern" | "pout" | "neutral").
+Look(face="smile" | "speak" | "shout" | "frown" | "stern" | "pout" | "neutral").
 """
 
 import math
@@ -187,6 +187,8 @@ def _face(hx, hy, expression, skin):
                         stroke=ink, stroke_width=1, stroke_linecap="round"))
     elif expression == "shout":
         out.append(ellipse(mx + 0.9, my + 0.4, 1.5, 2.1, fill=ink))
+    elif expression == "speak":  # mid-sentence: mouth open, brow relaxed (neutral tone, not angry)
+        out.append(ellipse(mx + 0.9, my + 0.3, 1.2, 1.3, fill=ink))
     elif expression == "frown":
         out.append(path(f"M{mx - 1.4} {my + 0.8} Q{mx + 0.5} {my - 1} {mx + 2.2} {my + 0.6}", fill="none",
                         stroke=ink, stroke_width=1, stroke_linecap="round"))

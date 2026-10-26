@@ -1,7 +1,7 @@
 {
   "date": "2026-10-25",
-  "fetched_at": "2026-10-25T23:50:47.359807Z",
-  "items_considered": 462,
+  "fetched_at": "2026-10-26T00:00:09.389937Z",
+  "items_considered": 460,
   "candidates": [
     {
       "headline": "Machado Returns to Venezuela to Urge Democratic Transition",
@@ -549,7 +549,7 @@
           "group": "nbc",
           "kind": "news",
           "wire": false,
-          "title": "Mary Peltola delays campaign events after sustaining \u2018minor injuries\u2019 in car crash",
+          "title": "Alaska Senate candidate Mary Peltola delays campaign events after car crash",
           "url": "https://www.nbcnews.com/politics/2026-election/mary-peltola-delays-campaign-events-minor-injury-car-crash-alaska-rcna605556",
           "published_at": "2026-10-25T19:08:17Z"
         },
@@ -593,7 +593,7 @@
     },
     {
       "headline": "Israel to close West Bank crossings on election day as crackdown escalates",
-      "score": 89,
+      "score": 90,
       "signals": {
         "us_outlets": 5,
         "intl_outlets": 1,
@@ -654,6 +654,15 @@
           "title": "Scoop: Netanyahu presses Trump for more support ahead of tight Tuesday election",
           "url": "https://www.axios.com/2026/10/25/netanyahu-trump-israeli-elections",
           "published_at": "2026-10-25T23:15:08Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Netanyahu's party lags in polls ahead of first election since Oct. 7, 2023",
+          "url": "https://www.cbsnews.com/video/netanyahus-party-lags-polls-ahead-first-election-since-oct-7-2023/",
+          "published_at": "2026-10-25T23:44:22Z"
         },
         {
           "publisher": "CBS News",
@@ -730,81 +739,6 @@
           "title": "Westborough police chief placed on leave after Shrewsbury police response involving him",
           "url": "https://www.boston.com/news/local-news/2026/10/25/westborough-police-chief-placed-on-leave-after-shrewsbury-police-response-involving-him/",
           "published_at": "2026-10-25T22:05:58Z"
-        }
-      ]
-    },
-    {
-      "headline": "At least 12 people injured in shooting near football stadium in Florida",
-      "score": 83,
-      "signals": {
-        "us_outlets": 5,
-        "intl_outlets": 1,
-        "front_pages": 4,
-        "boston_local": []
-      },
-      "independent_outlets": [
-        "ABC News",
-        "CBS News",
-        "MassLive",
-        "The Boston Globe",
-        "The Guardian",
-        "The New York Times"
-      ],
-      "first_seen": "2026-10-25T04:49:35Z",
-      "reports": [
-        {
-          "publisher": "The Boston Globe",
-          "group": "globe",
-          "kind": "news",
-          "wire": false,
-          "title": "At least 12 people injured in shooting near football stadium in Florida",
-          "url": "https://www.bostonglobe.com/2026/10/25/nation/shooting-near-football-stadium-in-florida-at-least-12-injured/",
-          "published_at": "2026-10-25T04:49:35Z"
-        },
-        {
-          "publisher": "MassLive",
-          "group": "masslive",
-          "kind": "news",
-          "wire": false,
-          "title": "Florida A&M shooting: 11 shot, including children, outside football stadium",
-          "url": "https://www.masslive.com/news/2026/10/florida-am-shooting-11-shot-including-children-outside-football-stadium.html",
-          "published_at": "2026-10-25T12:13:29Z"
-        },
-        {
-          "publisher": "The New York Times",
-          "group": "nyt",
-          "kind": "news",
-          "wire": false,
-          "title": "At Least 12 Injured, Including 6 Minors, in Shooting Near Florida A&M\u2019s Stadium",
-          "url": "https://www.nytimes.com/2026/10/25/us/tallahassee-shooting-florida-am-homecoming.html",
-          "published_at": "2026-10-25T12:33:20Z"
-        },
-        {
-          "publisher": "The Guardian",
-          "group": "guardian",
-          "kind": "news",
-          "wire": false,
-          "title": "Twelve injured, including six juveniles, in shooting near Florida university",
-          "url": "https://www.theguardian.com/us-news/2026/oct/25/eleven-sustain-gunshot-wounds-in-shooting-near-florida-university",
-          "published_at": "2026-10-25T15:19:47Z"
-        },
-        {
-          "publisher": "ABC News",
-          "group": "abc",
-          "kind": "news",
-          "wire": false,
-          "title": "12 injured, including 6 children, in shooting near Florida university, police say",
-          "url": "https://abcnews.com/US/12-injured-including-6-children-shooting-florida-university/story?id=137549623",
-          "published_at": "2026-10-25T21:19:20Z"
-        },
-        {
-          "publisher": "CBS News",
-          "group": "cbs",
-          "kind": "news",
-          "wire": false,
-          "title": "At least 12 injured, including 6 children, in shooting near Florida A&M",
-          "url": "https://www.cbsnews.com/news/tallahassee-florida-shooting-a-m-university/",
-          "published_at": "2026-10-25T23:49:00Z"
         }
       ]
     },
@@ -1012,6 +946,135 @@
           "title": "Crow: Elon Musk having control to cut off Starlink to Ukraine is 'beyond disturbing to me'",
           "url": "https://thehill.com/policy/technology/6170777-jason-crow-criticizes-elon-musk-starlink-control-ukraine/",
           "published_at": "2026-10-25T19:30:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Obama issues searing attacks on Trump, Ramaswamy in return to campaign trail",
+      "score": 68,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 0,
+        "front_pages": 4,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "CBS News",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-25T11:19:05Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Obama issues searing attacks on Trump, Ramaswamy in return to campaign trail",
+          "url": "https://www.bostonglobe.com/2026/10/24/nation/obama-trump-ramaswamy-campaign-trail/",
+          "published_at": "2026-10-25T11:19:05Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Obama, in Midwest, assails 'cruelty' and indecency from Trump and his allies in the midterm campaign",
+          "url": "https://www.pbs.org/newshour/politics/obama-in-midwest-assails-cruelty-and-indecency-from-trump-and-his-allies-in-the-midterm-campaign",
+          "published_at": "2026-10-25T14:35:09Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "How Obama and Trump Made their Cases in Dueling Midterm Speeches",
+          "url": "https://www.nytimes.com/2026/10/25/us/politics/obama-trump-competing-rallies-midterms.html",
+          "published_at": "2026-10-25T23:35:31Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump attacks Abdul El-Sayed in Michigan campaign stop",
+          "url": "https://www.cbsnews.com/video/trump-attacks-abdul-el-sayed-michigan-campaign-stop/",
+          "published_at": "2026-10-25T23:42:13Z"
+        }
+      ]
+    },
+    {
+      "headline": "At least 12 people injured in shooting near football stadium in Florida",
+      "score": 67,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 1,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "CBS News",
+        "The Boston Globe",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-25T04:49:35Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "At least 12 people injured in shooting near football stadium in Florida",
+          "url": "https://www.bostonglobe.com/2026/10/25/nation/shooting-near-football-stadium-in-florida-at-least-12-injured/",
+          "published_at": "2026-10-25T04:49:35Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "At Least 12 Injured, Including 6 Minors, in Shooting Near Florida A&M\u2019s Stadium",
+          "url": "https://www.nytimes.com/2026/10/25/us/tallahassee-shooting-florida-am-homecoming.html",
+          "published_at": "2026-10-25T12:33:20Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Twelve injured, including six juveniles, in shooting near Florida university",
+          "url": "https://www.theguardian.com/us-news/2026/oct/25/eleven-sustain-gunshot-wounds-in-shooting-near-florida-university",
+          "published_at": "2026-10-25T15:19:47Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "12 injured, including 6 children, in shooting near Florida university, police say",
+          "url": "https://abcnews.com/US/12-injured-including-6-children-shooting-florida-university/story?id=137549623",
+          "published_at": "2026-10-25T21:19:20Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "At least 11 wounded, some children, in Tallahassee shooting near Florida A&M",
+          "url": "https://www.cbsnews.com/video/at-least-11-wounded-some-children-tallahassee-shooting-florida-am/",
+          "published_at": "2026-10-25T23:47:34Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "At least 12 injured, including 6 children, in shooting near Florida A&M",
+          "url": "https://www.cbsnews.com/news/tallahassee-florida-shooting-a-m-university/",
+          "published_at": "2026-10-25T23:49:00Z"
         }
       ]
     },
@@ -1467,51 +1530,6 @@
           "title": "No resolution in sight for frayed relationship between Jaylen Brown and Jayson Tatum",
           "url": "https://www.bostonglobe.com/2026/10/25/sports/jayson-tatum-jaylen-brown-feud/",
           "published_at": "2026-10-25T22:08:54Z"
-        }
-      ]
-    },
-    {
-      "headline": "Obama issues searing attacks on Trump, Ramaswamy in return to campaign trail",
-      "score": 45,
-      "signals": {
-        "us_outlets": 3,
-        "intl_outlets": 0,
-        "front_pages": 2,
-        "boston_local": []
-      },
-      "independent_outlets": [
-        "PBS NewsHour",
-        "The Boston Globe",
-        "The New York Times"
-      ],
-      "first_seen": "2026-10-25T11:19:05Z",
-      "reports": [
-        {
-          "publisher": "The Boston Globe",
-          "group": "globe",
-          "kind": "news",
-          "wire": false,
-          "title": "Obama issues searing attacks on Trump, Ramaswamy in return to campaign trail",
-          "url": "https://www.bostonglobe.com/2026/10/24/nation/obama-trump-ramaswamy-campaign-trail/",
-          "published_at": "2026-10-25T11:19:05Z"
-        },
-        {
-          "publisher": "PBS NewsHour",
-          "group": "pbs",
-          "kind": "news",
-          "wire": false,
-          "title": "Obama, in Midwest, assails 'cruelty' and indecency from Trump and his allies in the midterm campaign",
-          "url": "https://www.pbs.org/newshour/politics/obama-in-midwest-assails-cruelty-and-indecency-from-trump-and-his-allies-in-the-midterm-campaign",
-          "published_at": "2026-10-25T14:35:09Z"
-        },
-        {
-          "publisher": "The New York Times",
-          "group": "nyt",
-          "kind": "news",
-          "wire": false,
-          "title": "How Obama and Trump Made their Cases in Dueling Midterm Speeches",
-          "url": "https://www.nytimes.com/2026/10/25/us/politics/obama-trump-competing-rallies-midterms.html",
-          "published_at": "2026-10-25T23:35:31Z"
         }
       ]
     },

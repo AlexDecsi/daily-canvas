@@ -60,8 +60,12 @@
 
   function backfillNote(entry) {
     if (entry.status !== "backfilled") return "";
-    const when = entry.published_at ? entry.published_at.slice(0, 10) : "a later date";
-    return "Created after its news date (on " + when + "), using reporting available on " + entry.date + ".";
+    // Show the creation day in Boston time, like the news date (a UTC timestamp can already be "tomorrow").
+    const when = entry.published_at
+      ? new Date(entry.published_at).toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric", timeZone: "America/New_York" })
+      : "a later date";
+    const newsDay = formatDate(entry.date).replace(/^\w+, /, "");
+    return "Created after its news date (on " + when + "), using only reporting available on " + newsDay + ".";
   }
 
   // ---------- featured + grid ----------

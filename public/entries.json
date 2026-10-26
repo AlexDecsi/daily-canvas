@@ -1,82 +1,55 @@
 {
   "entries": [
     {
-      "sample": true,
-      "_note": "SAMPLE DATA — fictional story for layout testing; not real news.",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
+      "published_at": "2026-10-26T00:02:02.397826Z",
       "status": "published",
-      "published_at": "2026-10-24T21:00:00-04:00",
-      "title": "Sample: Harbor switches on floating solar",
-      "caption": "A fictional coastal city connects rows of floating solar panels in its harbor. Supporting story: none. This sample shows how an environment story might be labeled.",
+      "prelaunch": true,
+      "title": "Machado returns to Venezuela",
+      "caption": "María Corina Machado, Venezuela's opposition leader and 2025 Nobel Peace Prize laureate, is embraced by supporters at a church in Lara state after about ten months abroad. \"I am here. With you,\" she wrote on announcing her return. Venezuela has been run by an acting president with US backing since the US military removed Nicolás Maduro in January; no election has been scheduled.",
       "stories": [
         {
-          "name": "Floating solar array (fictional)",
+          "name": "María Corina Machado returns to Venezuela",
           "role": "focal",
           "facts": [
-            "Fictional sample fact."
+            "Opposition leader and 2025 Nobel Peace Prize laureate María Corina Machado returned to Venezuela after about 10 months abroad, announcing: \"I am here. With you.\"",
+            "She was seen at a church in Lara state, where dozens of supporters greeted and hugged her, some recording on raised phones (AP).",
+            "Venezuela has been run by acting president Delcy Rodríguez, with US backing, since the US military removed Nicolás Maduro in January 2026; no election has been scheduled."
           ],
           "sources": [
             {
-              "publisher": "Example News (placeholder)",
-              "title": "Placeholder article",
-              "url": "https://example.com/sample/solar",
-              "published_at": null,
-              "checked_at": null
+              "publisher": "CBS News (AP contributed)",
+              "title": "Venezuela opposition leader María Corina Machado returns to country",
+              "url": "https://www.cbsnews.com/news/venezuela-opposition-maria-corina-machado-return/",
+              "published_at": "2026-10-25T18:09:57Z"
             },
             {
-              "publisher": "Example News (placeholder)",
-              "title": "Second placeholder",
-              "url": "https://example.com/sample/solar-2",
-              "published_at": null,
-              "checked_at": null
-            }
-          ]
-        }
-      ],
-      "artwork": {
-        "path": "artwork/2026-10-24-sample.svg",
-        "format": "svg",
-        "alt": "Sample illustration: rows of blue floating solar panels on a harbor at sunset, with a city skyline and a small sailboat.",
-        "method": "hand-coded SVG placeholder",
-        "revision": "sample-1"
-      },
-      "backfill": {
-        "is_backfill": false,
-        "reason": null
-      }
-    },
-    {
-      "sample": true,
-      "_note": "SAMPLE DATA — fictional story for layout testing; not real news.",
-      "date": "2026-10-23",
-      "status": "published",
-      "published_at": "2026-10-23T21:00:00-04:00",
-      "title": "Sample: Telescope's first deep-field image",
-      "caption": "A fictional space telescope releases its first deep-field image of distant galaxies. Sample data for testing the archive grid.",
-      "stories": [
-        {
-          "name": "Telescope first light (fictional)",
-          "role": "focal",
-          "facts": [
-            "Fictional sample fact."
-          ],
-          "sources": [
+              "publisher": "Al Jazeera (with AP)",
+              "title": "Venezuela's opposition leader Maria Corina Machado returns from exile",
+              "url": "https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile",
+              "published_at": "2026-10-25T18:55:39Z"
+            },
             {
-              "publisher": "Example News (placeholder)",
-              "title": "Placeholder article",
-              "url": "https://example.com/sample/telescope",
-              "published_at": null,
-              "checked_at": null
+              "publisher": "The New York Times",
+              "title": "María Corina Machado Returns to Venezuela",
+              "url": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html",
+              "published_at": "2026-10-25T20:35:51Z"
+            },
+            {
+              "publisher": "NPR",
+              "title": "Venezuela's opposition leader María Corina Machado returns after months in exile",
+              "url": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile",
+              "published_at": "2026-10-25T16:18:41Z"
             }
           ]
         }
       ],
       "artwork": {
-        "path": "artwork/2026-10-23-sample.svg",
+        "path": "artwork/2026-10-25.svg",
         "format": "svg",
-        "alt": "Sample illustration: a gold hexagonal-mirror space telescope in front of a purple nebula and a glowing galaxy.",
-        "method": "hand-coded SVG placeholder",
-        "revision": "sample-1"
+        "alt": "Poster-style illustration: a woman in a white top, representing opposition leader María Corina Machado, embraces a gray-haired supporter in a red top in front of a whitewashed church with a bell tower, while a crowd of smiling supporters around them cheers and holds up phones to record the moment.",
+        "method": "code-generated SVG (graphic-poster kit, src/art/daily/)",
+        "revision": "r3"
       },
       "backfill": {
         "is_backfill": false,
@@ -84,71 +57,60 @@
       }
     },
     {
-      "sample": true,
-      "_note": "SAMPLE DATA — fictional story for layout testing; not real news.",
-      "date": "2026-10-22",
+      "date": "2026-10-24",
+      "published_at": "2026-10-26T00:05:32.132063Z",
       "status": "backfilled",
-      "published_at": "2026-10-23T21:20:00-04:00",
-      "title": "Sample: Legislature passes housing bill",
-      "caption": "A fictional legislature passes a housing bill; new homes rise in the foreground. This sample is marked as backfilled to test the late-entry note.",
+      "prelaunch": true,
+      "title": "Trump votes early as Obama returns to the trail",
+      "caption": "President Trump, wearing an \"I Voted\" sticker, talks to reporters after casting his midterm ballot early in West Palm Beach, Florida, with Melania Trump beside him. That evening, former President Barack Obama, back on the campaign trail after a first stop in Cleveland, rallied Democrats in a Detroit high-school gym, calling Trump's second term \"two years of chaos and cruelty and corruption.\"",
       "stories": [
         {
-          "name": "Housing bill (fictional)",
+          "name": "Trump votes early as Obama returns to the campaign trail",
           "role": "focal",
           "facts": [
-            "Fictional sample fact."
+            "On Saturday, October 24, President Trump cast his midterm ballot early at the Palm Beach County Supervisor of Elections office in West Palm Beach, Florida, arriving with first lady Melania Trump.",
+            "Wearing an \"I Voted\" sticker, he told reporters he had voted the Republican line: \"Very much so.\"",
+            "The same day, former President Barack Obama held his first midterm rally in Cleveland with Democratic nominees Sherrod Brown and Amy Acton, then spoke at an evening rally in a Detroit high-school gym.",
+            "Obama called Trump's second term \"two years of chaos and cruelty and corruption.\""
           ],
           "sources": [
             {
-              "publisher": "Example News (placeholder)",
-              "title": "Placeholder article",
-              "url": "https://example.com/sample/housing",
-              "published_at": null,
-              "checked_at": null
+              "publisher": "PBS NewsHour (Associated Press)",
+              "title": "Trump casts his midterm ballot early in Florida",
+              "url": "https://www.pbs.org/newshour/politics/trump-casts-his-midterm-ballot-early-in-florida",
+              "published_at": "2026-10-24T21:29:15Z"
+            },
+            {
+              "publisher": "The Boston Globe (The New York Times)",
+              "title": "Obama returns to the trail, setting up dueling appearances with Trump",
+              "url": "https://www.bostonglobe.com/2026/10/24/nation/obama-midterms-campaign-trail/",
+              "published_at": "2026-10-24T21:58:51Z"
+            },
+            {
+              "publisher": "BBC News",
+              "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
+              "url": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo",
+              "published_at": "2026-10-25T02:27:15Z"
+            },
+            {
+              "publisher": "CNBC",
+              "title": "Trump casts his midterm election ballot early in Florida",
+              "url": "https://www.cnbc.com/2026/10/24/trump-midterm-election-early-vote-florida.html",
+              "published_at": "2026-10-24T21:28:44Z"
             }
           ]
         }
       ],
       "artwork": {
-        "path": "artwork/2026-10-22-sample.svg",
+        "path": "artwork/2026-10-24.svg",
         "format": "svg",
-        "alt": "Sample illustration: a domed legislative building at dawn above a row of colorful new houses and a construction crane.",
-        "method": "hand-coded SVG placeholder",
-        "revision": "sample-1"
+        "alt": "Poster-style illustration split diagonally between day and evening. On the sunny left, Donald Trump in a navy suit and red tie, with a small voting sticker, stands outside a low Florida elections office beside Melania Trump as two reporters hold out microphones. On the right, Barack Obama speaks from a lectern in a high-school gym with packed bleachers and a basketball hoop, facing a cheering crowd.",
+        "method": "code-generated SVG (graphic-poster kit, src/art/daily/)",
+        "revision": "r2"
       },
       "backfill": {
         "is_backfill": true,
-        "reason": "Sample: simulated missed run on 2026-10-22."
-      }
-    },
-    {
-      "sample": true,
-      "_note": "SAMPLE DATA — fictional story for layout testing; not real news.",
-      "date": "2026-10-21",
-      "status": "published",
-      "published_at": "2026-10-21T21:00:00-04:00",
-      "title": "Sample: Underdog club lifts the trophy",
-      "caption": "A fictional underdog club wins its league final under the floodlights. Sample data for a sports-style entry.",
-      "stories": [
-        {
-          "name": "League final (fictional)",
-          "role": "focal",
-          "facts": [
-            "Fictional sample fact."
-          ],
-          "sources": []
-        }
-      ],
-      "artwork": {
-        "path": "artwork/2026-10-21-sample.svg",
-        "format": "svg",
-        "alt": "Sample illustration: a night stadium under floodlights with a golden trophy at center pitch and confetti falling.",
-        "method": "hand-coded SVG placeholder",
-        "revision": "sample-1"
-      },
-      "backfill": {
-        "is_backfill": false,
-        "reason": null
+        "reason": "Supervised dry run 2: a simulated missed day, made on October 25 using only reporting published by the end of October 24 (Boston time)."
       }
     }
   ]

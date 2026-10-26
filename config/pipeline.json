@@ -1,0 +1,21 @@
+{
+  "_about": "Settings for the daily run. Limits keep each run's usage bounded (CLAUDE.md §2.8, §3). Change them only with a note in logs/changes.md.",
+  "timezone": "America/New_York",
+  "target_publish_time": "21:00",
+  "launch_date": null,
+  "_launch_date_note": "Set this to the first day the public site and the cloud schedule both work (Phase 5). Daily-entry obligations and missed-day checks start from it. Until then, runs are 'pre-launch' dry runs.",
+  "last_day": "2026-12-18",
+  "limits": {
+    "max_run_minutes": 45,
+    "lock_stale_minutes": 120,
+    "backfill_dates_per_run": 2,
+    "art_render_rounds": 3,
+    "article_reads": 12,
+    "web_searches": 6,
+    "timestamp_checks": 30,
+    "link_check_timeout_seconds": 15,
+    "caption_max_words": 75,
+    "alt_max_chars": 600,
+    "artwork_max_kb": 250
+  }
+}

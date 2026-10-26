@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-25",
+  "runs": [
+    {
+      "started_at": "2026-10-26T00:00:02.565976Z",
+      "outcome": "published",
+      "steps": [
+        {
+          "at": "2026-10-26T00:00:02.565980Z",
+          "step": "prepare: lock acquired (live)"
+        },
+        {
+          "at": "2026-10-26T00:00:09.418283Z",
+          "step": "prepare: ran src/news/feeds.py"
+        },
+        {
+          "at": "2026-10-26T00:00:09.522468Z",
+          "step": "prepare: ran src/news/cluster.py"
+        },
+        {
+          "at": "2026-10-26T00:02:02.871966Z",
+          "step": "finalize: published to local site"
+        }
+      ],
+      "_new_run": true,
+      "mode": "live",
+      "prelaunch": true,
+      "finished_at": "2026-10-26T00:02:02.871802Z",
+      "link_checks": [
+        {
+          "url": "https://www.cbsnews.com/news/venezuela-opposition-maria-corina-machado-return/",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html",
+          "ok": true,
+          "note": "HTTP 403 (blocks automated checks; not verifiable here)"
+        },
+        {
+          "url": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile",
+          "ok": true,
+          "note": "HTTP 200"
+        }
+      ],
+      "samples_removed": [
+        "2026-10-21.json",
+        "2026-10-25.json",
+        "2026-10-24.json",
+        "2026-10-23.json",
+        "2026-10-22.json"
+      ],
+      "stories_shown": [
+        "María Corina Machado returns to Venezuela"
+      ],
+      "usage": {
+        "feed_requests": 29,
+        "article_reads": 9,
+        "article_reads_note": "5 succeeded, 4 blocked or timed out",
+        "web_searches": 0,
+        "render_rounds": 3,
+        "minutes": 2.0,
+        "minutes_note": "prepare → finalize wall-clock; research and brief were done earlier in the session (~25 min), so a full unattended run is roughly 30 min"
+      }
+    }
+  ]
+}

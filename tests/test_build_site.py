@@ -20,13 +20,29 @@ def good_entry(date="2026-11-01", **overrides):
         "title": "Test",
         "caption": "Test caption.",
         "stories": [{"name": "S", "sources": [{"url": "https://example.com/a"}]}],
-        "artwork": {"path": "artwork/2026-10-24-sample.svg", "alt": "Alt text"},
+        "artwork": {"path": "artwork/test.svg", "alt": "Alt text"},
     }
     entry.update(overrides)
     return entry
 
 
-class ValidateTests(unittest.TestCase):
+class TempPublicDir(unittest.TestCase):
+    """Point the builder at a throwaway public/ folder with one test image, so tests don't depend on real content."""
+
+    def setUp(self):
+        self._tmp = tempfile.TemporaryDirectory()
+        public = Path(self._tmp.name)
+        (public / "artwork").mkdir()
+        (public / "artwork" / "test.svg").write_text("<svg/>")
+        self._old = build_site.PUBLIC_DIR
+        build_site.PUBLIC_DIR = public
+
+    def tearDown(self):
+        build_site.PUBLIC_DIR = self._old
+        self._tmp.cleanup()
+
+
+class ValidateTests(TempPublicDir):
     def test_good_entry_passes(self):
         self.assertEqual(build_site.validate(good_entry(), "2026-11-01.json"), [])
 
@@ -34,7 +50,7 @@ class ValidateTests(unittest.TestCase):
         self.assertTrue(build_site.validate(good_entry(), "2026-11-02.json"))
 
     def test_missing_alt_text_blocks(self):
-        e = good_entry(artwork={"path": "artwork/2026-10-24-sample.svg"})
+        e = good_entry(artwork={"path": "artwork/test.svg"})
         self.assertIn("missing artwork alt text", build_site.validate(e, "2026-11-01.json"))
 
     def test_missing_artwork_file_blocks(self):
@@ -58,7 +74,7 @@ class ValidateTests(unittest.TestCase):
         self.assertTrue(build_site.validate(e, "2026-12-19.json"))
 
 
-class LoadTests(unittest.TestCase):
+class LoadTests(TempPublicDir):
     def test_pending_hidden_and_newest_first(self):
         with tempfile.TemporaryDirectory() as tmp:
             d = Path(tmp)
@@ -75,7 +91,11 @@ class LoadTests(unittest.TestCase):
             _, errors = build_site.load_entries(Path(tmp))
         self.assertIn("2026-11-01.json", errors)
 
+
+
+class RealContentTests(unittest.TestCase):
     def test_real_content_builds(self):
+        """Everything actually in content/entries/ must pass the builder's checks."""
         _, errors = build_site.load_entries()
         self.assertEqual(errors, {})
 

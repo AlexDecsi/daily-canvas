@@ -6,10 +6,10 @@ A gallery of daily news: one editorial illustration per day, with a short museum
 
 | Piece | Status |
 |---|---|
-| Local gallery website (Phase 1) | **Built and tested locally**, using sample data only |
+| Local gallery website (Phase 1) | **Built and tested locally**: now shows 2 real pre-launch entries (sample data removed) |
 | Art quality proof (Phase 2) | **Done.** Style guide v3 approved (`config/editorial-style.md`); studies in `prototypes/poster/` |
 | News research and verification (Phase 3) | **Built and tested**: code in `src/news/`, supervised dry runs in `logs/research/` |
-| Daily pipeline (Phase 4) | Not started |
+| Daily pipeline (Phase 4) | **Built; 2 supervised dry runs published locally** (runbook: `ops/daily-run.md`) |
 | Public website | **Not deployed** |
 | Daily schedule | **Not scheduled.** Nothing runs automatically yet. Setup steps: `docs/SETUP.md` |
 
@@ -46,6 +46,16 @@ python3 -m http.server 8001 --bind 127.0.0.1 --directory prototypes/art
 ```
 
 Then open http://localhost:8001. To redraw a study after changing its script, run, for example, `python3 src/art/prototypes/launch.py`.
+
+## Run a day by hand (Phase 4)
+
+Follow `ops/daily-run.md`. The bookkeeping commands are:
+
+```bash
+python3 src/pipeline/daily.py status
+python3 src/pipeline/daily.py prepare            # or a past date: prepare 2026-10-24
+python3 src/pipeline/daily.py finalize 2026-10-25
+```
 
 ## Research a news day (Phase 3 tools)
 
