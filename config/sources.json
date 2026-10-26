@@ -1,0 +1,350 @@
+{
+  "_about": "News sources the daily run reads, chosen for a Boston-based US reader (owner request, 2026-10-25): major US national outlets first, Boston/New England outlets for local news, and a few international outlets mainly for corroboration. 'group' = independence group: two sources in the same group never count as independent corroboration. 'region' = us | boston | intl. 'front' = true for an outlet's top-stories/home-page feed, which is a signal of what that outlet is leading with. 'kind': news = original reporting; press = press releases / primary source. Checked on 2026-10-25. Left out: AP (403 forbidden), Boston Herald (403), USA Today (402 payment required), Washington Post (502), GBH (no working feed), CNN and WSJ (stale feeds), and France 24 (bot check).",
+  "user_agent": "DailyCanvas/0.1 (student news-art project; RSS reader, ~1 request per feed per day)",
+  "limits": {
+    "feed_timeout_seconds": 20,
+    "feed_max_bytes": 5000000,
+    "feed_retries": 1,
+    "article_fetches_per_run": 30,
+    "candidates_kept": 25
+  },
+  "sources": [
+    {
+      "id": "nyt-home",
+      "publisher": "The New York Times",
+      "group": "nyt",
+      "kind": "news",
+      "region": "us",
+      "front": true,
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
+    },
+    {
+      "id": "nbc-top",
+      "publisher": "NBC News",
+      "group": "nbc",
+      "kind": "news",
+      "region": "us",
+      "front": true,
+      "url": "https://feeds.nbcnews.com/nbcnews/public/news"
+    },
+    {
+      "id": "cbs",
+      "publisher": "CBS News",
+      "group": "cbs",
+      "kind": "news",
+      "region": "us",
+      "front": true,
+      "url": "https://www.cbsnews.com/latest/rss/main"
+    },
+    {
+      "id": "abc",
+      "publisher": "ABC News",
+      "group": "abc",
+      "kind": "news",
+      "region": "us",
+      "front": true,
+      "url": "https://abcnews.go.com/abcnews/topstories"
+    },
+    {
+      "id": "npr",
+      "publisher": "NPR",
+      "group": "npr",
+      "kind": "news",
+      "region": "us",
+      "front": true,
+      "url": "https://feeds.npr.org/1001/rss.xml"
+    },
+    {
+      "id": "fox",
+      "publisher": "Fox News",
+      "group": "fox",
+      "kind": "news",
+      "region": "us",
+      "front": true,
+      "url": "https://moxie.foxnews.com/google-publisher/latest.xml"
+    },
+    {
+      "id": "pbs",
+      "publisher": "PBS NewsHour",
+      "group": "pbs",
+      "kind": "news",
+      "region": "us",
+      "front": true,
+      "url": "https://www.pbs.org/newshour/feeds/rss/headlines"
+    },
+    {
+      "id": "nyt-us",
+      "publisher": "The New York Times",
+      "group": "nyt",
+      "kind": "news",
+      "region": "us",
+      "front": false,
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/US.xml"
+    },
+    {
+      "id": "npr-politics",
+      "publisher": "NPR",
+      "group": "npr",
+      "kind": "news",
+      "region": "us",
+      "front": false,
+      "url": "https://feeds.npr.org/1014/rss.xml"
+    },
+    {
+      "id": "cbs-us",
+      "publisher": "CBS News",
+      "group": "cbs",
+      "kind": "news",
+      "region": "us",
+      "front": false,
+      "url": "https://www.cbsnews.com/latest/rss/us"
+    },
+    {
+      "id": "politico",
+      "publisher": "Politico",
+      "group": "politico",
+      "kind": "news",
+      "region": "us",
+      "front": false,
+      "url": "https://rss.politico.com/politics-news.xml"
+    },
+    {
+      "id": "thehill",
+      "publisher": "The Hill",
+      "group": "thehill",
+      "kind": "news",
+      "region": "us",
+      "front": false,
+      "url": "https://thehill.com/homenews/feed/"
+    },
+    {
+      "id": "axios",
+      "publisher": "Axios",
+      "group": "axios",
+      "kind": "news",
+      "region": "us",
+      "front": false,
+      "url": "https://api.axios.com/feed/"
+    },
+    {
+      "id": "bloomberg-politics",
+      "publisher": "Bloomberg",
+      "group": "bloomberg",
+      "kind": "news",
+      "region": "us",
+      "front": false,
+      "url": "https://feeds.bloomberg.com/politics/news.rss"
+    },
+    {
+      "id": "cnbc",
+      "publisher": "CNBC",
+      "group": "cnbc",
+      "kind": "news",
+      "region": "us",
+      "front": false,
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"
+    },
+    {
+      "id": "latimes",
+      "publisher": "Los Angeles Times",
+      "group": "latimes",
+      "kind": "news",
+      "region": "us",
+      "front": false,
+      "url": "https://www.latimes.com/world-nation/rss2.0.xml"
+    },
+    {
+      "id": "globe",
+      "publisher": "The Boston Globe",
+      "group": "globe",
+      "kind": "news",
+      "region": "boston",
+      "front": true,
+      "url": "https://www.bostonglobe.com/arc/outboundfeeds/rss/?outputType=xml"
+    },
+    {
+      "id": "bostoncom",
+      "publisher": "Boston.com",
+      "group": "globe",
+      "kind": "news",
+      "region": "boston",
+      "front": false,
+      "url": "https://www.boston.com/feed/"
+    },
+    {
+      "id": "wbur",
+      "publisher": "WBUR",
+      "group": "wbur",
+      "kind": "news",
+      "region": "boston",
+      "front": true,
+      "url": "https://www.wbur.org/feed"
+    },
+    {
+      "id": "wcvb",
+      "publisher": "WCVB Boston",
+      "group": "wcvb",
+      "kind": "news",
+      "region": "boston",
+      "front": true,
+      "url": "https://www.wcvb.com/topstories-rss"
+    },
+    {
+      "id": "nbcboston",
+      "publisher": "NBC Boston",
+      "group": "nbc",
+      "kind": "news",
+      "region": "boston",
+      "front": true,
+      "url": "https://www.nbcboston.com/?rss=y"
+    },
+    {
+      "id": "masslive",
+      "publisher": "MassLive",
+      "group": "masslive",
+      "kind": "news",
+      "region": "boston",
+      "front": true,
+      "url": "https://www.masslive.com/arc/outboundfeeds/rss/?outputType=xml"
+    },
+    {
+      "id": "bbc-world",
+      "publisher": "BBC News",
+      "group": "bbc",
+      "kind": "news",
+      "region": "intl",
+      "front": true,
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml"
+    },
+    {
+      "id": "bbc-us",
+      "publisher": "BBC News",
+      "group": "bbc",
+      "kind": "news",
+      "region": "intl",
+      "front": false,
+      "url": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml"
+    },
+    {
+      "id": "guardian-us",
+      "publisher": "The Guardian",
+      "group": "guardian",
+      "kind": "news",
+      "region": "intl",
+      "front": false,
+      "url": "https://www.theguardian.com/us-news/rss"
+    },
+    {
+      "id": "guardian-world",
+      "publisher": "The Guardian",
+      "group": "guardian",
+      "kind": "news",
+      "region": "intl",
+      "front": false,
+      "url": "https://www.theguardian.com/world/rss"
+    },
+    {
+      "id": "nyt-world",
+      "publisher": "The New York Times",
+      "group": "nyt",
+      "kind": "news",
+      "region": "us",
+      "front": false,
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"
+    },
+    {
+      "id": "nasa",
+      "publisher": "NASA",
+      "group": "nasa",
+      "kind": "press",
+      "region": "us",
+      "front": false,
+      "url": "https://www.nasa.gov/news-release/feed/"
+    },
+    {
+      "id": "espn",
+      "publisher": "ESPN",
+      "group": "espn",
+      "kind": "news",
+      "region": "us",
+      "front": false,
+      "url": "https://www.espn.com/espn/rss/news"
+    }
+  ],
+  "wire_services": [
+    "Associated Press",
+    "(AP)",
+    "AP —",
+    "Reuters",
+    "(Reuters)",
+    "AFP",
+    "Agence France-Presse"
+  ],
+  "historical": {
+    "about": "Feeds only hold recent items. For past dates, events are discovered from Wikipedia's dated Current Events page AS IT WAS at the date's cutoff, and every source must still pass the publication-time check.",
+    "wikipedia_api": "https://en.wikipedia.org/w/api.php"
+  },
+  "network_allowlist": [
+    "abcnews.go.com",
+    "api.axios.com",
+    "en.wikipedia.org",
+    "feeds.bbci.co.uk",
+    "feeds.bloomberg.com",
+    "feeds.nbcnews.com",
+    "feeds.npr.org",
+    "moxie.foxnews.com",
+    "rss.nytimes.com",
+    "rss.politico.com",
+    "search.cnbc.com",
+    "thehill.com",
+    "www.boston.com",
+    "www.bostonglobe.com",
+    "www.cbsnews.com",
+    "www.espn.com",
+    "www.latimes.com",
+    "www.masslive.com",
+    "www.nasa.gov",
+    "www.nbcboston.com",
+    "www.pbs.org",
+    "www.theguardian.com",
+    "www.wbur.org",
+    "www.wcvb.com"
+  ],
+  "editorial_focus": {
+    "audience": "A reader in Boston, USA.",
+    "priority": [
+      "1. The top US national stories: what major US outlets lead with (front-page feeds).",
+      "2. Boston / Massachusetts / New England stories when significant locally.",
+      "3. International stories only when major US outlets lead with them or they directly affect the US."
+    ],
+    "boston_keywords": [
+      "boston",
+      "massachusetts",
+      "mass.",
+      "cambridge",
+      "somerville",
+      "worcester",
+      "springfield, mass",
+      "new england",
+      "mbta",
+      "logan airport",
+      "healey",
+      "michelle wu",
+      "red sox",
+      "celtics",
+      "patriots",
+      "bruins",
+      "fenway",
+      "harvard",
+      "mit ",
+      "northeastern",
+      "new hampshire",
+      "rhode island",
+      "maine",
+      "vermont",
+      "connecticut",
+      "cape cod",
+      "nantucket"
+    ]
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "entries": [
+    {
+      "sample": true,
+      "_note": "SAMPLE DATA — fictional story for layout testing; not real news.",
+      "date": "2026-10-24",
+      "status": "published",
+      "published_at": "2026-10-24T21:00:00-04:00",
+      "title": "Sample: Harbor switches on floating solar",
+      "caption": "A fictional coastal city connects rows of floating solar panels in its harbor. Supporting story: none. This sample shows how an environment story might be labeled.",
+      "stories": [
+        {
+          "name": "Floating solar array (fictional)",
+          "role": "focal",
+          "facts": [
+            "Fictional sample fact."
+          ],
+          "sources": [
+            {
+              "publisher": "Example News (placeholder)",
+              "title": "Placeholder article",
+              "url": "https://example.com/sample/solar",
+              "published_at": null,
+              "checked_at": null
+            },
+            {
+              "publisher": "Example News (placeholder)",
+              "title": "Second placeholder",
+              "url": "https://example.com/sample/solar-2",
+              "published_at": null,
+              "checked_at": null
+            }
+          ]
+        }
+      ],
+      "artwork": {
+        "path": "artwork/2026-10-24-sample.svg",
+        "format": "svg",
+        "alt": "Sample illustration: rows of blue floating solar panels on a harbor at sunset, with a city skyline and a small sailboat.",
+        "method": "hand-coded SVG placeholder",
+        "revision": "sample-1"
+      },
+      "backfill": {
+        "is_backfill": false,
+        "reason": null
+      }
+    },
+    {
+      "sample": true,
+      "_note": "SAMPLE DATA — fictional story for layout testing; not real news.",
+      "date": "2026-10-23",
+      "status": "published",
+      "published_at": "2026-10-23T21:00:00-04:00",
+      "title": "Sample: Telescope's first deep-field image",
+      "caption": "A fictional space telescope releases its first deep-field image of distant galaxies. Sample data for testing the archive grid.",
+      "stories": [
+        {
+          "name": "Telescope first light (fictional)",
+          "role": "focal",
+          "facts": [
+            "Fictional sample fact."
+          ],
+          "sources": [
+            {
+              "publisher": "Example News (placeholder)",
+              "title": "Placeholder article",
+              "url": "https://example.com/sample/telescope",
+              "published_at": null,
+              "checked_at": null
+            }
+          ]
+        }
+      ],
+      "artwork": {
+        "path": "artwork/2026-10-23-sample.svg",
+        "format": "svg",
+        "alt": "Sample illustration: a gold hexagonal-mirror space telescope in front of a purple nebula and a glowing galaxy.",
+        "method": "hand-coded SVG placeholder",
+        "revision": "sample-1"
+      },
+      "backfill": {
+        "is_backfill": false,
+        "reason": null
+      }
+    },
+    {
+      "sample": true,
+      "_note": "SAMPLE DATA — fictional story for layout testing; not real news.",
+      "date": "2026-10-22",
+      "status": "backfilled",
+      "published_at": "2026-10-23T21:20:00-04:00",
+      "title": "Sample: Legislature passes housing bill",
+      "caption": "A fictional legislature passes a housing bill; new homes rise in the foreground. This sample is marked as backfilled to test the late-entry note.",
+      "stories": [
+        {
+          "name": "Housing bill (fictional)",
+          "role": "focal",
+          "facts": [
+            "Fictional sample fact."
+          ],
+          "sources": [
+            {
+              "publisher": "Example News (placeholder)",
+              "title": "Placeholder article",
+              "url": "https://example.com/sample/housing",
+              "published_at": null,
+              "checked_at": null
+            }
+          ]
+        }
+      ],
+      "artwork": {
+        "path": "artwork/2026-10-22-sample.svg",
+        "format": "svg",
+        "alt": "Sample illustration: a domed legislative building at dawn above a row of colorful new houses and a construction crane.",
+        "method": "hand-coded SVG placeholder",
+        "revision": "sample-1"
+      },
+      "backfill": {
+        "is_backfill": true,
+        "reason": "Sample: simulated missed run on 2026-10-22."
+      }
+    },
+    {
+      "sample": true,
+      "_note": "SAMPLE DATA — fictional story for layout testing; not real news.",
+      "date": "2026-10-21",
+      "status": "published",
+      "published_at": "2026-10-21T21:00:00-04:00",
+      "title": "Sample: Underdog club lifts the trophy",
+      "caption": "A fictional underdog club wins its league final under the floodlights. Sample data for a sports-style entry.",
+      "stories": [
+        {
+          "name": "League final (fictional)",
+          "role": "focal",
+          "facts": [
+            "Fictional sample fact."
+          ],
+          "sources": []
+        }
+      ],
+      "artwork": {
+        "path": "artwork/2026-10-21-sample.svg",
+        "format": "svg",
+        "alt": "Sample illustration: a night stadium under floodlights with a golden trophy at center pitch and confetti falling.",
+        "method": "hand-coded SVG placeholder",
+        "revision": "sample-1"
+      },
+      "backfill": {
+        "is_backfill": false,
+        "reason": null
+      }
+    }
+  ]
+}

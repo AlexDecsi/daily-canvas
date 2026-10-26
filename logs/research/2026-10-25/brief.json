@@ -1,0 +1,64 @@
+{
+  "date": "2026-10-25",
+  "mode": "live (supervised dry run, revision 2 after owner feedback on US/Boston focus)",
+  "prepared_at": "2026-10-26T00:40:00Z",
+  "candidates_considered": 25,
+  "rationale": "Ranked for a Boston-based US reader. Machado's return to Venezuela led US front pages (NYT, NBC, CBS, ABC, NPR, Fox, PBS: 9 US outlets, 8 front pages). It's directly tied to the US: Venezuela has been run under US oversight since the US military removed Maduro in January. Focal. The Justice Department's pre-emptive lawsuit over Alaska's Senate race, defended by the attorney general on Sunday TV days before the midterms, was the top purely domestic story (8 US outlets). Supporting. Serbia's election (revision 1's focal) was dropped: few US front pages and no direct US link. Brazil's runoff was still being counted. Local Boston stories that day (a Westborough police chief placed on leave, an attempted bank robbery spree, a fatal fentanyl case) were noted but are smaller in significance.",
+  "stories": [
+    {
+      "role": "focal",
+      "name": "María Corina Machado returns to Venezuela",
+      "facts": [
+        "Opposition leader and 2025 Nobel Peace Prize laureate María Corina Machado returned to Venezuela after about 10 months abroad, announcing: \"I am here. With you.\"",
+        "She was seen at a church in Lara state, where dozens of supporters greeted and hugged her, some recording on raised phones (AP).",
+        "Venezuela has been run by acting president Delcy Rodríguez, with US backing, since the US military removed Nicolás Maduro in January 2026; no election has been scheduled."
+      ],
+      "people": [
+        {"name": "María Corina Machado", "public_figure": true, "verified_action": "greeted and hugged by supporters at a church in Lara state after returning"}
+      ],
+      "visual_notes": "Machado embraced by a modest crowd of supporters outside a church, phones raised. Don't show a mass rally, a stage or speeches (none verified), and no US officials.",
+      "confidence": "high for the return; medium for the church scene (AP only)",
+      "notes": "The church/crowd detail comes from AP (carried by CBS and Al Jazeera); the return itself is independently reported by NYT, NPR, NBC, ABC, Fox, BBC and Guardian.",
+      "sources": [
+        {"publisher": "CBS News (AP contributed)", "group": "cbs", "title": "Venezuela opposition leader María Corina Machado returns to country",
+         "url": "https://www.cbsnews.com/news/venezuela-opposition-maria-corina-machado-return/",
+         "published_at": "2026-10-25T18:09:57Z", "checked_at": "2026-10-25T23:42:00Z", "checked": "full article"},
+        {"publisher": "Al Jazeera (with AP)", "group": "aljazeera", "wire": "AP", "title": "Venezuela's opposition leader Maria Corina Machado returns from exile",
+         "url": "https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile",
+         "published_at": "2026-10-25T18:55:39Z", "checked_at": "2026-10-25T23:38:00Z", "checked": "full article"},
+        {"publisher": "The New York Times", "group": "nyt", "title": "María Corina Machado Returns to Venezuela",
+         "url": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html",
+         "published_at": "2026-10-25T20:35:51Z", "checked_at": "2026-10-25T23:30:00Z", "checked": "feed headline and summary (paywalled; not bypassed)"},
+        {"publisher": "NPR", "group": "npr", "title": "Venezuela's opposition leader María Corina Machado returns after months in exile",
+         "url": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile",
+         "published_at": "2026-10-25T16:18:41Z", "checked_at": "2026-10-25T23:30:00Z", "checked": "feed headline and summary (article fetch timed out)"}
+      ]
+    },
+    {
+      "role": "supporting",
+      "name": "Attorney general defends DOJ's pre-emptive lawsuit over Alaska Senate race",
+      "facts": [
+        "The Justice Department filed a lawsuit last week to pre-emptively challenge certification of Alaska's Senate race if Republican Sen. Dan Sullivan loses to Democrat Mary Peltola.",
+        "Attorney General Todd Blanche defended the suit in Sunday TV interviews (CBS's Face the Nation and CNN's State of the Union).",
+        "Asked Friday about the lawsuit, President Trump said he was the one who told the department to do it.",
+        "The midterm election is next week."
+      ],
+      "people": [
+        {"name": "Todd Blanche", "public_figure": true, "verified_action": "defended the lawsuit in Sunday TV interviews"}
+      ],
+      "visual_notes": "Optional secondary element: a TV-studio interview setting or the Alaska ballot/Capitol. Don't depict Trump (his remark was Friday, not on this date) or any court ruling (none has happened).",
+      "confidence": "high",
+      "sources": [
+        {"publisher": "CBS News", "group": "cbs", "title": "Blanche says DOJ is \"doing our own research\" with Alaska challenge",
+         "url": "https://www.cbsnews.com/news/todd-blance-alaska-senate-challenge-dan-sullivan/",
+         "published_at": "2026-10-25T17:38:42Z", "checked_at": "2026-10-26T00:35:00Z", "checked": "full article"},
+        {"publisher": "NPR", "group": "npr", "title": "Blanche defends DOJ lawsuit blocking Alaska Senate results if Republican loses",
+         "url": "https://www.npr.org/2026/10/25/nx-s1-6016212/blanche-defends-doj-lawsuit-blocking-alaska-senate-results-if-republican-loses",
+         "published_at": "2026-10-25T17:50:35Z", "checked_at": "2026-10-26T00:30:00Z", "checked": "feed headline and summary"},
+        {"publisher": "The Guardian", "group": "guardian", "title": "Blanche defends DoJ's pre-emptive suit to block Alaska Senate results certification",
+         "url": "https://www.theguardian.com/us-news/2026/oct/25/todd-blanche-doj-lawsuit-alaska-senate-election-results",
+         "published_at": "2026-10-25T16:48:41Z", "checked_at": "2026-10-26T00:30:00Z", "checked": "feed headline and summary"}
+      ]
+    }
+  ]
+}

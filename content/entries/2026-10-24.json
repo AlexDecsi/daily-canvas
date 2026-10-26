@@ -1,0 +1,45 @@
+{
+  "sample": true,
+  "_note": "SAMPLE DATA \u2014 fictional story for layout testing; not real news.",
+  "date": "2026-10-24",
+  "status": "published",
+  "published_at": "2026-10-24T21:00:00-04:00",
+  "title": "Sample: Harbor switches on floating solar",
+  "caption": "A fictional coastal city connects rows of floating solar panels in its harbor. Supporting story: none. This sample shows how an environment story might be labeled.",
+  "stories": [
+    {
+      "name": "Floating solar array (fictional)",
+      "role": "focal",
+      "facts": [
+        "Fictional sample fact."
+      ],
+      "sources": [
+        {
+          "publisher": "Example News (placeholder)",
+          "title": "Placeholder article",
+          "url": "https://example.com/sample/solar",
+          "published_at": null,
+          "checked_at": null
+        },
+        {
+          "publisher": "Example News (placeholder)",
+          "title": "Second placeholder",
+          "url": "https://example.com/sample/solar-2",
+          "published_at": null,
+          "checked_at": null
+        }
+      ]
+    }
+  ],
+  "artwork": {
+    "path": "artwork/2026-10-24-sample.svg",
+    "format": "svg",
+    "alt": "Sample illustration: rows of blue floating solar panels on a harbor at sunset, with a city skyline and a small sailboat.",
+    "method": "hand-coded SVG placeholder",
+    "revision": "sample-1"
+  },
+  "backfill": {
+    "is_backfill": false,
+    "reason": null
+  }
+}

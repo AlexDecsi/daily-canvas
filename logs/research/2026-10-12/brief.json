@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-12",
+  "mode": "historical test (backfill rehearsal; not to be published)",
+  "prepared_at": "2026-10-26T00:10:00Z",
+  "discovery": "Wikipedia 'Portal:Current events/2026 October 12', revision 1379992024 as of 2026-10-13T03:17:17Z (before the cutoff of 2026-10-13T03:59:59Z)",
+  "candidates_considered": 9,
+  "rationale": "The economics Nobel is focal: a global, unambiguous, same-day announcement with three independent sources whose publication times were confirmed from page metadata. The Pacific hurricanes (Simon and the remnants of Rachel) are supporting: significant and highly visual, but only one source (Al Jazeera with AP) was verified for this rehearsal. The Paris food-market fire (France 24, robots.txt blocks automated checks) and the other events were not verified in time and were set aside.",
+  "stories": [
+    {
+      "role": "focal",
+      "name": "Hall and Woodford win the 2026 economics Nobel",
+      "facts": [
+        "On Monday, October 12, 2026, the Royal Swedish Academy of Sciences awarded the Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel to Americans Robert Hall and Michael Woodford.",
+        "The citation: \"for microeconomic foundations of macroeconomic stabilisation.\"",
+        "The prize is worth 12 million Swedish crowns (about $1.2 million)."
+      ],
+      "people": [
+        {"name": "Robert Hall", "public_figure": true, "verified_action": "named co-winner of the economics prize (announced in Stockholm)"},
+        {"name": "Michael Woodford", "public_figure": true, "verified_action": "named co-winner of the economics prize (announced in Stockholm)"}
+      ],
+      "visual_notes": "The announcement in Stockholm; show the laureates only generically (no verified likeness needed). No invented reactions or speeches.",
+      "confidence": "high",
+      "sources": [
+        {"publisher": "CNN", "group": "cnn", "title": "Nobel Prize in economics (2026)", "url": "https://edition.cnn.com/2026/10/12/business/nobel-prize-economics-intl",
+         "published_at": "2026-10-12T09:51:31Z", "checked_at": "2026-10-26T00:00:00Z", "checked": "publication time from page metadata (article body returned HTTP 451)"},
+        {"publisher": "ThePrint (Reuters)", "group": "theprint", "wire": "Reuters", "title": "Americans Hall and Woodford win 2026 Nobel economics prize",
+         "url": "https://theprint.in/world/americans-hall-and-woodford-win-2026-nobel-economics-prize/3069210/",
+         "published_at": "2026-10-12T10:00:03Z", "checked_at": "2026-10-26T00:05:00Z", "checked": "full article + page metadata"},
+        {"publisher": "The Canberra Times (AAP)", "group": "canberratimes", "wire": "AAP", "title": "Americans Hall and Woodford win Nobel economics prize",
+         "url": "https://www.canberratimes.com.au/story/9367197/americans-hall-and-woodford-win-nobel-economics-prize/",
+         "published_at": "2026-10-12T10:21:39Z", "checked_at": "2026-10-26T00:03:00Z", "checked": "publication time from page metadata"}
+      ]
+    },
+    {
+      "role": "supporting",
+      "name": "Hurricane Simon and remnants of Rachel batter Mexico's Pacific coast",
+      "facts": [
+        "Hurricane Simon weakened from Category 4 to Category 2 by late Monday morning, with winds near 155 km/h, off Jalisco.",
+        "A 71-year-old man died in Guerrero when a retaining wall collapsed during Simon; a young girl died in Baja California from the effects of Rachel, officials said.",
+        "At least 10 people were missing in Baja California, according to the state governor."
+      ],
+      "people": [],
+      "visual_notes": "Heavy surf, flooding and downed trees on Mexico's Pacific coast. No bodies, no depiction of the victims.",
+      "confidence": "medium",
+      "notes": "Only one verified source (Al Jazeera, co-written with AP) in this rehearsal; a real run would add a second outlet before publishing.",
+      "sources": [
+        {"publisher": "Al Jazeera (with AP)", "group": "aljazeera", "wire": "AP", "title": "Two deaths reported as Hurricane Simon, storm Rachel batter Mexico's coast",
+         "url": "https://www.aljazeera.com/news/2026/10/12/two-deaths-reported-as-hurricane-simon-storm-rachel-batter-mexicos-coast",
+         "published_at": "2026-10-12T23:09:50Z", "checked_at": "2026-10-26T00:06:00Z", "checked": "full article + page metadata"}
+      ]
+    }
+  ]
+}

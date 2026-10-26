@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-label="Sample illustration: a space telescope with gold mirror segments in front of a colorful galaxy field">
+  <defs>
+    <radialGradient id="neb" cx=".35" cy=".4" r=".7"><stop offset="0" stop-color="#7a3fa0"/><stop offset=".5" stop-color="#2a1b5c"/><stop offset="1" stop-color="#0a0b22"/></radialGradient>
+    <radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#ffb38a" stop-opacity=".9"/><stop offset="1" stop-color="#ffb38a" stop-opacity="0"/></radialGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffe08a"/><stop offset="1" stop-color="#c8891e"/></linearGradient>
+    <polygon id="hex" points="0,-52 45,-26 45,26 0,52 -45,26 -45,-26"/>
+  </defs>
+  <rect width="1200" height="900" fill="url(#neb)"/>
+  <ellipse cx="380" cy="330" rx="260" ry="150" fill="url(#glow)" transform="rotate(-20 380 330)"/>
+  <ellipse cx="380" cy="330" rx="120" ry="40" fill="#ffd9b8" opacity=".55" transform="rotate(-20 380 330)"/>
+  <g fill="#fff"><circle cx="120" cy="90" r="2"/><circle cx="260" cy="620" r="2.5"/><circle cx="560" cy="140" r="1.8"/><circle cx="700" cy="70" r="2.2"/><circle cx="1080" cy="160" r="2"/><circle cx="980" cy="820" r="2"/><circle cx="80" cy="760" r="2.4"/><circle cx="640" cy="820" r="1.6"/><circle cx="1140" cy="520" r="2"/></g>
+  <g fill="#9fd3ff" opacity=".8"><ellipse cx="190" cy="500" rx="22" ry="8" transform="rotate(30 190 500)"/><ellipse cx="610" cy="560" rx="16" ry="6" transform="rotate(-40 610 560)"/><ellipse cx="520" cy="250" rx="12" ry="5"/></g>
+  <polygon points="560,860 1180,860 1120,760 620,760" fill="#c9cdd8"/>
+  <polygon points="620,760 1120,760 1080,690 660,690" fill="#a9b0c2"/>
+  <polygon points="660,690 1080,690 1050,630 690,630" fill="#d7dbe5"/>
+  <g transform="translate(870 400)" fill="url(#gold)" stroke="#7a5310" stroke-width="3">
+    <use href="#hex" x="0" y="0"/><use href="#hex" x="0" y="-104"/><use href="#hex" x="0" y="104"/>
+    <use href="#hex" x="90" y="-52"/><use href="#hex" x="90" y="52"/><use href="#hex" x="-90" y="-52"/><use href="#hex" x="-90" y="52"/>
+    <use href="#hex" x="180" y="0"/><use href="#hex" x="-180" y="0"/><use href="#hex" x="90" y="156"/><use href="#hex" x="-90" y="156"/><use href="#hex" x="90" y="-156"/><use href="#hex" x="-90" y="-156"/>
+  </g>
+  <g stroke="#e3e6ee" stroke-width="6" fill="none"><line x1="870" y1="400" x2="870" y2="150"/><line x1="870" y1="150" x2="720" y2="300"/><line x1="870" y1="150" x2="1020" y2="300"/></g>
+  <circle cx="870" cy="150" r="16" fill="#e3e6ee"/>
+  <rect x="855" y="580" width="30" height="60" fill="#5a6075"/>
+  <g font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="3"><rect x="24" y="24" width="120" height="40" rx="4" fill="#fff" opacity=".85"/><text x="84" y="52" text-anchor="middle" fill="#9a3b1f">SAMPLE</text></g>
+</svg>

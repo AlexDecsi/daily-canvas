@@ -1,0 +1,38 @@
+{
+  "sample": true,
+  "_note": "SAMPLE DATA \u2014 fictional story for layout testing; not real news.",
+  "date": "2026-10-22",
+  "status": "backfilled",
+  "published_at": "2026-10-23T21:20:00-04:00",
+  "title": "Sample: Legislature passes housing bill",
+  "caption": "A fictional legislature passes a housing bill; new homes rise in the foreground. This sample is marked as backfilled to test the late-entry note.",
+  "stories": [
+    {
+      "name": "Housing bill (fictional)",
+      "role": "focal",
+      "facts": [
+        "Fictional sample fact."
+      ],
+      "sources": [
+        {
+          "publisher": "Example News (placeholder)",
+          "title": "Placeholder article",
+          "url": "https://example.com/sample/housing",
+          "published_at": null,
+          "checked_at": null
+        }
+      ]
+    }
+  ],
+  "artwork": {
+    "path": "artwork/2026-10-22-sample.svg",
+    "format": "svg",
+    "alt": "Sample illustration: a domed legislative building at dawn above a row of colorful new houses and a construction crane.",
+    "method": "hand-coded SVG placeholder",
+    "revision": "sample-1"
+  },
+  "backfill": {
+    "is_backfill": true,
+    "reason": "Sample: simulated missed run on 2026-10-22."
+  }
+}

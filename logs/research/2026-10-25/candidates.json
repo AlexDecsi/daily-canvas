@@ -1,0 +1,1701 @@
+{
+  "date": "2026-10-25",
+  "fetched_at": "2026-10-25T23:50:47.359807Z",
+  "items_considered": 462,
+  "candidates": [
+    {
+      "headline": "Machado Returns to Venezuela to Urge Democratic Transition",
+      "score": 154,
+      "signals": {
+        "us_outlets": 9,
+        "intl_outlets": 2,
+        "front_pages": 8,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "Bloomberg",
+        "CBS News",
+        "CNBC",
+        "NBC News",
+        "NPR",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The Guardian",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-10-25T15:53:18Z",
+      "reports": [
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Machado Returns to Venezuela to Urge Democratic Transition",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-25/machado-returns-to-venezuela-in-surprise-challenge-to-rodriguez",
+          "published_at": "2026-10-25T15:53:18Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Venezuela's opposition leader Mar\u00eda Corina Machado returns after months in exile",
+          "url": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile",
+          "published_at": "2026-10-25T16:18:41Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Venezuela's opposition leader Machado returns after months in exile",
+          "url": "https://www.pbs.org/newshour/world/venezuelas-opposition-leader-machado-returns-after-months-in-exile",
+          "published_at": "2026-10-25T16:58:58Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Venezuela's opposition leader Machado returns after months in exile, as doubts over democracy deepen",
+          "url": "https://www.wcvb.com/article/venezuelas-machado-returns-after-months-in-exile/74241474",
+          "published_at": "2026-10-25T17:10:00Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Venezuela opposition leader Mar\u00eda Corina Machado returns to country",
+          "url": "https://www.cbsnews.com/news/venezuela-opposition-maria-corina-machado-return/",
+          "published_at": "2026-10-25T18:09:57Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Venezuela's opposition leader Machado returns after months in exile, as doubts over democracy deepen",
+          "url": "https://www.cnbc.com/2026/10/25/venezuelas-machado-returns-from-exile-as-doubts-over-democracy-deepen.html",
+          "published_at": "2026-10-25T18:26:50Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Exiled opposition leader Mar\u00eda Corina Machado returns to Venezuela",
+          "url": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return",
+          "published_at": "2026-10-25T19:56:56Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Mar\u00eda Corina Machado Returns to Venezuela",
+          "url": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html",
+          "published_at": "2026-10-25T20:35:51Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Who Is Mar\u00eda Corina Machado?",
+          "url": "https://www.nytimes.com/2026/10/25/world/americas/who-is-maria-corina-machado.html",
+          "published_at": "2026-10-25T21:05:50Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Venezuela\u2019s opposition leader Machado returns after months in exile",
+          "url": "https://www.bostonglobe.com/2026/10/25/world/venezuela-machado-returns-exile/",
+          "published_at": "2026-10-25T22:40:07Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Venezuelan opposition leader returns after months in exile",
+          "url": "https://www.nbcnews.com/nightly-news/video/venezuelan-opposition-leader-returns-after-months-in-exile-272202309835",
+          "published_at": "2026-10-25T23:11:08Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Venezuelan opposition leader Mar\u00eda Machado returns after months in exile",
+          "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-25T23:33:14Z"
+        }
+      ]
+    },
+    {
+      "headline": "Blanche defends DoJ\u2019s pre-emptive suit to block Alaska Senate results certification",
+      "score": 117,
+      "signals": {
+        "us_outlets": 8,
+        "intl_outlets": 1,
+        "front_pages": 4,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Bloomberg",
+        "Boston.com",
+        "CBS News",
+        "CNBC",
+        "NBC News",
+        "NPR",
+        "PBS NewsHour",
+        "The Guardian",
+        "The Hill"
+      ],
+      "first_seen": "2026-10-25T16:48:41Z",
+      "reports": [
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Blanche defends DoJ\u2019s pre-emptive suit to block Alaska Senate results certification",
+          "url": "https://www.theguardian.com/us-news/2026/oct/25/todd-blanche-doj-lawsuit-alaska-senate-election-results",
+          "published_at": "2026-10-25T16:48:41Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Blanche says DOJ is \"doing our own research\" with Alaska challenge",
+          "url": "https://www.cbsnews.com/news/todd-blance-alaska-senate-challenge-dan-sullivan/",
+          "published_at": "2026-10-25T17:38:42Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Blanche defends DOJ lawsuit blocking Alaska Senate results if Republican loses",
+          "url": "https://www.npr.org/2026/10/25/nx-s1-6016212/blanche-defends-doj-lawsuit-blocking-alaska-senate-results-if-republican-loses",
+          "published_at": "2026-10-25T17:50:35Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Blanche says Trump isn't trying to meddle with Alaska election results by suing over Senate race",
+          "url": "https://www.pbs.org/newshour/politics/blanche-says-trump-isnt-trying-to-meddle-with-alaska-election-results-by-suing-over-senate-race",
+          "published_at": "2026-10-25T18:19:27Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump escalates rhetoric against El-Sayed as he tries to undermine Democrat in Michigan Senate race",
+          "url": "https://www.boston.com/news/politics/2026/10/25/trump-escalates-rhetoric-against-el-sayed-as-he-tries-to-undermine-democrat-in-michigan-senate-race/",
+          "published_at": "2026-10-25T21:10:56Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump escalates rhetoric against El-Sayed as he tries to undermine Democrat in Michigan Senate race",
+          "url": "https://www.pbs.org/newshour/politics/trump-escalates-rhetoric-against-el-sayed-as-he-tries-to-undermine-democrat-in-michigan-senate-race",
+          "published_at": "2026-10-25T21:50:29Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump invokes 9/11 in urging Michigan voters to oppose Muslim Senate candidate El-Sayed",
+          "url": "https://www.cnbc.com/2026/10/25/trump-invokes-911-in-urging-michigan-voters-to-oppose-el-sayed.html",
+          "published_at": "2026-10-25T21:54:11Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump says El-Sayed should have to pass through metal detector to enter Senate",
+          "url": "https://thehill.com/homenews/administration/6171296-donald-trump-abdul-el-sayed-pass-through-metal-detector-to-enter-senate/",
+          "published_at": "2026-10-25T22:52:30Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump Attacks El-Sayed Over Muslim Faith at Michigan Rally",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-25/trump-attacks-el-sayed-over-muslim-faith-at-michigan-rally",
+          "published_at": "2026-10-25T22:58:05Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump leans into Islamophobic rhetoric at Michigan rally",
+          "url": "https://www.nbcnews.com/politics/2026-election/trump-leans-islamophobic-rhetoric-michigan-rally-rcna605572",
+          "published_at": "2026-10-25T23:32:27Z"
+        }
+      ]
+    },
+    {
+      "headline": "Serbia\u2019s Vucic Concedes Defeat After Putin-Like Gamble Fails",
+      "score": 116,
+      "signals": {
+        "us_outlets": 7,
+        "intl_outlets": 2,
+        "front_pages": 5,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Axios",
+        "BBC News",
+        "Bloomberg",
+        "CBS News",
+        "CNBC",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-25T20:35:33Z",
+      "reports": [
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Serbia\u2019s Vucic Concedes Defeat After Putin-Like Gamble Fails",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-25/serbian-long-time-leader-vucic-concedes-defeat-in-snap-vote",
+          "published_at": "2026-10-25T20:35:33Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Vucic concedes defeat in Serbia's parliamentary election",
+          "url": "https://www.cbsnews.com/news/serbia-election-aleksandar-vucic-concedes-defeat/",
+          "published_at": "2026-10-25T21:30:57Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Serbia's strongman leader Vucic concedes defeat to student-led movement in seismic political shift",
+          "url": "https://www.pbs.org/newshour/world/serbias-strongman-leader-vucic-concedes-defeat-to-student-led-movement-in-seismic-political-shift",
+          "published_at": "2026-10-25T21:35:34Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Serbia\u2019s strongman leader Vucic concedes defeat to student-led movement in seismic political shift",
+          "url": "https://www.cnbc.com/2026/10/25/serbia-leader-vucic-concedes-defeat-to-student-led-movement.html",
+          "published_at": "2026-10-25T21:42:33Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Serbia\u2019s strongman Vucic concedes defeat to student-led opposition",
+          "url": "https://www.bostonglobe.com/2026/10/25/world/serbia-parliamentary-election/",
+          "published_at": "2026-10-25T22:09:41Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Student movement topples Serbia's longtime ruling party",
+          "url": "https://www.axios.com/2026/10/25/serbia-election-2026-student-protests-vucic",
+          "published_at": "2026-10-25T22:43:10Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Serbia's veteran ruler Vu\u010di\u0107 concedes election to student-led protest movement",
+          "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-25T22:54:57Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Aleksandar Vucic Concedes Defeat in Serbian Election",
+          "url": "https://www.nytimes.com/2026/10/25/world/europe/serbia-vucic-election-defeat.html",
+          "published_at": "2026-10-25T23:10:41Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "\u2018Door to EU is open\u2019 new Serbian government told after Vu\u010di\u0107 concedes election \u2013 Europe live",
+          "url": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
+          "published_at": "2026-10-25T23:40:57Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Serbian leader Aleksandar Vu\u010di\u0107 ousted by student movement in seismic election",
+          "url": "https://www.theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election",
+          "published_at": "2026-10-25T23:42:32Z"
+        }
+      ]
+    },
+    {
+      "headline": "Lula, Bolsonaro rally supporters on final day before Brazil presidential runoff",
+      "score": 107,
+      "signals": {
+        "us_outlets": 7,
+        "intl_outlets": 1,
+        "front_pages": 4,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Bloomberg",
+        "CBS News",
+        "CNBC",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The Guardian",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-10-25T08:48:04Z",
+      "reports": [
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Lula, Bolsonaro rally supporters on final day before Brazil presidential runoff",
+          "url": "https://www.cnbc.com/2026/10/25/lula-bolsonaro-rally-supporters-before-brazil-presidential-runoff.html",
+          "published_at": "2026-10-25T08:48:04Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Brazil votes in a tense Lula vs Bolsonaro runoff with US influence over Latin America at stake",
+          "url": "https://www.bostonglobe.com/2026/10/25/world/brazil-lula-vs-bolsonaro-runoff-us-influence-latin-america-at-stake/",
+          "published_at": "2026-10-25T11:26:05Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Brazilians vote in presidential election runoff pitting leftist Lula against far-right Bolsonaro",
+          "url": "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election",
+          "published_at": "2026-10-25T14:41:17Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Brazil votes in a tense Lula vs. Bolsonaro runoff with U.S. influence over Latin America at stake",
+          "url": "https://www.pbs.org/newshour/world/brazil-votes-in-a-tense-lula-vs-bolsonaro-runoff-with-u-s-influence-over-latin-america-at-stake",
+          "published_at": "2026-10-25T14:57:29Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Lula Cast Vote in Brazil\u2019s Presidential Runoff Election",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-25/lula-cast-vote-in-brazil-s-presidential-runoff-election-video",
+          "published_at": "2026-10-25T19:43:28Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "What to Know About Brazil\u2019s Election as Bolsonaro Faces Off With Lula",
+          "url": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-lula-bolsonaro-what-to-know.html",
+          "published_at": "2026-10-25T19:53:55Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Brazil counts votes in presidential runoff between Lula and Fl\u00e1vio Bolsonaro",
+          "url": "https://www.cbsnews.com/news/brazil-presidential-runoff-lula-flavio-bolsonaro/",
+          "published_at": "2026-10-25T22:32:00Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Brazil's Lula takes early lead in presidential runoff vote",
+          "url": "https://www.cnbc.com/2026/10/25/brazil-lula-bolsonaro-presidential-election-runoff.html",
+          "published_at": "2026-10-25T22:53:01Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Brazil resumes vote counting after last-minute extension of polling hours in tense presidential race",
+          "url": "https://www.wcvb.com/article/brazil-presidential-election/74242711",
+          "published_at": "2026-10-25T22:57:00Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Brazil runoff live updates: ballot count resumes after two-hour voting extension",
+          "url": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
+          "published_at": "2026-10-25T23:35:47Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "The presidential election in Brazil is a test of Trump\u2019s power as a kingmaker.",
+          "url": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/the-presidential-election-in-brazil-is-a-test-of-trumps-power-as-a-kingmaker",
+          "published_at": "2026-10-25T23:41:49Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Live Updates: Polls Close in Brazil as Presidential Race Comes to Chaotic Close",
+          "url": "https://www.nytimes.com/live/2026/10/25/world/brazil-election",
+          "published_at": "2026-10-25T23:41:52Z"
+        }
+      ]
+    },
+    {
+      "headline": "Alaska Senate Hopeful Peltola Delays Rallies After Car Crash",
+      "score": 99,
+      "signals": {
+        "us_outlets": 7,
+        "intl_outlets": 1,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Bloomberg",
+        "CBS News",
+        "NBC News",
+        "PBS NewsHour",
+        "Politico",
+        "The Guardian",
+        "The Hill",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-25T17:15:59Z",
+      "reports": [
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Alaska Senate Hopeful Peltola Delays Rallies After Car Crash",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-25/car-crash-with-alaska-democrat-peltola-delays-campaign-rallies",
+          "published_at": "2026-10-25T17:15:59Z"
+        },
+        {
+          "publisher": "Politico",
+          "group": "politico",
+          "kind": "news",
+          "wire": false,
+          "title": "Peltola postpones campaign stops after Saturday car crash",
+          "url": "https://www.politico.com/news/2026/10/25/peltola-car-crash-postpones-campaign-stops-01134902",
+          "published_at": "2026-10-25T17:26:59Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Alaska Senate candidate sustains \"minor injuries\" in car accident",
+          "url": "https://www.cbsnews.com/news/mary-peltola-car-accident-alaska-senate-race/",
+          "published_at": "2026-10-25T17:32:00Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Mary Peltola delays campaign events after sustaining \u2018minor injuries\u2019 in car crash",
+          "url": "https://www.nbcnews.com/politics/2026-election/mary-peltola-delays-campaign-events-minor-injury-car-crash-alaska-rcna605556",
+          "published_at": "2026-10-25T19:08:17Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Alaska Democratic Senate candidate Mary Peltola and her family suffer minor injuries in car crash",
+          "url": "https://www.pbs.org/newshour/politics/alaska-democratic-senate-candidate-mary-peltola-and-her-family-suffer-minor-injuries-in-car-crash",
+          "published_at": "2026-10-25T20:11:03Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Alaska Senate candidate Mary Peltola delays campaign stops after car crash",
+          "url": "https://www.theguardian.com/us-news/2026/oct/25/mary-peltola-family-car-crash-alaska-senate",
+          "published_at": "2026-10-25T20:28:27Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Peltola Postpones Events After \u2018Minor Injuries\u2019 in Automobile Collision, Campaign Says",
+          "url": "https://www.nytimes.com/2026/10/25/us/politics/peltola-automobile-collision-campaign-events-postponed.html",
+          "published_at": "2026-10-25T20:33:31Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Peltola to reschedule Fairbanks, Bethel campaign stops after car crash",
+          "url": "https://thehill.com/homenews/campaign/6171155-mary-peltola-car-crash/",
+          "published_at": "2026-10-25T20:43:59Z"
+        }
+      ]
+    },
+    {
+      "headline": "Israel to close West Bank crossings on election day as crackdown escalates",
+      "score": 89,
+      "signals": {
+        "us_outlets": 5,
+        "intl_outlets": 1,
+        "front_pages": 5,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Axios",
+        "BBC News",
+        "CBS News",
+        "NBC News",
+        "PBS NewsHour",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-10-25T05:15:52Z",
+      "reports": [
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Israel to close West Bank crossings on election day as crackdown escalates",
+          "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-25T05:15:52Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Days before Israeli election, military conducts massive West Bank operation",
+          "url": "https://www.bostonglobe.com/2026/10/25/world/israeli-military-massive-west-bank-operation-election/",
+          "published_at": "2026-10-25T10:32:21Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Israel presses ahead with West Bank operation as election approaches",
+          "url": "https://www.pbs.org/newshour/world/israel-presses-ahead-with-west-bank-operation-as-election-approaches",
+          "published_at": "2026-10-25T16:24:40Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Crackdown in the West Bank days ahead of Israeli elections",
+          "url": "https://www.nbcnews.com/nightly-news/video/crackdown-in-the-west-bank-days-ahead-of-israeli-elections-272201285820",
+          "published_at": "2026-10-25T23:08:50Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Scoop: Netanyahu presses Trump for more support ahead of tight Tuesday election",
+          "url": "https://www.axios.com/2026/10/25/netanyahu-trump-israeli-elections",
+          "published_at": "2026-10-25T23:15:08Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Israel to close West Bank crossings before elections amid military operation",
+          "url": "https://www.cbsnews.com/news/israel-military-operation-west-bank-elections/",
+          "published_at": "2026-10-25T23:46:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Westborough police chief placed on leave after a Shrewsbury police encounter",
+      "score": 84,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 0,
+        "front_pages": 4,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "MassLive",
+        "NBC Boston",
+        "The Boston Globe",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-10-25T11:49:57Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Westborough police chief placed on leave after a Shrewsbury police encounter",
+          "url": "https://www.nbcboston.com/news/local/westborough-police-chief-on-leave-shrewsbury-police/4036967/",
+          "published_at": "2026-10-25T11:49:57Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Westborough police chief placed on leave after incident in Shrewsbury",
+          "url": "https://www.masslive.com/centralmass/2026/10/westborough-police-chief-placed-on-leave-after-incident-in-shrewsbury.html",
+          "published_at": "2026-10-25T15:21:14Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Westborough police chief placed on leave after Shrewsbury police respond to call involving him",
+          "url": "https://www.bostonglobe.com/2026/10/25/metro/westborough-police-chief-leave-shrewsbury/",
+          "published_at": "2026-10-25T19:47:31Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Westborough police chief placed on leave",
+          "url": "https://www.wcvb.com/article/police-chief-on-leave-following-an-incident-in-shrewsbury/74239316",
+          "published_at": "2026-10-25T21:22:00Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Westborough police chief placed on leave after Shrewsbury police response involving him",
+          "url": "https://www.boston.com/news/local-news/2026/10/25/westborough-police-chief-placed-on-leave-after-shrewsbury-police-response-involving-him/",
+          "published_at": "2026-10-25T22:05:58Z"
+        }
+      ]
+    },
+    {
+      "headline": "At least 12 people injured in shooting near football stadium in Florida",
+      "score": 83,
+      "signals": {
+        "us_outlets": 5,
+        "intl_outlets": 1,
+        "front_pages": 4,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "CBS News",
+        "MassLive",
+        "The Boston Globe",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-25T04:49:35Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "At least 12 people injured in shooting near football stadium in Florida",
+          "url": "https://www.bostonglobe.com/2026/10/25/nation/shooting-near-football-stadium-in-florida-at-least-12-injured/",
+          "published_at": "2026-10-25T04:49:35Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Florida A&M shooting: 11 shot, including children, outside football stadium",
+          "url": "https://www.masslive.com/news/2026/10/florida-am-shooting-11-shot-including-children-outside-football-stadium.html",
+          "published_at": "2026-10-25T12:13:29Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "At Least 12 Injured, Including 6 Minors, in Shooting Near Florida A&M\u2019s Stadium",
+          "url": "https://www.nytimes.com/2026/10/25/us/tallahassee-shooting-florida-am-homecoming.html",
+          "published_at": "2026-10-25T12:33:20Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Twelve injured, including six juveniles, in shooting near Florida university",
+          "url": "https://www.theguardian.com/us-news/2026/oct/25/eleven-sustain-gunshot-wounds-in-shooting-near-florida-university",
+          "published_at": "2026-10-25T15:19:47Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "12 injured, including 6 children, in shooting near Florida university, police say",
+          "url": "https://abcnews.com/US/12-injured-including-6-children-shooting-florida-university/story?id=137549623",
+          "published_at": "2026-10-25T21:19:20Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "At least 12 injured, including 6 children, in shooting near Florida A&M",
+          "url": "https://www.cbsnews.com/news/tallahassee-florida-shooting-a-m-university/",
+          "published_at": "2026-10-25T23:49:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Aaron Rodgers, Chris Boswell help Steelers beat Saints, 16-10, in NFL\u2019s regular-season France debut",
+      "score": 83,
+      "signals": {
+        "us_outlets": 5,
+        "intl_outlets": 1,
+        "front_pages": 4,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ESPN",
+        "Fox News",
+        "MassLive",
+        "NBC News",
+        "The Boston Globe",
+        "The Guardian"
+      ],
+      "first_seen": "2026-10-25T17:26:36Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Aaron Rodgers, Chris Boswell help Steelers beat Saints, 16-10, in NFL\u2019s regular-season France debut",
+          "url": "https://www.bostonglobe.com/2026/10/25/sports/steelers-saints-nfl-france/",
+          "published_at": "2026-10-25T17:26:36Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "NFL fans visiting Paris in high spirits for Saints vs. Steelers game, undeterred by protests",
+          "url": "https://www.nbcnews.com/world/france/nfl-fans-visiting-paris-high-spirits-saints-vs-steelers-game-undeterre-rcna605520",
+          "published_at": "2026-10-25T18:15:06Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "NFL's Paris anthem sparks debate among fans",
+          "url": "https://www.masslive.com/sports/2026/10/nfl-national-anthem-before-steelers-saints-game-divides-fans.html",
+          "published_at": "2026-10-25T18:34:26Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Aaron Rodgers pulls back curtain on bargaining talks with NFL envisioning one week of 16 international games",
+          "url": "https://www.foxnews.com/outkick-sports/aaron-rodgers-pulls-back-curtain-bargaining-talks-nfl-envisioning-one-week-16-international-games",
+          "published_at": "2026-10-25T20:22:02Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "NFL roundup: Falcons spoil Niners\u2019 undefeated start; Steelers win in Paris",
+          "url": "https://www.theguardian.com/sport/2026/oct/25/nfl-roundup-sunday-football-scores",
+          "published_at": "2026-10-25T20:48:11Z"
+        },
+        {
+          "publisher": "ESPN",
+          "group": "espn",
+          "kind": "news",
+          "wire": false,
+          "title": "Aaron Rodgers, Steelers QB room lead NFL Week 7 arrivals",
+          "url": "https://www.espn.com/nfl/story/_/id/50252261/nfl-week-7-fashionable-arrivals",
+          "published_at": "2026-10-25T22:55:31Z"
+        }
+      ]
+    },
+    {
+      "headline": "Boston mom arrested after 4-year-old daughter died of ingesting fentanyl",
+      "score": 77,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": [
+          "boston"
+        ]
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "MassLive",
+        "NBC Boston",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-10-25T04:32:07Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Boston mom arrested after 4-year-old daughter died of ingesting fentanyl",
+          "url": "https://www.nbcboston.com/news/local/boston-mom-arrested-after-4-year-old-daughter-died-of-ingesting-fentanyl/4037032/",
+          "published_at": "2026-10-25T04:32:07Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Boston mother arrested after 4-year-old daughter dies from fentanyl ingestion",
+          "url": "https://www.masslive.com/boston/2026/10/boston-mother-arrested-after-4-year-old-daughter-dies-from-fentanyl-ingestion.html",
+          "published_at": "2026-10-25T18:58:13Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Boston mother charged in 4-year-old\u2019s fentanyl death",
+          "url": "https://www.boston.com/news/crime/2026/10/25/boston-mother-charged-in-4-year-olds-fentanyl-death/",
+          "published_at": "2026-10-25T21:42:41Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Boston mother charged in 4-year-old daughter's fentanyl death",
+          "url": "https://www.wcvb.com/article/boston-mother-arraigned-child-death-fentanyl/74241809",
+          "published_at": "2026-10-25T22:28:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+      "score": 77,
+      "signals": {
+        "us_outlets": 5,
+        "intl_outlets": 1,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "CNBC",
+        "PBS NewsHour",
+        "The Hill",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-10-25T09:00:00Z",
+      "reports": [
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+          "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-25T09:00:00Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Elon Musk Says Ukraine Violated Starlink\u2019s Rules",
+          "url": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
+          "published_at": "2026-10-25T09:28:36Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Ukraine disputes Elon Musk's claim that its military violated Starlink's terms of service",
+          "url": "https://www.pbs.org/newshour/world/ukraine-disputes-elon-musks-claim-that-its-military-violated-starlinks-terms-of-service",
+          "published_at": "2026-10-25T15:35:22Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Musk accuses Ukraine of violating Starlink's terms of service following dispute over coverage",
+          "url": "https://www.wcvb.com/article/musk-accuses-ukraine-violating-starlink-coverage/74240892",
+          "published_at": "2026-10-25T16:55:00Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Ukraine disputes Elon Musk\u2019s claim that its military violated Starlink terms during drone operations",
+          "url": "https://www.cnbc.com/2026/10/25/ukraine-musk-starlink-terms-dispute.html",
+          "published_at": "2026-10-25T18:18:49Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Crow: Elon Musk having control to cut off Starlink to Ukraine is 'beyond disturbing to me'",
+          "url": "https://thehill.com/policy/technology/6170777-jason-crow-criticizes-elon-musk-starlink-control-ukraine/",
+          "published_at": "2026-10-25T19:30:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "NJ man arrested after trying to rob 3 Boston banks on Saturday",
+      "score": 66,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": [
+          "boston"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "NBC Boston",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-10-25T04:50:45Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "NJ man arrested after trying to rob 3 Boston banks on Saturday",
+          "url": "https://www.nbcboston.com/news/local/nj-man-arrested-after-trying-to-rob-3-boston-banks-on-saturday/4037048/",
+          "published_at": "2026-10-25T04:50:45Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "NJ man arrested after trying to rob 3 Boston banks in under an hour, police say",
+          "url": "https://www.masslive.com/boston/2026/10/nj-man-arrested-after-trying-to-rob-3-boston-banks-in-under-an-hour-police-say.html",
+          "published_at": "2026-10-25T21:59:26Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Man accused of trying to rob 3 Boston banks within an hour",
+          "url": "https://www.wcvb.com/article/boston-man-accused-of-trying-to-rob-three-banks/74241310",
+          "published_at": "2026-10-25T22:27:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Teen boy dies in head-on crash after driving the wrong way on Route 1, State Police say",
+      "score": 66,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "The Boston Globe",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-10-25T16:30:30Z",
+      "reports": [
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Teen boy dies in head-on crash after driving the wrong way on Route 1, State Police say",
+          "url": "https://www.masslive.com/news/2026/10/teen-boy-dies-in-head-on-crash-in-revere-after-driving-the-wrong-way-on-route-1-state-police-say.html",
+          "published_at": "2026-10-25T16:30:30Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Teen killed in fiery wrong-way crash on Route 1 in Revere",
+          "url": "https://www.bostonglobe.com/2026/10/25/metro/wrong-way-driver-route-1-saugust-revere/",
+          "published_at": "2026-10-25T20:38:59Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "'Heartbreaking': High school senior killed in wrong-way crash on the North Shore",
+          "url": "https://www.wcvb.com/article/juvenile-driver-killed-wrong-way-crash-route-1-revere/74241264",
+          "published_at": "2026-10-25T23:27:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Lexington native Sal Frelick homers to help Brewers to comeback win over Rays in World Series Game 2",
+      "score": 61,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "massachusetts"
+        ]
+      },
+      "independent_outlets": [
+        "ESPN",
+        "NBC News",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-10-25T04:12:15Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Lexington native Sal Frelick homers to help Brewers to comeback win over Rays in World Series Game 2",
+          "url": "https://www.bostonglobe.com/2026/10/25/sports/brewers-rays-world-series-game-2-score/",
+          "published_at": "2026-10-25T04:12:15Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Sal Frelick\u2019s World Series home run off Ian Seymour was a meeting made in Massachusetts",
+          "url": "https://www.bostonglobe.com/2026/10/25/sports/world-series-sal-frelick-ian-seymour-massachusetts-baseball/",
+          "published_at": "2026-10-25T09:00:00Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Inside the controversial call that ended Game 2 of the World Series",
+          "url": "https://www.nbcnews.com/sports/baseball/controversial-call-ended-game-2-world-series-rcna605534",
+          "published_at": "2026-10-25T17:46:37Z"
+        },
+        {
+          "publisher": "ESPN",
+          "group": "espn",
+          "kind": "news",
+          "wire": false,
+          "title": "Are the Brewers inevitable? Game 2 comeback latest proof Milwaukee can't be beat",
+          "url": "https://www.espn.com/mlb/story/_/id/50273430/world-series-game-2-rays-brewers-comeback-inevitable",
+          "published_at": "2026-10-25T21:30:29Z"
+        }
+      ]
+    },
+    {
+      "headline": "California election officials frustrated, rattled by DOJ demand to sequester 'noncitizen' ballots",
+      "score": 56,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "PBS NewsHour",
+        "The Hill",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-25T15:17:21Z",
+      "reports": [
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "California election officials frustrated, rattled by DOJ demand to sequester 'noncitizen' ballots",
+          "url": "https://www.pbs.org/newshour/politics/california-election-officials-frustrated-rattled-by-doj-demand-to-sequester-noncitizen-ballots",
+          "published_at": "2026-10-25T15:17:21Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Appeals court resists DOJ's bid to immediately segregate 20k California ballots",
+          "url": "https://thehill.com/regulation/court-battles/6171263-appeals-court-denies-emergency-california-hearing/",
+          "published_at": "2026-10-25T22:02:13Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Appeals Court Appears to Doubt Justice Dept. Claims in California Ballot Case",
+          "url": "https://www.nytimes.com/2026/10/25/us/elections/midterms-california-mail-ballots-trump.html",
+          "published_at": "2026-10-25T23:00:55Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Appeals court hears arguments in Trump admin's voting suit against California",
+          "url": "https://abcnews.com/Politics/federal-appeals-court-hear-arguments-trump-administrations-voting/story?id=137546706",
+          "published_at": "2026-10-25T23:48:38Z"
+        }
+      ]
+    },
+    {
+      "headline": "Israel\u2019s High-Stakes Election: What to Know",
+      "score": 55,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 2,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "Bloomberg",
+        "The Boston Globe",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-25T09:01:00Z",
+      "reports": [
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Israel\u2019s High-Stakes Election: What to Know",
+          "url": "https://www.nytimes.com/2026/10/25/world/middleeast/israels-high-stakes-election-what-to-know.html",
+          "published_at": "2026-10-25T09:01:00Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "What\u2019s at Stake in Brazil\u2019s Elections?",
+          "url": "https://www.nytimes.com/2026/10/25/world/americas/whats-at-stake-in-brazils-elections.html",
+          "published_at": "2026-10-25T18:49:38Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Tensions Flare in Chaotic Brazil Election After Voting Extended",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-25/brazil-court-extends-voting-by-two-hours-on-candidate-requests",
+          "published_at": "2026-10-25T20:08:50Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Israel\u2019s election Tuesday could be nation\u2019s most important",
+          "url": "https://www.bostonglobe.com/2026/10/25/world/israels-election-tuesday-could-be-nations-most-important/",
+          "published_at": "2026-10-25T20:52:46Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Why Israel's election is one of the most important in its history",
+          "url": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-25T22:05:30Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Deeply divided Israel braces for pivotal election",
+          "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-25T22:11:13Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Brazil election 2026: Live second round results",
+          "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/25/brazil-election-2026-live-second-round-results",
+          "published_at": "2026-10-25T22:11:16Z"
+        }
+      ]
+    },
+    {
+      "headline": "James Hagens is showing plenty of grit for a rookie, and more observations from the Bruins\u2019 win over the Sharks",
+      "score": 50,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "boston",
+          "bruins"
+        ]
+      },
+      "independent_outlets": [
+        "The Boston Globe",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-10-25T09:00:00Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "James Hagens is showing plenty of grit for a rookie, and more observations from the Bruins\u2019 win over the Sharks",
+          "url": "https://www.bostonglobe.com/2026/10/25/sports/james-hagens-bruins-sharks-observations/",
+          "published_at": "2026-10-25T09:00:00Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Bruins extend points streak to 8 games with 6-4 win over Sharks",
+          "url": "https://www.wcvb.com/article/boston-bruins-score-october-24-2026/74242203",
+          "published_at": "2026-10-25T20:17:00Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Kyle Larson extends Chase points lead with first NASCAR win at Talladega after last-lap scramble",
+          "url": "https://www.bostonglobe.com/2026/10/25/sports/nascar-talladega-kyle-larson/",
+          "published_at": "2026-10-25T23:01:20Z"
+        }
+      ]
+    },
+    {
+      "headline": "Driver faces OUI after pickup truck smashes into home on Route 6 in Swansea",
+      "score": 50,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-10-25T16:48:57Z",
+      "reports": [
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Driver faces OUI after pickup truck smashes into home on Route 6 in Swansea",
+          "url": "https://www.masslive.com/news/2026/10/driver-arrested-on-oui-after-truck-smashes-into-home-on-route-6-in-swansea.html",
+          "published_at": "2026-10-25T16:48:57Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Police rescue man trapped in burning car after crash in Holbrook; driver faces OUI",
+          "url": "https://www.masslive.com/news/2026/10/holbrook-police-rescue-man-trapped-in-burning-car-driver-faces-oui.html",
+          "published_at": "2026-10-25T17:47:17Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "New video shows truck slamming into Swansea home",
+          "url": "https://www.wcvb.com/article/swansea-truck-crash-home-route-6/74241108",
+          "published_at": "2026-10-25T22:18:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "100+ residents evacuated from Lexington nursing home after electrical issue",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "massachusetts"
+        ]
+      },
+      "independent_outlets": [
+        "NBC Boston",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-10-25T12:59:34Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "100+ residents evacuated from Lexington nursing home after electrical issue",
+          "url": "https://www.nbcboston.com/news/local/lexington-ma-care-one-nursing-home-residents-evacuated/4036819/",
+          "published_at": "2026-10-25T12:59:34Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Roughly 180 residents of Lexington nursing home evacuated amid electricity problems",
+          "url": "https://www.bostonglobe.com/2026/10/24/metro/lexington-nursing-home-evacuated/",
+          "published_at": "2026-10-25T17:07:33Z"
+        }
+      ]
+    },
+    {
+      "headline": "Joe Mazzulla gives view on Jayson Tatum, Jaylen Brown relationship",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-10-25T15:52:56Z",
+      "reports": [
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Joe Mazzulla gives view on Jayson Tatum, Jaylen Brown relationship",
+          "url": "https://www.masslive.com/celtics/2026/10/joe-mazzulla-gives-view-on-jayson-tatum-jaylen-brown-relationship.html",
+          "published_at": "2026-10-25T15:52:56Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "No resolution in sight for frayed relationship between Jaylen Brown and Jayson Tatum",
+          "url": "https://www.bostonglobe.com/2026/10/25/sports/jayson-tatum-jaylen-brown-feud/",
+          "published_at": "2026-10-25T22:08:54Z"
+        }
+      ]
+    },
+    {
+      "headline": "Obama issues searing attacks on Trump, Ramaswamy in return to campaign trail",
+      "score": 45,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-25T11:19:05Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Obama issues searing attacks on Trump, Ramaswamy in return to campaign trail",
+          "url": "https://www.bostonglobe.com/2026/10/24/nation/obama-trump-ramaswamy-campaign-trail/",
+          "published_at": "2026-10-25T11:19:05Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Obama, in Midwest, assails 'cruelty' and indecency from Trump and his allies in the midterm campaign",
+          "url": "https://www.pbs.org/newshour/politics/obama-in-midwest-assails-cruelty-and-indecency-from-trump-and-his-allies-in-the-midterm-campaign",
+          "published_at": "2026-10-25T14:35:09Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "How Obama and Trump Made their Cases in Dueling Midterm Speeches",
+          "url": "https://www.nytimes.com/2026/10/25/us/politics/obama-trump-competing-rallies-midterms.html",
+          "published_at": "2026-10-25T23:35:31Z"
+        }
+      ]
+    },
+    {
+      "headline": "Democrats Have Edge Across Four Key House Races in Pennsylvania, Polls Find",
+      "score": 45,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "CBS News",
+        "The Boston Globe",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-25T12:59:21Z",
+      "reports": [
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrats Have Edge Across Four Key House Races in Pennsylvania, Polls Find",
+          "url": "https://www.nytimes.com/2026/10/25/us/politics/polls-pennsylvania-house-midterms-battlegrounds.html",
+          "published_at": "2026-10-25T12:59:21Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Poll finds Democrats still boosted by voters' economic concerns",
+          "url": "https://www.cbsnews.com/news/poll-house-estimate-midterm-elections-2026/",
+          "published_at": "2026-10-25T14:38:00Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrats have edge in four key House races in Pennsylvania, polls find",
+          "url": "https://www.bostonglobe.com/2026/10/25/nation/democrats-pennsylvania-house-election/",
+          "published_at": "2026-10-25T18:30:29Z"
+        }
+      ]
+    },
+    {
+      "headline": "Kimi Antonelli wins U.S. Grand Prix in Texas, putting him on the brink of F1 championship",
+      "score": 45,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ESPN",
+        "NBC News",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-10-25T21:45:45Z",
+      "reports": [
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Kimi Antonelli wins U.S. Grand Prix in Texas, putting him on the brink of F1 championship",
+          "url": "https://www.nbcnews.com/sports/formula-1/kimi-antonelli-wins-us-grand-prix-texas-putting-brink-f1-championship-rcna603583",
+          "published_at": "2026-10-25T21:45:45Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Kimi Antonelli wins US Grand Prix and tightens his grip on historic F1 title chase",
+          "url": "https://www.bostonglobe.com/2026/10/25/sports/f1-usgp-kimi-antonelli/",
+          "published_at": "2026-10-25T23:27:29Z"
+        },
+        {
+          "publisher": "ESPN",
+          "group": "espn",
+          "kind": "news",
+          "wire": false,
+          "title": "Antonelli wins US GP but made to wait for title",
+          "url": "https://www.espn.com/f1/story/_/id/50250088/kimi-antonelli-united-states-grand-prix-formula-1-title",
+          "published_at": "2026-10-25T23:42:49Z"
+        }
+      ]
+    },
+    {
+      "headline": "Police seek hit-and-run driver who injured 2 pedestrians in Norwood",
+      "score": 43,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 1,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "MassLive"
+      ],
+      "first_seen": "2026-10-25T14:53:51Z",
+      "reports": [
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Police seek hit-and-run driver who injured 2 pedestrians in Norwood",
+          "url": "https://www.masslive.com/news/2026/10/norwood-police-seek-hit-and-run-driver-who-injured-2-pedestrians.html",
+          "published_at": "2026-10-25T14:53:51Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Norwood police ask for public\u2019s help IDing hit-and-run driver who injured 2 pedestrians",
+          "url": "https://www.boston.com/news/local-news/2026/10/25/norwood-police-ask-for-publics-help-iding-hit-and-run-driver-who-injured-2-pedestrians/",
+          "published_at": "2026-10-25T23:35:31Z"
+        }
+      ]
+    },
+    {
+      "headline": "Mike Rogers on Trump calling Abdul El-Sayed a terrorist: \u2018I've never called him a terrorist\u2019",
+      "score": 42,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 2,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "Fox News",
+        "NBC News",
+        "The Guardian"
+      ],
+      "first_seen": "2026-10-25T13:44:00Z",
+      "reports": [
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Mike Rogers on Trump calling Abdul El-Sayed a terrorist: \u2018I've never called him a terrorist\u2019",
+          "url": "https://www.nbcnews.com/meet-the-press/video/mike-rogers-on-trump-calling-abdul-el-sayed-a-terrorist-i-ve-never-called-him-a-terrorist-272191045618",
+          "published_at": "2026-10-25T13:44:00Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Rogers fires back at Welker over El-Sayed's Muslim Brotherhood controversy, 'You are giving him a pass'",
+          "url": "https://www.foxnews.com/media/rogers-fires-back-welker-over-el-sayeds-muslim-brotherhood-controversy-you-giving-him-pass",
+          "published_at": "2026-10-25T21:58:57Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump rallies for Mike Rogers \u2013 and Nicki Minaj\u2019s derriere \u2013 in Michigan",
+          "url": "https://www.theguardian.com/us-news/2026/oct/25/trump-nicki-minaj-mike-rogers-michigan-rally",
+          "published_at": "2026-10-25T22:36:59Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Rapper Nikki Minaj joins Trump onstage at Michigan rally",
+          "url": "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-25T23:33:19Z"
+        }
+      ]
+    }
+  ]
+}

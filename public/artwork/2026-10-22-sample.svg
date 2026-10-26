@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-label="Sample illustration: a domed legislative building at dawn with rows of new houses in the foreground">
+  <defs>
+    <linearGradient id="dawn" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#9ec9e8"/><stop offset=".7" stop-color="#fbd7b0"/><stop offset="1" stop-color="#f6b98a"/></linearGradient>
+    <linearGradient id="stone" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#f3ead8"/><stop offset="1" stop-color="#d8c8a8"/></linearGradient>
+    <g stroke="#3d3a35" stroke-width="2" id="house"><rect x="0" y="40" width="110" height="90" fill="#e86f51"/><polygon points="-10,42 55,-10 120,42" fill="#5a3b52"/><rect x="40" y="80" width="30" height="50" fill="#f6e4b8"/><rect x="12" y="55" width="22" height="20" fill="#fff6d6"/><rect x="76" y="55" width="22" height="20" fill="#fff6d6"/></g>
+  </defs>
+  <rect width="1200" height="900" fill="url(#dawn)"/>
+  <circle cx="200" cy="560" r="90" fill="#fff1c9"/>
+  <g fill="url(#stone)" stroke="#8c7655" stroke-width="2">
+    <rect x="360" y="420" width="480" height="210"/>
+    <rect x="330" y="400" width="540" height="24"/>
+    <polygon points="330,400 600,320 870,400"/>
+    <rect x="520" y="230" width="160" height="90"/>
+    <path d="M520 232 Q600 110 680 232 Z"/>
+    <rect x="592" y="110" width="16" height="40"/>
+  </g>
+  <g fill="#c4b08a"><rect x="390" y="440" width="22" height="180"/><rect x="440" y="440" width="22" height="180"/><rect x="490" y="440" width="22" height="180"/><rect x="540" y="440" width="22" height="180"/><rect x="638" y="440" width="22" height="180"/><rect x="688" y="440" width="22" height="180"/><rect x="738" y="440" width="22" height="180"/><rect x="788" y="440" width="22" height="180"/></g>
+  <rect x="575" y="520" width="50" height="110" fill="#6b5a40"/>
+  <rect y="630" width="1200" height="270" fill="#8fb36b"/>
+  <g stroke="#3d3a35" stroke-width="2">
+    <use href="#house" transform="translate(80 700)"/>
+    <use href="#house" transform="translate(240 690)"/>
+    <g transform="translate(400 705)"><rect x="0" y="40" width="110" height="90" fill="#f1c24b"/><polygon points="-10,42 55,-10 120,42" fill="#5a3b52"/><rect x="40" y="80" width="30" height="50" fill="#f6e4b8"/></g>
+    <g transform="translate(690 700)"><rect x="0" y="40" width="110" height="90" fill="#4a90b8"/><polygon points="-10,42 55,-10 120,42" fill="#5a3b52"/><rect x="40" y="80" width="30" height="50" fill="#f6e4b8"/></g>
+    <use href="#house" transform="translate(850 695)"/>
+    <g transform="translate(1010 705)"><rect x="0" y="40" width="110" height="90" fill="#7aa85a"/><polygon points="-10,42 55,-10 120,42" fill="#5a3b52"/><rect x="40" y="80" width="30" height="50" fill="#f6e4b8"/></g>
+  </g>
+  <g fill="#f7a826" stroke="#3d3a35" stroke-width="2"><rect x="560" y="740" width="70" height="80"/><line x1="595" y1="740" x2="595" y2="660"/><rect x="580" y="650" width="120" height="18"/><line x1="690" y1="668" x2="690" y2="720"/></g>
+  <g font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="3"><rect x="24" y="24" width="120" height="40" rx="4" fill="#fff" opacity=".85"/><text x="84" y="52" text-anchor="middle" fill="#9a3b1f">SAMPLE</text></g>
+</svg>
