@@ -216,3 +216,24 @@ Each got 1 draft + 2 self-critique revisions. Main fixes:
 - Expect roughly 15–30 minutes per unattended run, including research.
 
 **Still not done:** public hosting, the cloud schedule, the launch date, and the weekly report generator (Phase 5/6).
+
+## 2026-10-25: Phase 5 part 1: public website live on GitHub Pages
+
+**Owner decisions (in chat):**
+- GitHub account `AlexDecsi`.
+- Approved downloading GitHub's official CLI (gh 2.103.2, arm64, 14.1 MB). Its SHA-256 matched the release's checksums file; it's kept in git-ignored `cache/tools/`.
+- Approved a PUBLIC repository.
+- Approved switching commit email to GitHub's private noreply address.
+- Approved a GitHub Actions Pages workflow.
+
+**Done:**
+- Sign-in: `gh auth login --web`. The token is in the macOS Keychain, never in chat or files. The first attempt in a Terminal tab stalled at a keyboard prompt, so I switched to a browser link + one-time code.
+- Rewrote the 2 unpublished local commits to `335086476+AlexDecsi@users.noreply.github.com`; no Northeastern email remains in the history. Repo-local git identity and a credential helper are set (`.git/config` only).
+- Created https://github.com/AlexDecsi/daily-canvas (public) and pushed `main`.
+- Added `.github/workflows/pages.yml`: deploys `public/` on pushes to `main` that touch `public/**`, or on manual run.
+- Enabled Pages (build_type=workflow). The first deploy succeeded.
+- Verified https://alexdecsi.github.io/daily-canvas/: the page, `entries.json`, both artworks and `app.js` return HTTP 200; both entries render in a browser with no console errors.
+
+**Not done yet:**
+- No Claude cloud environment exists ("no_environment"), so there is no scheduled run. Next: the owner opens claude.ai/code, connects GitHub (Claude GitHub App, this repo only) and creates an environment.
+- `launch_date` stays null until a scheduled run publishes successfully.

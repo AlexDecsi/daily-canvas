@@ -2,6 +2,8 @@
 
 A gallery of daily news: one editorial illustration per day, with a short museum-style caption and source links. `CLAUDE.md` holds the full project spec.
 
+**Live site:** https://alexdecsi.github.io/daily-canvas/ · **Repository:** https://github.com/AlexDecsi/daily-canvas
+
 ## Current status (2026-10-25)
 
 | Piece | Status |
@@ -10,8 +12,8 @@ A gallery of daily news: one editorial illustration per day, with a short museum
 | Art quality proof (Phase 2) | **Done.** Style guide v3 approved (`config/editorial-style.md`); studies in `prototypes/poster/` |
 | News research and verification (Phase 3) | **Built and tested**: code in `src/news/`, supervised dry runs in `logs/research/` |
 | Daily pipeline (Phase 4) | **Built; 2 supervised dry runs published locally** (runbook: `ops/daily-run.md`) |
-| Public website | **Not deployed** |
-| Daily schedule | **Not scheduled.** Nothing runs automatically yet. Setup steps: `docs/SETUP.md` |
+| Public website | **Live** at https://alexdecsi.github.io/daily-canvas/ (GitHub Pages; republished automatically when `public/` changes on `main`) |
+| Daily schedule | **Not scheduled yet.** Next: a Claude cloud environment + 9 p.m. scheduled task (`docs/SETUP.md`) |
 
 ## Preview the gallery on your Mac
 
