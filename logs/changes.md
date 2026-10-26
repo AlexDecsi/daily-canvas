@@ -285,3 +285,15 @@ No changes made; nothing scheduled.
   - cron `7 8,21,23 * * *` (8:07 a.m., 9:07 p.m., 11:07 p.m. local Boston time)
   - the prompt starts with the quick check and has a weekly-report step
   - copy in `ops/scheduled-task-prompt.md`
+
+## 2026-10-25: Usage review; owner keeps both backup checks
+
+**Owner decision:** "Keep both backup checks (11:07 p.m. and 8:07 a.m.)."
+
+**Usage measured from the session transcript:**
+- About 97M tokens processed, about $35 API-equivalent at Claude Opus 5.5 rates. Covered by the Enterprise seat; extra usage is disabled.
+- Per-run estimates (API-equivalent):
+  - full daily run: about $1.50–3.50
+  - "nothing to do" backup check: about $0.30–0.70
+- Projected rest of project (Oct 26–Dec 18): about $80–190 API-equivalent, within the plan.
+- No schedule change.
