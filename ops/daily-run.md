@@ -1,6 +1,6 @@
 # Daily run: instructions for Claude
 
-These are the steps for one daily run. In Phase 5 this file becomes the instructions for the scheduled cloud task (~9 p.m. Boston time). Until then it is followed in supervised dry runs. Read `CLAUDE.md` and `config/editorial-style.md` (the approved style and news focus) first.
+These are the steps for one daily run. The scheduled task on the owner's Mac (~9:07 p.m. Boston time; prompt in `ops/scheduled-task-prompt.md`) follows this file. It runs on the Mac because Northeastern hasn't enabled GitHub for Claude cloud sessions (see `logs/changes.md`). Read `CLAUDE.md` and `config/editorial-style.md` (the approved style and news focus) first.
 
 **Hard rules:**
 - Accuracy over output: if something can't be verified, publish nothing and record why.
@@ -78,8 +78,8 @@ It runs these checks:
 Then it publishes atomically, rolling back on error, and releases the lock. If it reports BLOCKED, fix the problem (within the limits) or go to step 7.
 
 ## 6. Afterwards
-- Open the gallery and confirm the new entry shows: on the public site after Phase 5, otherwise locally with `python3 -m http.server 8000 --directory public`.
-- In the cloud task (Phase 5): commit with message `Daily entry <date>` and push to the publishing branch.
+- Run the tests, then commit (`Daily entry <date>`) and push to `main`. GitHub Actions republishes `public/` to https://alexdecsi.github.io/daily-canvas/.
+- Confirm the live `entries.json` contains the new date.
 
 ## 7. If the day can't be done
 ```bash

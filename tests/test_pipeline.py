@@ -34,6 +34,22 @@ class LockTests(unittest.TestCase):
             self.assertTrue(daily.acquire_lock("2026-11-02", locks, stale_minutes=120))
 
 
+class DueDayTests(unittest.TestCase):
+    def at(self, iso_utc):
+        return daily.due_day(datetime.fromisoformat(iso_utc), "21:00")
+
+    def test_after_9pm_today_is_due(self):
+        self.assertEqual(self.at("2026-10-27T01:10:00+00:00"), "2026-10-26")  # 9:10 p.m. EDT on Oct 26
+
+    def test_before_9pm_yesterday_is_due(self):
+        self.assertEqual(self.at("2026-10-27T11:00:00+00:00"), "2026-10-26")  # 7 a.m. EDT Oct 27: finish the missed evening
+        self.assertEqual(self.at("2026-10-26T23:00:00+00:00"), "2026-10-25")  # 7 p.m. EDT Oct 26
+
+    def test_after_daylight_saving_ends(self):
+        self.assertEqual(self.at("2026-11-03T02:05:00+00:00"), "2026-11-02")  # 9:05 p.m. EST (UTC-5)
+        self.assertEqual(self.at("2026-11-03T01:30:00+00:00"), "2026-11-01")  # 8:30 p.m. EST: not yet
+
+
 class MissedDayTests(unittest.TestCase):
     def setUp(self):
         self.tmp = tempfile.TemporaryDirectory()

@@ -250,3 +250,23 @@ Each got 1 draft + 2 self-critique revisions. Main fixes:
 - Paid alternatives, each needing explicit approval: a personal Claude Pro plan, or GitHub Actions + an Anthropic API key with billing.
 
 No changes made; nothing scheduled.
+
+## 2026-10-25: Mac-based daily schedule set up (owner decision)
+
+**Owner decision:** "i think its fine to scheudle on my mac."
+
+**Owner questions, answered from the app's documented behaviour:**
+- Runs happen while the Claude app is open, even in the background. If the app is quit, the task runs on next launch.
+- A closed lid means the Mac is asleep, and nothing runs; the app catches up when it's opened.
+
+**Changes:**
+- `daily.py`: new "due day" rule. From 9 p.m. Boston time today is due, otherwise yesterday, so a late run (e.g. 7 a.m.) finishes the missed evening instead of a half-day.
+- Missed-day detection now counts back from the due day.
+- 3 new tests, including the daylight-saving switch; 53 pass.
+- Created scheduled task `daily-canvas-nightly` in the Claude desktop app: daily at 9:07 p.m. local time (app shows 9:12 p.m. after its load-balancing delay; the Mac is set to America/New_York). Saved in Auto mode.
+- Prompt copy: `ops/scheduled-task-prompt.md`. Runbook updated to commit and push to `main`, then verify the live site.
+- First real automatic entry expected 2026-10-26; that run sets `launch_date`. Tonight's 9:12 p.m. run (Oct 25 already published) is a mechanics test.
+
+**Known limitation:**
+- No entry appears on nights the Mac is asleep or off; those days are backfilled later and marked as made late.
+- The cloud option remains blocked until Northeastern enables GitHub for Claude Code cloud sessions.

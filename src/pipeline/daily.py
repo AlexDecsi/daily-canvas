@@ -8,6 +8,7 @@ This script handles everything around them:
         Today's Boston date, whether it's done, and missed days to backfill.
 
     python3 src/pipeline/daily.py prepare [YYYY-MM-DD]
+        (No date: the day that is due: today after 9 p.m. Boston time, else yesterday.)
         Lock the date, stop if it's already published, start the run log, and
         gather news: feeds for today, Wikipedia-as-of-that-day for past dates.
 
@@ -41,7 +42,7 @@ sys.path.insert(0, str(ROOT / "src" / "art"))
 import brief as brief_check  # noqa: E402
 import build_site  # noqa: E402
 import check_art  # noqa: E402
-from timewindow import iso, today_in_boston  # noqa: E402
+from timewindow import BOSTON, iso, today_in_boston  # noqa: E402
 
 CONFIG = json.loads((ROOT / "config" / "pipeline.json").read_text())
 LIMITS = CONFIG["limits"]
@@ -79,6 +80,19 @@ def entry_status(day, entries_dir=ENTRIES):
 
 def is_published(day, entries_dir=ENTRIES):
     return entry_status(day, entries_dir) in PUBLIC_STATUSES
+
+
+def due_day(now=None, publish_time=None):
+    """The newest news day that should be finished by now: today from 9 p.m. Boston time, otherwise yesterday.
+
+    A run that starts late (e.g. the Mac was asleep at 9 p.m. and wakes at 7 a.m.) finishes the evening it
+    missed instead of starting a half-day entry for a day whose news isn't over yet.
+    """
+    now = (now or now_utc()).astimezone(BOSTON)
+    hour, minute = map(int, (publish_time or CONFIG["target_publish_time"]).split(":"))
+    if (now.hour, now.minute) >= (hour, minute):
+        return now.date().isoformat()
+    return (now.date() - timedelta(days=1)).isoformat()
 
 
 def missing_dates(today, launch, last_day, entries_dir=ENTRIES):
@@ -141,24 +155,24 @@ def update_log(day, **fields):
 # ---------- commands ----------
 
 def cmd_status():
-    today = today_in_boston()
+    today, due = today_in_boston(), due_day()
     launch, last = CONFIG["launch_date"], CONFIG["last_day"]
     print(f"Boston date today: {today}   (target publish ~{CONFIG['target_publish_time']} {CONFIG['timezone']})")
     print(f"Launch date: {launch or 'not set yet (pre-launch dry runs)'}   Last day: {last}")
-    print(f"Today's entry: {entry_status(today) or 'none'}")
-    missing = missing_dates(today, launch, last)
+    print(f"Due now: {due} -> entry: {entry_status(due) or 'none'}")
+    missing = missing_dates(due, launch, last)
     cap = LIMITS["backfill_dates_per_run"]
     print(f"Missed days needing backfill: {len(missing)}" + (f" -> this run takes {missing[:cap]}" if missing else ""))
     if len(missing) > cap:
         print(f"  backlog remains after this run: {missing[cap:]}")
-    if today > last:
+    if due > last:
         print("The project window has ended: no new daily entries (backfill/corrections only with owner approval).")
     return 0
 
 
 def cmd_prepare(day=None):
     today = today_in_boston()
-    day = day or today
+    day = day or due_day()
     if day > CONFIG["last_day"]:
         print(f"{day} is after the project's last day ({CONFIG['last_day']}). Stopping.")
         return 3
