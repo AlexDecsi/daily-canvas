@@ -237,3 +237,16 @@ Each got 1 draft + 2 self-critique revisions. Main fixes:
 **Not done yet:**
 - No Claude cloud environment exists ("no_environment"), so there is no scheduled run. Next: the owner opens claude.ai/code, connects GitHub (Claude GitHub App, this repo only) and creates an environment.
 - `launch_date` stays null until a scheduled run publishes successfully.
+
+## 2026-10-25: Phase 5 blocker: cloud sessions need GitHub access the university hasn't enabled
+
+**Verified:** the owner signed in at claude.ai/code (Northeastern Enterprise account). Onboarding showed: "GitHub access is required for Claude Code cloud sessions. Contact an organization owner."
+
+**Meaning:** the organization's owners haven't enabled the GitHub connector for Claude Code cloud sessions, so no cloud environment or scheduled cloud task can run this project on the university seat. The owner can't fix this alone.
+
+**Options put to the owner:**
+- Ask Northeastern's Claude admins to enable GitHub for Claude Code on the web. Free; timing unknown.
+- Interim: a scheduled task in the Claude desktop app on the owner's Mac. Free, but it runs only while the Mac is awake and the app is open; missed days are backfilled up to 2 per run.
+- Paid alternatives, each needing explicit approval: a personal Claude Pro plan, or GitHub Actions + an Anthropic API key with billing.
+
+No changes made; nothing scheduled.
