@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-26",
+  "mode": "live (scheduled pre-launch run)",
+  "prepared_at": "2026-10-27T01:25:00Z",
+  "candidates_considered": 25,
+  "rationale": "The Justice Department's new charges against former FBI Director James Comey were the day's top US national story (12 US outlets, 9 front pages), unsealed a week before the midterms. Focal. Brazil's Lula winning a fourth term ranked second but is international with only indirect US ties (Trump called the result 'rigged'). Anthropic's IPO filing, Walter Koenig's death and the $1-million voter-fraud reward were noted but are smaller or harder to draw truthfully alongside the focal story. The same-day ruling that Maurene Comey was unlawfully fired is related but a separate case; left out to keep one clear picture. No Boston story matched the national significance.",
+  "stories": [
+    {
+      "role": "focal",
+      "name": "James Comey charged a third time",
+      "facts": [
+        "Federal prosecutors charged former FBI Director James Comey with transmitting national defense information and conspiring to do so, in court papers unsealed Monday.",
+        "The case concerns an October 2016 New York Times story about a secret court order for Yahoo to scan emails; prosecutors say Comey had staff talk to the reporter.",
+        "The charges were filed as a criminal information, not a grand jury indictment; Comey's lawyers say they are time-barred. It is the third attempt to prosecute him in about a year.",
+        "Comey said in a video statement that he is innocent."
+      ],
+      "people": [
+        {"name": "James Comey", "public_figure": true, "verified_action": "released a video statement saying he is innocent"}
+      ],
+      "visual_notes": "Comey (very tall, short receding grey hair, dark suit) speaking to a camera, with case papers whose seal has been broken. Don't draw a courtroom appearance, arrest or handcuffs (none reported), Trump, or any readable text.",
+      "confidence": "high",
+      "sources": [
+        {"publisher": "NBC News", "group": "nbc", "title": "James Comey charged for a third time by the Trump administration",
+         "url": "https://www.nbcnews.com/politics/justice-department/former-fbi-james-comey-charged-third-time-trump-national-security-rcna342963",
+         "published_at": "2026-10-26T21:21:01Z", "checked_at": "2026-10-27T01:18:00Z", "checked": "full article"},
+        {"publisher": "PBS NewsHour (AP)", "group": "pbs", "wire": "AP", "title": "Trump administration charges former FBI Director James Comey for the third time",
+         "url": "https://www.pbs.org/newshour/politics/trump-administration-charges-former-fbi-director-james-comey-for-the-third-time",
+         "published_at": "2026-10-26T22:01:32Z", "checked_at": "2026-10-27T01:18:00Z", "checked": "full article"},
+        {"publisher": "The Guardian", "group": "guardian", "title": "Justice department charges ex-FBI director James Comey for third time",
+         "url": "https://www.theguardian.com/us-news/2026/oct/26/james-comey-charged-doj",
+         "published_at": "2026-10-26T22:17:09Z", "checked_at": "2026-10-27T01:20:00Z", "checked": "feed headline and summary"}
+      ]
+    }
+  ]
+}

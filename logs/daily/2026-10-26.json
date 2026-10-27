@@ -1,0 +1,58 @@
+{
+  "date": "2026-10-26",
+  "runs": [
+    {
+      "started_at": "2026-10-27T01:12:58.082480Z",
+      "outcome": "published",
+      "steps": [
+        {
+          "at": "2026-10-27T01:12:58.082484Z",
+          "step": "prepare: lock acquired (live)"
+        },
+        {
+          "at": "2026-10-27T01:13:11.063071Z",
+          "step": "prepare: ran src/news/feeds.py"
+        },
+        {
+          "at": "2026-10-27T01:13:11.199777Z",
+          "step": "prepare: ran src/news/cluster.py"
+        },
+        {
+          "at": "2026-10-27T01:15:50.589818Z",
+          "step": "finalize: published to local site"
+        }
+      ],
+      "_new_run": true,
+      "mode": "live",
+      "prelaunch": true,
+      "finished_at": "2026-10-27T01:15:50.589726Z",
+      "link_checks": [
+        {
+          "url": "https://www.nbcnews.com/politics/justice-department/former-fbi-james-comey-charged-third-time-trump-national-security-rcna342963",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.pbs.org/newshour/politics/trump-administration-charges-former-fbi-director-james-comey-for-the-third-time",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.theguardian.com/us-news/2026/oct/26/james-comey-charged-doj",
+          "ok": true,
+          "note": "HTTP 200"
+        }
+      ],
+      "samples_removed": [],
+      "stories_shown": [
+        "James Comey charged a third time"
+      ],
+      "usage": {
+        "article_reads": 2,
+        "web_searches": 0,
+        "render_rounds": 3,
+        "minutes": 18
+      }
+    }
+  ]
+}

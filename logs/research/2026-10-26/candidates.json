@@ -1,0 +1,1958 @@
+{
+  "date": "2026-10-26",
+  "fetched_at": "2026-10-27T01:13:11.044323Z",
+  "items_considered": 593,
+  "candidates": [
+    {
+      "headline": "James Comey charged for a third time by the Trump administration",
+      "score": 190,
+      "signals": {
+        "us_outlets": 12,
+        "intl_outlets": 2,
+        "front_pages": 9,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "Axios",
+        "BBC News",
+        "Bloomberg",
+        "CBS News",
+        "CNBC",
+        "NBC Boston",
+        "NBC News",
+        "NPR",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The Guardian",
+        "The Hill",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-10-26T05:31:22Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "James Comey charged for a third time by the Trump administration",
+          "url": "https://www.nbcboston.com/news/national-international/james-comey-charged-third-time-trump-administration/4037685/",
+          "published_at": "2026-10-26T05:31:22Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump administration illegally fired James Comey's daughter, judge rules",
+          "url": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-26T19:27:21Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump DOJ unlawfully fired Epstein prosecutor Maurene Comey, judge rules",
+          "url": "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html",
+          "published_at": "2026-10-26T20:03:58Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge rules Trump DOJ 'unlawfully' fired Maurene Comey",
+          "url": "https://abcnews.com/US/judge-reinstates-maurene-comey-after-ruling-firing-unlawful/story?id=137575599",
+          "published_at": "2026-10-26T20:46:52Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "James Comey charged for a third time by the Trump administration",
+          "url": "https://www.nbcnews.com/politics/justice-department/former-fbi-james-comey-charged-third-time-trump-national-security-rcna342963",
+          "published_at": "2026-10-26T21:21:01Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "DOJ charges Comey for third time",
+          "url": "https://thehill.com/regulation/court-battles/6173552-james-comey-doj-charges-third-time/",
+          "published_at": "2026-10-26T21:48:04Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "James Comey faces two new federal charges",
+          "url": "https://www.nbcnews.com/video/james-comey-faces-two-new-federal-charges-272257605808",
+          "published_at": "2026-10-26T21:52:44Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump administration charges former FBI Director James Comey for the third time",
+          "url": "https://www.pbs.org/newshour/politics/trump-administration-charges-former-fbi-director-james-comey-for-the-third-time",
+          "published_at": "2026-10-26T22:01:32Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "DOJ Accuses Ex-FBI Director Comey of Sharing Defense Secrets",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-26/doj-accuses-ex-fbi-director-comey-of-sharing-defense-secrets",
+          "published_at": "2026-10-26T22:03:20Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "DOJ trying to charge Trump-foe James Comey for third time, records show",
+          "url": "https://www.cbsnews.com/video/doj-trying-charge-trump-foe-james-comey-third-time-records-show/",
+          "published_at": "2026-10-26T22:14:00Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Justice department charges ex-FBI director James Comey for third time",
+          "url": "https://www.theguardian.com/us-news/2026/oct/26/james-comey-charged-doj",
+          "published_at": "2026-10-26T22:17:09Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump administration attempting to prosecute former FBI Director James Comey again",
+          "url": "https://www.bostonglobe.com/2026/10/26/nation/trump-james-comey/",
+          "published_at": "2026-10-26T22:20:46Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "DOJ charges ex-FBI Director James Comey in new case",
+          "url": "https://www.cnbc.com/2026/10/26/james-comey-indictment-national-defense-doj-trump.html",
+          "published_at": "2026-10-26T22:24:36Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Comey reacts to new charges: 'Funny' if it weren't 'appalling abuse' of DOJ",
+          "url": "https://thehill.com/regulation/court-battles/6173667-comey-slams-doj-charges/",
+          "published_at": "2026-10-26T22:46:36Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "James Comey charged again by the DOJ",
+          "url": "https://www.axios.com/2026/10/26/james-comey-national-defense-information-charges",
+          "published_at": "2026-10-26T23:05:31Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "New DOJ Charges Against Ex-FBI Chief Comey Unsealed by Court",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-26/balance-of-power-late-edition-10-26-2026-video",
+          "published_at": "2026-10-26T23:19:59Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump administration attempting to prosecute former FBI Director James Comey again",
+          "url": "https://www.wcvb.com/article/trump-administration-prosecute-james-comey-again/74253179",
+          "published_at": "2026-10-26T23:20:00Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Appeals court rules against DOJ in California ballot fight",
+          "url": "https://thehill.com/homenews/administration/6173747-appeals-court-denies-emergency-election-stay/",
+          "published_at": "2026-10-26T23:25:14Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "DOJ seeking to charge Comey with conspiring to disclose national defense information",
+          "url": "https://abcnews.com/Politics/doj-seeks-charge-comey-conspiring-disclose-national-defense/story?id=137584148",
+          "published_at": "2026-10-26T23:28:08Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Court dismisses DOJ's request to force California to set aside ballots",
+          "url": "https://www.cbsnews.com/news/appeals-court-dismisses-doj-trump-california-ballots/",
+          "published_at": "2026-10-26T23:37:00Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Appeals court declines to rule on federal bid to set aside California ballots of alleged noncitizens",
+          "url": "https://www.wcvb.com/article/appeals-court-california-ballots-alleged-noncitizens/74253826",
+          "published_at": "2026-10-26T23:39:00Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Appeals Court Declines to Intervene in California Ballot Lawsuit",
+          "url": "https://www.nytimes.com/2026/10/26/us/politics/appeals-court-california-ballot-suit.html",
+          "published_at": "2026-10-27T00:04:44Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Court rejects DOJ bid to block some California votes; Anthropic admits Claude accessed voter data",
+          "url": "https://www.cbsnews.com/video/court-rejects-doj-bid-block-some-california-votes-anthropic-admits-claude-accessed-voter-data/",
+          "published_at": "2026-10-27T00:07:18Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Ex-FBI chief James Comey faces federal charges for third time",
+          "url": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-27T00:07:28Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump administration asks Washington to set aside ballots from 400 voters it says may be noncitizens",
+          "url": "https://www.wcvb.com/article/trump-washington-ballots-400-voters-noncitizens/74253062",
+          "published_at": "2026-10-27T00:17:00Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Legal analysis of DOJ taking steps to charge James Comey again",
+          "url": "https://www.cbsnews.com/video/legal-analysis-doj-taking-steps-charge-james-comey-again/",
+          "published_at": "2026-10-27T00:20:02Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Why DOJ's attempt to charge James Comey again is highly unusual",
+          "url": "https://www.cbsnews.com/video/why-dojs-attempt-charge-james-comey-again-highly-unusual/",
+          "published_at": "2026-10-27T00:24:00Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Court blocks bid by Trump DoJ to stop California from counting mail-in ballots",
+          "url": "https://www.theguardian.com/us-news/2026/oct/26/court-california-ballots",
+          "published_at": "2026-10-27T00:31:37Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump administration attempting to prosecute former FBI Director James Comey again",
+          "url": "https://www.npr.org/2026/10/26/nx-s1-6018628/trump-administration-attempting-to-prosecute-former-fbi-director-james-comey-again",
+          "published_at": "2026-10-27T00:31:45Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Justice Dept. Brings More Charges Against Comey, Accusing Him of Leaks",
+          "url": "https://www.nytimes.com/2026/10/26/us/politics/james-comey-charges-doj.html",
+          "published_at": "2026-10-27T00:48:05Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "DOJ takes steps to charge James Comey again",
+          "url": "https://www.cbsnews.com/news/doj-takes-steps-to-charge-james-comey/",
+          "published_at": "2026-10-27T01:03:25Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "DOJ asks Washington state to set aside 400 ballots from voters it says may be noncitizens",
+          "url": "https://www.nbcnews.com/politics/2026-election/doj-asks-washington-state-set-400-ballots-voters-says-may-noncitizens-rcna605836",
+          "published_at": "2026-10-27T01:08:44Z"
+        }
+      ]
+    },
+    {
+      "headline": "Brazilian President Lula wins a historic fourth term",
+      "score": 132,
+      "signals": {
+        "us_outlets": 8,
+        "intl_outlets": 2,
+        "front_pages": 6,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "Bloomberg",
+        "CNBC",
+        "NBC News",
+        "NPR",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The Guardian",
+        "The Hill",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-26T09:35:12Z",
+      "reports": [
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Brazilian President Lula wins a historic fourth term",
+          "url": "https://www.nbcnews.com/video/brazilian-president-lula-wins-a-historic-fourth-term-272213573962",
+          "published_at": "2026-10-26T09:35:12Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Redistricting isn't playing out how the GOP hoped. And, Brazil's Lula wins 4th term",
+          "url": "https://www.npr.org/2026/10/26/g-s1-149917/up-first-newsletter-republican-redistricting-france-serbia-protests-brazil-luiz-inacio-lula-da-silva",
+          "published_at": "2026-10-26T11:11:00Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Brazil runoff as it happened: world leaders congratulate Lula on historic election win as Bolsonaro refuses to concede",
+          "url": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
+          "published_at": "2026-10-26T17:10:31Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Lula wins Brazil runoff after prediction markets favored Bolsonaro",
+          "url": "https://www.cnbc.com/2026/10/26/lula-brazil-election-prediction-markets.html",
+          "published_at": "2026-10-26T17:29:37Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "How Lula beat far-right Bolsonaro in Brazil \u2013 The Latest",
+          "url": "https://www.theguardian.com/news/audio/2026/oct/26/how-lula-beat-far-right-bolsonaro-in-brazil-the-latest",
+          "published_at": "2026-10-26T17:38:16Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "How the streets and social media drove Lula to a historic comeback in Brazil",
+          "url": "https://www.theguardian.com/world/2026/oct/26/lula-victory-brazil-bolsonaro-analysis",
+          "published_at": "2026-10-26T17:56:50Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump Says Brazil Election Looked \u2018Rigged\u2019 After Lula\u2019s Win",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-26/trump-says-brazil-election-looked-rigged-after-lula-victory",
+          "published_at": "2026-10-26T19:52:53Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Lula mobilized millions to win Brazil\u2019s election, while Bolsonaro contests loss and Trump cries foul",
+          "url": "https://www.bostonglobe.com/2026/10/26/world/brazil-lula-leftist-denies-trump-ally/",
+          "published_at": "2026-10-26T20:02:57Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Lula Defeats Bolsonaro for Brazil Presidency, in Blow to Latin America\u2019s Right",
+          "url": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-president-lula-bolsonaro.html",
+          "published_at": "2026-10-26T20:32:15Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Latin America\u2019s most influential statesman halts a right-wing surge",
+          "url": "https://www.bostonglobe.com/2026/10/26/world/latin-americas-most-influential-statesman-halts-right-wing-surge/",
+          "published_at": "2026-10-26T20:51:28Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "What to Know About Lula\u2019s Election Victory in Brazil, and What Comes Next",
+          "url": "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-win-what-to-know.html",
+          "published_at": "2026-10-26T20:55:24Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Lula wins fourth term in dramatic Brazil election comeback",
+          "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-26T21:02:47Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Lula bucks prediction markets with Brazilian presidential win",
+          "url": "https://thehill.com/policy/technology/6173602-lula-brazil-election-prediction-markets/",
+          "published_at": "2026-10-26T22:23:57Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Lula prevails in Brazil but Fl\u00e1vio Bolsonaro refuses to concede",
+          "url": "https://www.pbs.org/newshour/show/lula-prevails-in-brazil-but-flavio-bolsonaro-refuses-to-concede",
+          "published_at": "2026-10-26T22:40:58Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Brazil: defeated Fl\u00e1vio Bolsonaro ordered to surrender passports",
+          "url": "https://www.theguardian.com/world/2026/oct/26/flavio-bolsonaro-brazil-lula-election",
+          "published_at": "2026-10-26T23:02:17Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Bolsonaro Changes Strategy, Drops Bid to Annul Brazil Election",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-26/bolsonaro-changes-strategy-drops-bid-to-annul-brazil-election",
+          "published_at": "2026-10-26T23:23:09Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "The digital army that catapulted Lula to victory in Brazil",
+          "url": "https://www.bostonglobe.com/2026/10/26/world/lula-brazil-election-bolsonaro/",
+          "published_at": "2026-10-26T23:51:49Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Brazil Supreme Court Orders Fl\u00e1vio Bolsonaro to Hand Over Passports in Money Laundering Inquiry",
+          "url": "https://www.nytimes.com/2026/10/26/world/americas/flavio-bolsonaro-passport-brazil.html",
+          "published_at": "2026-10-26T23:55:15Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Reader Q&A: After Lula\u2019s sensational victory in Brazil\u2019s presidential election, post your questions for the Guardian\u2019s Latin America correspondent",
+          "url": "https://www.theguardian.com/world/live/2026/oct/27/brazil-election-reader-questions-lula-bolsonaro",
+          "published_at": "2026-10-27T00:00:03Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "How Lula\u2019s Social Media Campaign Helped Him Win Brazil\u2019s Election",
+          "url": "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-social-media.html",
+          "published_at": "2026-10-27T00:45:26Z"
+        }
+      ]
+    },
+    {
+      "headline": "Anthropic files for potentially the biggest IPO ever even as CEO warns of risk to humanity from AI",
+      "score": 97,
+      "signals": {
+        "us_outlets": 6,
+        "intl_outlets": 1,
+        "front_pages": 4,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Axios",
+        "BBC News",
+        "Bloomberg",
+        "CBS News",
+        "NBC Boston",
+        "NPR",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-10-26T12:04:44Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Anthropic files for potentially the biggest IPO ever even as CEO warns of risk to humanity from AI",
+          "url": "https://www.nbcboston.com/news/national-international/anthropic-files-biggest-ipo-ever-ceo-warns-risk-humanity-ai/4037427/",
+          "published_at": "2026-10-26T12:04:44Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Anthropic's IPO outlines AI's extraordinary risks",
+          "url": "https://www.axios.com/2026/10/26/anthropic-ipo-risk-factors-humanity",
+          "published_at": "2026-10-26T13:52:48Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "AI giant Anthropic files for an IPO that could break records",
+          "url": "https://www.npr.org/2026/10/26/nx-s1-6014772/anthropic-ai-ipo-could-break-records",
+          "published_at": "2026-10-26T14:16:23Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+          "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-26T16:27:17Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Anthropic files for IPO as it competes for AI dominance",
+          "url": "https://www.cbsnews.com/news/anthropic-ipo-plans-ai-safety/",
+          "published_at": "2026-10-26T16:43:05Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Anthropic's blockbuster share listing - 5 surprising things we now know",
+          "url": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-26T19:57:23Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Anthropic files for potentially the biggest IPO ever even as CEO warns of risk to humanity from AI",
+          "url": "https://www.bostonglobe.com/2026/10/26/business/anthropic-to-sell-shares-to-public/",
+          "published_at": "2026-10-26T20:11:54Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Anthropic Files for IPO",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-26/bloomberg-businessweek-daily-10-26-2026-video",
+          "published_at": "2026-10-26T20:22:58Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Anthropic IPO, AI Financing & Markets Rally",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-26/the-close-10-26-2026-video",
+          "published_at": "2026-10-26T21:54:50Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Bloomberg Businessweek Daily: Anthropic Files for IPO (Podcast)",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-26/businessweek-daily-anthropic-files-for-ipo-podcast-video",
+          "published_at": "2026-10-26T22:42:00Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Inside Anthropic's massive \u2014 and wild \u2014 IPO prospectus",
+          "url": "https://www.axios.com/2026/10/26/anthropic-ipo-biggest-surprises",
+          "published_at": "2026-10-26T22:58:44Z"
+        }
+      ]
+    },
+    {
+      "headline": "Walter Koenig, actor who played Chekov on original \u2018Star Trek\u2019 series, dies at 90",
+      "score": 96,
+      "signals": {
+        "us_outlets": 6,
+        "intl_outlets": 0,
+        "front_pages": 5,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "CBS News",
+        "MassLive",
+        "NBC News",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-26T17:55:53Z",
+      "reports": [
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Walter Koenig, actor who played Chekov on original \u2018Star Trek\u2019 series, dies at 90",
+          "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/walter-koenig-actor-played-chekov-original-star-trek-series-dies-90-rcna605743",
+          "published_at": "2026-10-26T17:55:53Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Walter Koenig, Chekov From \u2018Star Trek,\u2019 Has Died",
+          "url": "https://www.nytimes.com/2026/10/26/arts/television/walter-koenig-chekov-star-trek-dead.html",
+          "published_at": "2026-10-26T18:32:43Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Legendary \u2018Star Trek\u2019 actor dies at 90: \u2018My heart is heavy\u2019",
+          "url": "https://www.masslive.com/entertainment/2026/10/legendary-star-trek-actor-dies-at-90-my-heart-is-heavy.html",
+          "published_at": "2026-10-26T18:42:11Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Walter Koenig, actor who played Chekov on \"Star Trek,\" dies at 90",
+          "url": "https://www.cbsnews.com/news/walter-koenig-dies-age-90-chekov-star-trek/",
+          "published_at": "2026-10-26T19:44:27Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Walter Koenig, Ensign Chekov on the original 'Star Trek' series, dies at 90",
+          "url": "https://www.pbs.org/newshour/arts/walter-koenig-ensign-chekov-on-the-original-star-trek-series-dies-at-90",
+          "published_at": "2026-10-26T20:10:25Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Walter Koenig, Ensign Chekov on original \u2018Star Trek\u2019 series, has died",
+          "url": "https://www.bostonglobe.com/2026/10/26/arts/walter-koenig-died/",
+          "published_at": "2026-10-26T20:33:29Z"
+        }
+      ]
+    },
+    {
+      "headline": "Ahead of midterms, Trump offers $1-million reward to voter fraud tipsters",
+      "score": 88,
+      "signals": {
+        "us_outlets": 6,
+        "intl_outlets": 1,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "Los Angeles Times",
+        "NBC News",
+        "The Guardian",
+        "The Hill",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-10-26T21:16:17Z",
+      "reports": [
+        {
+          "publisher": "Los Angeles Times",
+          "group": "latimes",
+          "kind": "news",
+          "wire": false,
+          "title": "Ahead of midterms, Trump offers $1-million reward to voter fraud tipsters",
+          "url": "https://www.latimes.com/politics/story/2026-10-26/ahead-of-midterms-trump-offers-1-million-reward-to-voter-fraud-tipsters",
+          "published_at": "2026-10-26T21:16:17Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump offers $1 million reward for voter fraud tips that lead to convictions",
+          "url": "https://www.nbcnews.com/politics/2026-election/trump-offers-1-million-reward-voter-fraud-tips-lead-convictions-rcna605798",
+          "published_at": "2026-10-26T22:09:48Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump announces $1M rewards for voter fraud tips ahead of midterms",
+          "url": "https://thehill.com/homenews/administration/6173577-trump-voter-fraud-reward-announcement/",
+          "published_at": "2026-10-26T22:10:57Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump offers $1M reward for voter fraud tips that result in conviction",
+          "url": "https://abcnews.com/Politics/trump-offers-1m-reward-people-report-voter-fraud/story?id=137581908",
+          "published_at": "2026-10-26T22:20:16Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump dangles $1m reward for reporting voter fraud in past or upcoming elections",
+          "url": "https://www.theguardian.com/us-news/2026/oct/26/trump-reward-reporting-voter-fraud",
+          "published_at": "2026-10-26T22:23:40Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump Dangles $1 Million Reward for Reporting Voter Fraud",
+          "url": "https://www.nytimes.com/2026/10/26/us/trump-1-million-reward-voter-fraud-tips.html",
+          "published_at": "2026-10-26T22:26:34Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump offers $1 million for voter fraud tips as midterms loom",
+          "url": "https://www.wcvb.com/article/trump-million-voter-fraud/74254398",
+          "published_at": "2026-10-27T01:05:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Trump failed to stop inflation. Now Republicans may pay the price in the midterms",
+      "score": 82,
+      "signals": {
+        "us_outlets": 5,
+        "intl_outlets": 0,
+        "front_pages": 4,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "CBS News",
+        "Fox News",
+        "The Boston Globe",
+        "The Hill"
+      ],
+      "first_seen": "2026-10-26T12:12:54Z",
+      "reports": [
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump failed to stop inflation. Now Republicans may pay the price in the midterms",
+          "url": "https://abcnews.com/Business/wireStory/trump-failed-stop-inflation-now-republicans-pay-price-137565686",
+          "published_at": "2026-10-26T12:12:54Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump failed to stop inflation. Now Republicans may pay the price in the midterm elections.",
+          "url": "https://www.bostonglobe.com/2026/10/26/business/trump-inflation-republican-midterms/",
+          "published_at": "2026-10-26T13:32:23Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Republicans face a midterm reckoning over prices at the pump",
+          "url": "https://thehill.com/policy/energy-environment/6173484-republicans-high-gas-prices-voters-midterms/",
+          "published_at": "2026-10-26T21:58:10Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Not even sky high gas prices or the Iran war will stop Trump supporters voting MAGA",
+          "url": "https://www.foxnews.com/politics/sky-high-gas-prices-iran-war-wont-stop-trump-supporters-voting-maga",
+          "published_at": "2026-10-26T22:00:34Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Republican, Democratic strategists break down pre-midterm rhetoric from Trump, Obama",
+          "url": "https://www.cbsnews.com/video/republican-democratic-strategists-pre-midterm-rhetoric-trump-obama/",
+          "published_at": "2026-10-26T23:16:33Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "High gas prices could put Texas in play for Democrats",
+          "url": "https://www.cbsnews.com/video/high-gas-prices-could-put-texas-play-democrats/",
+          "published_at": "2026-10-27T00:54:03Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump, Obama hold rallies ahead of midterms",
+          "url": "https://www.cbsnews.com/video/trump-obama-hold-rallies-ahead-of-midterms/",
+          "published_at": "2026-10-27T00:59:04Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "White House defends Trump after archbishop calls prayer moment 'manipulated' ahead of midterms",
+          "url": "https://www.foxnews.com/media/white-house-defends-trump-after-archbishop-calls-prayer-moment-manipulated-ahead-midterms",
+          "published_at": "2026-10-27T01:00:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Police arrest a 15-year-old in shooting near Florida A&M stadium",
+      "score": 81,
+      "signals": {
+        "us_outlets": 5,
+        "intl_outlets": 2,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "CBS News",
+        "ESPN",
+        "NBC News",
+        "The Boston Globe",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-26T12:37:48Z",
+      "reports": [
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Police arrest a 15-year-old in shooting near Florida A&M stadium",
+          "url": "https://www.nbcnews.com/now/video/police-arrest-suspect-in-shooting-near-florida-a-m-stadium-272217669952",
+          "published_at": "2026-10-26T12:37:48Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "12 injured in shooting near Florida A&M; 15-year-old arrested",
+          "url": "https://www.cbsnews.com/news/tallahassee-florida-shooting-a-m-university/",
+          "published_at": "2026-10-26T13:44:06Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Police arrest teenager after shooting that injured 12, including children, in Florida",
+          "url": "https://www.bbc.co.uk/news/articles/ckpdg8vnv171o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-26T15:45:30Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Fifteen-year-old arrested in shooting near Florida university that injured 12",
+          "url": "https://www.theguardian.com/us-news/2026/oct/26/florida-famu-shooting-arrest",
+          "published_at": "2026-10-26T18:01:23Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "15-year-old arrested in Florida A&M shooting that wounded 11 after homecoming game",
+          "url": "https://www.bostonglobe.com/2026/10/26/nation/florida-tallahassee-shooting-arrest/",
+          "published_at": "2026-10-26T18:20:28Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Teen Arrested in Florida Shooting Will Be Tried as Adult, Officials Say",
+          "url": "https://www.nytimes.com/2026/10/26/us/famu-shooting-florida-arrest.html",
+          "published_at": "2026-10-26T23:00:27Z"
+        },
+        {
+          "publisher": "ESPN",
+          "group": "espn",
+          "kind": "news",
+          "wire": false,
+          "title": "Police called to remove family of 3-year-old from Florida soccer tourney",
+          "url": "https://www.espn.com/soccer/story/_/id/50290518/police-called-remove-3-year-old-florida-soccer-tournament",
+          "published_at": "2026-10-27T01:06:36Z"
+        }
+      ]
+    },
+    {
+      "headline": "Sandra Birchmore's therapist back on stand after doubting suicide theory in trial",
+      "score": 67,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "NBC Boston",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-10-26T07:11:17Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Sandra Birchmore's therapist back on stand after doubting suicide theory in trial",
+          "url": "https://www.nbcboston.com/news/local/sandra-birchmores-therapist-suicide-theory-farwell-trial/4037242/",
+          "published_at": "2026-10-26T07:11:17Z"
+        },
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trial recap: Matthew Farwell's brother begins testifying in Sandra Birchmore case",
+          "url": "https://www.nbcboston.com/news/local/matthew-farwell-trial-day-11-live-updates-on-the-sandra-birchmore-case/4037271/",
+          "published_at": "2026-10-26T08:39:35Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Matthew Farwell's twin gets immunity to testify at murder trial",
+          "url": "https://www.masslive.com/news/2026/10/matthew-farwells-twin-given-immunity-for-testimony-at-brothers-murder-trial.html",
+          "published_at": "2026-10-26T20:27:23Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Matthew Farwell\u2019s twin brother takes stand under grant of immunity in Sandra Birchmore trial",
+          "url": "https://www.bostonglobe.com/2026/10/26/metro/sandra-birchmore-trial-live-updates/",
+          "published_at": "2026-10-26T23:18:36Z"
+        }
+      ]
+    },
+    {
+      "headline": "Everett police stop vehicle reported stolen in Lynn with child inside",
+      "score": 66,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": [
+          "boston",
+          "massachusetts"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "NBC Boston",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-10-26T05:37:24Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Everett police stop vehicle reported stolen in Lynn with child inside",
+          "url": "https://www.nbcboston.com/news/local/everett-police-stop-vehicle-reported-stolen-with-child-inside-in-lynn/4037689/",
+          "published_at": "2026-10-26T05:37:24Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Suspect arrested after Everett police find car stolen from Lynn with child inside",
+          "url": "https://www.masslive.com/news/2026/10/suspect-arrested-after-everett-police-find-car-stolen-from-lynn-with-child-inside.html",
+          "published_at": "2026-10-26T23:11:36Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Car stolen in Lynn with child inside safely recovered in Everett, police say",
+          "url": "https://www.wcvb.com/article/everett-lynn-stolen-car-child-recovered-oct-26/74253715",
+          "published_at": "2026-10-26T23:54:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Microsoft offers voluntary buyouts to 60,000 employees as AI spending accelerates",
+      "score": 62,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "CBS News",
+        "CNBC",
+        "NBC Boston",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-10-26T04:10:43Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI spending accelerates",
+          "url": "https://www.nbcboston.com/news/national-international/microsoft-voluntary-buyouts-quarter-global-workforce/4037648/",
+          "published_at": "2026-10-26T04:10:43Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Microsoft offers buyouts to 60,000 workers as it invests more in AI",
+          "url": "https://www.cbsnews.com/news/microsoft-buyouts-60000-workers-artificial-intelligence-layoffs/",
+          "published_at": "2026-10-26T18:07:06Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Microsoft offers a quarter of its global workforce voluntary buyouts as AI spending accelerates",
+          "url": "https://www.bostonglobe.com/2026/10/26/business/microsoft-offers-voluntary-buyouts/",
+          "published_at": "2026-10-26T18:12:21Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
+          "url": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
+          "published_at": "2026-10-27T01:05:06Z"
+        }
+      ]
+    },
+    {
+      "headline": "Catholic bishops accuse Trump White House of turning prayer into campaign photo op",
+      "score": 59,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 2,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "CBS News",
+        "CNBC",
+        "PBS NewsHour",
+        "The Guardian"
+      ],
+      "first_seen": "2026-10-26T15:05:34Z",
+      "reports": [
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Catholic bishops accuse Trump White House of turning prayer into campaign photo op",
+          "url": "https://www.theguardian.com/us-news/2026/oct/26/catholic-bishops-trump-white-house-prayer",
+          "published_at": "2026-10-26T15:05:34Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Catholic bishops apologise for 'exploited' Trump meeting",
+          "url": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-26T15:46:31Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "The arc of Trump: How the president lost the coalition that put him in the White House",
+          "url": "https://www.cnbc.com/2026/10/26/trump-approval-midterms-cnbc-survey.html",
+          "published_at": "2026-10-26T17:36:55Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Catholic bishops say White House prayer photo with Trump was used politically",
+          "url": "https://www.pbs.org/newshour/politics/catholic-bishops-say-white-house-prayer-photo-with-trump-was-used-politically",
+          "published_at": "2026-10-26T20:02:13Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump, Obama on campaign pushes as Democrats poised to take the House, CBS News poll shows",
+          "url": "https://www.cbsnews.com/video/trump-obama-campaign-pushes-democrats-poised-take-house-cbs-news-poll/",
+          "published_at": "2026-10-26T20:55:22Z"
+        }
+      ]
+    },
+    {
+      "headline": "Australian murderer loses bid to eat Vegemite in prison",
+      "score": 57,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 1,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "CBS News",
+        "NBC News",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-26T04:05:28Z",
+      "reports": [
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Australian murderer loses bid to eat Vegemite in prison",
+          "url": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-26T04:05:28Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Convicted Australian Murderer Loses Bid to Eat Vegemite in Prison",
+          "url": "https://www.nytimes.com/2026/10/26/world/australia/australia-prison-vegemite-ban-lawsuit.html",
+          "published_at": "2026-10-26T16:45:16Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Manhunt Begins After Convicted Murderer Escapes From Tennessee Prison",
+          "url": "https://www.nytimes.com/2026/10/26/us/tennessee-inmate-missing-manhunt.html",
+          "published_at": "2026-10-26T21:34:38Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Manhunt underway for convicted murderer who escaped from Tennessee prison",
+          "url": "https://www.nbcnews.com/nightly-news/video/manhunt-underway-for-convicted-murderer-who-escaped-from-tennessee-prison-272262213778",
+          "published_at": "2026-10-26T22:58:33Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Authorities launch manhunt for convicted killer who escaped from Tennessee prison",
+          "url": "https://www.nbcnews.com/news/us-news/manhunt-murderer-escaped-tennessee-rcna605826",
+          "published_at": "2026-10-26T23:40:38Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Manhunt underway for escaped murderer in Tennessee",
+          "url": "https://www.cbsnews.com/video/manhunt-underway-escaped-murderer-tennessee/",
+          "published_at": "2026-10-27T01:00:36Z"
+        }
+      ]
+    },
+    {
+      "headline": "Trump attacks El-Sayed over his faith, calls him \"jihadist\"",
+      "score": 56,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "CBS News",
+        "NPR",
+        "The Boston Globe",
+        "The Hill"
+      ],
+      "first_seen": "2026-10-26T08:36:01Z",
+      "reports": [
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump attacks El-Sayed over his faith, calls him \"jihadist\"",
+          "url": "https://www.cbsnews.com/news/president-trump-port-huron-rally-republicans/",
+          "published_at": "2026-10-26T08:36:01Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump escalates anti-Muslim attacks against El-Sayed in Michigan",
+          "url": "https://www.npr.org/2026/10/26/nx-s1-6016816/trump-escalates-anti-muslim-attacks",
+          "published_at": "2026-10-26T09:22:36Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump escalates anti-Muslim attacks against El-Sayed in Michigan, drawing Arab American rebuke",
+          "url": "https://www.bostonglobe.com/2026/10/26/nation/el-sayed-trump-anti-muslim-attacks-escalate/",
+          "published_at": "2026-10-26T18:04:06Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "The Memo: El-Sayed allies argue Trump\u2019s anti-Muslim attacks will backfire",
+          "url": "https://thehill.com/homenews/analysis/6173711-el-sayed-trump-islamophobic-attacks-michigan/",
+          "published_at": "2026-10-26T23:05:10Z"
+        }
+      ]
+    },
+    {
+      "headline": "Where the Trump administration's lawsuits seeking voter data stand",
+      "score": 52,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "CBS News",
+        "PBS NewsHour"
+      ],
+      "first_seen": "2026-10-26T13:57:23Z",
+      "reports": [
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Where the Trump administration's lawsuits seeking voter data stand",
+          "url": "https://www.cbsnews.com/news/trump-lawsuits-state-voter-rolls-justice-department/",
+          "published_at": "2026-10-26T13:57:23Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump administration asks Washington state to set aside ballots from 400 voters it says may be noncitizens",
+          "url": "https://www.pbs.org/newshour/politics/trump-administration-asks-washington-state-to-set-aside-ballots-from-400-voters-it-says-may-be-noncitizens",
+          "published_at": "2026-10-26T21:52:57Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "WATCH: Record early voting in key states as Trump, Obama appeal to voters on campaign trail",
+          "url": "https://abcnews.com/video/137585748/",
+          "published_at": "2026-10-26T23:55:23Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Mississippi voters express desire for change as Trump visits red state",
+          "url": "https://www.cbsnews.com/video/mississippi-voters-express-desire-for-change-as-trump-visits-red-state/",
+          "published_at": "2026-10-27T00:13:56Z"
+        }
+      ]
+    },
+    {
+      "headline": "What to Know About Trump\u2019s Rally in Mississippi",
+      "score": 52,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 0,
+        "front_pages": 1,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Bloomberg",
+        "CBS News",
+        "The Hill",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-26T14:17:27Z",
+      "reports": [
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "What to Know About Trump\u2019s Rally in Mississippi",
+          "url": "https://www.nytimes.com/2026/10/26/us/trump-rally-mississippi.html",
+          "published_at": "2026-10-26T14:17:27Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump Rushes to Defend Red State of Mississippi",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-26/midterms-feel-like-blue-tidal-wave-says-jim-kessler-video",
+          "published_at": "2026-10-26T19:05:28Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump campaigning in red states to reassure Republican voters",
+          "url": "https://www.cbsnews.com/video/trump-campaigning-red-states-reassure-republican-voters/",
+          "published_at": "2026-10-26T20:58:08Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump stumps for Republicans in deep-red Mississippi",
+          "url": "https://www.cbsnews.com/video/trump-stumps-republicans-deep-red-mississippi/",
+          "published_at": "2026-10-26T21:42:37Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Watch live: Trump rallies in deep red Mississippi",
+          "url": "https://thehill.com/homenews/state-watch/6173095-trump-mississippi-hyde-smith-gop/",
+          "published_at": "2026-10-26T22:00:00Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Live updates: Trump brings midterm campaign swing to Mississippi",
+          "url": "https://thehill.com/homenews/state-watch/6171272-live-updates-trump-midterm-elections-iran/",
+          "published_at": "2026-10-27T00:07:23Z"
+        }
+      ]
+    },
+    {
+      "headline": "MassDOT has installed 90 wrong-way driving detection systems since June",
+      "score": 50,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "mass.",
+          "massachusetts"
+        ]
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "NBC Boston",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-10-26T08:09:49Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "MassDOT has installed 90 wrong-way driving detection systems since June",
+          "url": "https://www.nbcboston.com/news/local/wrong-way-driving-prevention-update-massdot-after-crashes/4037264/",
+          "published_at": "2026-10-26T08:09:49Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Mass. has installed nearly 90 wrong-way detection cameras. Hundreds more are coming, officials say.",
+          "url": "https://www.bostonglobe.com/2026/10/26/metro/massachusetts-wrong-way-drivers-detection-system/",
+          "published_at": "2026-10-26T19:47:51Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "State announces progress on wrong-way driver detection systems across Mass.",
+          "url": "https://www.boston.com/news/local-news/2026/10/26/wrong-way-detection-system-collision-massachusetts-department-of-transportation/",
+          "published_at": "2026-10-26T23:11:43Z"
+        }
+      ]
+    },
+    {
+      "headline": "Darline Graham Gets Help From the Data Center Industry in South Carolina Senate Race",
+      "score": 50,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 1,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "NBC News",
+        "The Boston Globe",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-26T09:03:34Z",
+      "reports": [
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Darline Graham Gets Help From the Data Center Industry in South Carolina Senate Race",
+          "url": "https://www.nytimes.com/2026/10/26/us/politics/darline-graham-data-centers-south-carolina.html",
+          "published_at": "2026-10-26T09:03:34Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Former South Carolina Governors Endorse Annie Andrews Over Darline Graham in Senate Race",
+          "url": "https://www.nytimes.com/2026/10/26/us/south-carolina-senate-andrews-graham.html",
+          "published_at": "2026-10-26T18:25:41Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Ex-governors give rare bipartisan nod to Democrat in South Carolina Senate race",
+          "url": "https://www.bostonglobe.com/2026/10/26/nation/south-carolina-senate-annie-andrews/",
+          "published_at": "2026-10-26T20:49:50Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Data center group jumps into the Kansas governor\u2019s race to boost Republicans",
+          "url": "https://www.nbcnews.com/politics/2026-election/data-center-group-kansas-governor-race-boost-republicans-rcna605801",
+          "published_at": "2026-10-26T20:52:08Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Ex-South Carolina governors endorse Democrat Annie Andrews in Senate race",
+          "url": "https://www.theguardian.com/us-news/2026/oct/26/south-carolina-governors-annie-andrews-senate",
+          "published_at": "2026-10-26T21:33:30Z"
+        }
+      ]
+    },
+    {
+      "headline": "United flight turned around after report of passenger making a terroristic threat",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "NBC Boston",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-10-26T04:55:30Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "United flight turned around after report of passenger making a terroristic threat",
+          "url": "https://www.nbcboston.com/news/national-international/united-flight-turned-around-report-terroristic-threat/4037664/",
+          "published_at": "2026-10-26T04:55:30Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "'Crash ur row only': United flight turned around after passenger allegedly said he'd 'hijack' plane",
+          "url": "https://www.wcvb.com/article/united-flight-turned-around-terroristic-threat/74252469",
+          "published_at": "2026-10-26T22:29:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Who Is Netanyahu\u2019s Main Opponent in Israel\u2019s Elections?",
+      "score": 49,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 1,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "CBS News",
+        "The Boston Globe",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-26T15:07:30Z",
+      "reports": [
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Who Is Netanyahu\u2019s Main Opponent in Israel\u2019s Elections?",
+          "url": "https://www.nytimes.com/video/world/asia/100000011222464/who-is-netanyahus-main-opponent-in-israels-elections.html",
+          "published_at": "2026-10-26T15:07:30Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Opponents accuse Netanyahu of stoking tensions with Iran before Israel\u2019s election",
+          "url": "https://www.bostonglobe.com/2026/10/26/business/netanyahu-israel-elections-iran/",
+          "published_at": "2026-10-26T17:33:30Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Netanyahu reportedly pressured military to attack Iran in run-up to election",
+          "url": "https://www.theguardian.com/world/2026/oct/26/netanyahu-reportedly-pressured-israel-military-attack-iran-runup-to-election",
+          "published_at": "2026-10-26T19:21:36Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Breaking down how Israel's elections work as Netanyahu faces opposition threat",
+          "url": "https://www.cbsnews.com/video/breaking-down-how-israels-elections-work-netanyahu-faces-opposition-threat/",
+          "published_at": "2026-10-26T22:16:26Z"
+        }
+      ]
+    },
+    {
+      "headline": "BetMGM Bonus Code FOXNEWS: Cover Your First Eagles vs Cowboys, Rays vs Brewers Bets up to $1500",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "celtics"
+        ]
+      },
+      "independent_outlets": [
+        "Fox News",
+        "MassLive"
+      ],
+      "first_seen": "2026-10-26T20:47:02Z",
+      "reports": [
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "BetMGM Bonus Code FOXNEWS: Cover Your First Eagles vs Cowboys, Rays vs Brewers Bets up to $1500",
+          "url": "https://www.foxnews.com/outkick-betting/betmgm-bonus-code-foxnews-cover-your-first-eagles-vs-cowboys-rays-vs-brewers-bets-up-1500",
+          "published_at": "2026-10-26T20:47:02Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Kalshi launches $55 MNF promo code \u201cMASSLIVE1\u201d for Cowboys-Eagles and Bulls-Celtics",
+          "url": "https://www.masslive.com/betting/2026/10/kalshi-launches-55-mnf-promo-code-masslive1-for-cowboys-eagles-and-bulls-celtics.html",
+          "published_at": "2026-10-26T23:45:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Healey activating National Guard to help contain wildfire that spread into western Mass.",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "healey",
+          "mass.",
+          "massachusetts"
+        ]
+      },
+      "independent_outlets": [
+        "The Boston Globe",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-10-27T00:58:00Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Healey activating National Guard to help contain wildfire that spread into western Mass.",
+          "url": "https://www.bostonglobe.com/2026/10/26/metro/healey-activating-national-guard-williamstown-wildfire/",
+          "published_at": "2026-10-27T00:58:00Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "National Guard activated to help fight wildfire that crossed state border",
+          "url": "https://www.wcvb.com/article/williamstown-wildfire-national-guard-oct-26/74254161",
+          "published_at": "2026-10-27T01:07:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Last Ditch bar in Western Mass. closes, seeks new ownership after backlash",
+      "score": 47,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 1,
+        "front_pages": 1,
+        "boston_local": [
+          "mass.",
+          "massachusetts"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-26T20:06:02Z",
+      "reports": [
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Last Ditch bar in Western Mass. closes, seeks new ownership after backlash",
+          "url": "https://www.masslive.com/westernmass/2026/10/last-ditch-bar-in-greenfield-closes-seeks-new-ownership-after-backlash.html",
+          "published_at": "2026-10-26T20:06:02Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Last Ditch, a Lesbian Bar Whose Mask Policy Made It Famous, Will Close",
+          "url": "https://www.nytimes.com/2026/10/26/us/last-ditch-lesbian-bar-closing.html",
+          "published_at": "2026-10-26T20:06:53Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Massachusetts lesbian bar makes frantic effort to find new owners after relaxing masking policy",
+          "url": "https://www.theguardian.com/us-news/2026/oct/26/last-ditch-lesbian-bar-closing",
+          "published_at": "2026-10-26T22:39:32Z"
+        }
+      ]
+    },
+    {
+      "headline": "Venezuelan opposition leader Mar\u00eda Machado returns after months in exile",
+      "score": 46,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 1,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "CBS News",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-26T05:20:19Z",
+      "reports": [
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Venezuelan opposition leader Mar\u00eda Machado returns after months in exile",
+          "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-26T05:20:19Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Crowds welcome Venezuela's Mar\u00eda Machado after months in exile",
+          "url": "https://www.bbc.co.uk/news/videos/cwgkv8kmly4zo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-26T09:31:12Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Mar\u00eda Corina Machado Returns to Venezuela",
+          "url": "https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html",
+          "published_at": "2026-10-26T16:40:43Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Machado\u2019s Return to Venezuela Tests Limits of U.S. Sway",
+          "url": "https://www.nytimes.com/2026/10/26/world/americas/venezuela-machado-rodriguez-trump.html",
+          "published_at": "2026-10-26T23:09:14Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Venezuelan officials allowed Maria Corina Machado to return, Rubio says",
+          "url": "https://www.cbsnews.com/news/venezuelan-officials-allowed-maria-corina-machado-return-rubio/",
+          "published_at": "2026-10-27T00:14:14Z"
+        }
+      ]
+    },
+    {
+      "headline": "France pledges new university admissions for students to quell anger after violent mass protests",
+      "score": 46,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-26T19:31:34Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "France pledges new university admissions for students to quell anger after violent mass protests",
+          "url": "https://www.bostonglobe.com/2026/10/26/world/france-schools-protests-macron/",
+          "published_at": "2026-10-26T19:31:34Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "France pledges new university admissions to quell student anger. But only after Macron leaves office",
+          "url": "https://www.pbs.org/newshour/world/france-pledges-new-university-admissions-to-quell-student-anger-but-only-after-macron-leaves-office",
+          "published_at": "2026-10-26T20:32:27Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "France promises to replace its university admissions system after riots and thousands of arrests",
+          "url": "https://www.boston.com/news/politics/2026/10/26/france-promises-to-replace-its-university-admissions-system-after-riots-and-thousands-of-arrests/",
+          "published_at": "2026-10-26T21:16:04Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "France Makes Concessions to Students, but Not Enough to Halt Protests",
+          "url": "https://www.nytimes.com/2026/10/26/world/europe/france-student-protests.html",
+          "published_at": "2026-10-26T22:22:41Z"
+        }
+      ]
+    },
+    {
+      "headline": "Israeli Jews Across the Spectrum Face an Election of Fears",
+      "score": 45,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-26T10:30:57Z",
+      "reports": [
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Israeli Jews Across the Spectrum Face an Election of Fears",
+          "url": "https://www.nytimes.com/2026/10/26/world/middleeast/israel-election-stakes.html",
+          "published_at": "2026-10-26T10:30:57Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Israeli Jews across the spectrum face an election of fears",
+          "url": "https://www.bostonglobe.com/2026/10/26/world/israeli-jews-across-spectrum-face-an-election-fears/",
+          "published_at": "2026-10-26T19:34:16Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Netanyahu faces Israeli voters in first election since Oct. 7 and Gaza war",
+          "url": "https://www.pbs.org/newshour/show/netanyahu-faces-israeli-voters-in-first-election-since-oct-7-and-gaza-war",
+          "published_at": "2026-10-26T22:45:37Z"
+        }
+      ]
+    }
+  ]
+}

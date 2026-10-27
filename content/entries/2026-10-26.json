@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-26",
+  "published_at": "2026-10-27T01:15:49.844194Z",
+  "status": "published",
+  "prelaunch": true,
+  "title": "Comey charged a third time",
+  "caption": "Former FBI Director James Comey, charged with transmitting national defense information in court papers unsealed Monday, says in a video statement that he is innocent. Prosecutors tie the case to a 2016 New York Times story; his lawyers say the charges, filed without a grand jury indictment, are time-barred. It is the Justice Department's third attempt to prosecute him in about a year.",
+  "stories": [
+    {
+      "name": "James Comey charged a third time",
+      "role": "focal",
+      "facts": [
+        "Federal prosecutors charged former FBI Director James Comey with transmitting national defense information and conspiring to do so, in court papers unsealed Monday.",
+        "The case concerns an October 2016 New York Times story about a secret court order for Yahoo to scan emails; prosecutors say Comey had staff talk to the reporter.",
+        "The charges were filed as a criminal information, not a grand jury indictment; Comey's lawyers say they are time-barred. It is the third attempt to prosecute him in about a year.",
+        "Comey said in a video statement that he is innocent."
+      ],
+      "sources": [
+        {
+          "publisher": "NBC News",
+          "title": "James Comey charged for a third time by the Trump administration",
+          "url": "https://www.nbcnews.com/politics/justice-department/former-fbi-james-comey-charged-third-time-trump-national-security-rcna342963",
+          "published_at": "2026-10-26T21:21:01Z"
+        },
+        {
+          "publisher": "PBS NewsHour (AP)",
+          "title": "Trump administration charges former FBI Director James Comey for the third time",
+          "url": "https://www.pbs.org/newshour/politics/trump-administration-charges-former-fbi-director-james-comey-for-the-third-time",
+          "published_at": "2026-10-26T22:01:32Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "title": "Justice department charges ex-FBI director James Comey for third time",
+          "url": "https://www.theguardian.com/us-news/2026/oct/26/james-comey-charged-doj",
+          "published_at": "2026-10-26T22:17:09Z"
+        }
+      ]
+    }
+  ],
+  "artwork": {
+    "path": "artwork/2026-10-26.svg",
+    "format": "svg",
+    "alt": "Graphic poster illustration: former FBI Director James Comey, tall with receding grey hair, in a dark suit and blue tie, speaks toward a video camera on a tripod against a golden spotlight. On the desk beside him are three stacked case files; the top one is open, its papers fanned out and its red wax seal broken, representing newly unsealed charges, his third case.",
+    "method": "code-generated SVG (graphic-poster kit, src/art/daily/)",
+    "revision": "r3"
+  },
+  "backfill": {
+    "is_backfill": false,
+    "reason": null
+  }
+}
