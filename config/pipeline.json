@@ -2,7 +2,7 @@
   "_about": "Settings for the daily run. Limits keep each run's usage bounded (CLAUDE.md §2.8, §3). Change them only with a note in logs/changes.md.",
   "timezone": "America/New_York",
   "target_publish_time": "21:00",
-  "launch_date": null,
+  "launch_date": "2026-10-26",
   "_launch_date_note": "Set this to the first day the public site and the cloud schedule both work (Phase 5). Daily-entry obligations and missed-day checks start from it. Until then, runs are 'pre-launch' dry runs.",
   "last_day": "2026-12-18",
   "limits": {

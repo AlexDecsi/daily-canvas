@@ -297,3 +297,7 @@ No changes made; nothing scheduled.
   - "nothing to do" backup check: about $0.30–0.70
 - Projected rest of project (Oct 26–Dec 18): about $80–190 API-equivalent, within the plan.
 - No schedule change.
+
+## 2026-10-26 — Launch
+- Launch: first scheduled entry published and verified live. The 9:07 p.m. scheduled task on the owner's Mac published 2026-10-26 (James Comey charged a third time); the Pages deploy succeeded and the live entries.json contains the date. `launch_date` in config/pipeline.json is set to 2026-10-26. Missed-day checks start from this date.
+- Note: this schedule runs on the owner's Mac, not in the cloud (see the Phase 5 blocker above), so a night the Mac is off or asleep will be missed and then backfilled.
