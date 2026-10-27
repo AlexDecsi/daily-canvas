@@ -39,13 +39,14 @@ python3 src/pipeline/daily.py prepare            # today (Boston); or give a pas
 - Use the people kit (`src/art/people.py`) and helpers (`src/art/svg.py`); look at `src/art/prototypes/poster_*.py` for patterns.
 - Approved style: literal, colorful graphic poster; people doing the reported action; no invented text, signs, quotes, crowds or casualties.
 - Set the `<title>` and `<desc>` honestly. Don't add the "ART STUDY" tag.
-- Loop at most `art_render_rounds` times:
+- Before drawing, write a one-line **visual idea** that meets the creativity bar in the style guide, and add it as a comment at the top of the art script. Look at a bar-setting reference first.
+- Loop at least `art_render_rounds_min` and at most `art_render_rounds` times:
   ```bash
   python3 src/art/daily/<date>.py
   python3 src/art/check_art.py public/artwork/<date>.svg
   python3 src/art/render_png.py public/artwork/<date>.svg   # then LOOK at cache/previews/<date>-1200.png and -360.png
   ```
-- Review it against the style guide checklist. Fix the biggest problem each round.
+- Review it against the style guide checklist, including the creativity bar. Fix the biggest problem each round, and use at least one round purely to make the picture more interesting (setting detail, light, depth, reacting people, a bolder angle).
 - If it still fails after the last round, don't publish: record a failure (step 7).
 
 ## 4. Caption draft → `cache/drafts/<date>.entry.json`

@@ -1,4 +1,4 @@
-# Editorial style guide: v3 — APPROVED by the owner on 2026-10-25
+# Editorial style guide: v3.1 — APPROVED by the owner (v3 on 2026-10-25; creativity bar added at the owner's request on 2026-10-26)
 
 This guide comes from the three Phase 2 art studies in `prototypes/art/`. It becomes the quality bar once the owner approves it. Changes apply going forward only; published entries are never restyled.
 
@@ -17,6 +17,24 @@ This guide comes from the three Phase 2 art studies in `prototypes/art/`. It bec
 - **Palette:** chosen per story. Keep strong contrast between figures and background, and use one accent colour for the focal figure or object.
 - **Depth:** a background shape (sky bands, wall, a giant sun or spiral), a middle ground (buildings, vehicles) and foreground figures.
 - **Text in art:** none, apart from real signage that is essential and verified. Never invent slogans, signs or quotes.
+
+## Creativity bar (owner request, 2026-10-26: "more interesting and creative")
+The facts stay literal; the *staging* should be bold. Every daily piece needs:
+1. **One strong visual idea**, beyond simply placing the subject in a room. Examples:
+   - dramatic scale (a tiny figure against a towering building or document)
+   - an unusual camera position (low angle, bird's-eye, over-the-shoulder, extreme close-up crop)
+   - a split or contrast composition
+   - a silhouette against a huge light shape
+   - a symbolic background motif that is obviously illustrative and doesn't misstate facts (legal papers spiraling up for a court case, ballot shapes for an election, storm bands for weather)
+2. **A real setting with story-specific detail**: the place where it happened (courthouse steps, stadium, street, cockpit), drawn from known features where possible. Don't use an anonymous blank room.
+3. **People and reaction**: when the story involves people, show the main figure plus others reacting as reported (press, crowd, officials, rescuers). One lone figure only if the story truly is one person alone.
+4. **Light and depth**: at least 3 layers (foreground framing, subject, background), plus one lighting effect (spotlight cone, rim light, long cast shadows, glow, window light), plus texture (grain, halftone dots).
+5. **A palette chosen for the mood**, distinct from the previous 3 entries.
+
+**Bar-setting references:** `prototypes/poster/04-crash.svg`, `05-tornado.svg`, `01-assembly.svg`, `02-walkout.svg`.
+**Below the bar (don't repeat):** `public/artwork/2026-10-26.svg`: an accurate scene, but one centered figure, a plain striped backdrop and a flat desk, with no strong visual idea.
+
+**Never trade accuracy for drama:** symbolism must read as illustration, not as a claim. Don't invent actions, crowds, injuries, signs or locations.
 
 ## Recognizability rules
 - Real places and objects are drawn from their known features. Examples: the Secretariat's slab, its dark mechanical-floor bands and its marble end walls; the Chrysler crown's stacked arches; a hurricane's counter-clockwise turn in the Northern Hemisphere.
@@ -42,9 +60,14 @@ This guide comes from the three Phase 2 art studies in `prototypes/art/`. It bec
 6. **Technical:** valid XML; 1200×900 with `viewBox`; `<title>` and `<desc>` present; no `<script>`, event handlers or external links; file under 250 KB.
 7. **Alt text:** describes what is drawn and which stories it represents, without overstating.
 8. **Variety:** composition and palette differ clearly from the previous 3 entries.
+9. **Creativity bar:** the piece meets all five points above. If not, use another render round on the weakest point.
 
 ## Effort limits (measured on the 3 studies)
-- Each piece took **1 draft + 2 self-critique revisions**, and the second revision fixed the biggest flaws in every case. Proposed limit: **at most 3 render–inspect rounds per daily piece**. If it still fails the checklist, log it and publish nothing rather than publish weak art.
+- Each piece took **1 draft + 2 self-critique revisions**, and the second revision fixed the biggest flaws in every case.
+- **Rounds per daily piece:**
+  - before 2026-10-26: at most 3
+  - since 2026-10-26: **at least 2, at most 4**. Round 1 is the composition; at least one later round is a dedicated creativity pass against the bar.
+- If it still fails the checklist, log it and publish nothing rather than publish weak art.
 - Output size was 75–140 KB per SVG in round 1 and 21–90 KB in round 2.
 - Usage: I couldn't measure exact tokens per piece in this session. Measure it during the Phase 4 dry runs before fixing daily limits.
 

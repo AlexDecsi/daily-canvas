@@ -301,3 +301,23 @@ No changes made; nothing scheduled.
 ## 2026-10-26 — Launch
 - Launch: first scheduled entry published and verified live. The 9:07 p.m. scheduled task on the owner's Mac published 2026-10-26 (James Comey charged a third time); the Pages deploy succeeded and the live entries.json contains the date. `launch_date` in config/pipeline.json is set to 2026-10-26. Missed-day checks start from this date.
 - Note: this schedule runs on the owner's Mac, not in the cloud (see the Phase 5 blocker above), so a night the Mac is off or asleep will be missed and then backfilled.
+
+## 2026-10-26: Owner asks for more interesting, creative art (style guide v3.1)
+
+**Owner feedback:** "maybe we can try to be more interestung and creative with the art going forward? or just test tomorrow how that looks?"
+
+**Context:** the first automatic entry (2026-10-26, Comey charged a third time) was accurate and passed every check. Visually it was simpler than the approved studies: one centered figure, a plain backdrop, a flat desk.
+
+**Changes (apply from the 2026-10-27 entry on; published entries are untouched):**
+- `config/editorial-style.md` v3.1 adds a **creativity bar**. Every piece needs:
+  - one strong visual idea (scale, angle, split, silhouette or an obviously illustrative motif)
+  - a real story-specific setting
+  - reacting people when the story involves them
+  - 3+ depth layers, a lighting effect and texture
+  - a mood palette distinct from the last 3 entries
+
+  It names bar-setting references (`prototypes/poster/01, 02, 04, 05`) and the Oct 26 piece as below the bar. It also adds checklist item 9.
+- Accuracy rules are unchanged: symbolism must read as illustration, not as a claim.
+- `config/pipeline.json`: `art_render_rounds` raised from 3 to 4; new `art_render_rounds_min` = 2, with at least one round a dedicated creativity pass. Expect roughly 20% more usage per daily run.
+- Updated `ops/daily-run.md` (write a one-line visual idea first), the scheduled task prompt and its copy in `ops/scheduled-task-prompt.md`.
+- Test: the 2026-10-27 scheduled entry; the owner reviews it.

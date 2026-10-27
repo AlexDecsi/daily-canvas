@@ -15,7 +15,9 @@ This runs unattended on the owner's Mac (Claude desktop scheduled task at ~9:07 
    - Exit code 3 (outside the project window): write a one-line note in logs/changes.md and stop.
 3. Do the due day per the runbook:
    - brief → `src/news/brief.py`
-   - artwork in src/art/daily/<date>.py → check_art + render_png; look at both previews; at most 3 rounds
+   - artwork in src/art/daily/<date>.py → check_art + render_png; look at both previews
+   - Meet the style guide's CREATIVITY BAR: write a one-line visual idea first, and look at a bar-setting reference in prototypes/poster/.
+   - Use 2–4 render rounds, at least one of them a dedicated "make it more interesting" pass; don't settle for one centered figure on a plain background.
    - caption draft in cache/drafts/<date>.entry.json
    - `daily.py finalize <date>`
    - If it can't be done well and truthfully: `daily.py fail <date> "reason"`. Never publish unverified or weak work.
