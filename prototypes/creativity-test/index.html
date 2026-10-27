@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Creativity Test Compare</title>
+<style>
+  :root { --wall: #f4f1ea; --ink: #1f1d1a; --muted: #5f5a52; --mat: #fff; }
+  @media (prefers-color-scheme: dark) { :root { --wall: #17161a; --ink: #ece8e1; --muted: #a9a399; --mat: #222027; } }
+  body { margin: 0; background: var(--wall); color: var(--ink); font: 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+  main { max-width: 1300px; margin: 0 auto; padding: 24px 16px; }
+  h1 { font-family: Georgia, serif; font-weight: 400; margin: 0 0 4px; }
+  p.note { color: var(--muted); margin: 0 0 20px; }
+  .pair { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 420px), 1fr)); gap: 20px; }
+  figure { margin: 0; }
+  .frame { background: var(--mat); padding: 10px; box-shadow: 0 8px 24px rgba(0,0,0,.1); }
+  img { display: block; width: 100%; height: auto; }
+  figcaption { color: var(--muted); margin-top: 8px; font-size: .95rem; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Comey charged a third time: before and after</h1>
+  <p class="note">Same verified facts. Left is what was published; right is a test under the new creativity bar (not published).</p>
+  <div class="pair">
+    <figure><div class="frame"><img src="2026-10-26-published.svg" alt="Published version: Comey at a desk speaking to a camera"></div>
+      <figcaption>Published (old guidance): one figure, plain backdrop.</figcaption></figure>
+    <figure><div class="frame"><img src="2026-10-26-v2.svg" alt="Test version: low-angle Comey before three towers of case files with papers swirling up"></div>
+      <figcaption>Test (creativity bar): three file towers for three attempts, broken seal, swirling papers and newspaper, ring light, camera screen.</figcaption></figure>
+  </div>
+</main>
+</body>
+</html>
