@@ -321,3 +321,13 @@ No changes made; nothing scheduled.
 - `config/pipeline.json`: `art_render_rounds` raised from 3 to 4; new `art_render_rounds_min` = 2, with at least one round a dedicated creativity pass. Expect roughly 20% more usage per daily run.
 - Updated `ops/daily-run.md` (write a one-line visual idea first), the scheduled task prompt and its copy in `ops/scheduled-task-prompt.md`.
 - Test: the 2026-10-27 scheduled entry; the owner reviews it.
+
+## 2026-10-26: Owner approves the creativity-bar test
+
+**Owner feedback:** "yeah im liking this! We can always continue to imporve down the road"
+
+**Context:** a side-by-side test redraw of the 2026-10-26 Comey entry under style guide v3.1 (`prototypes/creativity-test/`, not published). It used three file towers for the three prosecution attempts, a broken seal, swirling papers with a newspaper, a low angle, a ring light and a frame-within-frame camera screen. 3 render rounds.
+
+**Effect:**
+- No further changes; v3.1 stands for nightly runs from 2026-10-27.
+- Possible later improvement: more detailed people (faces and hands) in the people kit.
