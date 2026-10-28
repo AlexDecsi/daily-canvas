@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-27",
+  "published_at": "2026-10-28T02:15:01.772713Z",
+  "status": "published",
+  "prelaunch": false,
+  "title": "Grand jury declines to indict Cassidy Hutchinson",
+  "caption": "A federal grand jury in Washington declined the Justice Department's request to indict Cassidy Hutchinson, the former White House aide who was the House Jan. 6 committee's star witness in 2022, according to people familiar with the case. Republican lawmakers had accused her of lying under oath; the charges sought were not made public. It is another setback in the department's cases against Trump critics.",
+  "stories": [
+    {
+      "name": "Grand jury declines to indict Cassidy Hutchinson",
+      "role": "focal",
+      "facts": [
+        "A federal grand jury in Washington declined the Justice Department's request to indict Cassidy Hutchinson, a former aide to Trump chief of staff Mark Meadows, according to people familiar with the proceedings.",
+        "A Justice Department lawyer told a magistrate judge at an unrelated hearing on Tuesday that a grand jury had not concurred on a proposed indictment; sources said the defendant was Hutchinson.",
+        "Hutchinson was a star witness at the House Jan. 6 committee's 2022 hearings; Republican lawmakers had accused her of lying under oath. The exact charges sought were not made public.",
+        "Neither Hutchinson nor the Justice Department commented publicly in the first reports."
+      ],
+      "sources": [
+        {
+          "publisher": "PBS NewsHour (AP)",
+          "title": "Grand jury refuses to indict former White House aide Cassidy Hutchinson, AP sources say",
+          "url": "https://www.pbs.org/newshour/politics/grand-jury-refuses-to-indict-former-white-house-aide-cassidy-hutchinson-ap-sources-say",
+          "published_at": "2026-10-27T22:40:06Z"
+        },
+        {
+          "publisher": "CBS News",
+          "title": "Grand jury won't indict Cassidy Hutchinson over Jan. 6 testimony",
+          "url": "https://www.cbsnews.com/news/grand-jury-declines-to-indict-trump-critic-cassidy-hutchinson-over-jan-6-testimony/",
+          "published_at": "2026-10-27T22:39:24Z"
+        },
+        {
+          "publisher": "NBC News",
+          "title": "Grand jury declines to indict former Trump aide Cassidy Hutchinson, star witness of Jan. 6 committee",
+          "url": "https://www.nbcnews.com/politics/justice-department/grand-jury-declines-indict-former-trump-aide-cassidy-hutchinson-jan-6-rcna603233",
+          "published_at": "2026-10-27T22:42:04Z"
+        }
+      ]
+    }
+  ],
+  "artwork": {
+    "path": "artwork/2026-10-27.svg",
+    "format": "svg",
+    "alt": "Graphic poster illustration: under a single hanging lamp, anonymous grand jurors sit at a long table around a towering stack of papers representing the proposed indictment, its signature line left blank and a pen set aside. Behind them, a large coral halftone disc recalls Cassidy Hutchinson, with shoulder-length blonde hair, speaking at a witness table microphone during her 2022 Jan. 6 committee testimony. Dark silhouettes frame the foreground.",
+    "method": "code-generated SVG (graphic-poster kit, src/art/daily/)",
+    "revision": "r4"
+  },
+  "backfill": {
+    "is_backfill": false,
+    "reason": null
+  }
+}

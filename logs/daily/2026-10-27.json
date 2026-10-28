@@ -1,0 +1,58 @@
+{
+  "date": "2026-10-27",
+  "runs": [
+    {
+      "started_at": "2026-10-28T01:46:03.176901Z",
+      "outcome": "published",
+      "steps": [
+        {
+          "at": "2026-10-28T01:46:03.176904Z",
+          "step": "prepare: lock acquired (live)"
+        },
+        {
+          "at": "2026-10-28T01:53:17.173420Z",
+          "step": "prepare: ran src/news/feeds.py"
+        },
+        {
+          "at": "2026-10-28T01:53:17.285570Z",
+          "step": "prepare: ran src/news/cluster.py"
+        },
+        {
+          "at": "2026-10-28T02:15:02.718210Z",
+          "step": "finalize: published to local site"
+        }
+      ],
+      "_new_run": true,
+      "mode": "live",
+      "prelaunch": false,
+      "finished_at": "2026-10-28T02:15:02.718078Z",
+      "link_checks": [
+        {
+          "url": "https://www.pbs.org/newshour/politics/grand-jury-refuses-to-indict-former-white-house-aide-cassidy-hutchinson-ap-sources-say",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.cbsnews.com/news/grand-jury-declines-to-indict-trump-critic-cassidy-hutchinson-over-jan-6-testimony/",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.nbcnews.com/politics/justice-department/grand-jury-declines-indict-former-trump-aide-cassidy-hutchinson-jan-6-rcna603233",
+          "ok": true,
+          "note": "HTTP 200"
+        }
+      ],
+      "samples_removed": [],
+      "stories_shown": [
+        "Grand jury declines to indict Cassidy Hutchinson"
+      ],
+      "usage": {
+        "article_reads": 2,
+        "web_searches": 0,
+        "render_rounds": 4,
+        "minutes": 22
+      }
+    }
+  ]
+}

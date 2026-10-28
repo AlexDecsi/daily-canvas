@@ -1,0 +1,1609 @@
+{
+  "date": "2026-10-27",
+  "fetched_at": "2026-10-28T01:53:17.148794Z",
+  "items_considered": 508,
+  "candidates": [
+    {
+      "headline": "Grand jury declines to indict Cassidy Hutchinson, who testified about Trump and Jan. 6, sources say",
+      "score": 145,
+      "signals": {
+        "us_outlets": 9,
+        "intl_outlets": 1,
+        "front_pages": 7,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "Axios",
+        "CBS News",
+        "CNBC",
+        "Fox News",
+        "NBC News",
+        "PBS NewsHour",
+        "The Guardian",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-10-27T22:27:00Z",
+      "reports": [
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Grand jury declines to indict Cassidy Hutchinson, who testified about Trump and Jan. 6, sources say",
+          "url": "https://www.wcvb.com/article/cassidy-hutchinson-white-house-aide-jan-6-grand-jury/74265149",
+          "published_at": "2026-10-27T22:27:00Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "DOJ fails to indict Cassidy Hutchinson, a key Jan. 6 witness",
+          "url": "https://www.axios.com/2026/10/27/cassidy-hutchinson-indictment-jan-6-testimony",
+          "published_at": "2026-10-27T22:31:08Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Grand jury won't indict Cassidy Hutchinson over Jan. 6 testimony",
+          "url": "https://www.cbsnews.com/news/grand-jury-declines-to-indict-trump-critic-cassidy-hutchinson-over-jan-6-testimony/",
+          "published_at": "2026-10-27T22:39:24Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Grand jury refuses to indict former White House aide Cassidy Hutchinson, AP sources say",
+          "url": "https://www.pbs.org/newshour/politics/grand-jury-refuses-to-indict-former-white-house-aide-cassidy-hutchinson-ap-sources-say",
+          "published_at": "2026-10-27T22:40:06Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Grand jury declines to indict ex-White House staffer who testified about January 6",
+          "url": "https://www.theguardian.com/us-news/2026/oct/27/cassidy-hutchinson-doj-indictment-trump",
+          "published_at": "2026-10-27T22:40:27Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Grand jury declines to indict former Trump aide Cassidy Hutchinson, star witness of Jan. 6 committee",
+          "url": "https://www.nbcnews.com/politics/justice-department/grand-jury-declines-indict-former-trump-aide-cassidy-hutchinson-jan-6-rcna603233",
+          "published_at": "2026-10-27T22:42:04Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "DOJ fails to get indictment against ex-Trump aide Cassidy Hutchinson: Sources",
+          "url": "https://abcnews.com/US/doj-fails-indictment-trump-aide-cassidy-hutchinson-jan/story?id=137619918",
+          "published_at": "2026-10-27T23:00:12Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Grand jury rejects DOJ bid to indict ex-Trump WH aide Cassidy Hutchinson: Reports",
+          "url": "https://www.cnbc.com/2026/10/27/cassidy-hutchinson-doj-grand-jury-trump.html",
+          "published_at": "2026-10-27T23:50:03Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Grand Jury Declines to Bring Charges Against Cassidy Hutchinson",
+          "url": "https://www.nytimes.com/2026/10/27/us/politics/cassidy-hutchinson-indicted-trump-testimony.html",
+          "published_at": "2026-10-28T00:45:29Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Cassidy Hutchinson avoids indictment after DOJ effort to charge her over Jan 6 testimony fails: sources",
+          "url": "https://www.foxnews.com/politics/cassidy-hutchinson-avoids-indictment-doj-effort-charge-jan-6-testimony-fails-sources",
+          "published_at": "2026-10-28T00:51:36Z"
+        }
+      ]
+    },
+    {
+      "headline": "Democrats still poised to make gains, but poll shows warning signs for just how many",
+      "score": 142,
+      "signals": {
+        "us_outlets": 9,
+        "intl_outlets": 2,
+        "front_pages": 6,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Axios",
+        "BBC News",
+        "Bloomberg",
+        "Boston.com",
+        "CBS News",
+        "CNBC",
+        "NPR",
+        "PBS NewsHour",
+        "The Guardian",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-10-27T09:00:00Z",
+      "reports": [
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrats still poised to make gains, but poll shows warning signs for just how many",
+          "url": "https://www.npr.org/2026/10/27/nx-s1-6017479/2026-midterms-npr-poll-democrats-trump-approval",
+          "published_at": "2026-10-27T09:00:00Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrats have a midterm edge, poll shows. And, Israelis vote in high-stakes election",
+          "url": "https://www.npr.org/2026/10/27/g-s1-150052/up-first-newsletter-midterms-polling-data-voter-fraud-israel-prime-minister-elections",
+          "published_at": "2026-10-27T11:39:52Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "The Key Election Issues Dividing Israelis as They Vote",
+          "url": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-elections-key-issues.html",
+          "published_at": "2026-10-27T17:30:03Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Do You Have Questions About the U.S. Midterm Elections?",
+          "url": "https://www.nytimes.com/2026/10/27/world/americas/callout-reader-questions-us-midterm-elections.html",
+          "published_at": "2026-10-27T19:01:44Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Israeli elections have great consequences for Palestinians, but they don\u2019t get to vote.",
+          "url": "https://www.nytimes.com/live/2026/10/27/world/israel-elections/israeli-elections-have-great-consequences-for-palestinians-but-they-dont-get-to-vote",
+          "published_at": "2026-10-27T19:18:48Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "WATCH LIVE: 2026 midterms preview, plus your questions on voting",
+          "url": "https://www.pbs.org/newshour/politics/watch-live-2026-midterms-preview-plus-your-questions-on-voting",
+          "published_at": "2026-10-27T20:00:17Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "No clear winner in Israeli election, exit polls indicate, as Netanyahu's fate hangs in the balance",
+          "url": "https://www.pbs.org/newshour/world/no-clear-winner-in-israeli-election-exit-polls-indicate-as-netanyahus-fate-hangs-in-the-balance",
+          "published_at": "2026-10-27T20:11:31Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "No clear winner in Israeli election, exit polls suggest, as Netanyahu\u2019s fate hangs in the balance",
+          "url": "https://www.boston.com/news/world-news/2026/10/27/no-clear-winner-in-israeli-election-exit-polls-suggest-as-netanyahus-fate-hangs-in-the-balance/",
+          "published_at": "2026-10-27T20:25:40Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Israel Election: Exit Polls Show Netanyahu Trailing Eisenkot",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-27/israel-election-exit-polls-show-netanyahu-trailing-video",
+          "published_at": "2026-10-27T20:49:14Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats",
+          "url": "https://www.theguardian.com/world/2026/oct/27/israel-election-too-close-to-call-as-exit-polls-give-netanyahu-bloc-slightly-fewer-seats",
+          "published_at": "2026-10-27T20:56:23Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Former RNC Chair breaks down midterm elections",
+          "url": "https://www.cbsnews.com/video/former-rnc-chair-breaks-down-midterm-elections/",
+          "published_at": "2026-10-27T22:16:11Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Status of Israel's election as exit polling reveals a divided nation",
+          "url": "https://www.cbsnews.com/video/status-israels-election-exit-polling-reveals-divided-nation/",
+          "published_at": "2026-10-27T22:18:00Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Exit polls show a rebuke of Netanyahu but no clear winner in Israel's election",
+          "url": "https://www.cnbc.com/2026/10/27/no-clear-winner-in-israeli-election-exit-polls-suggest-as-netanyahus-fate-hangs-in-the-balance.html",
+          "published_at": "2026-10-27T22:54:48Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Projections show no clear winner in Israel's election",
+          "url": "https://www.pbs.org/newshour/show/projections-show-no-clear-winner-in-israels-election",
+          "published_at": "2026-10-27T22:55:25Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Exit Polls in Israel Show No Clear Winner",
+          "url": "https://www.nytimes.com/2026/10/27/briefing/israel-election-candy-prices.html",
+          "published_at": "2026-10-27T23:02:40Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Israeli Voting Ends After Strong Turnout With No Clear Winner",
+          "url": "https://www.nytimes.com/2026/10/27/world/middleeast/israeli-election-turnout.html",
+          "published_at": "2026-10-27T23:03:21Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Watch: What happens now after close vote in Israeli election?",
+          "url": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-28T00:04:29Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "No clear winner in Israeli election, exit polls suggest, as Netanyahu\u2019s fate hangs in the balance",
+          "url": "https://www.wcvb.com/article/israeli-election-2026-netanyahu/74256475",
+          "published_at": "2026-10-28T00:12:00Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Netanyahu fighting for his political life in Israeli election",
+          "url": "https://www.cbsnews.com/video/netanyahu-fighting-political-life-israeli-election/",
+          "published_at": "2026-10-28T00:17:34Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Israeli election exit polls show race headed toward stalemate",
+          "url": "https://www.cbsnews.com/news/israel-election-exit-polls-stalemate/",
+          "published_at": "2026-10-28T00:58:03Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Israel election live: Netanyahu speaks as exit polls point to tie with Eisenkot opposition bloc",
+          "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
+          "published_at": "2026-10-28T01:24:44Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Netanyahu, Eisenkot blocs running close, but both shy of majority",
+          "url": "https://www.axios.com/2026/10/27/netanyahu-eisenkot-israel-election-exit-polls",
+          "published_at": "2026-10-28T01:37:17Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Israel Election Live Updates: Rivals Strike Tone of Triumph, but Outcome Is Far From Clear",
+          "url": "https://www.nytimes.com/live/2026/10/27/world/israel-elections",
+          "published_at": "2026-10-28T01:51:53Z"
+        }
+      ]
+    },
+    {
+      "headline": "WATCH: Dispute over 3-year-old soccer player goes viral",
+      "score": 100,
+      "signals": {
+        "us_outlets": 6,
+        "intl_outlets": 1,
+        "front_pages": 5,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "CBS News",
+        "Los Angeles Times",
+        "MassLive",
+        "NBC Boston",
+        "The Guardian",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-10-27T11:09:26Z",
+      "reports": [
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "WATCH: Dispute over 3-year-old soccer player goes viral",
+          "url": "https://abcnews.com/video/137597587/",
+          "published_at": "2026-10-27T11:09:26Z"
+        },
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Florida police called to youth soccer game after alleged dispute involving 3-year-old player",
+          "url": "https://www.nbcboston.com/news/national-international/florida-police-called-youth-soccer-game-alleged-dispute-3-year-old/4038080/",
+          "published_at": "2026-10-27T11:42:32Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Police called to Florida soccer game after parents say three-year-old benched for being too good",
+          "url": "https://www.theguardian.com/football/2026/oct/27/florida-soccer-game-three-year-old-boy-benched-police",
+          "published_at": "2026-10-27T12:07:25Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Viral 3-year-old Florida soccer star at center of Winter Park police call and league dispute",
+          "url": "https://www.masslive.com/sports/2026/10/why-police-showed-up-at-a-3-year-old-soccer-stars-game-according-to-both-sides.html",
+          "published_at": "2026-10-27T18:35:19Z"
+        },
+        {
+          "publisher": "Los Angeles Times",
+          "group": "latimes",
+          "kind": "news",
+          "wire": false,
+          "title": "Were Florida police called over a 3-year-old's soccer skills? Here's what police body cams show",
+          "url": "https://www.latimes.com/world-nation/story/2026-10-27/body-cams-police-florida-3-year-old-nevada-pierre-dominates-soccer-game",
+          "published_at": "2026-10-27T23:37:04Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Florida police called to remove family from 3-year-old's soccer game after dispute",
+          "url": "https://www.wcvb.com/article/police-called-3-year-old-soccer-game-florida/74265348",
+          "published_at": "2026-10-28T00:00:00Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Video of police being called to youth soccer game draws outrage",
+          "url": "https://www.cbsnews.com/news/youth-soccer-911-call-florida-nevada-3-year-old/",
+          "published_at": "2026-10-28T00:11:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "US to Take In Bolsonaro After He Loses Election and Flees Brazil",
+      "score": 97,
+      "signals": {
+        "us_outlets": 6,
+        "intl_outlets": 1,
+        "front_pages": 4,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Axios",
+        "Bloomberg",
+        "CBS News",
+        "NPR",
+        "PBS NewsHour",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-27T11:47:15Z",
+      "reports": [
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "US to Take In Bolsonaro After He Loses Election and Flees Brazil",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-27/argentina-denies-flavio-bolsonaro-entered-the-country",
+          "published_at": "2026-10-27T11:47:15Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Bolsonaro's party accepts Brazil election defeat, but he refuses to concede",
+          "url": "https://www.npr.org/2026/10/27/nx-s1-6019217/bolsonaro-flavio-lula-brazil-election-trump",
+          "published_at": "2026-10-27T14:41:17Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Brazil's Fl\u00e1vio Bolsonaro and his family will get U.S. visas after presidential election loss",
+          "url": "https://www.pbs.org/newshour/world/brazils-flavio-bolsonaro-leaves-brazil-for-the-united-states-after-presidential-loss-according-to-multiple-media-reports",
+          "published_at": "2026-10-27T19:44:42Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "U.S. granting visas to Fl\u00e1vio Bolsonaro and family",
+          "url": "https://www.axios.com/2026/10/27/us-granting-visas-to-flavio-bolsonaro-and-family",
+          "published_at": "2026-10-27T21:53:38Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Fl\u00e1vio Bolsonaro flees Brazil after presidential election loss, reports say",
+          "url": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
+          "published_at": "2026-10-27T22:03:00Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "News Wrap: U.S. providing visas to Bolsonaro and family after loss in Brazil's election",
+          "url": "https://www.pbs.org/newshour/show/news-wrap-u-s-providing-visas-to-bolsonaro-and-family-after-loss-in-brazils-election",
+          "published_at": "2026-10-27T22:40:23Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "US to Issue Visas to Flavio Bolsonaro and His Family",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-27/balance-of-power-late-edition-10-27-2026-video",
+          "published_at": "2026-10-27T23:17:11Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Fl\u00e1vio Bolsonaro Leaves Brazil for the U.S. After Election Defeat",
+          "url": "https://www.nytimes.com/2026/10/27/world/americas/brazil-flavio-bolsonaro-flees-election.html",
+          "published_at": "2026-10-28T00:26:51Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": true,
+          "title": "U.S. granting visas to Brazil's Bolsonaro and his family after election loss, official says",
+          "url": "https://www.cbsnews.com/video/us-granting-visas-bolsonaro-after-election-loss/",
+          "published_at": "2026-10-28T00:42:39Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "U.S. issuing visas to Brazil's Fl\u00e1vio Bolsonaro and family, official says",
+          "url": "https://www.cbsnews.com/news/brazil-flavio-bolsonaro-u-s-visa-presidential-election-loss/",
+          "published_at": "2026-10-28T01:00:15Z"
+        }
+      ]
+    },
+    {
+      "headline": "A judge halted D.C. golf course renovations. Trump says they'll still start next month",
+      "score": 94,
+      "signals": {
+        "us_outlets": 5,
+        "intl_outlets": 0,
+        "front_pages": 4,
+        "boston_local": [
+          "boston"
+        ]
+      },
+      "independent_outlets": [
+        "ABC News",
+        "CBS News",
+        "NPR",
+        "The Hill",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-27T17:01:37Z",
+      "reports": [
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "A judge halted D.C. golf course renovations. Trump says they'll still start next month",
+          "url": "https://www.npr.org/2026/10/27/nx-s1-6019192/east-potomac-golf-course-renovations-blocked-appeal",
+          "published_at": "2026-10-27T17:01:37Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge admonishes Trump administration over plans for Washington, DC, golf course",
+          "url": "https://abcnews.com/US/judge-admonishes-trump-administration-plans-washington-dc-golf/story?id=137599757",
+          "published_at": "2026-10-27T19:18:37Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge temporarily blocks Trump administration from speeding up refugee status revocations",
+          "url": "https://thehill.com/homenews/administration/6176283-judge-blocks-refugees-rule/",
+          "published_at": "2026-10-27T21:43:45Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge Questions Trump Administration\u2019s Need to Target Noncitizen Voters",
+          "url": "https://www.nytimes.com/2026/10/27/us/politics/california-ballots-noncitizens.html",
+          "published_at": "2026-10-28T00:53:53Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge continues to block Trump from cutting down trees at D.C. golf course",
+          "url": "https://www.cbsnews.com/news/judge-trump-trees-dc-golf-course-lorax/",
+          "published_at": "2026-10-28T01:15:03Z"
+        }
+      ]
+    },
+    {
+      "headline": "DOJ asks Washington to set aside ballots from 400 alleged noncitizens",
+      "score": 84,
+      "signals": {
+        "us_outlets": 6,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "Bloomberg",
+        "CBS News",
+        "Fox News",
+        "Los Angeles Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-10-27T16:58:42Z",
+      "reports": [
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "DOJ asks Washington to set aside ballots from 400 alleged noncitizens",
+          "url": "https://www.cbsnews.com/news/justice-department-washington-ballots-400-alleged-noncitizens/",
+          "published_at": "2026-10-27T16:58:42Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump admin demands Washington set aside 400 ballots it says are from noncitizens",
+          "url": "https://abcnews.com/Politics/trump-admin-demands-washington-set-aside-400-ballots/story?id=137593785",
+          "published_at": "2026-10-27T17:17:11Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge Questions DOJ Bid to Set Aside 20,000 California Votes",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-28/judge-questions-doj-bid-to-set-aside-20-000-california-ballots",
+          "published_at": "2026-10-28T00:04:06Z"
+        },
+        {
+          "publisher": "Los Angeles Times",
+          "group": "latimes",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge in L.A. weighs feds' request to block 20,000 California votes with skepticism",
+          "url": "https://www.latimes.com/politics/story/2026-10-27/judge-carter-los-angeles-justice-department-request-to-block-20000-california-votes",
+          "published_at": "2026-10-28T00:08:34Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "DOJ expands push to halt counting of ballots cast by suspected noncitizens",
+          "url": "https://www.wcvb.com/article/doj-expands-push-halt-counting-ballots-cast-suspected-noncitizens/74265709",
+          "published_at": "2026-10-28T00:12:00Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Federal officials identify 400 noncitizens registered to vote in Washington state: 'Tip of the iceberg'",
+          "url": "https://www.foxnews.com/politics/federal-officials-identify-400-noncitizens-registered-vote-washington-state-tip-iceberg",
+          "published_at": "2026-10-28T00:56:18Z"
+        }
+      ]
+    },
+    {
+      "headline": "FBI agents charged with lying about Hunter Biden probes accuse DOJ of 'serious abuse'",
+      "score": 79,
+      "signals": {
+        "us_outlets": 5,
+        "intl_outlets": 0,
+        "front_pages": 4,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "CBS News",
+        "NBC News",
+        "The Hill",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-10-27T18:53:20Z",
+      "reports": [
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "FBI agents charged with lying about Hunter Biden probes accuse DOJ of 'serious abuse'",
+          "url": "https://abcnews.com/US/fbi-agents-charged-lying-hunter-biden-probes-accuse/story?id=137596845",
+          "published_at": "2026-10-27T18:53:20Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge criticizes Justice Department's handling of ex-FBI officials' charges over Hunter Biden investigation",
+          "url": "https://thehill.com/regulation/court-battles/6176490-judge-criticizes-doj-hunter-biden-fbi-case/",
+          "published_at": "2026-10-27T22:24:45Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Hunter Biden laptop issue resurfaces as judge scolds prosecutors over case against ex-FBI officials",
+          "url": "https://www.wcvb.com/article/judge-scolds-doj-hunter-biden-laptop-case/74263854",
+          "published_at": "2026-10-27T22:28:00Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "New charges tossed against ex-FBI officials in Hunter Biden probe",
+          "url": "https://www.cbsnews.com/news/hunter-biden-investigation-more-charges-filed-against-ex-fbi-officials/",
+          "published_at": "2026-10-27T22:37:36Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge berates DOJ attorney in court over new charge filed against former FBI officials",
+          "url": "https://www.nbcnews.com/politics/justice-department/judge-berates-doj-attorney-new-charge-filed-former-fbi-officials-rcna606013",
+          "published_at": "2026-10-27T23:59:53Z"
+        }
+      ]
+    },
+    {
+      "headline": "Serial killer Ted Bundy linked to teenage girl's murder after 52 years",
+      "score": 64,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 2,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "Boston.com",
+        "PBS NewsHour",
+        "The Guardian",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-10-27T19:56:02Z",
+      "reports": [
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Serial killer Ted Bundy linked to teenage girl's murder after 52 years",
+          "url": "https://www.bbc.co.uk/news/articles/ckqxnd7j5007o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-27T19:56:02Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Authorities say serial killer Ted Bundy is responsible for the 1974 murder of another Utah teenage girl",
+          "url": "https://www.pbs.org/newshour/nation/authorities-say-serial-killer-ted-bundy-is-responsible-for-the-1974-murder-of-another-utah-teenage-girl",
+          "published_at": "2026-10-27T20:01:11Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Utah Investigators Link Teenager\u2019s 1974 Death to Ted Bundy",
+          "url": "https://www.nytimes.com/2026/10/27/us/ted-bundy-cold-case-utah.html",
+          "published_at": "2026-10-27T23:07:43Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "DNA links serial killer Ted Bundy to 1974 murder of Utah girl",
+          "url": "https://www.theguardian.com/us-news/2026/oct/27/ted-bundy-utah-murder",
+          "published_at": "2026-10-27T23:52:55Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Utah authorities connect serial killer Ted Bundy to another 1970s homicide",
+          "url": "https://www.wcvb.com/article/ted-bundy-utah-teen-1974-murder-dna/74263368",
+          "published_at": "2026-10-28T00:34:00Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Serial killer Ted Bundy is linked to another Utah teenager\u2019s 1974 killing through DNA testing",
+          "url": "https://www.boston.com/news/crime/2026/10/27/serial-killer-ted-bundy-is-linked-to-another-utah-teenagers-1974-killing-through-dna-testing/",
+          "published_at": "2026-10-28T01:07:14Z"
+        }
+      ]
+    },
+    {
+      "headline": "Alexander brothers, ex-luxury real estate brokers, sentenced to 30 years in prison for sex trafficking",
+      "score": 62,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 1,
+        "front_pages": 4,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "CBS News",
+        "NBC News",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-27T12:10:41Z",
+      "reports": [
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Alexander brothers, ex-luxury real estate brokers, sentenced to 30 years in prison for sex trafficking",
+          "url": "https://www.nbcnews.com/news/us-news/ex-luxury-real-estate-brokers-brother-sentenced-federal-sex-traffickin-rcna605818",
+          "published_at": "2026-10-27T12:10:41Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Former luxury real estate brothers sentenced to 30 years in prison over sex trafficking ring",
+          "url": "https://www.cbsnews.com/video/former-luxury-real-estate-brothers-sentenced-to-30-years-in-prison-over-sex-trafficking-ring/",
+          "published_at": "2026-10-27T23:00:04Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Alexander brothers sentenced to 30 years in prison for sex trafficking",
+          "url": "https://www.cbsnews.com/news/alexander-brothers-sentenced-sex-trafficking/",
+          "published_at": "2026-10-27T23:02:06Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
+          "url": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-27T23:41:23Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Alexander Brothers Sentenced to 30 Years Each for Sex Trafficking",
+          "url": "https://www.nytimes.com/2026/10/27/nyregion/alexander-brothers-sentencing-sex-trafficking.html",
+          "published_at": "2026-10-28T00:55:40Z"
+        }
+      ]
+    },
+    {
+      "headline": "Westborough police chief was found drunk in parked cruiser, investigators say",
+      "score": 60,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "mass.",
+          "massachusetts"
+        ]
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "MassLive",
+        "NBC Boston"
+      ],
+      "first_seen": "2026-10-27T05:04:40Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Westborough police chief was found drunk in parked cruiser, investigators say",
+          "url": "https://www.nbcboston.com/news/local/westborough-police-chief-on-leave-drunk/4038600/",
+          "published_at": "2026-10-27T05:04:40Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Officer reports finding Mass. police chief 'hammered drunk' in unmarked cruiser",
+          "url": "https://www.masslive.com/centralmass/2026/10/officer-reports-finding-westborough-chief-hammered-drunk-in-unmarked-cruiser.html",
+          "published_at": "2026-10-27T20:48:06Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Westborough police chief allegedly found \u2018hammered drunk\u2019 in Shrewsbury liquor store parking lot",
+          "url": "https://www.boston.com/news/local-news/2026/10/27/westborough-police-chief-allegedly-found-hammered-drunk-in-shrewsbury-liquor-store-parking-lot/",
+          "published_at": "2026-10-27T23:14:48Z"
+        }
+      ]
+    },
+    {
+      "headline": "WATCH LIVE: Trump campaigns for Ken Paxton at rallies in Texas",
+      "score": 58,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 1,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "CBS News",
+        "NBC News",
+        "PBS NewsHour",
+        "The Guardian"
+      ],
+      "first_seen": "2026-10-27T18:22:09Z",
+      "reports": [
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "WATCH LIVE: Trump campaigns for Ken Paxton at rallies in Texas",
+          "url": "https://www.pbs.org/newshour/politics/watch-live-trump-campaigns-for-ken-paxton-at-rallies-in-texas",
+          "published_at": "2026-10-27T18:22:09Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump campaigns in Texas as 83% of those polled say corruption is a major factor in the midterms",
+          "url": "https://www.cbsnews.com/video/trump-campaigns-texas-polled-say-corruption-major-factor-midterms/",
+          "published_at": "2026-10-27T22:17:18Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Here's whether Texas could go blue as midterms approach, Trump visits state again",
+          "url": "https://www.cbsnews.com/video/heres-whether-texas-could-go-blue-as-midterms-approach-trump-visits-state-again/",
+          "published_at": "2026-10-27T22:49:18Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Talarico and Paxton hold dueling rallies in Texas",
+          "url": "https://www.cbsnews.com/video/talarico-paxton-hold-dueling-rallies-texas/",
+          "published_at": "2026-10-28T00:12:29Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump tells Texas campaign rally crowd he\u2019s rolling back environmental rules to curb methane pollution \u2013 live",
+          "url": "https://www.theguardian.com/us-news/live/2026/oct/27/comey-trump-rubio-texas-vance-israel-midterms-politics-latest-news-updates",
+          "published_at": "2026-10-28T01:13:32Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump says government to \u2018terminate\u2019 Biden-era methane emissions rules",
+          "url": "https://www.theguardian.com/us-news/2026/oct/27/trump-biden-era-methane-emissions-rules-oil-gas",
+          "published_at": "2026-10-28T01:18:58Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump says he\u2019ll roll back Biden-era methane rules for oil and gas companies",
+          "url": "https://www.nbcnews.com/science/climate-change/trump-methane-rules-leaks-emissions-oil-gas-rcna605983",
+          "published_at": "2026-10-28T01:37:47Z"
+        }
+      ]
+    },
+    {
+      "headline": "Jay-Z to perform at Super Bowl half-time show",
+      "score": 55,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 1,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "Boston.com",
+        "CBS News",
+        "NPR"
+      ],
+      "first_seen": "2026-10-27T05:05:15Z",
+      "reports": [
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Jay-Z to perform at Super Bowl half-time show",
+          "url": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-27T05:05:15Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Discursive Verses: Jay-Z, the Super Bowl and playing with house money",
+          "url": "https://www.npr.org/2026/10/27/nx-s1-6019093/the-week-in-hip-hop-jay-z-super-bowl",
+          "published_at": "2026-10-27T14:15:21Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Jay-Z picks himself to headline the Super Bowl halftime show at SoFi Stadium in Southern California",
+          "url": "https://www.boston.com/culture/music/2026/10/27/jay-z-picks-himself-to-headline-the-super-bowl-halftime-show-at-sofi-stadium-in-southern-california/",
+          "published_at": "2026-10-27T19:55:25Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Jay-Z selects himself to headline Super Bowl halftime show",
+          "url": "https://www.cbsnews.com/video/jay-z-selects-himself-to-headline-super-bowl-halftime-show/",
+          "published_at": "2026-10-27T23:24:10Z"
+        }
+      ]
+    },
+    {
+      "headline": "3 civilians, Waltham fire captain jump into Charles after person falls in river",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "massachusetts"
+        ]
+      },
+      "independent_outlets": [
+        "NBC Boston",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-10-27T06:06:08Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "3 civilians, Waltham fire captain jump into Charles after person falls in river",
+          "url": "https://www.nbcboston.com/news/local/waltham-bridge-charles-river-incident/4038586/",
+          "published_at": "2026-10-27T06:06:08Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Several people pulled from Charles River in Waltham",
+          "url": "https://www.wcvb.com/article/moody-street-bridge-rescue-waltham/74264194",
+          "published_at": "2026-10-27T22:50:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Police search for dangerous fugitive prompts shelter-in-place in Salem, NH",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "new hampshire"
+        ]
+      },
+      "independent_outlets": [
+        "NBC Boston",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-10-27T08:01:03Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Police search for dangerous fugitive prompts shelter-in-place in Salem, NH",
+          "url": "https://www.nbcboston.com/news/local/salem-nh-fugitive-police-search-tuesday/4038732/",
+          "published_at": "2026-10-27T08:01:03Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Salem, NH, police issue shelter-in-place order as fugitive remains at large",
+          "url": "https://www.wcvb.com/article/salem-police-issue-shelter-in-place-warning/74266144",
+          "published_at": "2026-10-28T01:33:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "New video shows arrest of man accused of stealing car with a child inside in Lynn",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "massachusetts"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "NBC Boston"
+      ],
+      "first_seen": "2026-10-27T09:17:38Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "New video shows arrest of man accused of stealing car with a child inside in Lynn",
+          "url": "https://www.nbcboston.com/news/local/lynn-ma-car-stolen-kidnapping-everett-police/4037973/",
+          "published_at": "2026-10-27T09:17:38Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Lynn man faces kidnapping charge in theft of car with 6-year-old in backseat",
+          "url": "https://www.masslive.com/news/2026/10/lynn-man-faces-kidnapping-charge-in-theft-of-car-with-6-year-old-in-backseat.html",
+          "published_at": "2026-10-27T22:42:20Z"
+        }
+      ]
+    },
+    {
+      "headline": "Alex Pretti\u2019s Parents Say Federal Government Is Silent on Investigation",
+      "score": 49,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 1,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "NBC News",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-27T18:20:27Z",
+      "reports": [
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Alex Pretti\u2019s Parents Say Federal Government Is Silent on Investigation",
+          "url": "https://www.nytimes.com/2026/10/27/us/alex-pretti-parents-federal-investigation.html",
+          "published_at": "2026-10-27T18:20:27Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Alex Pretti\u2019s parents demand DOJ release evidence of fatal ICE shooting",
+          "url": "https://www.nbcnews.com/news/us-news/parents-nurse-killed-ice-demand-doj-release-evidence-fatal-shooting-rcna605923",
+          "published_at": "2026-10-27T19:24:29Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "\u2018Shameful\u2019: Alex Pretti\u2019s parents accuse Trump officials of shielding son\u2019s killers",
+          "url": "https://www.theguardian.com/us-news/2026/oct/27/alex-pretti-parents-son-killing",
+          "published_at": "2026-10-27T23:25:50Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Alex Pretti's parents seek answers from DOJ months after son's killing",
+          "url": "https://abcnews.com/Politics/alex-prettis-parents-seek-answers-federal-government-9/story?id=137601904",
+          "published_at": "2026-10-28T00:58:28Z"
+        }
+      ]
+    },
+    {
+      "headline": "Boston is trying to make it easier to own and operate a restaurant in the city",
+      "score": 43,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 1,
+        "boston_local": [
+          "boston",
+          "michelle wu"
+        ]
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "NBC Boston"
+      ],
+      "first_seen": "2026-10-27T08:41:25Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Boston is trying to make it easier to own and operate a restaurant in the city",
+          "url": "https://www.nbcboston.com/news/local/mayor-wu-to-make-major-announcement-in-support-of-boston-restaurants/4037968/",
+          "published_at": "2026-10-27T08:41:25Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Wu unveils plan to make it easier to open a restaurant in Boston",
+          "url": "https://www.boston.com/news/local-news/2026/10/27/mayor-wu-makes-major-announcement-for-boston-restaurants/",
+          "published_at": "2026-10-28T01:23:36Z"
+        }
+      ]
+    },
+    {
+      "headline": "Longtime WCVB anchor Jim Boyd dies at 84",
+      "score": 43,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 1,
+        "boston_local": [
+          "boston",
+          "massachusetts"
+        ]
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-10-28T00:23:35Z",
+      "reports": [
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Longtime WCVB anchor Jim Boyd dies at 84",
+          "url": "https://www.boston.com/news/local-news/2026/10/27/longtime-wcvb-anchor-jim-boyd-dies-at-84/",
+          "published_at": "2026-10-28T00:23:35Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Longtime WCVB-TV news anchor, reporter Jim Boyd dies",
+          "url": "https://www.wcvb.com/article/wcvb-tv-news-anchor-reporter-jim-boyd-dies/74248621",
+          "published_at": "2026-10-28T00:42:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Aerial video shows California flooding amid \u2018record-breaking tides\u2019 \u2013 video",
+      "score": 39,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 1,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "CBS News",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-27T21:55:44Z",
+      "reports": [
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Aerial video shows California flooding amid \u2018record-breaking tides\u2019 \u2013 video",
+          "url": "https://www.theguardian.com/us-news/video/2026/oct/27/aerial-video-shows-california-flooding-amid-record-breaking-tides-video",
+          "published_at": "2026-10-27T21:55:44Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "King tides cause flooding, damage to Southern California homes",
+          "url": "https://www.cbsnews.com/video/king-tides-cause-flooding-damage-california-homes/",
+          "published_at": "2026-10-27T22:28:53Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "California\u2019s High Tides Set Records This Week. They\u2019re Going to Get Higher.",
+          "url": "https://www.nytimes.com/2026/10/27/weather/king-tides-california-la-sf.html",
+          "published_at": "2026-10-27T22:33:06Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "High tides break records, closing several roadways, flooding neighborhoods on both coasts",
+          "url": "https://www.cbsnews.com/video/high-tides-break-records-closing-several-roadways-flooding-neighborhoods-both-coasts/",
+          "published_at": "2026-10-28T00:07:56Z"
+        }
+      ]
+    },
+    {
+      "headline": "University of Utah apologizes to Pat McAfee after students mock the ESPN host",
+      "score": 35,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Fox News",
+        "NBC Boston",
+        "NBC News"
+      ],
+      "first_seen": "2026-10-27T05:18:15Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "University of Utah apologizes to Pat McAfee after students mock the ESPN host",
+          "url": "https://www.nbcboston.com/news/sports/ncaaf/university-utah-apology-pat-mcafee/4038644/",
+          "published_at": "2026-10-27T05:18:15Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "University of Utah apologizes to Pat McAfee after students mock the ESPN host",
+          "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/university-utah-apologizes-pat-mcafee-students-mock-espn-host-rcna605995",
+          "published_at": "2026-10-27T20:27:39Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "FBI advised ESPN star Pat McAfee to wear a bulletproof vest after Charlie Kirk\u2019s assassination",
+          "url": "https://www.foxnews.com/outkick-sports/fbi-advised-espn-star-pat-mcafee-wear-bulletproof-vest-charlie-kirk-assassination",
+          "published_at": "2026-10-27T23:44:31Z"
+        }
+      ]
+    },
+    {
+      "headline": "Florida mom arrested after leaving 4 kids home alone during dayslong trip to Vegas",
+      "score": 35,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "CBS News",
+        "NBC News"
+      ],
+      "first_seen": "2026-10-27T20:04:42Z",
+      "reports": [
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Florida mom arrested after leaving 4 kids home alone during dayslong trip to Vegas",
+          "url": "https://www.nbcnews.com/news/us-news/florida-mom-arrested-leaving-4-kids-home-alone-dayslong-trip-vegas-rcna605993",
+          "published_at": "2026-10-27T20:04:42Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Florida mom arrested for allegedly leaving children home alone while on Vegas trip, police say",
+          "url": "https://www.cbsnews.com/video/florida-mom-arrested-allegedly-leaving-children-alone-vegas-trip-police-say/",
+          "published_at": "2026-10-28T00:14:13Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Florida mom left kids home alone while on trip to Vegas, deputies say",
+          "url": "https://www.cbsnews.com/news/florida-mom-leaves-kids-home-alone-las-vegas-trip/",
+          "published_at": "2026-10-28T00:19:34Z"
+        }
+      ]
+    },
+    {
+      "headline": "WATCH: Alex Pretti's family hold presser for the first time: 'It has been a miserable year'",
+      "score": 34,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-10-27T16:50:28Z",
+      "reports": [
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "WATCH: Alex Pretti's family hold presser for the first time: 'It has been a miserable year'",
+          "url": "https://abcnews.com/video/137610279/",
+          "published_at": "2026-10-27T16:50:28Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Alex Pretti\u2019s family says feds are still stonewalling efforts for justice",
+          "url": "https://www.wcvb.com/article/alex-pretti-doj-minneapolis-shooting-victims-rights/74259513",
+          "published_at": "2026-10-27T22:06:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Susan Saint James' family recalls tragedy after actress' death",
+      "score": 34,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "MassLive",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-27T18:51:24Z",
+      "reports": [
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Susan Saint James' family recalls tragedy after actress' death",
+          "url": "https://www.masslive.com/entertainment/2026/10/beloved-tv-actress-who-lost-teenage-son-in-plane-crash-dies-at-80.html",
+          "published_at": "2026-10-27T18:51:24Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Susan Saint James, Emmy Winner Who Starred in \u2018Kate & Allie,\u2019 Dies at 80",
+          "url": "https://www.nytimes.com/2026/10/27/arts/television/susan-st-james-dead-kate-and-allie.html",
+          "published_at": "2026-10-27T20:17:20Z"
+        }
+      ]
+    },
+    {
+      "headline": "Angel Reese\u2019s pregame shirt and postgame comments have WNBA fans talking",
+      "score": 34,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Fox News",
+        "MassLive"
+      ],
+      "first_seen": "2026-10-27T18:52:02Z",
+      "reports": [
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Angel Reese\u2019s pregame shirt and postgame comments have WNBA fans talking",
+          "url": "https://www.masslive.com/sports/2026/10/what-angel-reese-wore-before-wnba-finals-game-5-and-what-she-said-after-it.html",
+          "published_at": "2026-10-27T18:52:02Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Dream coach Karl Smesko calls WNBA Finals officiating \u2018just ridiculous\u2019 as Angel Reese also questions refs",
+          "url": "https://www.foxnews.com/outkick-sports/dream-coach-karl-smesko-calls-wnba-finals-officiating-just-ridiculous-angel-reese-questions-refs",
+          "published_at": "2026-10-27T22:49:55Z"
+        }
+      ]
+    },
+    {
+      "headline": "Longmeadow\u2019s historic hall might have too many problems to sell",
+      "score": 33,
+      "signals": {
+        "us_outlets": 1,
+        "intl_outlets": 0,
+        "front_pages": 1,
+        "boston_local": [
+          "red sox"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive"
+      ],
+      "first_seen": "2026-10-27T18:20:59Z",
+      "reports": [
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Longmeadow\u2019s historic hall might have too many problems to sell",
+          "url": "https://www.masslive.com/westernmass/2026/10/longmeadows-historic-hall-might-have-too-many-problems-to-sell.html",
+          "published_at": "2026-10-27T18:20:59Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "The Red Sox have too many outfielders and not enough answers \u2014 here's how Craig Breslow might fix it this winter",
+          "url": "https://www.masslive.com/redsox/2026/10/red-sox-roster-how-will-outfield-logjam-pursuit-of-slugging-dh-impact-jarren-duran-others.html",
+          "published_at": "2026-10-27T19:03:42Z"
+        }
+      ]
+    }
+  ]
+}
