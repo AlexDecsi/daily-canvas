@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-28",
+  "published_at": "2026-10-29T01:17:42.458242Z",
+  "status": "published",
+  "prelaunch": false,
+  "title": "Dolores Huerta, farmworker organizer, dies at 96",
+  "caption": "Dolores Huerta, who co-founded the farmworkers' union that became the United Farm Workers with Cesar Chavez in 1962, died Oct. 28 at her home in Bakersfield, California, at 96; her family said the cause was cancer. Shown in tribute: the 1960s Delano grape strike picket line she marched on. She coined the rallying cry \"Sí se puede\" and received the Presidential Medal of Freedom in 2012.",
+  "stories": [
+    {
+      "name": "Labor and civil rights leader Dolores Huerta dies at 96",
+      "role": "focal",
+      "facts": [
+        "Dolores Huerta died on Wednesday, Oct. 28, at 96, at her home in Bakersfield, California, surrounded by family; a family spokesperson said the cause was cancer.",
+        "In 1962 she and Cesar Chavez founded the National Farm Workers Association, which became the United Farm Workers; she served as its vice president until 1999.",
+        "She joined Filipino grape pickers on the picket line in the five-year Delano grape strike and led national grape and lettuce boycotts in the early 1970s, which helped win California's 1975 law recognizing farmworkers' right to bargain collectively.",
+        "She coined the rallying cry 'Sí se puede'. President Obama awarded her the Presidential Medal of Freedom in 2012."
+      ],
+      "sources": [
+        {
+          "publisher": "CBS News",
+          "title": "Dolores Huerta, labor activist and civil rights icon, dies at 96",
+          "url": "https://www.cbsnews.com/news/dolores-huerta-dies-age-96-labor-activist-civil-rights-leader/",
+          "published_at": "2026-10-28T20:04:31Z"
+        },
+        {
+          "publisher": "NBC Boston",
+          "title": "Dolores Huerta, influential labor leader and civil rights icon, dies at 96",
+          "url": "https://www.nbcboston.com/news/national-international/california-civil-rights-leader-dolores-huerta-dies-at-96/4039084/",
+          "published_at": "2026-10-28T11:34:37Z"
+        },
+        {
+          "publisher": "NPR",
+          "title": "Dolores Huerta, influential labor leader, feminist and civil rights icon, dies at 96",
+          "url": "https://www.npr.org/2026/10/28/nx-s1-6020543/dolores-huerta-dies",
+          "published_at": "2026-10-28T16:10:43Z"
+        }
+      ]
+    }
+  ],
+  "artwork": {
+    "path": "artwork/2026-10-28.svg",
+    "format": "svg",
+    "alt": "Graphic poster illustration of a 1960s farmworkers' picket line on a California vineyard road at sunset. A young Dolores Huerta, with long dark hair and a red top, leads the line with one arm raised in front of a huge setting sun, followed by six farmworkers in work clothes and caps. Vine rows run to the horizon, grape clusters frame the corners, and long shadows stretch toward the viewer. A historical tribute marking her death at 96.",
+    "method": "code-generated SVG (graphic-poster kit, src/art/daily/)",
+    "revision": "r3"
+  },
+  "backfill": {
+    "is_backfill": false,
+    "reason": null
+  }
+}

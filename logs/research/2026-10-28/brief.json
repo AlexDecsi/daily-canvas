@@ -1,0 +1,58 @@
+{
+  "date": "2026-10-28",
+  "mode": "live (scheduled run)",
+  "prepared_at": "2026-10-29T01:15:00Z",
+  "candidates_considered": 25,
+  "rationale": "The death of Dolores Huerta, co-founder of the United Farm Workers with Cesar Chavez, was the day's most widely led US story (7 US outlets, 6 front pages, plus BBC and the Guardian). Focal. The Spain train crash is international with no direct US link; the federal judge's refusal to let the Justice Department set aside 20,000 California ballots broke late in the evening (after 8:40 p.m. Boston time) and is a procedural ruling that is hard to draw truthfully; the Fed holding rates steady was smaller and doesn't fit the same scene. No Boston story matched the national significance. One story keeps the picture clear.",
+  "stories": [
+    {
+      "role": "focal",
+      "name": "Labor and civil rights leader Dolores Huerta dies at 96",
+      "facts": [
+        "Dolores Huerta died on Wednesday, Oct. 28, at 96, at her home in Bakersfield, California, surrounded by family; a family spokesperson said the cause was cancer.",
+        "In 1962 she and Cesar Chavez founded the National Farm Workers Association, which became the United Farm Workers; she served as its vice president until 1999.",
+        "She joined Filipino grape pickers on the picket line in the five-year Delano grape strike and led national grape and lettuce boycotts in the early 1970s, which helped win California's 1975 law recognizing farmworkers' right to bargain collectively.",
+        "She coined the rallying cry 'Sí se puede'. President Obama awarded her the Presidential Medal of Freedom in 2012."
+      ],
+      "people": [
+        {
+          "name": "Dolores Huerta",
+          "public_figure": true,
+          "verified_action": "marched on the picket line with striking grape pickers during the 1960s Delano grape strike in California (public record); drawn only as that historical scene, as a young organizer with long dark hair, raising one arm to lead the line"
+        }
+      ],
+      "visual_notes": "Historical tribute scene, not today: the Delano picket line at the edge of a California vineyard, at sunset. Marching farmworkers are anonymous and generic. One marcher carries the United Farm Workers' real flag (red field, white circle, black stepped eagle, no text). Don't draw her death, a funeral, mourners, tributes, Chavez's likeness, readable signs or slogans, or any crowd size beyond a small picket line.",
+      "confidence": "high: confirmed by her family and a family spokesperson, reported independently by CBS News (with AP) and NBC Boston, and led by NPR, NYT, ABC, Axios, BBC and the Guardian.",
+      "sources": [
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "wire": "AP",
+          "title": "Dolores Huerta, labor activist and civil rights icon, dies at 96",
+          "url": "https://www.cbsnews.com/news/dolores-huerta-dies-age-96-labor-activist-civil-rights-leader/",
+          "published_at": "2026-10-28T20:04:31Z",
+          "checked_at": "2026-10-29T01:14:00Z",
+          "checked": "full article"
+        },
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "title": "Dolores Huerta, influential labor leader and civil rights icon, dies at 96",
+          "url": "https://www.nbcboston.com/news/national-international/california-civil-rights-leader-dolores-huerta-dies-at-96/4039084/",
+          "published_at": "2026-10-28T11:34:37Z",
+          "checked_at": "2026-10-29T01:15:00Z",
+          "checked": "full article"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "title": "Dolores Huerta, influential labor leader, feminist and civil rights icon, dies at 96",
+          "url": "https://www.npr.org/2026/10/28/nx-s1-6020543/dolores-huerta-dies",
+          "published_at": "2026-10-28T16:10:43Z",
+          "checked_at": "2026-10-29T01:14:00Z",
+          "checked": "feed headline and summary (full page timed out)"
+        }
+      ]
+    }
+  ]
+}

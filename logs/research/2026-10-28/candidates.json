@@ -1,0 +1,1718 @@
+{
+  "date": "2026-10-28",
+  "fetched_at": "2026-10-29T01:13:30.148903Z",
+  "items_considered": 513,
+  "candidates": [
+    {
+      "headline": "Dolores Huerta, influential labor leader and civil rights icon, dies at 96",
+      "score": 122,
+      "signals": {
+        "us_outlets": 7,
+        "intl_outlets": 2,
+        "front_pages": 6,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "Axios",
+        "BBC News",
+        "CBS News",
+        "NBC Boston",
+        "NBC News",
+        "NPR",
+        "PBS NewsHour",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-28T11:34:37Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Dolores Huerta, influential labor leader and civil rights icon, dies at 96",
+          "url": "https://www.nbcboston.com/news/national-international/california-civil-rights-leader-dolores-huerta-dies-at-96/4039084/",
+          "published_at": "2026-10-28T11:34:37Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Dolores Huerta, influential labor leader, feminist and civil rights icon, dies at 96",
+          "url": "https://www.npr.org/2026/10/28/nx-s1-6020543/dolores-huerta-dies",
+          "published_at": "2026-10-28T16:10:43Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Dolores Huerta, pioneering labor activist, dies at 96",
+          "url": "https://www.axios.com/2026/10/28/dolores-huerta-dies-96-united-farm-workers",
+          "published_at": "2026-10-28T16:48:33Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "US civil rights leader Dolores Huerta dies aged 96",
+          "url": "https://www.bbc.co.uk/news/articles/cwp8gdk3rzn3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-28T18:48:15Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Dolores Huerta, Who Founded United Farm Workers With Cesar Chavez, Dies",
+          "url": "https://www.nytimes.com/2026/10/28/us/dolores-huerta-dead.html",
+          "published_at": "2026-10-28T19:31:00Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Dolores Huerta, labor activist and civil rights icon, dies at 96",
+          "url": "https://www.cbsnews.com/news/dolores-huerta-dies-age-96-labor-activist-civil-rights-leader/",
+          "published_at": "2026-10-28T20:04:31Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Remembering pioneering labor leader and civil rights icon Dolores Huerta",
+          "url": "https://www.pbs.org/newshour/show/remembering-labor-and-civil-rights-leader-dolores-huerta",
+          "published_at": "2026-10-28T22:10:30Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Dolores Huerta, activist who stood behind farmers and Latinos, dies at 96",
+          "url": "https://www.cbsnews.com/video/dolores-huerta-labor-and-civil-rights-activist-dies/",
+          "published_at": "2026-10-28T22:18:14Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Dolores Huerta \u2013 a life in pictures",
+          "url": "https://www.theguardian.com/us-news/gallery/2026/oct/28/dolores-huerta-photos",
+          "published_at": "2026-10-28T22:22:35Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Dolores Huerta, civil rights icon, dies at 96",
+          "url": "https://abcnews.com/US/labor-rights-leader-dolores-huerta-dies-96/story?id=137643946",
+          "published_at": "2026-10-28T22:46:37Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Tributes pour in for labor leader Dolores Huerta: \u2018Fought for farm workers to the very end\u2019",
+          "url": "https://www.theguardian.com/us-news/2026/oct/28/dolores-huerta-tributes",
+          "published_at": "2026-10-28T22:48:56Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Labor rights icon Dolores Huerta dies at 96",
+          "url": "https://www.nbcnews.com/nightly-news/video/labor-rights-icon-dolores-huerta-dies-at-96-272435781540",
+          "published_at": "2026-10-28T22:59:59Z"
+        }
+      ]
+    },
+    {
+      "headline": "Spain train crash leaves at least 68 dead in second major collision this year",
+      "score": 102,
+      "signals": {
+        "us_outlets": 5,
+        "intl_outlets": 2,
+        "front_pages": 6,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "CBS News",
+        "NBC Boston",
+        "NPR",
+        "PBS NewsHour",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-28T06:05:03Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Spain train crash leaves at least 68 dead in second major collision this year",
+          "url": "https://www.nbcboston.com/news/national-international/spain-trains-collide-dead/4038863/",
+          "published_at": "2026-10-28T06:05:03Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Dozens are dead in a high-speed train crash in Spain",
+          "url": "https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster",
+          "published_at": "2026-10-28T10:09:46Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "What we know so far about deadly Spain train crash",
+          "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-28T15:36:11Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Watch: At the scene of Spain's deadly train crash",
+          "url": "https://www.bbc.co.uk/news/videos/cw5ynjgy3vvgo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-28T16:45:16Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Second fatal train collision this year casts doubt over Spain\u2019s high-speed rail network",
+          "url": "https://www.theguardian.com/world/2026/oct/28/analysis-fatal-collision-doubt-over-spain-high-speed-rail",
+          "published_at": "2026-10-28T16:56:46Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Spain\u2019s Transportation Minister Said Incorrect Instructions Led to Train Crash",
+          "url": "https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-cause.html",
+          "published_at": "2026-10-28T17:36:08Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "\u2018It all happened in a split-second\u2019: survivors recount details of deadly train crash in Spain",
+          "url": "https://www.theguardian.com/world/2026/oct/28/it-all-happened-in-a-split-second-survivors-recount-details-of-spains-second-deadly-train-crash-in-10-months",
+          "published_at": "2026-10-28T18:12:01Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "At Least 68 Killed in Train Crash in Spain, Officials Say",
+          "url": "https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo",
+          "published_at": "2026-10-28T19:12:18Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Spain Train Crash Kills at Least 68",
+          "url": "https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-rescue-victims.html",
+          "published_at": "2026-10-28T20:26:04Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Death toll rises to 68 with dozens injured after high-speed train collision in Spain \u2013 as it happened",
+          "url": "https://www.theguardian.com/world/live/2026/oct/28/spain-train-crash-toledo-europe-latest-news-updates",
+          "published_at": "2026-10-28T20:53:55Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "What We Know About the Deadly Train Crash in Spain",
+          "url": "https://www.nytimes.com/2026/10/28/world/europe/train-crash-spain.html",
+          "published_at": "2026-10-28T21:19:40Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "High-speed train crash kills at least 68 people in Spain",
+          "url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-28T21:38:54Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Shock, anger and mourning in Spain after 2nd major train crash this year",
+          "url": "https://www.pbs.org/newshour/show/shock-anger-and-mourning-in-spain-after-2nd-major-train-crash-this-year",
+          "published_at": "2026-10-28T22:45:02Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "At least 68 killed in high-speed train accident in Spain",
+          "url": "https://www.cbsnews.com/video/at-least-68-killed-in-high-speed-train-accident-in-spain/",
+          "published_at": "2026-10-29T00:00:05Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Passengers aboard deadly train collision in Spain speak out",
+          "url": "https://www.cbsnews.com/video/passengers-aboard-deadly-train-collision-spain-speak-out/",
+          "published_at": "2026-10-29T00:02:10Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "High-speed train crash in Spain kills at least 68, dozens injured",
+          "url": "https://www.cbsnews.com/news/spain-train-crash-toledo-urda/",
+          "published_at": "2026-10-29T00:26:24Z"
+        }
+      ]
+    },
+    {
+      "headline": "Judge Says US Bid to Block 20,000 Votes Would \u2018Wreak Havoc\u2019",
+      "score": 100,
+      "signals": {
+        "us_outlets": 6,
+        "intl_outlets": 1,
+        "front_pages": 5,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "Bloomberg",
+        "CBS News",
+        "NBC News",
+        "NPR",
+        "The Guardian",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-10-29T00:41:42Z",
+      "reports": [
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge Says US Bid to Block 20,000 Votes Would \u2018Wreak Havoc\u2019",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-29/trump-s-doj-again-loses-bid-to-block-20-000-california-ballots",
+          "published_at": "2026-10-29T00:41:42Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge rebuffs Trump DoJ\u2019s bid to order California to set aside 20,000 ballots",
+          "url": "https://www.theguardian.com/us-news/2026/oct/28/federal-judge-trump-california-ballots",
+          "published_at": "2026-10-29T00:48:25Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge denies Trump administration request to segregate alleged noncitizen ballots in California",
+          "url": "https://www.nbcnews.com/politics/justice-department/judge-rules-california-ballots-alleged-non-citizen-voters-trump-doj-rcna606100",
+          "published_at": "2026-10-29T00:52:44Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge denies the Justice Department's bid to stop processing California ballots",
+          "url": "https://www.npr.org/2026/10/28/nx-s1-6021478/doj-california-ballots-denied",
+          "published_at": "2026-10-29T00:52:50Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge rejects DOJ's push to force California to set aside ballots",
+          "url": "https://www.cbsnews.com/news/judge-rejects-trump-california-mail-ballots/",
+          "published_at": "2026-10-29T00:59:19Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge denies federal request to segregate California ballots, says it would 'wreak havoc' on voting",
+          "url": "https://www.wcvb.com/article/judge-denies-federal-request-segregate-california-ballots/74278468",
+          "published_at": "2026-10-29T01:03:00Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge rejects Trump admin request for order to segregate 20,000 Calif. ballots",
+          "url": "https://abcnews.com/Politics/judge-rejects-trump-administration-request-order-segregate-20000/story?id=137660006",
+          "published_at": "2026-10-29T01:06:29Z"
+        }
+      ]
+    },
+    {
+      "headline": "Before the election, Netanyahu offered a grim economic forecast for Israel.",
+      "score": 90,
+      "signals": {
+        "us_outlets": 5,
+        "intl_outlets": 2,
+        "front_pages": 4,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Axios",
+        "BBC News",
+        "MassLive",
+        "NPR",
+        "PBS NewsHour",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-28T07:41:59Z",
+      "reports": [
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Before the election, Netanyahu offered a grim economic forecast for Israel.",
+          "url": "https://www.nytimes.com/live/2026/10/27/world/israel-elections/israels-economic-future-is-on-the-ballot-after-netanyahu-offers-a-grim-forecast",
+          "published_at": "2026-10-28T07:41:59Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Israel's election too close to call. And, the Ebola outbreak reaches grim milestone",
+          "url": "https://www.npr.org/2026/10/28/g-s1-150313/up-first-newsletter-midterm-campaign-trump-israel-elections-federal-reserve-ebola-outbreak",
+          "published_at": "2026-10-28T11:28:55Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "4 Takeaways From Israel\u2019s Election",
+          "url": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-vote-results-takeaways.html",
+          "published_at": "2026-10-28T14:10:53Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Israel's election result is messy - here's why",
+          "url": "https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-28T14:26:24Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "How could Israel break election deadlock? Here are four scenarios",
+          "url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-28T14:30:31Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Eisenkot, Netanyahu\u2019s Main Rival in Israel\u2019s Election, Faces a Dilemma",
+          "url": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-results-eisenkot.html",
+          "published_at": "2026-10-28T15:20:24Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Israel faces weeks of political wrangling after deadlocked election",
+          "url": "https://www.axios.com/2026/10/28/israel-elections-netanyahu-eisenkot-results-deadlock",
+          "published_at": "2026-10-28T15:28:04Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Netanyahu Didn\u2019t Win Israel\u2019s Election. But He\u2019s Far From Out.",
+          "url": "https://www.nytimes.com/2026/10/28/world/middleeast/netanyahu-israel-election.html",
+          "published_at": "2026-10-28T16:34:01Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump critic makes prediction on 2026 midterms: \u2018Too close to call\u2019",
+          "url": "https://www.masslive.com/politics/2026/10/trump-critic-makes-prediction-on-2026-midterms-too-close-to-call.html",
+          "published_at": "2026-10-28T18:00:00Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Rivals in Israel Election Strike Tone of Triumph, but Outcome Is Far From Clear",
+          "url": "https://www.nytimes.com/live/2026/10/27/world/israel-elections",
+          "published_at": "2026-10-28T18:17:50Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Coalition talks loom in Israel as Netanyahu and Eisenkot blocs set to fall short of majority",
+          "url": "https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb",
+          "published_at": "2026-10-28T19:58:27Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+          "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-28T20:24:39Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "What to Make of Israel\u2019s Ambiguous Election",
+          "url": "https://www.nytimes.com/2026/10/28/world/israel-election-results-spain-train.html",
+          "published_at": "2026-10-28T20:43:33Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "4 takeaways from Israel's inconclusive election",
+          "url": "https://www.pbs.org/newshour/world/4-takeaways-from-israels-inconclusive-election",
+          "published_at": "2026-10-28T20:47:47Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Israel's election deadlock is a sign of the country's deep divisions",
+          "url": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-28T20:53:02Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "What's next for Israel after election produces political gridlock",
+          "url": "https://www.pbs.org/newshour/show/whats-next-for-israel-after-election-produces-political-gridlock",
+          "published_at": "2026-10-28T22:50:09Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Netanyahu bloc loses majority as most ballots counted \u2013 as it happened",
+          "url": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
+          "published_at": "2026-10-29T00:24:12Z"
+        }
+      ]
+    },
+    {
+      "headline": "Federal Reserve leaves interest rates unchanged despite rising inflation",
+      "score": 90,
+      "signals": {
+        "us_outlets": 5,
+        "intl_outlets": 2,
+        "front_pages": 4,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "CBS News",
+        "CNBC",
+        "NBC News",
+        "NPR",
+        "PBS NewsHour",
+        "The Guardian"
+      ],
+      "first_seen": "2026-10-28T18:01:36Z",
+      "reports": [
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Federal Reserve leaves interest rates unchanged despite rising inflation",
+          "url": "https://www.nbcnews.com/business/economy/fed-rates-inflation-warsh-midterms-rcna606154",
+          "published_at": "2026-10-28T18:01:36Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Fed holds interest rates steady even as inflation remains stubborn",
+          "url": "https://www.npr.org/2026/10/28/nx-s1-6020425/federal-reserve-interest-rates-inflation",
+          "published_at": "2026-10-28T18:04:42Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Federal Reserve keeps interest rates unchanged in final vote before midterms",
+          "url": "https://www.nbcnews.com/now/video/federal-reserve-keeps-interest-rates-unchanged-in-final-vote-before-midterms-272416837771",
+          "published_at": "2026-10-28T18:50:53Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Fed holds interest rates steady in last decision before midterms",
+          "url": "https://www.theguardian.com/business/2026/oct/28/fed-interest-rates-midterms",
+          "published_at": "2026-10-28T19:26:41Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "US central bank holds interest rates steady ahead of midterm elections \u2013 here's what that means",
+          "url": "https://www.bbc.co.uk/news/articles/cr15jxzv4w24o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-28T19:42:42Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "10-year Treasury yield creeps higher even as Fed keeps rates the same",
+          "url": "https://www.cnbc.com/2026/10/28/us-treasurys-bonds-yields-federal-reserve.html",
+          "published_at": "2026-10-28T20:17:19Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Fed leaves rates unchanged: What it means for credit cards, mortgages, auto loans and savings accounts",
+          "url": "https://www.cnbc.com/2026/10/28/fed-rate-decision-consumer-borrowing-costs.html",
+          "published_at": "2026-10-28T20:59:23Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Fed meeting recap: Warsh says central bank will host fewer rate-setting meetings in future years",
+          "url": "https://www.cnbc.com/2026/10/28/fed-meeting-today-live-updates.html",
+          "published_at": "2026-10-28T21:02:56Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Here are five key takeaways from the Fed rate decision and Warsh news conference",
+          "url": "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html",
+          "published_at": "2026-10-28T21:31:46Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Fed holds interest rates steady even as inflation remains high",
+          "url": "https://www.cbsnews.com/news/federal-reserve-holds-interest-rates-steady-inflation/",
+          "published_at": "2026-10-28T21:34:15Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "News Wrap: Fed holds interest rates unchanged as inflation remains elevated",
+          "url": "https://www.pbs.org/newshour/show/news-wrap-fed-holds-interest-rates-unchanged-as-inflation-remains-elevated",
+          "published_at": "2026-10-28T22:40:26Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": true,
+          "title": "Fed hits pause on interest rates",
+          "url": "https://thehill.com/newsletters/business-economy/6179798-fed-hits-pause-on-interest-rates/",
+          "published_at": "2026-10-28T22:47:53Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Federal Reserve holds interest rates steady despite inflation",
+          "url": "https://www.cbsnews.com/video/federal-reserve-holds-interest-rates-steady-despite-inflation/",
+          "published_at": "2026-10-29T00:07:00Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Early midterm voting data shows enthusiasm ahead of election day",
+          "url": "https://www.nbcnews.com/video/early-midterm-voting-data-shows-enthusiasm-ahead-of-election-day-272440901813",
+          "published_at": "2026-10-29T00:11:57Z"
+        }
+      ]
+    },
+    {
+      "headline": "Fl\u00e1vio Bolsonaro Leaves Brazil for the U.S. After Election Defeat",
+      "score": 73,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 2,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "Bloomberg",
+        "CBS News",
+        "PBS NewsHour",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-28T10:43:41Z",
+      "reports": [
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Fl\u00e1vio Bolsonaro Leaves Brazil for the U.S. After Election Defeat",
+          "url": "https://www.nytimes.com/2026/10/27/world/americas/brazil-flavio-bolsonaro-flees-election.html",
+          "published_at": "2026-10-28T10:43:41Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "What we know as Fl\u00e1vio Bolsonaro lands in US after Brazil election loss",
+          "url": "https://www.bbc.co.uk/news/videos/c6x29djyx7g9o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-28T16:30:29Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Fl\u00e1vio Bolsonaro lands in Florida after fleeing Brazil \u2013 video",
+          "url": "https://www.theguardian.com/world/video/2026/oct/28/flavio-bolsonaro-lands-in-florida-after-fleeing-brazil-video",
+          "published_at": "2026-10-28T19:53:41Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Fl\u00e1vio Bolsonaro leaves Brazil, lands in U.S. after election loss",
+          "url": "https://www.cbsnews.com/news/brazil-flavio-bolsonaro-u-s-visa-presidential-election-loss/",
+          "published_at": "2026-10-28T20:57:39Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "The Web of Investigations Fl\u00e1vio Bolsonaro Is Facing in Brazil",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-28/why-is-flavio-bolsonaro-being-investigated-in-brazil",
+          "published_at": "2026-10-28T21:37:45Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Fl\u00e1vio Bolsonaro calls himself the \u2018leader of Brazil\u2019 after fleeing to Miami",
+          "url": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat",
+          "published_at": "2026-10-28T22:06:46Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Brazil's Fl\u00e1vio Bolsonaro flees to U.S. after election loss",
+          "url": "https://www.pbs.org/newshour/show/brazils-flavio-bolsonaro-flees-to-u-s-after-election-loss",
+          "published_at": "2026-10-28T22:35:56Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Fl\u00e1vio Bolsonaro Lands in Miami After Fleeing Brazil",
+          "url": "https://www.nytimes.com/2026/10/28/world/americas/flavio-bolsonaro-us-miami-brazil-trump.html",
+          "published_at": "2026-10-28T23:04:44Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Fl\u00e1vio Bolsonaro denies fleeing Brazil after landing in Miami",
+          "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-28T23:21:48Z"
+        }
+      ]
+    },
+    {
+      "headline": "Inside Democrats\u2019 Secret Effort to Stack Alaska\u2019s Midterm Ballot With Another Dan Sullivan",
+      "score": 72,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 0,
+        "front_pages": 4,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "CBS News",
+        "PBS NewsHour",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-28T14:37:47Z",
+      "reports": [
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Inside Democrats\u2019 Secret Effort to Stack Alaska\u2019s Midterm Ballot With Another Dan Sullivan",
+          "url": "https://www.nytimes.com/2026/10/28/us/politics/alaska-dan-sullivan-conspiracy-peltola.html",
+          "published_at": "2026-10-28T14:37:47Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "A Ballot-Stacking Effort in Alaska",
+          "url": "https://www.nytimes.com/2026/10/28/briefing/alaska-ballot-stacking-horror-bookshops.html",
+          "published_at": "2026-10-28T21:40:48Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrats pushed to get second Dan Sullivan on Alaska ballot with Peltola's help, NYT reports",
+          "url": "https://www.cbsnews.com/video/democrats-pushed-to-get-second-dan-sullivan-on-alaska-ballot-nyt-reports/",
+          "published_at": "2026-10-28T23:00:52Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump calls for prosecution of Alaska Senate candidate Peltola over Sullivan name controversy",
+          "url": "https://www.pbs.org/newshour/politics/trump-calls-for-prosecution-of-alaska-senate-candidate-peltola-over-sullivan-name-controversy",
+          "published_at": "2026-10-28T23:29:24Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Breaking down the report alleging Mary Peltola's campaign recruited a second Dan Sullivan in Alaska",
+          "url": "https://www.cbsnews.com/video/report-alleging-mary-peltolas-campaign-recruited-second-dan-sullivan-alaska/",
+          "published_at": "2026-10-28T23:33:20Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump says Peltola \"shouldn't be allowed to run\" due to second Dan Sullivan",
+          "url": "https://www.cbsnews.com/news/trump-peltola-dan-sullivan-alaska-senate/",
+          "published_at": "2026-10-28T23:52:30Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Peltola campaign under fire after report it recruited 2nd Dan Sullivan in Senate race",
+          "url": "https://abcnews.com/Politics/peltola-campaign-fire-after-report-recruited-dan-sullivan/story?id=137646458",
+          "published_at": "2026-10-29T00:28:23Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump Calls for Mary Peltola, Alaska Senate Candidate, to Be Prosecuted",
+          "url": "https://www.nytimes.com/2026/10/28/us/politics/trump-peltola-sullivan-alaska-senate.html",
+          "published_at": "2026-10-29T00:32:47Z"
+        }
+      ]
+    },
+    {
+      "headline": "Hayden Panettiere's death ruled accidental by South Carolina police",
+      "score": 56,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 1,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "CBS News",
+        "NBC News",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-10-28T19:43:34Z",
+      "reports": [
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Hayden Panettiere's death ruled accidental by South Carolina police",
+          "url": "https://www.cbsnews.com/news/hayden-panettiere-death-ruled-accidental/",
+          "published_at": "2026-10-28T19:43:34Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Hayden Panettiere\u2019s death is ruled accidental and police investigation is closed",
+          "url": "https://www.nbcnews.com/news/us-news/hayden-panettieres-death-ruled-accidental-police-investigation-closed-rcna606223",
+          "published_at": "2026-10-28T21:08:48Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
+          "url": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-28T21:16:30Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Police in South Carolina close Hayden Panettiere death investigation with no charges",
+          "url": "https://www.wcvb.com/article/hayden-panettiere-case-closed-greenville-police/74277755",
+          "published_at": "2026-10-28T23:18:00Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Hayden Panettiere overdose death ruled an accident",
+          "url": "https://www.nbcnews.com/nightly-news/video/hayden-panettiere-overdose-death-ruled-an-accident-272439877854",
+          "published_at": "2026-10-28T23:54:06Z"
+        }
+      ]
+    },
+    {
+      "headline": "Study estimates 75% of NFL players who died over 15-year span had CTE",
+      "score": 55,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 1,
+        "front_pages": 2,
+        "boston_local": [
+          "boston"
+        ]
+      },
+      "independent_outlets": [
+        "CBS News",
+        "NBC News",
+        "The Guardian"
+      ],
+      "first_seen": "2026-10-28T15:01:27Z",
+      "reports": [
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Study estimates 75% of NFL players who died over 15-year span had CTE",
+          "url": "https://www.nbcnews.com/health/health-news/study-estimates-75-nfl-players-died-15-year-span-may-cte-rcna605975",
+          "published_at": "2026-10-28T15:01:27Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "New study estimates 75% of deceased ex-NFL players had brain disease CTE",
+          "url": "https://www.theguardian.com/us-news/2026/oct/28/cte-nfl-brain-disease-research",
+          "published_at": "2026-10-28T18:04:14Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Nearly 75% of ex-NFL players who died from 2008-2023 had CTE, study finds",
+          "url": "https://www.cbsnews.com/news/nfl-cte-study-boston-university/",
+          "published_at": "2026-10-28T19:04:53Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Study estimates 75% of NFL players who died in recent years had signs of CTE",
+          "url": "https://www.cbsnews.com/video/study-estimates-nfl-players-died-recent-years-signs-of-cte/",
+          "published_at": "2026-10-29T00:25:45Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Experts react to new findings on CTE in former NFL players",
+          "url": "https://www.cbsnews.com/news/cte-research-nfl-boston-university/",
+          "published_at": "2026-10-29T00:27:52Z"
+        }
+      ]
+    },
+    {
+      "headline": "RFK Jr. takes shortcut to make some unapproved peptides available for use",
+      "score": 51,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "NBC News",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-28T16:13:43Z",
+      "reports": [
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "RFK Jr. takes shortcut to make some unapproved peptides available for use",
+          "url": "https://www.nbcnews.com/health/health-news/rfk-jr-takes-shortcut-make-peptides-widely-available-rcna606133",
+          "published_at": "2026-10-28T16:13:43Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "RFK Jr. to Allow Broad Use of Unapproved Peptide Injections",
+          "url": "https://www.nytimes.com/2026/10/28/health/peptides-kennedy-fda.html",
+          "published_at": "2026-10-28T17:05:05Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Some wellness peptides will become widely available, HHS says",
+          "url": "https://abcnews.com/Health/wellness-peptides-become-widely-hhs/story?id=137650076",
+          "published_at": "2026-10-28T22:46:16Z"
+        }
+      ]
+    },
+    {
+      "headline": "Matthew Farwell trial recap: Prosecution rests its case on Sandra Birchmore's death",
+      "score": 50,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "NBC Boston"
+      ],
+      "first_seen": "2026-10-28T08:39:56Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Matthew Farwell trial recap: Prosecution rests its case on Sandra Birchmore's death",
+          "url": "https://www.nbcboston.com/news/local/matthew-farwell-sandra-birchmore-trial-live-updates-will-the-prosecution-rest-today/4038907/",
+          "published_at": "2026-10-28T08:39:56Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Prosecutors end Matthew Farwell case with focus on Sandra Birchmore\u2019s last steps recorded by phone",
+          "url": "https://www.masslive.com/news/2026/10/prosecutors-end-matthew-farwell-case-with-focus-on-sandra-birchmores-last-steps-recorded-by-phone.html",
+          "published_at": "2026-10-28T20:47:40Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Sandra Birchmore was planning a future. Prosecutors say Matthew Farwell feared what she might reveal",
+          "url": "https://www.masslive.com/news/2026/10/sandra-birchmore-was-planning-a-future-prosecutors-say-matthew-farwell-feared-what-she-might-reveal.html",
+          "published_at": "2026-10-28T23:20:38Z"
+        }
+      ]
+    },
+    {
+      "headline": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+      "score": 49,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 1,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "CBS News",
+        "CNBC",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-28T10:31:22Z",
+      "reports": [
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+          "url": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-28T10:31:22Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Luxury round-the-world cruise ends abruptly as fuel costs skyrocket",
+          "url": "https://www.cnbc.com/2026/10/28/villa-vie-odyssey-fuel-costs.html",
+          "published_at": "2026-10-28T11:39:44Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "An \u2018Endless\u2019 Cruise Around the World Is Suspended, Leaving Passengers Stranded",
+          "url": "https://www.nytimes.com/2026/10/28/travel/endless-cruise-suspended-villa-vie-passengers.html",
+          "published_at": "2026-10-28T19:20:53Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Cruise ship passengers stranded after operator says it ran out of money due to fuel costs",
+          "url": "https://www.cbsnews.com/video/cruise-ship-passengers-stranded-operator-says-ran-out-money-fuel-costs/",
+          "published_at": "2026-10-28T23:48:31Z"
+        }
+      ]
+    },
+    {
+      "headline": "Worcester man charged in Milford church child rape case is a sex offender, records show",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "nantucket",
+          "worcester"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-10-28T23:06:52Z",
+      "reports": [
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Worcester man charged in Milford church child rape case is a sex offender, records show",
+          "url": "https://www.masslive.com/centralmass/2026/10/worcester-man-charged-in-milford-church-child-rape-case-is-a-level-2-sex-offender-records-show.html",
+          "published_at": "2026-10-28T23:06:52Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Nantucket schools say volunteer charged with child rape",
+          "url": "https://www.wcvb.com/article/nantucket-schools-volunteer-child-rape-charge/74276642",
+          "published_at": "2026-10-29T01:09:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Portland Public Schools rescinds ban on woman who questioned child's gender identity assignment",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "nantucket"
+        ]
+      },
+      "independent_outlets": [
+        "Fox News",
+        "MassLive"
+      ],
+      "first_seen": "2026-10-28T23:49:14Z",
+      "reports": [
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Portland Public Schools rescinds ban on woman who questioned child's gender identity assignment",
+          "url": "https://www.foxnews.com/media/portland-public-schools-rescinds-ban-woman-questioned-childs-gender-identity-assignment",
+          "published_at": "2026-10-28T23:49:14Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Nantucket Public Schools volunteer arrested on charges including child rape",
+          "url": "https://www.masslive.com/news/2026/10/nantucket-public-schools-volunteer-arrested-on-charges-including-child-rape.html",
+          "published_at": "2026-10-29T00:13:45Z"
+        }
+      ]
+    },
+    {
+      "headline": "The Senate Race in Heavily Republican South Carolina is a Tossup, Poll Finds",
+      "score": 45,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "CBS News",
+        "PBS NewsHour",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-28T15:35:13Z",
+      "reports": [
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "The Senate Race in Heavily Republican South Carolina is a Tossup, Poll Finds",
+          "url": "https://www.nytimes.com/2026/10/28/us/south-carolina-florida-minnesota-poll.html",
+          "published_at": "2026-10-28T15:35:13Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Graham, Andrews tied in South Carolina Senate race, new poll shows",
+          "url": "https://www.cbsnews.com/video/graham-andrews-tied-in-south-carolina-senate-race-new-poll-shows/",
+          "published_at": "2026-10-28T22:46:23Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "New polls suggest surprising Democratic gains in red-state Senate races",
+          "url": "https://www.pbs.org/newshour/show/new-polls-suggest-surprising-democratic-gains-in-red-state-senate-races",
+          "published_at": "2026-10-28T22:55:56Z"
+        }
+      ]
+    },
+    {
+      "headline": "Conservative influencer James O\u2019Keefe charged with unlawful voting and identity theft in Minnesota",
+      "score": 45,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "NBC News",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-28T16:48:30Z",
+      "reports": [
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Conservative influencer James O\u2019Keefe charged with unlawful voting and identity theft in Minnesota",
+          "url": "https://www.nbcnews.com/politics/2026-election/james-okeefe-minnesota-unlawful-voting-identity-theft-charges-rcna606142",
+          "published_at": "2026-10-28T16:48:30Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Right-Wing Provocateur James O\u2019Keefe Charged in Minnesota Voting Stunt",
+          "url": "https://www.nytimes.com/2026/10/28/us/james-okeefe-charged-minnesota-voting-cam-higby.html",
+          "published_at": "2026-10-28T17:17:12Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "2 right-wing provocateurs facing election-related charges in Minnesota",
+          "url": "https://abcnews.com/US/2-wing-provocateurs-facing-election-related-charges-minnesota/story?id=137646933",
+          "published_at": "2026-10-28T18:55:45Z"
+        }
+      ]
+    },
+    {
+      "headline": "Dispute at Salem's \u2018Bewitched' statue turns violent, person hit with stun gun",
+      "score": 43,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 1,
+        "boston_local": [
+          "massachusetts"
+        ]
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "NBC Boston"
+      ],
+      "first_seen": "2026-10-28T11:07:59Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Dispute at Salem's \u2018Bewitched' statue turns violent, person hit with stun gun",
+          "url": "https://www.nbcboston.com/news/local/dispute-at-salems-bewitched-statue-turns-violent-person-hit-with-stun-gun/4039047/",
+          "published_at": "2026-10-28T11:07:59Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Street preacher argument leads to stun gun attack at Bewitched statue in Salem, police say",
+          "url": "https://www.boston.com/news/local-news/2026/10/28/street-preacher-argument-leads-to-stun-gun-attack-at-bewitched-statue-in-salem-police-say/",
+          "published_at": "2026-10-28T21:35:58Z"
+        }
+      ]
+    },
+    {
+      "headline": "Police search for driver involved in hit-and-run crash in Derry, NH",
+      "score": 43,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 1,
+        "boston_local": [
+          "new hampshire"
+        ]
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "NBC Boston"
+      ],
+      "first_seen": "2026-10-28T11:29:26Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Police search for driver involved in hit-and-run crash in Derry, NH",
+          "url": "https://www.nbcboston.com/news/local/derry-new-hampshire-hit-and-run/4039071/",
+          "published_at": "2026-10-28T11:29:26Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Police on North Shore ask for help finding driver in hit and run that killed dog",
+          "url": "https://www.boston.com/news/local-news/2026/10/28/police-on-north-shore-ask-for-help-finding-driver-in-hit-and-run-that-killed-dog/",
+          "published_at": "2026-10-28T22:56:42Z"
+        }
+      ]
+    },
+    {
+      "headline": "\u2018A disaster waiting to happen\u2019: Patrick Clancy\u2019s wrongful death lawsuit faces motion to dismiss",
+      "score": 43,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 1,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-10-28T20:49:13Z",
+      "reports": [
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "\u2018A disaster waiting to happen\u2019: Patrick Clancy\u2019s wrongful death lawsuit faces motion to dismiss",
+          "url": "https://www.boston.com/news/local-news/2026/10/28/patrick-clancy-wrongful-death-lawsuit-motion-to-dismiss/",
+          "published_at": "2026-10-28T20:49:13Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Prosecutors file opposition to Lindsay Clancy's motion to dismiss murder case",
+          "url": "https://www.wcvb.com/article/clancy-prosecution-opposition-motions-possible-retrial-oct-28/74276735",
+          "published_at": "2026-10-28T22:05:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Wendy\u2019s, struggling with beef prices and growing competition, gets a buyout offer",
+      "score": 43,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 1,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-10-28T22:14:39Z",
+      "reports": [
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Wendy\u2019s, struggling with beef prices and growing competition, gets a buyout offer",
+          "url": "https://www.boston.com/news/food-news/2026/10/28/wendys-struggling-with-beef-prices-and-growing-competition-gets-a-buyout-offer/",
+          "published_at": "2026-10-28T22:14:39Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Wendy's, struggling with beef prices and growing competition, gets a buyout offer",
+          "url": "https://www.wcvb.com/article/wendys-struggling-with-beef-prices-and-growing-competition-gets-a-buyout-offer/74277451",
+          "published_at": "2026-10-28T22:54:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Three media outlets seek full White House access in amended lawsuit",
+      "score": 40,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 1,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Bloomberg",
+        "CNBC",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-28T20:21:03Z",
+      "reports": [
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Three media outlets seek full White House access in amended lawsuit",
+          "url": "https://www.cnbc.com/2026/10/28/trump-white-house-media-ban-cnn-msnow-politico.html",
+          "published_at": "2026-10-28T20:21:03Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "CNN Adds Air Force One Access to Suit Over Trump White House Ban",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-28/cnn-adds-air-force-one-access-to-suit-over-trump-white-house-ban",
+          "published_at": "2026-10-28T20:42:21Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "CNN, MS Now and Politico Update Lawsuit Against Trump Over White House Access",
+          "url": "https://www.nytimes.com/2026/10/28/business/media/cnn-ms-now-politico-white-house-lawsuit.html",
+          "published_at": "2026-10-28T20:47:13Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "As Trump Faces Down the Midterms, a Grim Mood Takes Over the White House",
+          "url": "https://www.nytimes.com/2026/10/28/us/politics/trump-midterms-white-house-mood.html",
+          "published_at": "2026-10-29T01:01:58Z"
+        }
+      ]
+    },
+    {
+      "headline": "Chiefs coach defends signing kicker suspended after sexual misconduct allegations",
+      "score": 39,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 1,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Fox News",
+        "NBC News",
+        "The Guardian"
+      ],
+      "first_seen": "2026-10-28T19:46:22Z",
+      "reports": [
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Chiefs coach defends signing kicker suspended after sexual misconduct allegations",
+          "url": "https://www.nbcnews.com/sports/nfl/justin-tucker-kansas-city-chiefs-andy-reid-nfl-suspension-rcna606197",
+          "published_at": "2026-10-28T19:46:22Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Chiefs sign Justin Tucker in wake of sexual misconduct allegations as Butker struggles",
+          "url": "https://www.theguardian.com/sport/2026/oct/28/justin-tucker-harrison-butker-nfl-kicker-chiefs",
+          "published_at": "2026-10-28T19:59:56Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Craig Carton rips Chiefs' 'win at all costs' approach after controversial Justin Tucker signing",
+          "url": "https://www.foxnews.com/outkick-sports/craig-carton-rips-chiefs-win-all-costs-approach-controversial-justin-tucker-signing",
+          "published_at": "2026-10-28T21:45:14Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "BOBBY BURACK: Justin Tucker signing exposes sports media\u2019s selective outrage over NFL misconduct",
+          "url": "https://www.foxnews.com/outkick-sports/justin-tucker-signing-exposes-sports-media-selective-outrage-nfl-players-accused-misconduct",
+          "published_at": "2026-10-28T23:44:43Z"
+        }
+      ]
+    },
+    {
+      "headline": "Ernie Johnson, beloved host of Inside the NBA, to step away from show at end of season",
+      "score": 38,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 1,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Fox News",
+        "The Guardian",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-10-28T19:25:28Z",
+      "reports": [
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Ernie Johnson, beloved host of Inside the NBA, to step away from show at end of season",
+          "url": "https://www.theguardian.com/sport/2026/oct/28/ernie-johnson-beloved-host-of-inside-the-nba-to-step-away-from-show-at-end-of-season",
+          "published_at": "2026-10-28T19:25:28Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Legendary host Ernie Johnson announces he is stepping away from 'Inside the NBA' after this season",
+          "url": "https://www.foxnews.com/outkick-sports/legendary-host-ernie-johnson-announces-stepping-away-inside-nba-after-season",
+          "published_at": "2026-10-28T21:17:11Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "TV personality Ernie Johnson says this will be final season on 'Inside the NBA'",
+          "url": "https://www.wcvb.com/article/ernie-johnson-final-season-inside-the-nba/74275321",
+          "published_at": "2026-10-29T00:26:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "WATCH: King tides swamp homes with seawater in South Florida and California coasts",
+      "score": 34,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "CBS News"
+      ],
+      "first_seen": "2026-10-28T10:31:11Z",
+      "reports": [
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "WATCH: King tides swamp homes with seawater in South Florida and California coasts",
+          "url": "https://abcnews.com/video/137619368/",
+          "published_at": "2026-10-28T10:31:11Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Cars struggle to get through as flooding rises due to king tides in Florida, California",
+          "url": "https://www.cbsnews.com/video/cars-struggle-flooding-rises-king-tides-florida-california/",
+          "published_at": "2026-10-28T23:36:32Z"
+        }
+      ]
+    },
+    {
+      "headline": "Alvin Hellerstein, judge in Maduro and Trump cases, dies at 92",
+      "score": 34,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "CBS News",
+        "PBS NewsHour"
+      ],
+      "first_seen": "2026-10-28T19:16:00Z",
+      "reports": [
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Alvin Hellerstein, judge in Maduro and Trump cases, dies at 92",
+          "url": "https://www.cbsnews.com/news/alvin-hellerstein-dies-judge-maduro-trump/",
+          "published_at": "2026-10-28T19:16:00Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Alvin Hellerstein, federal judge who handled cases on Trump, Maduro and 9/11, dies at 92",
+          "url": "https://www.pbs.org/newshour/politics/alvin-hellerstein-federal-judge-who-handled-cases-on-trump-maduro-and-9-11-dies-at-92",
+          "published_at": "2026-10-28T21:49:10Z"
+        }
+      ]
+    }
+  ]
+}

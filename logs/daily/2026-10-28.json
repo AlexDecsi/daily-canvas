@@ -1,0 +1,58 @@
+{
+  "date": "2026-10-28",
+  "runs": [
+    {
+      "started_at": "2026-10-29T01:13:15.080166Z",
+      "outcome": "published",
+      "steps": [
+        {
+          "at": "2026-10-29T01:13:15.080170Z",
+          "step": "prepare: lock acquired (live)"
+        },
+        {
+          "at": "2026-10-29T01:13:30.168862Z",
+          "step": "prepare: ran src/news/feeds.py"
+        },
+        {
+          "at": "2026-10-29T01:13:30.281579Z",
+          "step": "prepare: ran src/news/cluster.py"
+        },
+        {
+          "at": "2026-10-29T01:17:42.856114Z",
+          "step": "finalize: published to local site"
+        }
+      ],
+      "_new_run": true,
+      "mode": "live",
+      "prelaunch": false,
+      "finished_at": "2026-10-29T01:17:42.855898Z",
+      "link_checks": [
+        {
+          "url": "https://www.cbsnews.com/news/dolores-huerta-dies-age-96-labor-activist-civil-rights-leader/",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.nbcboston.com/news/national-international/california-civil-rights-leader-dolores-huerta-dies-at-96/4039084/",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.npr.org/2026/10/28/nx-s1-6020543/dolores-huerta-dies",
+          "ok": true,
+          "note": "HTTP 200"
+        }
+      ],
+      "samples_removed": [],
+      "stories_shown": [
+        "Labor and civil rights leader Dolores Huerta dies at 96"
+      ],
+      "usage": {
+        "article_reads": 5,
+        "web_searches": 0,
+        "render_rounds": 3,
+        "minutes": 6
+      }
+    }
+  ]
+}
