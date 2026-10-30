@@ -1,6 +1,63 @@
 {
   "entries": [
     {
+      "date": "2026-10-29",
+      "published_at": "2026-10-30T01:21:15.744955Z",
+      "status": "published",
+      "prelaunch": false,
+      "title": "Probes into Alaska's two-Sullivan Senate ballot",
+      "caption": "Alaska's Senate ballot lists two Sullivans: Republican Sen. Dan S. Sullivan and Daniel J. Sullivan Jr. After a New York Times report that a Democratic operative helped recruit the second, Gov. Mike Dunleavy ordered a state investigation, and CBS News reported new Justice Department subpoenas. No one has been charged; Mary Peltola's campaign denies involvement. The election is Nov. 3.",
+      "stories": [
+        {
+          "name": "Probes into Alaska's two-Dan-Sullivan Senate ballot",
+          "role": "focal",
+          "facts": [
+            "Alaska's Senate ballot lists two men named Sullivan: Republican Sen. Dan S. Sullivan and Daniel J. Sullivan Jr., a retired rural teacher listed with no party. A state elections official tried to bar him in June; courts restored him.",
+            "On Oct. 28, after a New York Times report that a Democratic operative working with Mary Peltola's campaign helped encourage Daniel J. Sullivan to run, Republican Gov. Mike Dunleavy ordered the Department of Public Safety to investigate.",
+            "On Oct. 29, CBS News reported, citing sources, that the Justice Department issued a new wave of subpoenas to Democratic officials believed tied to the recruitment effort. No one has been charged.",
+            "Peltola's campaign and the Democratic Senatorial Campaign Committee deny involvement; Daniel J. Sullivan has said he genuinely wants to run. Trump repeated calls for Peltola to be prosecuted on Oct. 29."
+          ],
+          "sources": [
+            {
+              "publisher": "CBS News",
+              "title": "Two Dan Sullivans: What to know about Alaska's Senate race as ballot fight heats up",
+              "url": "https://www.cbsnews.com/news/alaska-senate-two-dan-sullivans-mary-peltola/",
+              "published_at": "2026-10-29T20:40:00Z"
+            },
+            {
+              "publisher": "CBS News",
+              "title": "Alaska gov. orders probe into Peltola over 2nd Dan Sullivan on ballot",
+              "url": "https://www.cbsnews.com/news/trump-peltola-dan-sullivan-alaska-senate/",
+              "published_at": "2026-10-29T14:07:00Z"
+            },
+            {
+              "publisher": "CBS News",
+              "title": "DOJ issues new subpoenas in Alaska Senate probe",
+              "url": "https://www.cbsnews.com/news/doj-subpoenas-alaska-senate-probe-ballot-sullivan-peltola/",
+              "published_at": "2026-10-29T23:52:52Z"
+            },
+            {
+              "publisher": "PBS NewsHour",
+              "title": "Republicans seize on controversy in Alaska's closely watched Senate race",
+              "url": "https://www.pbs.org/newshour/show/republicans-seize-on-controversy-in-alaskas-closely-watched-senate-race",
+              "published_at": "2026-10-29T22:55:01Z"
+            }
+          ]
+        }
+      ],
+      "artwork": {
+        "path": "artwork/2026-10-29.svg",
+        "format": "svg",
+        "alt": "Illustration: under green aurora and the Big Dipper, a giant paper ballot stands like a mountain in Alaskan snow. Its only readable lines, lit yellow, read 'SULLIVAN, DAN S.' and 'SULLIVAN, DANIEL J. JR.'. Two small investigators in parkas shine flashlights at those lines while a news camera operator films. It represents the state and federal probes into the race's same-name candidates.",
+        "method": "code-generated SVG (graphic-poster kit, src/art/daily/)",
+        "revision": "r4"
+      },
+      "backfill": {
+        "is_backfill": false,
+        "reason": null
+      }
+    },
+    {
       "date": "2026-10-28",
       "published_at": "2026-10-29T01:17:42.458242Z",
       "status": "published",

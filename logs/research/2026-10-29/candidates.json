@@ -1,0 +1,1733 @@
+{
+  "date": "2026-10-29",
+  "fetched_at": "2026-10-30T01:13:31.893663Z",
+  "items_considered": 547,
+  "candidates": [
+    {
+      "headline": "Trump accuses Dems of perjury in Dan Sullivan race, governor orders probe",
+      "score": 129,
+      "signals": {
+        "us_outlets": 8,
+        "intl_outlets": 1,
+        "front_pages": 6,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Axios",
+        "BBC News",
+        "CBS News",
+        "CNBC",
+        "Fox News",
+        "NPR",
+        "PBS NewsHour",
+        "The Hill",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-29T12:21:25Z",
+      "reports": [
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump accuses Dems of perjury in Dan Sullivan race, governor orders probe",
+          "url": "https://www.axios.com/2026/10/28/alaska-senate-dan-sullivan-trump-peltola-spoiler-scheme",
+          "published_at": "2026-10-29T12:21:25Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Alaska gov. orders probe into Peltola over 2nd Dan Sullivan on ballot",
+          "url": "https://www.cbsnews.com/news/trump-peltola-dan-sullivan-alaska-senate/",
+          "published_at": "2026-10-29T14:07:00Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Dem probes could \u2018torture\u2019 young Trump officials with crushing legal bills, subpoenaed conservative warns",
+          "url": "https://www.foxnews.com/politics/dem-probes-torture-young-trump-officials-crushing-legal-bills-subpoenaed-conservative-warns",
+          "published_at": "2026-10-29T20:36:26Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "What to know about Alaska's Senate race with 2 Dan Sullivans",
+          "url": "https://www.cbsnews.com/news/alaska-senate-two-dan-sullivans-mary-peltola/",
+          "published_at": "2026-10-29T20:40:00Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
+          "url": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-29T21:31:12Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Alaska's all-important Senate race is roiled by a report on alleged spoiler candidate",
+          "url": "https://www.npr.org/2026/10/29/nx-s1-6022069/alaskas-all-important-senate-race-is-roiled-by-report-on-alleged-spoiler-candidate",
+          "published_at": "2026-10-29T22:23:38Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Republicans seize on controversy in Alaska's closely watched Senate race",
+          "url": "https://www.pbs.org/newshour/show/republicans-seize-on-controversy-in-alaskas-closely-watched-senate-race",
+          "published_at": "2026-10-29T22:55:01Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Fallout in Alaska Senate Race Over Peltola\u2019s Ballot Stacking Plot",
+          "url": "https://www.nytimes.com/2026/10/29/us/politics/alaska-senate-ballots-peltola-trump.html",
+          "published_at": "2026-10-29T22:55:34Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Department of Justice investigating Alaska Senate race just days ahead of midterms",
+          "url": "https://www.cbsnews.com/video/department-of-justice-investigating-alaska-senate-race-just-days-ahead-of-midterms/",
+          "published_at": "2026-10-29T22:56:19Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Details on the controversy upending Alaska's key Senate race",
+          "url": "https://www.cbsnews.com/video/details-controversy-upending-alaskas-key-senate-race/",
+          "published_at": "2026-10-29T23:38:18Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "DOJ escalates Alaska Senate lawsuit over dueling Sullivan candidacies",
+          "url": "https://www.cnbc.com/2026/10/29/alaska-senate-governor-investigation-sullivan-peltola-doj.html",
+          "published_at": "2026-10-29T23:55:09Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "How Common Is Ballot Stacking? What to Know as Conflict Roils Alaska Senate Race.",
+          "url": "https://www.nytimes.com/2026/10/29/us/elections/ballot-stacking-alaska.html",
+          "published_at": "2026-10-30T00:39:54Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Alaska governor: Election certification 'could be stopped' due to Peltola probe",
+          "url": "https://thehill.com/homenews/campaign/6182999-alaska-election-verification-stopped-peltola-probe/",
+          "published_at": "2026-10-30T00:44:51Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Is it legal to recruit a candidate with the same name as one's opponent?",
+          "url": "https://www.cbsnews.com/video/is-it-legal-to-recruit-candidate-with-same-name-as-opponent-alaska/",
+          "published_at": "2026-10-30T01:00:05Z"
+        }
+      ]
+    },
+    {
+      "headline": "Elke Sommer, prolific German star of A Shot in the Dark and And Then There Were None, dies aged 85",
+      "score": 112,
+      "signals": {
+        "us_outlets": 6,
+        "intl_outlets": 2,
+        "front_pages": 6,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "BBC News",
+        "CBS News",
+        "Fox News",
+        "MassLive",
+        "NBC News",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-29T16:36:52Z",
+      "reports": [
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Elke Sommer, prolific German star of A Shot in the Dark and And Then There Were None, dies aged 85",
+          "url": "https://www.theguardian.com/film/2026/oct/29/elke-sommer-prolific-german-star-of-a-shot-in-the-dark-and-and-then-there-were-none-dies",
+          "published_at": "2026-10-29T16:36:52Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Patrick Stewart, Star Trek actor and acclaimed thespian, dies aged 86",
+          "url": "https://www.theguardian.com/culture/2026/oct/29/patrick-stewart-dead",
+          "published_at": "2026-10-29T21:02:36Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Sir Patrick Stewart: The life of an iconic actor",
+          "url": "https://www.bbc.co.uk/news/videos/c6qxnlxn0n15o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-29T21:57:04Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Fans and Hollywood stars unite to honor Sir Patrick Stewart following emotional family statement",
+          "url": "https://www.masslive.com/entertainment/2026/10/the-moving-reaction-to-sir-patrick-stewarts-passing-that-has-fans-everywhere-emotional.html",
+          "published_at": "2026-10-29T22:20:00Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Patrick Stewart, \u2018Star Trek\u2019 Captain and Professor X on \u2018X-Men,\u2019 Dies at 86",
+          "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+          "published_at": "2026-10-29T22:20:51Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Patrick Stewart\u2019s Many Roles, From \u2018Star Trek\u2019 to \u2018Avengers: Doomsday\u2019",
+          "url": "https://www.nytimes.com/2026/10/29/arts/patrick-stewart-best-moments-star-trek.html",
+          "published_at": "2026-10-29T22:22:11Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Patrick Stewart: A life in pictures",
+          "url": "https://www.foxnews.com/entertainment/patrick-stewart-life-pictures",
+          "published_at": "2026-10-29T22:23:43Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Iconic actor Patrick Stewart, known for \u2018Star Trek\u2019 and \u2018X-Men,\u2019 dies at age 86",
+          "url": "https://www.nbcnews.com/nightly-news/video/iconic-actor-patrick-stewart-known-for-star-trek-and-x-men-dies-at-age-86-272502341949",
+          "published_at": "2026-10-29T23:17:09Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Looking back at Patrick Stewart's legendary career",
+          "url": "https://www.cbsnews.com/video/looking-back-patrick-stewarts-legendary-career/",
+          "published_at": "2026-10-29T23:31:24Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "WATCH: Remembering Patrick Stewart in his own words",
+          "url": "https://abcnews.com/video/137689806/",
+          "published_at": "2026-10-30T00:26:15Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Patrick Stewart Brought Elegance To \u2018Star Trek\u2019 as Jean-Luc Picard",
+          "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-captain-picard-star-trek-the-next-generation.html",
+          "published_at": "2026-10-30T00:37:55Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Patrick Stewart, best known for \"Star Trek\" and \"X-Men,\" dies at 86",
+          "url": "https://www.cbsnews.com/news/patrick-stewart-dies-age-86-star-trek-actor/",
+          "published_at": "2026-10-30T01:12:48Z"
+        }
+      ]
+    },
+    {
+      "headline": "Senate race in once reliably Republican South Carolina tied in final stretch \u2013 poll",
+      "score": 90,
+      "signals": {
+        "us_outlets": 5,
+        "intl_outlets": 1,
+        "front_pages": 2,
+        "boston_local": [
+          "maine"
+        ]
+      },
+      "independent_outlets": [
+        "Bloomberg",
+        "CBS News",
+        "NPR",
+        "The Guardian",
+        "The Hill",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-29T14:42:38Z",
+      "reports": [
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Senate race in once reliably Republican South Carolina tied in final stretch \u2013 poll",
+          "url": "https://www.theguardian.com/us-news/2026/oct/29/south-carolina-senate-tied-race",
+          "published_at": "2026-10-29T14:42:38Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Fox News Moves South Carolina Senate Contest to Toss-Up in New Rating",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-29/south-carolina-s-us-senate-race-now-rated-toss-up-by-fox-news",
+          "published_at": "2026-10-29T16:12:15Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Kansas, Maine Senate races neck and neck: CNN poll",
+          "url": "https://thehill.com/homenews/campaign/6182720-hamilton-jackson-ahead-cnn-poll/",
+          "published_at": "2026-10-29T21:47:36Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Midterm races in Alaska, South Carolina heat up as Trump steps in",
+          "url": "https://www.cbsnews.com/video/midterm-races-in-alaska-south-carolina-heat-up-as-trump-steps-in/",
+          "published_at": "2026-10-29T22:00:00Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump on Alaska Sen. Race Controversy: It's Voter Fraud",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-29/trump-on-alaska-sen-race-controversy-it-s-voter-fraud-video",
+          "published_at": "2026-10-29T22:46:58Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump returns to South Carolina as Senate race tightens",
+          "url": "https://www.npr.org/2026/10/29/nx-s1-6020915/trump-returns-to-south-carolina-as-senate-race-tightens",
+          "published_at": "2026-10-29T22:47:53Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Seeing an opening, a Democratic super PAC decides to spend on the South Carolina Senate race.",
+          "url": "https://www.nytimes.com/live/2026/10/29/us/midterms-elections-trump/seeing-an-opening-a-democratic-super-pac-decides-to-spend-on-the-south-carolina-senate-race",
+          "published_at": "2026-10-29T22:52:36Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "In tight Kansas Senate race, struggling farmers are split",
+          "url": "https://www.cbsnews.com/news/kansas-senate-race-farmers-split-marshall-hamilton/",
+          "published_at": "2026-10-29T23:36:44Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump campaigns in South Carolina as Senate race is surprisingly close",
+          "url": "https://www.cbsnews.com/video/trump-campaigns-south-carolina-senate-race-surprisingly-close/",
+          "published_at": "2026-10-29T23:43:09Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump Administration Pressures California With Expanded Voter Fraud Investigation",
+          "url": "https://www.nytimes.com/2026/10/29/us/trump-doj-california-voter-rolls-midterms.html",
+          "published_at": "2026-10-29T23:49:56Z"
+        }
+      ]
+    },
+    {
+      "headline": "Alaska Senate race: what to know about Democrats\u2019 alleged ballot-stacking effort",
+      "score": 90,
+      "signals": {
+        "us_outlets": 6,
+        "intl_outlets": 1,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Axios",
+        "Bloomberg",
+        "CBS News",
+        "NBC News",
+        "NPR",
+        "The Guardian",
+        "The Hill"
+      ],
+      "first_seen": "2026-10-29T16:44:08Z",
+      "reports": [
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Alaska Senate race: what to know about Democrats\u2019 alleged ballot-stacking effort",
+          "url": "https://www.theguardian.com/us-news/2026/oct/29/alaska-senate-race-ballot-stacking-allegation-explained",
+          "published_at": "2026-10-29T16:44:08Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Fishing is a key issue in Alaska's tight U.S. Senate race",
+          "url": "https://www.npr.org/2026/10/29/nx-s1-6018248/fishing-is-a-key-issue-in-alaskas-tight-u-s-senate-race",
+          "published_at": "2026-10-29T17:21:58Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Alaska Senate Race: Trump Says Peltola Should Be Banned",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-29/alaska-senate-race-trump-says-peltola-should-be-banned-video",
+          "published_at": "2026-10-29T19:42:18Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "The bizarre twist shaking up Alaska's Senate race and catching Trump's ire",
+          "url": "https://www.axios.com/2026/10/29/alaska-senate-race-dan-sullivan-trump",
+          "published_at": "2026-10-29T20:05:21Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Senate Map Brightens for Democrats While Alaska Race Gets Messier",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-10-29/senate-map-brightens-for-democrats-while-alaska-race-gets-messier",
+          "published_at": "2026-10-29T20:33:55Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Criminal investigation into Alaska Democrat\u2019s Senate campaign",
+          "url": "https://www.nbcnews.com/nightly-news/video/criminal-investigation-into-alaska-democrat-s-senate-campaign-272502341775",
+          "published_at": "2026-10-29T23:06:11Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "House Oversight Democrat says Alaska should investigate Peltola allegations",
+          "url": "https://thehill.com/homenews/house/6182905-robert-garcia-house-oversight-peltola-investigation/",
+          "published_at": "2026-10-29T23:45:28Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "DOJ issues new subpoenas in Alaska Senate probe",
+          "url": "https://www.cbsnews.com/news/doj-subpoenas-alaska-senate-probe-ballot-sullivan-peltola/",
+          "published_at": "2026-10-29T23:52:52Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump again calls for prosecution of Mary Peltola as turmoil grows over Alaska campaign investigation \u2013 live",
+          "url": "https://www.theguardian.com/us-news/live/2026/oct/29/midterm-elections-politics-trump-obama-california-alaska-latest-news-updates",
+          "published_at": "2026-10-30T00:53:21Z"
+        }
+      ]
+    },
+    {
+      "headline": "State ballots let voters decide on abortion, taxes, transgender restrictions",
+      "score": 86,
+      "signals": {
+        "us_outlets": 6,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "CBS News",
+        "NPR",
+        "PBS NewsHour",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-10-29T09:00:00Z",
+      "reports": [
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "State ballots let voters decide on abortion, taxes, transgender restrictions",
+          "url": "https://www.npr.org/2026/10/29/nx-s1-6019363/state-ballot-referendum-abortion-taxes",
+          "published_at": "2026-10-29T09:00:00Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Billionaire tax, transgender rights, voter access among key midterm ballot measures",
+          "url": "https://abcnews.com/Politics/billionaire-tax-transgender-rights-voter-access-key-midterm/story?id=137602375",
+          "published_at": "2026-10-29T12:53:24Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "2026 Midterm Election Ballot Measures: What Races We\u2019re Watching",
+          "url": "https://www.nytimes.com/2026/10/29/us/elections/ballot-questions-midterms-election.html",
+          "published_at": "2026-10-29T20:28:32Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "5 expert takeaways on 2026 midterm election security",
+          "url": "https://www.pbs.org/newshour/politics/5-expert-takeaways-on-2026-midterm-election-security",
+          "published_at": "2026-10-29T21:35:11Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "When will we know 2026 midterm election results? It may take some time, but that\u2019s normal",
+          "url": "https://www.wcvb.com/article/when-will-results-come-in-2026-midterm-elections/74288191",
+          "published_at": "2026-10-29T21:51:00Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Midterms 2026: The Balance of Power",
+          "url": "https://www.wcvb.com/article/midterms-2026-the-balance-of-power/74287037",
+          "published_at": "2026-10-29T21:52:00Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Midterm elections put Social Security funding gaps on the ballot",
+          "url": "https://www.cbsnews.com/news/social-security-trust-fund-midterm-elections/",
+          "published_at": "2026-10-29T22:00:14Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": true,
+          "title": "WATCH: How does The Associated Press call 2026 midterm election winners? 4 things to know",
+          "url": "https://www.pbs.org/newshour/politics/watch-how-does-the-associated-press-call-2026-midterm-election-winners-4-things-to-know",
+          "published_at": "2026-10-29T22:55:29Z"
+        }
+      ]
+    },
+    {
+      "headline": "Patrick Stewart, actor known for iconic roles in \u2018Star Trek\u2019 and \u2018X-Men,\u2019 dies at 86",
+      "score": 85,
+      "signals": {
+        "us_outlets": 5,
+        "intl_outlets": 1,
+        "front_pages": 4,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "Boston.com",
+        "MassLive",
+        "NBC News",
+        "NPR",
+        "PBS NewsHour"
+      ],
+      "first_seen": "2026-10-29T19:52:28Z",
+      "reports": [
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Patrick Stewart, actor known for iconic roles in \u2018Star Trek\u2019 and \u2018X-Men,\u2019 dies at 86",
+          "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/patrick-stewart-actor-known-iconic-roles-jean-luc-picard-professor-x-d-rcna606420",
+          "published_at": "2026-10-29T19:52:28Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Patrick Stewart, star of stage and 'Star Trek,' dies at 86",
+          "url": "https://www.pbs.org/newshour/arts/patrick-stewart-star-of-stage-and-star-trek-dies-at-86",
+          "published_at": "2026-10-29T20:02:17Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Legendary stage, screen and TV actor Patrick Stewart dies",
+          "url": "https://www.masslive.com/entertainment/2026/10/legendary-stage-screen-and-tv-actor-patrick-stewart-dies.html",
+          "published_at": "2026-10-29T20:04:46Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Patrick Stewart, stage giant also of \u2018Star Trek\u2019 and \u2018X-Men\u2019 fame, dies at 86",
+          "url": "https://www.boston.com/culture/entertainment/2026/10/29/patrick-stewart-stage-giant-also-of-star-trek-and-x-men-fame-dies-at-86/",
+          "published_at": "2026-10-29T20:11:20Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Sir Patrick Stewart: Actor who moved effortlessly between Star Trek and Shakespeare",
+          "url": "https://www.bbc.co.uk/news/articles/cye0l23lx15o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-29T20:24:59Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Patrick Stewart, a perceptive patriarch in 'Star Trek' and 'X-Men,' dies at 86",
+          "url": "https://www.npr.org/2026/10/29/1230906945/patrick-stewart-dead",
+          "published_at": "2026-10-29T20:29:13Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Iconic actor known for \u2018X-Men\u2019 and \u2018Star Trek\u2019 dies at 86",
+          "url": "https://www.masslive.com/entertainment/2026/10/iconic-actor-known-for-x-men-and-star-trek-dies-at-86.html",
+          "published_at": "2026-10-29T20:29:19Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Before Hollywood, Sir Patrick Stewart mastered classical stage roles",
+          "url": "https://www.masslive.com/entertainment/2026/10/before-hollywood-sir-patrick-stewart-mastered-classical-stage-roles.html",
+          "published_at": "2026-10-29T21:30:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Brewers win first World Series in 57-year history",
+      "score": 67,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 2,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "CBS News",
+        "ESPN",
+        "Fox News",
+        "PBS NewsHour",
+        "The Guardian"
+      ],
+      "first_seen": "2026-10-29T07:56:38Z",
+      "reports": [
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Brewers win first World Series in 57-year history",
+          "url": "https://www.bbc.co.uk/sport/baseball/articles/c5x2v991l0lvo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-29T07:56:38Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Brewers defeat Rays in 5 games to win first World Series in franchise history",
+          "url": "https://www.cbsnews.com/news/world-series-milwaukee-brewers-defeat-tampa-bay-rays/",
+          "published_at": "2026-10-29T13:57:27Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "The low-budget Brewers won the World Series \u2013 and exposed baseball\u2019s biggest lie | Howard Bryant",
+          "url": "https://www.theguardian.com/sport/2026/oct/29/milwaukee-brewers-world-series-title-mlb-salary-cap",
+          "published_at": "2026-10-29T14:01:44Z"
+        },
+        {
+          "publisher": "ESPN",
+          "group": "espn",
+          "kind": "news",
+          "wire": false,
+          "title": "'Soak it all in Milwaukee': CC Sabathia leads reaction to Brewers' World Series win",
+          "url": "https://www.espn.com/mlb/story/_/id/50301908/brewers-world-series-winners-reaction",
+          "published_at": "2026-10-29T16:39:39Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Milwaukee Brewers broke baseball on their way to remarkably dominant World Series run",
+          "url": "https://www.foxnews.com/outkick-sports/milwaukee-brewers-broke-baseball-remarkably-dominant-world-series-run",
+          "published_at": "2026-10-29T21:50:52Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Brewers bring World Series title to MLB's smallest market",
+          "url": "https://www.pbs.org/newshour/show/brewers-bring-world-series-title-to-mlbs-smallest-market",
+          "published_at": "2026-10-29T22:20:45Z"
+        },
+        {
+          "publisher": "ESPN",
+          "group": "espn",
+          "kind": "news",
+          "wire": false,
+          "title": "World Series champs, at last! Milwaukee Brewers barrel their way to the top",
+          "url": "https://www.espn.com/mlb/story/_/id/50294394/world-series-brewers-champions-franchise-first-title",
+          "published_at": "2026-10-29T23:08:11Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Brewers star Christian Yelich pays touching tribute to late, beloved broadcaster after World Series win",
+          "url": "https://www.foxnews.com/outkick-sports/brewers-star-christian-yelich-pays-touching-tribute-late-beloved-broadcaster-world-series-win",
+          "published_at": "2026-10-30T00:55:27Z"
+        },
+        {
+          "publisher": "ESPN",
+          "group": "espn",
+          "kind": "news",
+          "wire": false,
+          "title": "A closed-door meeting, the belief of an entire state and a World Series title at last: How Brewers became a forever team",
+          "url": "https://www.espn.com/mlb/story/_/id/50294395/world-series-brewers-champions-franchise-first-title",
+          "published_at": "2026-10-30T00:58:40Z"
+        }
+      ]
+    },
+    {
+      "headline": "Top general fired from Pentagon's Joint Staff for alleged classified info leak",
+      "score": 63,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "Axios",
+        "CBS News",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-10-29T18:21:52Z",
+      "reports": [
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Top general fired from Pentagon's Joint Staff for alleged classified info leak",
+          "url": "https://abcnews.com/Politics/top-general-pushed-pentagons-joint-staff/story?id=137660845",
+          "published_at": "2026-10-29T18:21:52Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Exclusive: Fired general admitted to leaking classified Iran and Ukraine info, report says",
+          "url": "https://www.axios.com/2026/10/29/fired-general-leaks-iran-ukraine",
+          "published_at": "2026-10-29T22:08:46Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Pentagon accuses newly fired general of leaking sensitive information to the media",
+          "url": "https://www.wcvb.com/article/pentagon-fired-general-accused-leaks/74288771",
+          "published_at": "2026-10-29T23:02:00Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Top Pentagon general fired amid accusations he leaked classified information to press",
+          "url": "https://www.cbsnews.com/video/top-pentagon-general-fired-amid-accusations-he-leaked-classified-information-to-press/",
+          "published_at": "2026-10-29T23:15:43Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Hegseth fires Pentagon's top military planner over alleged leaks",
+          "url": "https://www.cbsnews.com/news/hegseth-fires-pentagons-top-military-planner/",
+          "published_at": "2026-10-29T23:48:43Z"
+        }
+      ]
+    },
+    {
+      "headline": "Hegseth fires the Pentagon's top military planner even as Trump considers new Iran strikes",
+      "score": 62,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Axios",
+        "CBS News",
+        "PBS NewsHour",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-29T20:51:20Z",
+      "reports": [
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Hegseth fires the Pentagon's top military planner even as Trump considers new Iran strikes",
+          "url": "https://www.pbs.org/newshour/politics/hegseth-fires-the-pentagons-top-military-planner-even-as-trump-considers-new-iran-strikes",
+          "published_at": "2026-10-29T20:51:20Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Hegseth Fires Top Army General He Accused of Leaking Information to Media",
+          "url": "https://www.nytimes.com/2026/10/29/us/hegseth-army-general-sylvia-trump.html",
+          "published_at": "2026-10-29T22:30:07Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Top U.S. Middle East commander briefs Trump on Iran blockade",
+          "url": "https://www.axios.com/2026/10/29/brad-cooper-briefs-trump-iran-naval-blockade",
+          "published_at": "2026-10-29T22:47:52Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Hegseth fires another top military general as critics raise alarm",
+          "url": "https://www.cbsnews.com/video/hegseth-fires-another-top-military-general-critics-raise-alarm/",
+          "published_at": "2026-10-29T23:47:12Z"
+        }
+      ]
+    },
+    {
+      "headline": "College football QB, former 5-star recruit hospitalized following medical emergency",
+      "score": 61,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "ESPN",
+        "MassLive",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-10-29T19:16:36Z",
+      "reports": [
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "College football QB, former 5-star recruit hospitalized following medical emergency",
+          "url": "https://www.masslive.com/sports/2026/10/college-football-qb-former-5-star-recruit-hospitalized-following-medical-emergency.html",
+          "published_at": "2026-10-29T19:16:36Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Former NFL and college football head coach dies at 73",
+          "url": "https://www.masslive.com/sports/2026/10/former-nfl-and-college-football-head-coach-dies-at-73.html",
+          "published_at": "2026-10-29T20:30:33Z"
+        },
+        {
+          "publisher": "ESPN",
+          "group": "espn",
+          "kind": "news",
+          "wire": false,
+          "title": "Longtime football coach Jones, pioneer of run-and-shoot offense, dies at 73",
+          "url": "https://www.espn.com/college-football/story/_/id/50321084/long-football-coach-june-jones-dies-age-73",
+          "published_at": "2026-10-29T23:57:13Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Coach June Jones dies at 73",
+          "url": "https://www.wcvb.com/article/june-jones-hawaii-nfl-dies-at-73/74289493",
+          "published_at": "2026-10-30T01:03:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "These are the House races to watch in the 2026 midterm election on Nov. 3",
+      "score": 56,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "CBS News",
+        "NPR",
+        "PBS NewsHour",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-29T09:00:00Z",
+      "reports": [
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "These are the House races to watch in the 2026 midterm election on Nov. 3",
+          "url": "https://www.npr.org/2026/10/29/nx-s1-6020921/2026-house-map-democrats-flip-republicans-tossup-triage",
+          "published_at": "2026-10-29T09:00:00Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "How to watch live 2026 election results on CBS News",
+          "url": "https://www.cbsnews.com/news/where-to-watch-election-2026/",
+          "published_at": "2026-10-29T11:00:00Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Retired Israeli general on what the election results tell us",
+          "url": "https://www.pbs.org/newshour/show/retired-israeli-general-on-what-the-election-results-tell-us",
+          "published_at": "2026-10-29T22:35:03Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "What Israeli Election Results Reveal About the Electorate",
+          "url": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-voter-data-takeaways.html",
+          "published_at": "2026-10-29T23:45:50Z"
+        }
+      ]
+    },
+    {
+      "headline": "DoJ reportedly issues subpoenas over same-name Alaska candidates",
+      "score": 55,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 1,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "CBS News",
+        "NBC News",
+        "The Guardian"
+      ],
+      "first_seen": "2026-10-29T20:29:55Z",
+      "reports": [
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "DoJ reportedly issues subpoenas over same-name Alaska candidates",
+          "url": "https://www.theguardian.com/us-news/2026/oct/29/alaska-senate-race-subpoenas",
+          "published_at": "2026-10-29T20:29:55Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "DOJ issues grand jury subpoenas to election officials in California",
+          "url": "https://abcnews.com/Politics/doj-issues-grand-jury-subpoenas-election-officials-california/story?id=137689807",
+          "published_at": "2026-10-29T22:40:47Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "California officials face grand jury subpoenas as DOJ expands voting probe",
+          "url": "https://www.cbsnews.com/news/california-election-officials-grand-jury-subpoenas-doj-ballots/",
+          "published_at": "2026-10-29T22:45:55Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "DOJ subpoenas local election officials over claims of noncitizen voting in California",
+          "url": "https://www.nbcnews.com/politics/2026-election/doj-subpoenas-local-election-officials-claims-noncitizen-voting-califo-rcna606460",
+          "published_at": "2026-10-30T00:17:01Z"
+        }
+      ]
+    },
+    {
+      "headline": "Doordash to acquire Instacart for $17 billion, creating delivery giant",
+      "score": 53,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 2,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "CBS News",
+        "NBC Boston",
+        "PBS NewsHour",
+        "The Guardian"
+      ],
+      "first_seen": "2026-10-29T07:53:39Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Doordash to acquire Instacart for $17 billion, creating delivery giant",
+          "url": "https://www.nbcboston.com/news/business/doordash-acquire-instacart-17-billion-creating-delivery-giant/4039709/",
+          "published_at": "2026-10-29T07:53:39Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "DoorDash to buy Instacart for $17bn in major grocery delivery consolidation",
+          "url": "https://www.theguardian.com/business/2026/oct/29/doordash-buys-instacart-grocery-delivery",
+          "published_at": "2026-10-29T13:41:43Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "DoorDash gobbles up Instacart in $17 billion deal",
+          "url": "https://www.cbsnews.com/news/doordash-buys-instacart-in-17-billion-deal/",
+          "published_at": "2026-10-29T14:58:00Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "DoorDash to buy Instacart in $17bn deal it says will expand customer options",
+          "url": "https://www.bbc.co.uk/news/articles/cm79pjg2l57yo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-29T15:05:15Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "DoorDash offers $17 billion for Instacart in what would be big grocery delivery consolidation",
+          "url": "https://www.pbs.org/newshour/economy/doordash-offers-17-billion-for-instacart-in-what-would-be-big-grocery-delivery-consolidation",
+          "published_at": "2026-10-29T22:41:40Z"
+        }
+      ]
+    },
+    {
+      "headline": "2 helicopters collide in mid-air near Oregon airport: FAA",
+      "score": 51,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "CBS News",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-10-29T23:49:01Z",
+      "reports": [
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "2 helicopters collide in mid-air near Oregon airport: FAA",
+          "url": "https://abcnews.com/US/2-helicopters-collide-mid-air-oregon-airport-faa/story?id=137690382",
+          "published_at": "2026-10-29T23:49:01Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "2 choppers involved in midair collision near Oregon airport, officials say",
+          "url": "https://www.cbsnews.com/news/2-helicopters-midair-collision-mcminnville-oregon/",
+          "published_at": "2026-10-30T00:09:00Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "2 helicopters carrying a total of 3 people collide midair in Oregon",
+          "url": "https://www.wcvb.com/article/2-helicopters-collide-midair-oregon/74289533",
+          "published_at": "2026-10-30T00:52:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Dream serve up lunchtime rout of Valkyries to force historic WNBA finals Game 7",
+      "score": 50,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 1,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "CBS News",
+        "ESPN",
+        "NBC News",
+        "The Guardian"
+      ],
+      "first_seen": "2026-10-29T18:58:24Z",
+      "reports": [
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Dream serve up lunchtime rout of Valkyries to force historic WNBA finals Game 7",
+          "url": "https://www.theguardian.com/sport/2026/oct/29/atlanta-dream-golden-state-valkyries-game-6-wnba-finals",
+          "published_at": "2026-10-29T18:58:24Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Dream beat Valkyries 80-69 to force Game 7 of WNBA Finals",
+          "url": "https://www.nbcnews.com/sports/wnba/atlanta-dream-golden-state-valkyries-wnba-finals-game-6-result-rcna606438",
+          "published_at": "2026-10-29T21:43:00Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "WNBA criticized after WNBA Finals game scheduled during lunchtime: \"They dropped the ball\"",
+          "url": "https://www.cbsnews.com/video/wnba-criticized-after-wnba-finals-game-scheduled-during-lunchtime-they-dropped-the-ball/",
+          "published_at": "2026-10-29T23:10:00Z"
+        },
+        {
+          "publisher": "ESPN",
+          "group": "espn",
+          "kind": "news",
+          "wire": false,
+          "title": "How the Dream's devastating first quarter forced the WNBA Finals to Game 7",
+          "url": "https://www.espn.com/wnba/story/_/id/50310203/2026-wnba-finals-valkyries-dream-game-6-live-updates",
+          "published_at": "2026-10-29T23:11:22Z"
+        },
+        {
+          "publisher": "ESPN",
+          "group": "espn",
+          "kind": "news",
+          "wire": false,
+          "title": "'Locked in' Gray, Dream hold off Valkyries, force first Finals Game 7",
+          "url": "https://www.espn.com/wnba/story/_/id/50320645/allisha-gray-dream-beat-valkyries-force-game-7-wnba-finals",
+          "published_at": "2026-10-29T23:57:13Z"
+        }
+      ]
+    },
+    {
+      "headline": "AJ Brown not at Patriots practice due to knee issue (Report) | All-Access Daily",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "boston",
+          "bruins",
+          "patriots"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "NBC Boston"
+      ],
+      "first_seen": "2026-10-29T09:49:46Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "AJ Brown not at Patriots practice due to knee issue (Report) | All-Access Daily",
+          "url": "https://www.nbcboston.com/news/local/live-2026-10-29-patriots-celtics-bruins-red-sox/4039798/",
+          "published_at": "2026-10-29T09:49:46Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "A.J. Brown injury update: Patriots WR misses practice with knee issue",
+          "url": "https://www.masslive.com/patriots/2026/10/aj-brown-injury-update-patriots-wr-misses-practice-with-knee-issue.html",
+          "published_at": "2026-10-29T19:08:51Z"
+        }
+      ]
+    },
+    {
+      "headline": "What to Make of Israel\u2019s Ambiguous Election",
+      "score": 47,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "NPR",
+        "PBS NewsHour",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-29T05:04:25Z",
+      "reports": [
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "What to Make of Israel\u2019s Ambiguous Election",
+          "url": "https://www.nytimes.com/2026/10/28/world/israel-election-results-spain-train.html",
+          "published_at": "2026-10-29T05:04:25Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "GDP report to give insight before Election Day. And, Israel's election is deadlocked",
+          "url": "https://www.npr.org/2026/10/29/g-s1-150614/up-first-newsletter-midterm-elections-gdp-inflation-israel-department-of-education-lawsuit",
+          "published_at": "2026-10-29T11:34:30Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "How Israel\u2019s Election Could End",
+          "url": "https://www.nytimes.com/video/world/middleeast/100000011242127/how-israels-election-could-end.html",
+          "published_at": "2026-10-29T17:01:22Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "No Clear Winner in Israel Election, Final Results Show",
+          "url": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-results-netanyahu-eisenkot.html",
+          "published_at": "2026-10-29T23:07:49Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Netanyahu's party claims Israeli election 'stolen' as results show him losing majority",
+          "url": "https://www.pbs.org/newshour/world/netanyahus-party-claims-israeli-election-stolen-as-results-show-him-losing-majority",
+          "published_at": "2026-10-30T00:44:24Z"
+        }
+      ]
+    },
+    {
+      "headline": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
+      "score": 45,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 2,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "NBC News",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-29T11:07:35Z",
+      "reports": [
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
+          "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-29T11:07:35Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "What We Know About the Deadly Train Crash in Spain",
+          "url": "https://www.nytimes.com/2026/10/28/world/europe/train-crash-spain.html",
+          "published_at": "2026-10-29T12:48:11Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Spain begins mourning period as search continues for train crash victims",
+          "url": "https://www.theguardian.com/world/2026/oct/29/spain-mourning-period-deadly-train-crash",
+          "published_at": "2026-10-29T17:59:03Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Audio recordings reveal decisions made moments before deadly train crash in Spain",
+          "url": "https://www.nbcnews.com/world/spain/audio-recordings-decisions-deadly-spain-train-crash-rcna606366",
+          "published_at": "2026-10-29T19:45:48Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Watch: What leaked audio reveals about Spain train crash",
+          "url": "https://www.bbc.co.uk/news/videos/c6vgjeg0myzgo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-29T20:50:25Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Young athlete and former minister among victims of Spain train crash",
+          "url": "https://www.bbc.co.uk/news/articles/cr78plp1p9yvo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-29T21:33:35Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "After Crash, Spain Asks if Its Train System Is Too Old and Prone to Human Error",
+          "url": "https://www.nytimes.com/2026/10/29/world/europe/spain-train-crash-renfe.html",
+          "published_at": "2026-10-29T22:14:37Z"
+        }
+      ]
+    },
+    {
+      "headline": "Trump cancels Iowa rally, will hold telerallies instead",
+      "score": 45,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "CBS News",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-30T00:51:34Z",
+      "reports": [
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump cancels Iowa rally, will hold telerallies instead",
+          "url": "https://www.cbsnews.com/video/trump-cancels-iowa-rally-will-hold-telerallies-instead/",
+          "published_at": "2026-10-30T00:51:34Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Midterm elections live updates: Trump cancels weekend rallies in Iowa and Kansas",
+          "url": "https://abcnews.com/Politics/live-updates/midterm-elections-2026-1-week-high-stakes-elections/?id=137578278",
+          "published_at": "2026-10-30T01:07:28Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump Cancels Rallies in Kansas and Iowa This Weekend",
+          "url": "https://www.nytimes.com/2026/10/29/us/elections/trump-rally-canceled-kansas-iowa.html",
+          "published_at": "2026-10-30T01:08:52Z"
+        }
+      ]
+    },
+    {
+      "headline": "Celtics announce \u2018unprecedented' $200 million donation to Boston Children's Hospital",
+      "score": 43,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 1,
+        "boston_local": [
+          "boston",
+          "celtics"
+        ]
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "NBC Boston"
+      ],
+      "first_seen": "2026-10-29T07:33:56Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Celtics announce \u2018unprecedented' $200 million donation to Boston Children's Hospital",
+          "url": "https://www.nbcboston.com/news/local/boston-celtics-announce-unprecedented-200-million-donation-to-boston-childrens-hospital/4039690/",
+          "published_at": "2026-10-29T07:33:56Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Celtics owners make unprecedented $200 million gift to Boston Children\u2019s Hospital",
+          "url": "https://www.boston.com/sports/boston-celtics/2026/10/29/celtics-boston-childrens-hospital-record-gift-bill-chisholm-comments/",
+          "published_at": "2026-10-29T20:16:43Z"
+        }
+      ]
+    },
+    {
+      "headline": "14-year-old student charged with bringing loaded gun to school in Boston",
+      "score": 43,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 1,
+        "boston_local": [
+          "boston"
+        ]
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "NBC Boston"
+      ],
+      "first_seen": "2026-10-29T12:21:07Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "14-year-old student charged with bringing loaded gun to school in Boston",
+          "url": "https://www.nbcboston.com/news/local/14-year-old-student-charged-with-bringing-loaded-gun-to-school-in-boston/4039895/",
+          "published_at": "2026-10-29T12:21:07Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Boy, 14, arrested after allegedly bringing \u2018ghost gun\u2019 to Boston school",
+          "url": "https://www.boston.com/news/local-news/2026/10/29/boy-14-arrested-after-allegedly-bringing-ghost-gun-to-boston-school/",
+          "published_at": "2026-10-29T23:12:31Z"
+        }
+      ]
+    },
+    {
+      "headline": "Judge blocks Trump administration's Medicaid work requirement rule forcing proof of medical frailty",
+      "score": 39,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 1,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "PBS NewsHour",
+        "The Hill",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-29T19:53:52Z",
+      "reports": [
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge blocks Trump administration's Medicaid work requirement rule forcing proof of medical frailty",
+          "url": "https://www.pbs.org/newshour/health/judge-blocks-trump-administrations-medicaid-work-requirement-rule-forcing-proof-of-medical-frailty",
+          "published_at": "2026-10-29T19:53:52Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump administration's definition of 'medically frail' unlawful, according to federal judge",
+          "url": "https://thehill.com/policy/healthcare/6182258-judge-strikes-trump-medicaid-definition/",
+          "published_at": "2026-10-29T21:19:01Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Court Blocks Strict New Rule for Medicaid Work Requirements",
+          "url": "https://www.nytimes.com/2026/10/29/us/politics/medicaid-work-requirements-frailty.html",
+          "published_at": "2026-10-29T21:32:43Z"
+        }
+      ]
+    },
+    {
+      "headline": "Fl\u00e1vio Bolsonaro calls himself 'leader of Brazil' after election loss",
+      "score": 38,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 1,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "CBS News",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-29T14:58:28Z",
+      "reports": [
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Fl\u00e1vio Bolsonaro calls himself 'leader of Brazil' after election loss",
+          "url": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-29T14:58:28Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Fl\u00e1vio Bolsonaro Lands in Miami After Fleeing Brazil",
+          "url": "https://www.nytimes.com/2026/10/28/world/americas/flavio-bolsonaro-us-miami-brazil-trump.html",
+          "published_at": "2026-10-29T15:06:48Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Details on Fl\u00e1vio Bolsonaro's escape from Brazil",
+          "url": "https://www.cbsnews.com/video/details-flvio-bolsonaros-escape-brazil/",
+          "published_at": "2026-10-30T01:03:07Z"
+        }
+      ]
+    },
+    {
+      "headline": "Senate skeptical about making daylight saving time permanent despite Trump's pressure",
+      "score": 35,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "Fox News"
+      ],
+      "first_seen": "2026-10-29T11:47:52Z",
+      "reports": [
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Senate skeptical about making daylight saving time permanent despite Trump's pressure",
+          "url": "https://abcnews.com/US/wireStory/senate-skeptical-making-daylight-saving-time-permanent-despite-137668431",
+          "published_at": "2026-10-29T11:47:52Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": true,
+          "title": "Senate is skeptical about making daylight saving time permanent despite Trump's pressure",
+          "url": "https://www.pbs.org/newshour/politics/senate-is-skeptical-about-making-daylight-saving-time-permanent-despite-trumps-pressure",
+          "published_at": "2026-10-29T22:19:56Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Daylight saving time is ending: Doctor breaks down 6 ways to protect your sleep and health",
+          "url": "https://www.foxnews.com/health/daylight-saving-time-ending-doctor-breaks-down-6-ways-protect-sleep-health",
+          "published_at": "2026-10-29T23:54:51Z"
+        }
+      ]
+    },
+    {
+      "headline": "Lawyers fighting N.Y. AG\u2019s role in Cornell assault investigation say she isn\u2019t \u2018viable\u2019 as prosecutor",
+      "score": 35,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Fox News",
+        "NBC News"
+      ],
+      "first_seen": "2026-10-29T18:15:12Z",
+      "reports": [
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Lawyers fighting N.Y. AG\u2019s role in Cornell assault investigation say she isn\u2019t \u2018viable\u2019 as prosecutor",
+          "url": "https://www.nbcnews.com/news/us-news/lawyers-fighting-ny-ags-role-cornell-assault-investigation-say-not-via-rcna606314",
+          "published_at": "2026-10-29T18:15:12Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge grills AG\u2019s office in Cornell sex assault case as ex-frat bro\u2019s lawyer demands ouster over alleged bias",
+          "url": "https://www.foxnews.com/us/judge-grills-ag-office-cornell-sex-assault-case-ex-frat-bro-lawyer-demands-ouster-alleged-bias",
+          "published_at": "2026-10-29T21:22:01Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge considers petition to remove Letitia James from Cornell sexual assault investigation",
+          "url": "https://www.nbcnews.com/video/judge-considers-petition-to-remove-letitia-james-from-cornell-case-272501829602",
+          "published_at": "2026-10-29T22:53:36Z"
+        }
+      ]
+    }
+  ]
+}

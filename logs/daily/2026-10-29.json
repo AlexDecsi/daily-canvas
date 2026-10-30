@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-29",
+  "runs": [
+    {
+      "started_at": "2026-10-30T01:13:16.112110Z",
+      "outcome": "published",
+      "steps": [
+        {
+          "at": "2026-10-30T01:13:16.112114Z",
+          "step": "prepare: lock acquired (live)"
+        },
+        {
+          "at": "2026-10-30T01:13:31.915133Z",
+          "step": "prepare: ran src/news/feeds.py"
+        },
+        {
+          "at": "2026-10-30T01:13:32.051795Z",
+          "step": "prepare: ran src/news/cluster.py"
+        },
+        {
+          "at": "2026-10-30T01:21:16.341745Z",
+          "step": "finalize: published to local site"
+        }
+      ],
+      "_new_run": true,
+      "mode": "live",
+      "prelaunch": false,
+      "finished_at": "2026-10-30T01:21:16.341568Z",
+      "link_checks": [
+        {
+          "url": "https://www.cbsnews.com/news/alaska-senate-two-dan-sullivans-mary-peltola/",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.cbsnews.com/news/trump-peltola-dan-sullivan-alaska-senate/",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.cbsnews.com/news/doj-subpoenas-alaska-senate-probe-ballot-sullivan-peltola/",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.pbs.org/newshour/show/republicans-seize-on-controversy-in-alaskas-closely-watched-senate-race",
+          "ok": true,
+          "note": "HTTP 200"
+        }
+      ],
+      "samples_removed": [],
+      "stories_shown": [
+        "Probes into Alaska's two-Dan-Sullivan Senate ballot"
+      ],
+      "usage": {
+        "article_reads": 9,
+        "web_searches": 0,
+        "render_rounds": 4,
+        "minutes": 40
+      }
+    }
+  ]
+}

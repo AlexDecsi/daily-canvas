@@ -1,0 +1,71 @@
+{
+  "date": "2026-10-29",
+  "mode": "live (scheduled run)",
+  "prepared_at": "2026-10-30T01:40:00Z",
+  "candidates_considered": 25,
+  "rationale": "The Alaska Senate race dispute over a second, same-name 'Dan Sullivan' on the ballot was the day's most widely led US story (8 US outlets, 6 front pages; it also appears as two more clusters about the alleged ballot-stacking and DOJ subpoenas). Focal. Patrick Stewart's death and the Brewers' first World Series title were strong but smaller; the Brewers clinched on the evening of Oct. 28, and yesterday's entry was already a death tribute. The Pentagon firing and the South Carolina poll are smaller and don't fit the same scene. No Boston story matched the national significance. The picture shows only verified facts: the two Sullivans on the ballot and the investigations; the recruitment allegation is not drawn as fact.",
+  "stories": [
+    {
+      "role": "focal",
+      "name": "Probes into Alaska's two-Dan-Sullivan Senate ballot",
+      "facts": [
+        "Alaska's Senate ballot lists two men named Sullivan: Republican Sen. Dan S. Sullivan and Daniel J. Sullivan Jr., a retired rural teacher listed with no party. A state elections official tried to bar him in June; courts restored him.",
+        "On Oct. 28, after a New York Times report that a Democratic operative working with Mary Peltola's campaign helped encourage Daniel J. Sullivan to run, Republican Gov. Mike Dunleavy ordered the Department of Public Safety to investigate.",
+        "On Oct. 29, CBS News reported, citing sources, that the Justice Department issued a new wave of subpoenas to Democratic officials believed tied to the recruitment effort. No one has been charged.",
+        "Peltola's campaign and the Democratic Senatorial Campaign Committee deny involvement; Daniel J. Sullivan has said he genuinely wants to run. Trump repeated calls for Peltola to be prosecuted on Oct. 29."
+      ],
+      "people": [
+        {
+          "name": "Dan S. Sullivan",
+          "public_figure": true,
+          "verified_action": "is listed on Alaska's Senate ballot as 'Sullivan, Dan S.'; drawn only as his name on an illustrative ballot, not as a person"
+        },
+        {
+          "name": "Daniel J. Sullivan Jr.",
+          "public_figure": true,
+          "verified_action": "is listed on Alaska's Senate ballot as 'Sullivan, Daniel J. Jr.'; drawn only as his name on an illustrative ballot, not as a person"
+        }
+      ],
+      "visual_notes": "Symbolic, clearly illustrative staging: a towering ballot stands in a snowy Alaskan landscape under the aurora; the only readable text is the two verified ballot names. Small, generic, anonymous investigators examine it with flashlights (the state probe), and a generic news camera operator films (heavy coverage). Do not draw Peltola, Trump, Dunleavy or either Sullivan as people; no handcuffs, arrests, courtrooms, fraud wording, invented ballot text, party labels, other names, vote marks or results.",
+      "confidence": "high for the ballot listing, the governor's order and the denials (CBS News, two reporters; PBS NewsHour). Medium for the DOJ subpoenas (CBS, citing multiple unnamed sources). The recruitment itself is an allegation and is not shown as fact.",
+      "sources": [
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "title": "Two Dan Sullivans: What to know about Alaska's Senate race as ballot fight heats up",
+          "url": "https://www.cbsnews.com/news/alaska-senate-two-dan-sullivans-mary-peltola/",
+          "published_at": "2026-10-29T20:40:00Z",
+          "checked_at": "2026-10-30T01:25:00Z",
+          "checked": "full article"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "title": "Alaska gov. orders probe into Peltola over 2nd Dan Sullivan on ballot",
+          "url": "https://www.cbsnews.com/news/trump-peltola-dan-sullivan-alaska-senate/",
+          "published_at": "2026-10-29T14:07:00Z",
+          "checked_at": "2026-10-30T01:30:00Z",
+          "checked": "full article"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "title": "DOJ issues new subpoenas in Alaska Senate probe",
+          "url": "https://www.cbsnews.com/news/doj-subpoenas-alaska-senate-probe-ballot-sullivan-peltola/",
+          "published_at": "2026-10-29T23:52:52Z",
+          "checked_at": "2026-10-30T01:35:00Z",
+          "checked": "full article"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "title": "Republicans seize on controversy in Alaska's closely watched Senate race",
+          "url": "https://www.pbs.org/newshour/show/republicans-seize-on-controversy-in-alaskas-closely-watched-senate-race",
+          "published_at": "2026-10-29T22:55:01Z",
+          "checked_at": "2026-10-30T01:36:00Z",
+          "checked": "segment summary and transcript"
+        }
+      ]
+    }
+  ]
+}
