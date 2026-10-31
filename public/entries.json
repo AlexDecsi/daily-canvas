@@ -1,6 +1,56 @@
 {
   "entries": [
     {
+      "date": "2026-10-30",
+      "published_at": "2026-10-31T02:33:17.432606Z",
+      "status": "published",
+      "prelaunch": false,
+      "title": "Pope Leo XIV votes by mail in the US midterms",
+      "caption": "The Vatican confirmed that Pope Leo XIV, born in Chicago, cast a mail-in ballot in Illinois ahead of the Nov. 3 midterm elections. He is the first pope to vote in a U.S. general election. Local officials said he requested the ballot on Oct. 3; how he voted is not known.",
+      "stories": [
+        {
+          "name": "Pope Leo XIV votes by mail in the US midterms",
+          "role": "focal",
+          "facts": [
+            "The Holy See press office confirmed on Oct. 30 that Pope Leo XIV, born Robert Prevost in Chicago, cast a mail-in ballot in Illinois ahead of the Nov. 3 U.S. midterm elections. He is the first pope to vote in a U.S. general election.",
+            "The Chicago Sun-Times first reported the vote, citing the Will County clerk's office, which said he requested the mail-in ballot on Oct. 3. He is registered at an address in New Lenox, Illinois.",
+            "The Vatican said he has voted whenever he was eligible, including while living in Peru. Who he voted for is not known."
+          ],
+          "sources": [
+            {
+              "publisher": "PBS NewsHour",
+              "title": "Leo XIV has become the first pope in history to vote in a U.S. general election",
+              "url": "https://www.pbs.org/newshour/politics/leo-xiv-has-become-the-first-pope-in-history-to-vote-in-a-u-s-general-election",
+              "published_at": "2026-10-30T16:53:35Z"
+            },
+            {
+              "publisher": "CBS News",
+              "title": "Pope Leo becomes first pontiff to vote in a U.S. election",
+              "url": "https://www.cbsnews.com/news/pope-leo-xiv-votes-us-election/",
+              "published_at": "2026-10-30T20:40:00Z"
+            },
+            {
+              "publisher": "The New York Times",
+              "title": "Pope Leo Votes by Mail, From the Vatican, in Illinois Midterm Election",
+              "url": "https://www.nytimes.com/2026/10/30/us/elections/pope-leo-votes-mail-midterm.html",
+              "published_at": "2026-10-30T20:36:09Z"
+            }
+          ]
+        }
+      ],
+      "artwork": {
+        "path": "artwork/2026-10-30.svg",
+        "format": "svg",
+        "alt": "Graphic poster illustration: at sunset on a stone terrace beside the dome of St. Peter's Basilica, Pope Leo XIV in a white cassock and skullcap raises his arm after sending off a sealed airmail envelope. A dotted flight path arcs over the curve of the Atlantic to a small Chicago skyline, with the Willis Tower and Hancock Center, on the far horizon. It represents his mail-in vote in the U.S. midterms; the envelope is blank.",
+        "method": "code-generated SVG (graphic-poster kit, src/art/daily/)",
+        "revision": "r4"
+      },
+      "backfill": {
+        "is_backfill": false,
+        "reason": null
+      }
+    },
+    {
       "date": "2026-10-29",
       "published_at": "2026-10-30T01:21:15.744955Z",
       "status": "published",

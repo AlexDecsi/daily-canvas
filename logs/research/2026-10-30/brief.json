@@ -1,0 +1,57 @@
+{
+  "date": "2026-10-30",
+  "mode": "live (scheduled run)",
+  "prepared_at": "2026-10-31T01:45:00Z",
+  "candidates_considered": 25,
+  "rationale": "The highest-ranked cluster was another day of the Alaska two-Sullivan Senate ballot probe (now a federal criminal probe), but yesterday's entry was about that same story, so drawing it again would repeat the picture without a new visual event. Pope Leo XIV becoming the first pope to vote in a U.S. general election was led by six outlets (AP via PBS, CBS, NYT, BBC, Axios, Boston Globe). It is a US national story with a clear, drawable action, so it is the focal story. The record $6.3bn Binance hack was also strong but does not fit the same scene, and its attribution is unconfirmed. No Boston story matched national significance. Only the mail-in vote is drawn. How he voted is not known and is not shown.",
+  "stories": [
+    {
+      "role": "focal",
+      "name": "Pope Leo XIV votes by mail in the US midterms",
+      "facts": [
+        "The Holy See press office confirmed on Oct. 30 that Pope Leo XIV, born Robert Prevost in Chicago, cast a mail-in ballot in Illinois ahead of the Nov. 3 U.S. midterm elections. He is the first pope to vote in a U.S. general election.",
+        "The Chicago Sun-Times first reported the vote, citing the Will County clerk's office, which said he requested the mail-in ballot on Oct. 3. He is registered at an address in New Lenox, Illinois.",
+        "The Vatican said he has voted whenever he was eligible, including while living in Peru. Who he voted for is not known."
+      ],
+      "people": [
+        {
+          "name": "Pope Leo XIV",
+          "public_figure": true,
+          "verified_action": "cast a mail-in ballot in the Illinois midterm election from the Vatican; drawn in his white cassock and skullcap holding a sealed ballot envelope, with no visible marks or choices"
+        }
+      ],
+      "visual_notes": "Clearly illustrative staging: Leo, in white cassock and white zucchetto, seen from behind or in profile at a Vatican balcony at dusk, sends off a plain sealed envelope. Its dotted flight path arcs over the Atlantic to a Chicago skyline at night (Willis Tower, the Hancock Center). No text on the envelope or ballot, no candidates, parties, marks or results, no crowds and no medical references.",
+      "confidence": "high: confirmed by the Holy See press office and reported independently by AP (via PBS NewsHour) and CBS News, which also confirmed the ballot request with the Will County clerk.",
+      "sources": [
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "wire": "AP",
+          "title": "Leo XIV has become the first pope in history to vote in a U.S. general election",
+          "url": "https://www.pbs.org/newshour/politics/leo-xiv-has-become-the-first-pope-in-history-to-vote-in-a-u-s-general-election",
+          "published_at": "2026-10-30T16:53:35Z",
+          "checked_at": "2026-10-31T01:38:00Z",
+          "checked": "full article"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "title": "Pope Leo becomes first pontiff to vote in a U.S. election",
+          "url": "https://www.cbsnews.com/news/pope-leo-xiv-votes-us-election/",
+          "published_at": "2026-10-30T20:40:00Z",
+          "checked_at": "2026-10-31T01:37:00Z",
+          "checked": "full article"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "title": "Pope Leo Votes by Mail, From the Vatican, in Illinois Midterm Election",
+          "url": "https://www.nytimes.com/2026/10/30/us/elections/pope-leo-votes-mail-midterm.html",
+          "published_at": "2026-10-30T20:36:09Z",
+          "checked_at": "2026-10-31T01:40:00Z",
+          "checked": "headline only (paywalled; not read)"
+        }
+      ]
+    }
+  ]
+}

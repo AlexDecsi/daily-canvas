@@ -1,0 +1,1724 @@
+{
+  "date": "2026-10-30",
+  "fetched_at": "2026-10-31T01:32:05.057093Z",
+  "items_considered": 620,
+  "candidates": [
+    {
+      "headline": "Top federal prosecutor in Alaska says criminal probe underway over would-be spoiler Senate candidate",
+      "score": 138,
+      "signals": {
+        "us_outlets": 8,
+        "intl_outlets": 2,
+        "front_pages": 7,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "BBC News",
+        "Bloomberg",
+        "CBS News",
+        "CNBC",
+        "NBC Boston",
+        "NBC News",
+        "NPR",
+        "PBS NewsHour",
+        "The Guardian",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-10-30T05:06:05Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Top federal prosecutor in Alaska says criminal probe underway over would-be spoiler Senate candidate",
+          "url": "https://www.nbcboston.com/elections/alaska-senate-race-criminal-probe/4040915/",
+          "published_at": "2026-10-30T05:06:05Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Alaska's Senate race faces claims of spoiler candidate. And, Hegseth ousts Army general",
+          "url": "https://www.npr.org/2026/10/30/g-s1-150889/up-first-newsletter-midterm-elections-iran-war-veteran-affairs-loans",
+          "published_at": "2026-10-30T11:20:26Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "DOJ issues new wave of subpoenas in criminal probe of Alaska Senate race, sources say",
+          "url": "https://abcnews.com/Politics/alaska-governor-orders-probe-alleged-effort-confuse-senate/story?id=137667167",
+          "published_at": "2026-10-30T12:03:23Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Top federal prosecutor in Alaska says criminal probe underway over would-be spoiler Senate candidate",
+          "url": "https://www.pbs.org/newshour/politics/top-federal-prosecutor-in-alaska-says-criminal-probe-underway-over-would-be-spoiler-senate-candidate",
+          "published_at": "2026-10-30T22:12:36Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "DOJ requests separating Alaska ballots that rank Dan J. Sullivan in Senate race",
+          "url": "https://www.nbcnews.com/politics/2026-election/doj-requests-separating-alaska-ballots-rank-dan-j-sullivan-senate-race-rcna606646",
+          "published_at": "2026-10-30T22:38:13Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Alaska Senate election: DOJ wants to 'segregate' all ballots for 2nd Sullivan candidate",
+          "url": "https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html",
+          "published_at": "2026-10-30T22:57:55Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "DOJ Ramps Up Criminal Probe Amid Tight Alaska Senate Race",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-30/balance-of-power-late-edition-10-30-2026-video",
+          "published_at": "2026-10-30T23:06:55Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Alaska prosecutor investigates alleged Democratic plot to confuse voters with second Dan Sullivan",
+          "url": "https://www.theguardian.com/us-news/2026/oct/30/alaska-democrat-senate-mary-peltola-dan-sullivan",
+          "published_at": "2026-10-30T23:13:17Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+          "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-31T00:29:58Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "DOJ calls Alaska Senate allegations \"troubling,\" asks to segregate ballots",
+          "url": "https://www.cbsnews.com/news/alaska-us-attorney-senate-race-two-dan-sullivans/",
+          "published_at": "2026-10-31T00:55:07Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Justice Department seeks to isolate Alaska ballots as criminal probe underway over Senate candidate",
+          "url": "https://www.wcvb.com/article/doj-separate-alaska-ballots-dan-sullivan-senate/74299632",
+          "published_at": "2026-10-31T01:11:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Dem wants to keep Trump from buying DC golf course after federally funded renovations",
+      "score": 112,
+      "signals": {
+        "us_outlets": 7,
+        "intl_outlets": 1,
+        "front_pages": 5,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "Axios",
+        "BBC News",
+        "CBS News",
+        "NPR",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-30T13:00:46Z",
+      "reports": [
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Dem wants to keep Trump from buying DC golf course after federally funded renovations",
+          "url": "https://abcnews.com/Politics/democrat-assurances-trump-buy-dc-golf-after-taxpayer/story?id=137678067",
+          "published_at": "2026-10-30T13:00:46Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge opens misconduct inquiry into Trump officials in golf course case",
+          "url": "https://www.cbsnews.com/news/trump-golf-course-east-potomac-judge-inquiry/",
+          "published_at": "2026-10-30T18:23:16Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge wants to know if Trump attorneys violated ethics in one of 2 cases to change the DC landscape",
+          "url": "https://www.bostonglobe.com/2026/10/30/nation/trump-dc-projects-midterms/",
+          "published_at": "2026-10-30T19:37:52Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge Appoints Special Master to Determine if Trump Officials Lied in Golf Course Suit",
+          "url": "https://www.nytimes.com/2026/10/30/us/politics/special-master-reyes-trump-golf.html",
+          "published_at": "2026-10-30T19:40:42Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge to probe whether Trump officials lied in golf course case",
+          "url": "https://www.axios.com/2026/10/30/judge-investigation-doj-interior-trump-golf-course",
+          "published_at": "2026-10-30T21:01:56Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge investigating whether Trump administration lied about golf course renovations",
+          "url": "https://www.bbc.co.uk/news/articles/cmj6jpn8px28o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-30T21:19:23Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge orders an inquiry into potential DOJ misconduct in Trump's golf course case",
+          "url": "https://www.npr.org/2026/10/30/nx-s1-6023328/east-potomac-reyes-misconduct-inquiry-doj",
+          "published_at": "2026-10-30T21:56:52Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "News Wrap: Judge investigating if Trump officials misled court about D.C. golf course plan",
+          "url": "https://www.pbs.org/newshour/show/news-wrap-judge-investigating-if-trump-officials-misled-court-about-d-c-golf-course-plan",
+          "published_at": "2026-10-30T22:45:35Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge orders 3 taxpayer-funded Trump administration ads to be pulled from TV, social media",
+          "url": "https://www.pbs.org/newshour/politics/judge-orders-3-taxpayer-funded-trump-administration-ads-to-be-pulled-from-tv-social-media",
+          "published_at": "2026-10-30T22:57:18Z"
+        }
+      ]
+    },
+    {
+      "headline": "What we know about Binance's $6.3bn hack",
+      "score": 103,
+      "signals": {
+        "us_outlets": 6,
+        "intl_outlets": 1,
+        "front_pages": 5,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "BBC News",
+        "CBS News",
+        "CNBC",
+        "The Boston Globe",
+        "The Hill",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-30T12:27:28Z",
+      "reports": [
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "What we know about Binance's $6.3bn hack",
+          "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-30T12:27:28Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "WATCH: What we know about Binance security breach",
+          "url": "https://abcnews.com/video/137711374/",
+          "published_at": "2026-10-30T16:30:35Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Binance's $6.3 billion hack: What we know and what comes next",
+          "url": "https://www.cnbc.com/2026/10/30/billions-in-crypto-frozen-in-binance-hack-heres-what-happens-next-.html",
+          "published_at": "2026-10-30T16:31:36Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Why bitcoin held up better after the record Binance hack",
+          "url": "https://www.cnbc.com/2026/10/30/binance-hack-bitcoin-price.html",
+          "published_at": "2026-10-30T18:07:00Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Binance hack: Investigators in a 'cat and mouse game' to recover $6.3 billion in stolen funds",
+          "url": "https://www.cnbc.com/2026/10/30/binance-hack-stolen-crypto-recovery.html",
+          "published_at": "2026-10-30T19:27:03Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+          "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-30T21:13:14Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Binance\u2019s $6.3 Billion Hack Is Just the Start of a Risky New Era",
+          "url": "https://www.nytimes.com/2026/10/30/technology/binance-hack-ai-north-korea.html",
+          "published_at": "2026-10-30T21:17:37Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "$6.3 billion Binance hack is largest crypto theft on record",
+          "url": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
+          "published_at": "2026-10-30T21:21:17Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Binance loses $6.3 billion in crypto heist\u2014what happens to your money when an exchange gets hacked",
+          "url": "https://www.cnbc.com/make-it/2026/10/30/binance-crypto-hack-customer-funds.html",
+          "published_at": "2026-10-30T21:45:52Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump says US looking into Binance hack: 'We don't know' if North Korea responsible",
+          "url": "https://thehill.com/policy/technology/6185518-trump-binance-crypto-hack-north-korea/",
+          "published_at": "2026-10-30T21:46:44Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Binance suspends withdrawals after crypto hackers steal $6.3 Billion",
+          "url": "https://www.bostonglobe.com/2026/10/30/business/binance-suspends-withdrawals-after-crypto-hackers-steal-63-billion/",
+          "published_at": "2026-10-30T22:19:12Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "How hard is it to recover the $6 billion stolen from Binance?",
+          "url": "https://www.cbsnews.com/news/binance-crypto-hack-stolen-funds-recovery/",
+          "published_at": "2026-10-30T23:50:03Z"
+        }
+      ]
+    },
+    {
+      "headline": "What's at stake for Trump in the US midterms?",
+      "score": 90,
+      "signals": {
+        "us_outlets": 5,
+        "intl_outlets": 2,
+        "front_pages": 4,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "Bloomberg",
+        "CBS News",
+        "CNBC",
+        "PBS NewsHour",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-30T10:19:48Z",
+      "reports": [
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "What's at stake for Trump in the US midterms?",
+          "url": "https://www.bbc.co.uk/news/videos/cq77pm2jmmd5o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-30T10:19:48Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump\u2019s Rallies in Iowa, Kansas Back On in Midterm Sprint",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-30/trump-rallies-in-iowa-kansas-back-on-calendar-in-midterm-sprint",
+          "published_at": "2026-10-30T14:54:13Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump reverses decision to cancel Kansas and Iowa rallies before midterms",
+          "url": "https://www.theguardian.com/us-news/2026/oct/30/trump-midterm-rallies-kansas-iowa",
+          "published_at": "2026-10-30T15:28:49Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump rallies in Kansas and Iowa are back on after RNC said they were canceled: Source",
+          "url": "https://www.cnbc.com/2026/10/30/trump-vance-rally-midterm-elections-.html",
+          "published_at": "2026-10-30T15:52:35Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "As early voting surges, Trump reshuffles his schedule to add back rallies in Iowa and Kansas",
+          "url": "https://www.pbs.org/newshour/politics/as-early-voting-surges-trump-reshuffles-his-schedule-to-add-back-rallies-in-iowa-and-kansas",
+          "published_at": "2026-10-30T21:12:12Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump Adds Midterm Rallies in Kansas and Iowa After Initially Canceling Events",
+          "url": "https://www.nytimes.com/2026/10/30/us/elections/trump-iowa-kansas-rallies-midterms.html",
+          "published_at": "2026-10-30T21:38:24Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump Will Go to Kansas and Iowa Before Election Day",
+          "url": "https://www.nytimes.com/2026/10/30/briefing/trump-campaign-plans-crypto-hack.html",
+          "published_at": "2026-10-30T21:40:56Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump to hold rallies in Kansas and Iowa despite earlier cancelation",
+          "url": "https://www.cbsnews.com/video/trump-to-hold-rallies-in-kansas-and-iowa-despite-earlier-cancelation/",
+          "published_at": "2026-10-30T21:42:00Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "\"Trump holds 27th campaign rally as midterms near \"",
+          "url": "https://www.cbsnews.com/video/trump-holds-27th-campaign-rally-as-midterms-near/",
+          "published_at": "2026-10-30T23:32:24Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Midterm Updates: Trump rallies in Florida, El-Sayed clashes with Stevens",
+          "url": "https://www.cbsnews.com/live-updates/2026-midterm-elections-campaigns-weekend-before/",
+          "published_at": "2026-10-31T01:03:14Z"
+        }
+      ]
+    },
+    {
+      "headline": "Christa Pike says she's in constant pain and blames \u2018incompetence' for her failed execution",
+      "score": 90,
+      "signals": {
+        "us_outlets": 5,
+        "intl_outlets": 1,
+        "front_pages": 5,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "CBS News",
+        "NBC Boston",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-30T10:32:51Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Christa Pike says she's in constant pain and blames \u2018incompetence' for her failed execution",
+          "url": "https://www.nbcboston.com/news/national-international/christa-pike-constant-pain-blames-incompetence-failed-execution/4040575/",
+          "published_at": "2026-10-30T10:32:51Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Christa Pike says she\u2019s in constant pain and blames \u2018incompetence\u2019 for her failed execution",
+          "url": "https://www.bostonglobe.com/2026/10/30/nation/christa-pike-statement-failed-tennessee-execution/",
+          "published_at": "2026-10-30T14:17:14Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Christa Pike speaks after botched execution: \"Don't know what's next\"",
+          "url": "https://www.cbsnews.com/news/christa-pike-botched-execution-statement/",
+          "published_at": "2026-10-30T14:39:26Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
+          "url": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-30T17:07:19Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Christa Pike says she feels constant pain in first public statement since failed execution",
+          "url": "https://www.pbs.org/newshour/nation/christa-pike-says-she-feels-constant-pain-in-first-public-statement-since-failed-execution",
+          "published_at": "2026-10-30T17:40:05Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Christa Pike Describes Pain and Isolation After Botched Execution",
+          "url": "https://www.nytimes.com/2026/10/30/us/christa-pike-botched-execution-statement.html",
+          "published_at": "2026-10-30T21:13:56Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Christa Pike describes constant pain in first statement since her failed execution",
+          "url": "https://www.bostonglobe.com/2026/10/30/nation/christa-pike-describes-constant-pain-first-statement-since-her-failed-execution/",
+          "published_at": "2026-10-30T22:10:41Z"
+        }
+      ]
+    },
+    {
+      "headline": "An ICE officer is charged with assault for striking a man with a car in Houston",
+      "score": 87,
+      "signals": {
+        "us_outlets": 5,
+        "intl_outlets": 2,
+        "front_pages": 4,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Axios",
+        "BBC News",
+        "CBS News",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-30T17:53:28Z",
+      "reports": [
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "An ICE officer is charged with assault for striking a man with a car in Houston",
+          "url": "https://www.pbs.org/newshour/nation/an-ice-officer-has-been-charged-after-striking-a-man-with-a-car-in-houston",
+          "published_at": "2026-10-30T17:53:28Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "ICE agent charged after ramming unmarked SUV into man in Texas",
+          "url": "https://www.theguardian.com/us-news/2026/oct/30/texas-ice-agent-suv-charged",
+          "published_at": "2026-10-30T18:27:13Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Texas grand jury indicts ICE agent accused of using SUV as weapon",
+          "url": "https://www.axios.com/2026/10/30/ice-agent-indicted-mario-morales-houston",
+          "published_at": "2026-10-30T18:32:06Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "An ICE officer has been charged after striking a man with a car in Houston",
+          "url": "https://www.bostonglobe.com/2026/10/30/nation/ice-agent-charge-houston/",
+          "published_at": "2026-10-30T18:45:03Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "ICE officer charged in Texas after allegedly hitting man with vehicle",
+          "url": "https://www.cbsnews.com/news/ice-officer-indicted-felony-texas-hit-man-vehicle/",
+          "published_at": "2026-10-30T20:11:08Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Houston Grand Jury Indicts ICE Agent on Charges of Ramming Man in Chase",
+          "url": "https://www.nytimes.com/2026/10/30/us/houston-ice-agent-charged-ramming.html",
+          "published_at": "2026-10-30T23:14:01Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "ICE agent charged for hitting Texas immigrant with vehicle during pursuit",
+          "url": "https://www.bbc.co.uk/news/articles/ckjwep125v3eo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-30T23:16:43Z"
+        }
+      ]
+    },
+    {
+      "headline": "Matthew Farwell trial recap: Mental health expert testifies on Sandra Birchmore",
+      "score": 84,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 0,
+        "front_pages": 4,
+        "boston_local": [
+          "massachusetts"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "NBC Boston",
+        "The Boston Globe",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-10-30T08:39:51Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Matthew Farwell trial recap: Mental health expert testifies on Sandra Birchmore",
+          "url": "https://www.nbcboston.com/news/local/matthew-farwell-trial-day-15-live-updates-on-the-sandra-birchmore-murder-case/4040466/",
+          "published_at": "2026-10-30T08:39:51Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Sandra Birchmore was \u2018exquisitely\u2019 sensitive to loss and abandonment, forensic psychiatrist testifies for defense",
+          "url": "https://www.bostonglobe.com/2026/10/29/metro/matthew-farwell-call-forensic-psychiatrist-testify-about-death-sandra-birchmore/",
+          "published_at": "2026-10-30T20:29:54Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Sandra Birchmore faced a 'lifetime of adversities.' Was Matthew Farwell breakup one?",
+          "url": "https://www.masslive.com/news/2026/10/matthew-farwell-breakup-may-have-pushed-sandra-birchmore-over-the-edge-defense-expert-says.html",
+          "published_at": "2026-10-30T21:22:21Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Farwell's defense calls witness to testify about Birchmore's mental health",
+          "url": "https://www.wcvb.com/article/matthew-farwell-sandra-birchmore-trial-oct-30/74292444",
+          "published_at": "2026-10-30T22:04:00Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Farwell trial daily recap: Former officer accused in death of Sandra Birchmore",
+          "url": "https://www.wcvb.com/article/farwell-birchmore-trial-daily-recap/74149247",
+          "published_at": "2026-10-30T22:05:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Erin Patterson to die in prison after losing appeal against mushroom murder convictions",
+      "score": 83,
+      "signals": {
+        "us_outlets": 6,
+        "intl_outlets": 1,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Axios",
+        "CBS News",
+        "CNBC",
+        "NBC News",
+        "PBS NewsHour",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-30T05:31:26Z",
+      "reports": [
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Erin Patterson to die in prison after losing appeal against mushroom murder convictions",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/29/erin-patterson-mushroom-murders-appeal-ruling-ntwnfb",
+          "published_at": "2026-10-30T05:31:26Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Court Rejects Erin Patterson\u2019s Appeal in Mushroom Murders Case",
+          "url": "https://www.nytimes.com/2026/10/29/world/asia/mushroom-murder-case-sentencing-appeal-australia.html",
+          "published_at": "2026-10-30T10:14:33Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Appeals court rejects DOJ bid to set aside disputed California ballots",
+          "url": "https://www.cbsnews.com/news/california-justice-department-ballots-appeals-court/",
+          "published_at": "2026-10-30T19:52:45Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Appeals court again rejects DOJ\u2019s bid to segregate over 20,000 alleged noncitizen ballots in California",
+          "url": "https://www.nbcnews.com/politics/trump-administration/appeals-court-rejects-justice-department-noncitizen-ballots-rcna606604",
+          "published_at": "2026-10-30T20:09:47Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Appeals Court Again Rejects Trump Effort to Impound California Ballots",
+          "url": "https://www.nytimes.com/2026/10/30/us/politics/appeals-trump-california-ballots.html",
+          "published_at": "2026-10-30T20:25:06Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump admin again loses bid to block California from counting alleged noncitizen votes",
+          "url": "https://www.cnbc.com/2026/10/30/trump-california-counting-alleged-noncitizen-votes.html",
+          "published_at": "2026-10-30T20:43:57Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Appeals court rejects Justice Department request for California to set aside disputed ballots",
+          "url": "https://www.pbs.org/newshour/politics/appeals-court-rejects-justice-department-request-for-california-to-set-aside-disputed-ballots",
+          "published_at": "2026-10-30T20:56:32Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump DOJ loses last-minute California ballot bid",
+          "url": "https://www.axios.com/2026/10/30/doj-california-noncitizen-voter-list-court",
+          "published_at": "2026-10-30T21:07:40Z"
+        }
+      ]
+    },
+    {
+      "headline": "Pope Leo XIV becomes first pontiff to vote in a US election",
+      "score": 83,
+      "signals": {
+        "us_outlets": 5,
+        "intl_outlets": 1,
+        "front_pages": 4,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Axios",
+        "BBC News",
+        "CBS News",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-30T14:48:22Z",
+      "reports": [
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
+          "url": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-30T14:48:22Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Leo XIV has become the first pope in history to vote in a U.S. general election",
+          "url": "https://www.pbs.org/newshour/politics/leo-xiv-has-become-the-first-pope-in-history-to-vote-in-a-u-s-general-election",
+          "published_at": "2026-10-30T16:53:35Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Pope Leo XIV becomes first pope to vote in U.S. election",
+          "url": "https://www.axios.com/2026/10/30/pope-leo-mail-in-ballot-midterms",
+          "published_at": "2026-10-30T18:57:17Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Leo XIV has become the first pope in history to vote in a US general election",
+          "url": "https://www.bostonglobe.com/2026/10/30/world/pope-leo-first-pope-vote-in-us-election/",
+          "published_at": "2026-10-30T19:02:19Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Pope Leo Votes by Mail, From the Vatican, in Illinois Midterm Election",
+          "url": "https://www.nytimes.com/2026/10/30/us/elections/pope-leo-votes-mail-midterm.html",
+          "published_at": "2026-10-30T20:36:09Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Pope Leo becomes first pontiff to vote in a U.S. election",
+          "url": "https://www.cbsnews.com/news/pope-leo-xiv-votes-us-election/",
+          "published_at": "2026-10-30T20:40:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Here are the Senate races to watch ahead of Election Day",
+      "score": 75,
+      "signals": {
+        "us_outlets": 5,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Bloomberg",
+        "CBS News",
+        "NPR",
+        "PBS NewsHour",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-10-30T09:00:00Z",
+      "reports": [
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Here are the Senate races to watch ahead of Election Day",
+          "url": "https://www.npr.org/2026/10/30/g-s1-149975/2026-midterms-senate-map",
+          "published_at": "2026-10-30T09:00:00Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Early voting jumps across Senate battlegrounds as millions more Americans vote ahead of Election Day",
+          "url": "https://www.bostonglobe.com/2026/10/30/nation/early-voting-increased-senate-battlegrounds/",
+          "published_at": "2026-10-30T14:42:15Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Midterm Elections 2026: Early Voting Hits Record Ahead of Election Day",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-30/midterm-elections-2026-early-voting-hits-record-ahead-of-election-day",
+          "published_at": "2026-10-30T20:02:25Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Early voting jumps across Senate battlegrounds as millions more Americans vote ahead of Election Day",
+          "url": "https://www.bostonglobe.com/2026/10/30/nation/early-voting-jumps-across-senate-battlegrounds-millions-more-americans-vote-ahead-election-day/",
+          "published_at": "2026-10-30T20:52:21Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Candidates make final midterm stops as early voting surges",
+          "url": "https://www.pbs.org/newshour/show/candidates-make-final-midterm-stops-as-early-voting-surges",
+          "published_at": "2026-10-30T22:55:00Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Here's what the numbers show about key races 4 days ahead of midterms",
+          "url": "https://www.cbsnews.com/video/heres-what-the-numbers-show-about-key-races-4-days-ahead-of-midterms/",
+          "published_at": "2026-10-30T23:19:00Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "El-Sayed and Stevens feud ahead of key Michigan Senate race",
+          "url": "https://www.cbsnews.com/news/abdul-el-sayed-haley-stevens-feud-michigan-senate/",
+          "published_at": "2026-10-31T00:17:09Z"
+        }
+      ]
+    },
+    {
+      "headline": "Live updates: Celtics host Bulls in first NBA Cup Group Play game",
+      "score": 67,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": [
+          "boston",
+          "celtics"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "NBC Boston",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-10-30T05:18:00Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Live updates: Celtics host Bulls in first NBA Cup Group Play game",
+          "url": "https://www.nbcboston.com/news/local/live-updates-celtics-bulls-nba-cup-group-play-standings/4040907/",
+          "published_at": "2026-10-30T05:18:00Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Bulls at Celtics preview: Chicago back in Boston for second time, this time in NBA Cup play",
+          "url": "https://www.bostonglobe.com/2026/10/30/sports/celtics-bulls-preview-october-30/",
+          "published_at": "2026-10-30T14:14:59Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Kalshi enhances $55 NBA promo code \u201cMASSLIVE1\u201d for Bulls-Celtics",
+          "url": "https://www.masslive.com/betting/2026/10/kalshi-enhances-55-nba-promo-code-masslive1-for-bulls-celtics.html",
+          "published_at": "2026-10-30T23:45:00Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "NBA Polymarket promo code \u201cMASS\u201d enhances $25 Bulls-Celtics deal",
+          "url": "https://www.masslive.com/betting/2026/10/nba-polymarket-promo-code-mass-enhances-25-bulls-celtics-deal.html",
+          "published_at": "2026-10-30T23:45:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Trick or treat? 70s today across Mass. before colder air returns on Halloween",
+      "score": 67,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": [
+          "mass.",
+          "new england"
+        ]
+      },
+      "independent_outlets": [
+        "NBC Boston",
+        "The Boston Globe",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-10-30T06:08:18Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trick or treat? 70s today across Mass. before colder air returns on Halloween",
+          "url": "https://www.nbcboston.com/news/local/weather-boston-massachusetts-halloween-trick-or-treat-temperatures/4040400/",
+          "published_at": "2026-10-30T06:08:18Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "From early snow to short-sleeve weather, some past Halloweens rolled out the tricks and treats",
+          "url": "https://www.bostonglobe.com/2026/10/30/metro/new-england-boston-halloween-weather-history/",
+          "published_at": "2026-10-30T17:34:29Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Halloween night is looking chilly across New England. Check out the trick-or-treating temperatures near you.",
+          "url": "https://www.bostonglobe.com/2026/10/28/metro/new-england-boston-thursday-forecast/",
+          "published_at": "2026-10-30T21:17:22Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Wear a coat under the costume: Cool weather for Halloween trick-or-treating",
+          "url": "https://www.wcvb.com/article/halloween-weekend-forecast-massachusetts-cool-night/74276845",
+          "published_at": "2026-10-31T00:25:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Mary Peltola made a mistake. But her Republican opponent would be a disaster for Alaska | Kim Heacox",
+      "score": 66,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 1,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "CBS News",
+        "The Boston Globe",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-30T10:00:51Z",
+      "reports": [
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Mary Peltola made a mistake. But her Republican opponent would be a disaster for Alaska | Kim Heacox",
+          "url": "https://www.theguardian.com/commentisfree/2026/oct/30/mary-peltola-dan-sullivan-alaska",
+          "published_at": "2026-10-30T10:00:51Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Democratic Candidate Mary Peltola Says She Didn\u2019t Know About Alaska Ballot Stacking",
+          "url": "https://www.nytimes.com/2026/10/30/us/elections/peltola-alaska-senate-election-sullivan-ballot-stacking.html",
+          "published_at": "2026-10-30T18:34:55Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Democratic candidate Mary Peltola says she didn\u2019t know about Alaska \u2018ballot stacking\u2019",
+          "url": "https://www.bostonglobe.com/2026/10/30/nation/democratic-candidate-mary-peltola-says-she-didnt-know-about-alaska-ballot-stacking/",
+          "published_at": "2026-10-30T20:46:36Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Alaska voters react to Mary Peltola's campaign's alleged role in Dan Sullivan controversy",
+          "url": "https://www.cbsnews.com/video/alaska-voters-react-to-mary-peltolas-campaigns-alleged-role-in-dan-sullivan-controversy/",
+          "published_at": "2026-10-30T21:25:00Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Peltola denies knowing of 'any other candidate' on ballot besides herself, incumbent",
+          "url": "https://abcnews.com/Politics/peltola-denies-knowledge-candidate-alaska-senate-ballot-incumbent/story?id=137705982",
+          "published_at": "2026-10-30T22:59:54Z"
+        }
+      ]
+    },
+    {
+      "headline": "Knife-wielding man fatally shot by police in Brighton, 2 officers hospitalized",
+      "score": 66,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": [
+          "boston"
+        ]
+      },
+      "independent_outlets": [
+        "NBC Boston",
+        "The Boston Globe",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-10-30T10:21:54Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Knife-wielding man fatally shot by police in Brighton, 2 officers hospitalized",
+          "url": "https://www.nbcboston.com/news/local/police-shooting-under-investigation-in-brighton/4040563/",
+          "published_at": "2026-10-30T10:21:54Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Man with knife who 'charged at officers' dies after being shot by police in Boston",
+          "url": "https://www.wcvb.com/article/officer-involved-shooting-under-investigation-in-bostons-cleveland-circle/74295643",
+          "published_at": "2026-10-30T22:58:00Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Police fatally shoot man in Brighton after he lunged at officers with a knife, officials say",
+          "url": "https://www.bostonglobe.com/2026/10/30/metro/brighton-person-shot-police-update/",
+          "published_at": "2026-10-30T23:10:42Z"
+        }
+      ]
+    },
+    {
+      "headline": "1 dead in early morning moped crash in Revere",
+      "score": 66,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": [
+          "massachusetts"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "NBC Boston",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-10-30T10:29:22Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "1 dead in early morning moped crash in Revere",
+          "url": "https://www.nbcboston.com/news/local/revere-deadly-motorcycle-crash/4040585/",
+          "published_at": "2026-10-30T10:29:22Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Man killed in overnight moped crash in Revere",
+          "url": "https://www.bostonglobe.com/2026/10/30/metro/revere-motorcycle-crash-death-burbank/",
+          "published_at": "2026-10-30T21:27:40Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Man riding moped killed in early morning Revere crash",
+          "url": "https://www.masslive.com/news/2026/10/man-riding-moped-killed-in-early-morning-revere-crash.html",
+          "published_at": "2026-10-30T21:37:11Z"
+        }
+      ]
+    },
+    {
+      "headline": "US Approves $2.1 Billion in Patriot Interceptors for Ukraine",
+      "score": 66,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 1,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "Bloomberg",
+        "NBC News",
+        "The Hill",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-10-30T19:18:44Z",
+      "reports": [
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "US Approves $2.1 Billion in Patriot Interceptors for Ukraine",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-30/us-approves-2-1-billion-in-patriot-missiles-for-ukraine",
+          "published_at": "2026-10-30T19:18:44Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "US approves a proposed $2.1 billion sale of Patriot interceptors to Ukraine after alleged holdup",
+          "url": "https://www.wcvb.com/article/us-approves-proposed-21-billion-sale-patriot-interceptors-ukraine/74299485",
+          "published_at": "2026-10-30T22:07:00Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "U.S. approves $2.1 billion sale of Patriot interceptors to Ukraine",
+          "url": "https://www.nbcnews.com/world/ukraine/us-approves-21-billion-sale-patriot-interceptors-ukraine-rcna606641",
+          "published_at": "2026-10-30T22:44:38Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Ukraine gets approval for Patriot missile sale",
+          "url": "https://thehill.com/newsletters/defense-national-security/6185817-us-approves-ukraine-patriot-missiles/",
+          "published_at": "2026-10-31T00:36:42Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "US approves sale of 500 Patriot missiles to Ukraine",
+          "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-31T00:40:43Z"
+        }
+      ]
+    },
+    {
+      "headline": "US scraps G20 photo after European diplomats object to being pictured with Russia\u2019s Lavrov",
+      "score": 64,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 1,
+        "front_pages": 2,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "The Boston Globe",
+        "The Guardian",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-10-30T19:52:16Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "US scraps G20 photo after European diplomats object to being pictured with Russia\u2019s Lavrov",
+          "url": "https://www.bostonglobe.com/2026/10/30/nation/group-of-20-group-photo-russia/",
+          "published_at": "2026-10-30T19:52:16Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Distaste for Lavrov Forces U.S. to Cancel G20 Photo Session in Atlanta",
+          "url": "https://www.nytimes.com/2026/10/30/us/politics/lavrov-russia-photo-rubio.html",
+          "published_at": "2026-10-30T20:12:18Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Consensus looks elusive at G20 talks in Atlanta after objections to Russia cancel group photo",
+          "url": "https://www.wcvb.com/article/consensus-g20-talks-european-objections-russia-cancel-group-photo/74300311",
+          "published_at": "2026-10-31T00:08:00Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "US cancels G20 \u2018family photo\u2019 after Australia, UK and others refuse to appear with Russia",
+          "url": "https://www.theguardian.com/world/2026/oct/31/us-cancels-g20-family-photo-after-australia-uk-and-others-refuse-to-appear-with-russia",
+          "published_at": "2026-10-31T00:29:28Z"
+        }
+      ]
+    },
+    {
+      "headline": "2026 midterm election voter guides: Find local resources in your community",
+      "score": 52,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 0,
+        "front_pages": 1,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Bloomberg",
+        "CNBC",
+        "NPR",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-10-30T09:00:00Z",
+      "reports": [
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "2026 midterm election voter guides: Find local resources in your community",
+          "url": "https://www.npr.org/2026/10/30/g-s1-149560/2026-vote-midterm-election-local-voter-guides",
+          "published_at": "2026-10-30T09:00:00Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Wall Street braces for Democratic gains as 2026 midterm election nears",
+          "url": "https://www.cnbc.com/2026/10/30/2026-midterm-election-wall-street-prepares-for-democratic-gains.html",
+          "published_at": "2026-10-30T19:11:32Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Midterms, Apple earnings, jobs report. Wall Street faces a big week ahead just as investors dump tech",
+          "url": "https://www.cnbc.com/2026/10/30/stock-market-next-week-outlook-for-nov-2-6-2026.html",
+          "published_at": "2026-10-30T20:25:58Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Wall Street Punishes Tech Stocks on Earnings Misses",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-30/bloomberg-businessweek-daily-10-30-2026-video",
+          "published_at": "2026-10-30T21:24:20Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Midterms 2026: The final message to voters",
+          "url": "https://www.wcvb.com/article/midterms-2026-the-final-message-to-voters/74298974",
+          "published_at": "2026-10-30T21:41:00Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Cramer\u2019s week ahead: Expect more volatility as tech earnings, midterms loom",
+          "url": "https://www.cnbc.com/2026/10/30/jim-cramer-week-ahead-apple-amd-jobs-report.html",
+          "published_at": "2026-10-30T22:17:13Z"
+        }
+      ]
+    },
+    {
+      "headline": "Who will win a Western Mass. volleyball title? Breaking down all four finals",
+      "score": 51,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "boston",
+          "mass.",
+          "massachusetts",
+          "northeastern"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-10-30T20:00:05Z",
+      "reports": [
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Who will win a Western Mass. volleyball title? Breaking down all four finals",
+          "url": "https://www.masslive.com/highschoolsports/2026/10/western-mass-girls-volleyball-finals-breaking-down-all-four-championship-matchups.html",
+          "published_at": "2026-10-30T20:00:05Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Six teams, three championships: Western Mass. field hockey finals set for Saturday",
+          "url": "https://www.masslive.com/highschoolsports/2026/10/western-mass-field-hockey-championships-breaking-down-all-three-title-matchups.html",
+          "published_at": "2026-10-30T20:41:57Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Watch it live: Two Western Mass. volleyball championships set for Saturday",
+          "url": "https://www.masslive.com/highschoolsports/2026/10/watch-it-live-masslive-to-stream-two-western-mass-girls-volleyball-championship-matches.html",
+          "published_at": "2026-10-30T20:53:34Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Stephanie Kamula-Nwaogu, New Mission have final say in Boston City League girls\u2019 volleyball title",
+          "url": "https://www.bostonglobe.com/2026/10/30/sports/new-mission-obryant-girls-volleyball-boston-city-league/",
+          "published_at": "2026-10-30T23:45:26Z"
+        }
+      ]
+    },
+    {
+      "headline": "Selma Blair breaks silence, weeks after arrest for alleged assault",
+      "score": 51,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "Fox News",
+        "NBC News"
+      ],
+      "first_seen": "2026-10-30T22:26:23Z",
+      "reports": [
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Selma Blair breaks silence, weeks after arrest for alleged assault",
+          "url": "https://www.foxnews.com/entertainment/selma-blair-breaks-silence-weeks-after-arrest-alleged-assault",
+          "published_at": "2026-10-30T22:26:23Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Selma Blair apologizes to the \u2018people that I disappointed\u2019 after plane incident arrest",
+          "url": "https://www.nbcnews.com/news/us-news/selma-blair-apologizes-people-dissapointed-plane-incident-arrest-rcna606651",
+          "published_at": "2026-10-30T23:33:33Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Selma Blair apologizes in video weeks after arrest: 'I take this very seriously'",
+          "url": "https://abcnews.com/GMA/Culture/selma-blair-apologizes-video-weeks-after-arrest/story?id=137723047",
+          "published_at": "2026-10-31T01:08:36Z"
+        }
+      ]
+    },
+    {
+      "headline": "10 spooky new horror movies and TV shows to watch this Halloween",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-10-30T06:00:00Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "10 spooky new horror movies and TV shows to watch this Halloween",
+          "url": "https://www.bostonglobe.com/2026/10/30/arts/movies-tv-shows-streaming-halloween/",
+          "published_at": "2026-10-30T06:00:00Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Halloween chocolate sales down this year: \u2019Spooky time\u2019",
+          "url": "https://www.masslive.com/news/2026/10/halloween-chocolate-sales-down-this-year-spooky-time.html",
+          "published_at": "2026-10-30T22:00:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Be seen on Halloween: Safety tips for trick-or-treaters and drivers",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "boston",
+          "new england"
+        ]
+      },
+      "independent_outlets": [
+        "NBC Boston",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-10-30T07:42:40Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Be seen on Halloween: Safety tips for trick-or-treaters and drivers",
+          "url": "https://www.nbcboston.com/holidays/be-seen-on-halloween-safety-tips-for-trick-or-treaters-and-drivers/4040998/",
+          "published_at": "2026-10-30T07:42:40Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Video: Cooler, dry Halloween for trick-or-treaters",
+          "url": "https://www.wcvb.com/article/video-cooler-dry-halloween-for-trick-or-treaters/74300511",
+          "published_at": "2026-10-31T00:25:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Norwood water main break spills 1M gallons of water, floods yards",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "massachusetts"
+        ]
+      },
+      "independent_outlets": [
+        "NBC Boston",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-10-30T08:49:54Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Norwood water main break spills 1M gallons of water, floods yards",
+          "url": "https://www.nbcboston.com/news/local/norwood-ma-water-main-break-nahatan-road/4040479/",
+          "published_at": "2026-10-30T08:49:54Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Water main break closes streets in Norwood",
+          "url": "https://www.bostonglobe.com/2026/10/30/metro/norwood-water-main-break-closes-streets/",
+          "published_at": "2026-10-30T15:59:03Z"
+        }
+      ]
+    },
+    {
+      "headline": "\u2018A message that democracy is broken\u2019: What all those ballot questions say about the state of Mass. politics",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "mass.",
+          "massachusetts"
+        ]
+      },
+      "independent_outlets": [
+        "The Boston Globe",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-10-30T09:43:43Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "\u2018A message that democracy is broken\u2019: What all those ballot questions say about the state of Mass. politics",
+          "url": "https://www.bostonglobe.com/2026/10/30/metro/massachusetts-elections-2026-ballot-questions/",
+          "published_at": "2026-10-30T09:43:43Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Mass. election guide: Races, ballot questions and voting info",
+          "url": "https://www.wcvb.com/article/massachusetts-midterm-election-candidates-ballot-primer-2026/74299123",
+          "published_at": "2026-10-30T22:24:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Study aims to find out why colon cancer cases are rising among young people",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "boston",
+          "massachusetts"
+        ]
+      },
+      "independent_outlets": [
+        "CBS News",
+        "NBC Boston"
+      ],
+      "first_seen": "2026-10-30T12:08:55Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Study aims to find out why colon cancer cases are rising among young people",
+          "url": "https://www.nbcboston.com/news/local/study-aims-to-find-out-why-colon-cancer-cases-are-rising-among-young-people/4040372/",
+          "published_at": "2026-10-30T12:08:55Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Cost of caring for an elderly parent rising faster than inflation, study finds",
+          "url": "https://www.cbsnews.com/video/cost-of-caring-for-an-elderly-parent-rising-faster-than-inflation-study-finds/",
+          "published_at": "2026-10-30T22:54:53Z"
+        }
+      ]
+    }
+  ]
+}

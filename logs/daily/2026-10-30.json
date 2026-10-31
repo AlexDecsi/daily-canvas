@@ -1,0 +1,59 @@
+{
+  "date": "2026-10-30",
+  "runs": [
+    {
+      "started_at": "2026-10-31T01:31:59.670346Z",
+      "outcome": "published",
+      "steps": [
+        {
+          "at": "2026-10-31T01:31:59.670349Z",
+          "step": "prepare: lock acquired (live)"
+        },
+        {
+          "at": "2026-10-31T01:32:05.079119Z",
+          "step": "prepare: ran src/news/feeds.py"
+        },
+        {
+          "at": "2026-10-31T01:32:05.207995Z",
+          "step": "prepare: ran src/news/cluster.py"
+        },
+        {
+          "at": "2026-10-31T02:33:18.116667Z",
+          "step": "finalize: published to local site"
+        }
+      ],
+      "_new_run": true,
+      "mode": "live",
+      "prelaunch": false,
+      "finished_at": "2026-10-31T02:33:18.116459Z",
+      "link_checks": [
+        {
+          "url": "https://www.pbs.org/newshour/politics/leo-xiv-has-become-the-first-pope-in-history-to-vote-in-a-u-s-general-election",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.cbsnews.com/news/pope-leo-xiv-votes-us-election/",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.nytimes.com/2026/10/30/us/elections/pope-leo-votes-mail-midterm.html",
+          "ok": true,
+          "note": "HTTP 403 (blocks automated checks; not verifiable here)"
+        }
+      ],
+      "samples_removed": [],
+      "stories_shown": [
+        "Pope Leo XIV votes by mail in the US midterms"
+      ],
+      "usage": {
+        "article_reads": 3,
+        "web_searches": 0,
+        "render_rounds": 4,
+        "minutes": 62,
+        "note": "Run took about 62 minutes (21:31 to 22:33 Boston), over the 45-minute max_run_minutes limit; the draft first said 30 by mistake. Most of the time went to the 4 render rounds."
+      }
+    }
+  ]
+}
