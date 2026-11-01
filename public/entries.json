@@ -1,6 +1,57 @@
 {
   "entries": [
     {
+      "date": "2026-10-31",
+      "published_at": "2026-11-01T01:58:10.350820Z",
+      "status": "published",
+      "prelaunch": false,
+      "title": "Virginia and D.C. sue to block Trump's planned arch",
+      "caption": "Virginia and the District of Columbia sued in federal court on Oct. 31 to stop the planned 250-foot arch at Memorial Circle, beside the bridge to Arlington National Cemetery, the third lawsuit against it. They warn of years of traffic, runoff and emergency-response disruption. The administration says work could start next week. The unbuilt arch appears here only as a blueprint outline.",
+      "stories": [
+        {
+          "name": "Virginia and D.C. sue to block Trump's planned arch",
+          "role": "focal",
+          "facts": [
+            "On Oct. 31, Virginia Attorney General Jay Jones and D.C. Attorney General Brian Schwalb sued in federal court to stop the planned arch, seeking a temporary restraining order. It is the third lawsuit against the project.",
+            "The arch would rise about 250 feet on a grassy site at Memorial Circle, off the bridge between Washington and Arlington National Cemetery. Plans describe a winged bronze Lady Liberty holding a torch with an eternal flame on top.",
+            "The states say about three years of construction would snarl traffic between D.C. and Virginia, add Potomac runoff and hinder emergency services; they also cite height, commemorative-works, environmental and historic-preservation laws.",
+            "The administration says construction could begin as early as next week, after a National Capital Planning Commission vote. The White House calls the arch a gateway to Arlington National Cemetery. Judge Tanya Chutkan has not yet ruled in the first lawsuit."
+          ],
+          "sources": [
+            {
+              "publisher": "PBS NewsHour",
+              "title": "Virginia and D.C. sue over Trump's arch, adding to legal challenges as government wants work to begin",
+              "url": "https://www.pbs.org/newshour/politics/virginia-and-d-c-sue-over-trumps-arch-adding-to-legal-challenges-as-government-wants-work-to-begin",
+              "published_at": "2026-10-31T18:29:25Z"
+            },
+            {
+              "publisher": "NBC News",
+              "title": "Virginia and D.C. sue to stop proposed Trump arch",
+              "url": "https://www.nbcnews.com/politics/white-house/dc-virginia-lawsuit-stop-proposed-trump-arch-construction-rcna606705",
+              "published_at": "2026-10-31T17:03:15Z"
+            },
+            {
+              "publisher": "CBS News",
+              "title": "Virginia and D.C. sue over Trump's planned arch",
+              "url": "https://www.cbsnews.com/news/trump-arch-lawsuits-virginia-dc-politics/",
+              "published_at": "2026-10-31T17:42:22Z"
+            }
+          ]
+        }
+      ],
+      "artwork": {
+        "path": "artwork/2026-10-31.svg",
+        "format": "svg",
+        "alt": "Graphic poster illustration. The proposed arch at Memorial Circle, which has not been built, is drawn as a glowing, dashed blue blueprint outline topped by a winged Lady Liberty with a torch. It towers over the low granite arches of Arlington Memorial Bridge, the Potomac, and the Lincoln Memorial and Washington Monument beyond, with ordinary cars on the traffic circle. In the foreground two generic figures in suits, standing for the Virginia and D.C. attorneys general, hold up a thick red-bound legal complaint toward it under a low autumn sun.",
+        "method": "code-generated SVG (graphic-poster kit, src/art/daily/)",
+        "revision": "r3"
+      },
+      "backfill": {
+        "is_backfill": false,
+        "reason": null
+      }
+    },
+    {
       "date": "2026-10-30",
       "published_at": "2026-10-31T02:33:17.432606Z",
       "status": "published",

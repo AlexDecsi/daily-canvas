@@ -1,0 +1,1508 @@
+{
+  "date": "2026-10-31",
+  "fetched_at": "2026-11-01T01:39:29.960860Z",
+  "items_considered": 456,
+  "candidates": [
+    {
+      "headline": "Advocacy Groups Sue to Stop Trump Effort to Set Aside Ballots in Washington State",
+      "score": 123,
+      "signals": {
+        "us_outlets": 8,
+        "intl_outlets": 1,
+        "front_pages": 5,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "Axios",
+        "CBS News",
+        "NBC News",
+        "NPR",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-31T13:42:45Z",
+      "reports": [
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Advocacy Groups Sue to Stop Trump Effort to Set Aside Ballots in Washington State",
+          "url": "https://www.nytimes.com/2026/10/31/us/elections/washington-ballots-lawsuit.html",
+          "published_at": "2026-10-31T13:42:45Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Virginia and D.C. sue to stop proposed Trump arch",
+          "url": "https://www.nbcnews.com/politics/white-house/dc-virginia-lawsuit-stop-proposed-trump-arch-construction-rcna606705",
+          "published_at": "2026-10-31T17:03:15Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "D.C., Virginia sue to block Trump's 250-foot arch",
+          "url": "https://www.axios.com/2026/10/31/trump-arch-dc-virginia",
+          "published_at": "2026-10-31T17:32:31Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Virginia and D.C. sue over Trump's planned arch",
+          "url": "https://www.cbsnews.com/news/trump-arch-lawsuits-virginia-dc-politics/",
+          "published_at": "2026-10-31T17:42:22Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Virginia and DC sue over Trump\u2019s arch, adding to legal challenges",
+          "url": "https://www.bostonglobe.com/2026/10/31/nation/virginia-dc-sue-trump-arch/",
+          "published_at": "2026-10-31T17:48:40Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Virginia and DC sue to stop Trump\u2019s arch as government looks to start construction",
+          "url": "https://www.theguardian.com/us-news/2026/oct/31/trump-arch-lawsuits-dc-virginia",
+          "published_at": "2026-10-31T17:57:45Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Virginia and D.C. sue over Trump's arch, adding to legal challenges as government wants work to begin",
+          "url": "https://www.pbs.org/newshour/politics/virginia-and-d-c-sue-over-trumps-arch-adding-to-legal-challenges-as-government-wants-work-to-begin",
+          "published_at": "2026-10-31T18:29:25Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump\u2019s Arch Faces New Legal Challenge From Virginia and D.C.",
+          "url": "https://www.nytimes.com/2026/10/31/us/politics/trump-arch-virginia-dc.html",
+          "published_at": "2026-10-31T19:11:07Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "DC, Virginia file suit to block construction on Trump's proposed arch",
+          "url": "https://abcnews.com/Politics/dc-virginia-file-suit-block-construction-trumps-proposed/story?id=137739420",
+          "published_at": "2026-10-31T22:20:34Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Virginia and D.C. sue to block construction of Trump arch",
+          "url": "https://www.npr.org/2026/10/31/nx-s1-6024694/virginia-dc-sue-trump-arch",
+          "published_at": "2026-10-31T22:48:51Z"
+        }
+      ]
+    },
+    {
+      "headline": "France heads into third weekend of protests as youth-led rallies sweep Europe",
+      "score": 97,
+      "signals": {
+        "us_outlets": 6,
+        "intl_outlets": 0,
+        "front_pages": 5,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "NBC Boston",
+        "NBC News",
+        "NPR",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-10-31T06:57:11Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "France heads into third weekend of protests as youth-led rallies sweep Europe",
+          "url": "https://www.nbcboston.com/news/national-international/france-heads-into-third-weekend-of-protests-youth-led-rallies-sweep-europe/4041093/",
+          "published_at": "2026-10-31T06:57:11Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "France heads into third weekend of protests as youth-led rallies sweep Europe",
+          "url": "https://www.bostonglobe.com/2026/10/31/world/rallies-sweep-europe-france-heads-into-third-weekend-of-protests/",
+          "published_at": "2026-10-31T11:05:08Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Massive protests sweep Europe over cost of living and strained public services",
+          "url": "https://www.nbcnews.com/world/europe/europe-braces-massive-halloween-protests-cost-living-public-services-rcna606671",
+          "published_at": "2026-10-31T11:39:19Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "A third weekend of protests in France as youth-led rallies sweep Europe",
+          "url": "https://www.pbs.org/newshour/world/a-third-weekend-of-protests-in-france-as-youth-led-rallies-sweep-europe",
+          "published_at": "2026-10-31T17:14:30Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "France seethes again as youth-led protests sweep Europe",
+          "url": "https://www.npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe",
+          "published_at": "2026-10-31T19:30:19Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "A third weekend of protests in France as youth-led rallies sweep Europe",
+          "url": "https://www.wcvb.com/article/a-third-weekend-of-protests-in-france-as-youth-led-rallies-sweep-europe/74303129",
+          "published_at": "2026-10-31T19:45:00Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Clashes Erupt Again in France, After Festive Start to Day of Protest",
+          "url": "https://www.nytimes.com/2026/10/31/world/europe/france-protests-clashes.html",
+          "published_at": "2026-10-31T21:50:29Z"
+        }
+      ]
+    },
+    {
+      "headline": "Shooting leaves 1 dead, 6 wounded at Solano Town Center in Fairfield, California police say",
+      "score": 95,
+      "signals": {
+        "us_outlets": 5,
+        "intl_outlets": 0,
+        "front_pages": 4,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "CBS News",
+        "NBC Boston",
+        "The Boston Globe",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-10-31T07:50:03Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Shooting leaves 1 dead, 6 wounded at Solano Town Center in Fairfield, California police say",
+          "url": "https://www.bostonglobe.com/2026/10/31/nation/shooting-at-solano-town-center-in-fairfield-california-police/",
+          "published_at": "2026-10-31T07:50:03Z"
+        },
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Manhunt launched after California Spirit Halloween shooting leaves 1 dead, 6 injured",
+          "url": "https://www.nbcboston.com/news/national-international/california-spirit-halloween-shooting/4041112/",
+          "published_at": "2026-10-31T08:15:10Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Shooting at Spirit Halloween in California leaves at least one dead",
+          "url": "https://www.bostonglobe.com/2026/10/31/nation/shooting-spirit-halloween-california-leaves-least-one-dead/",
+          "published_at": "2026-10-31T20:20:22Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "1 dead, 6 injured in shooting at California Spirit Halloween",
+          "url": "https://www.wcvb.com/article/fairfield-police-investigate-solano-town-center-incident/74301479",
+          "published_at": "2026-10-31T21:39:00Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Shootings kill 2 at Halloween Spirit stores in California, Michigan",
+          "url": "https://www.cbsnews.com/news/spirit-halloween-store-shooting-fairfield-california/",
+          "published_at": "2026-10-31T21:40:21Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Shooting at Spirit Halloween in California Kills Pregnant Mother of 4",
+          "url": "https://www.nytimes.com/2026/10/31/us/shooting-spirit-halloween-california.html",
+          "published_at": "2026-10-31T22:22:15Z"
+        }
+      ]
+    },
+    {
+      "headline": "\u2018Grasping at straws': Judge dismisses Trump suit against Wall Street Journal over Epstein letter",
+      "score": 91,
+      "signals": {
+        "us_outlets": 6,
+        "intl_outlets": 0,
+        "front_pages": 4,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Axios",
+        "CBS News",
+        "CNBC",
+        "NBC Boston",
+        "NBC News",
+        "PBS NewsHour",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-10-31T04:18:30Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "\u2018Grasping at straws': Judge dismisses Trump suit against Wall Street Journal over Epstein letter",
+          "url": "https://www.nbcboston.com/news/national-international/trump-lawsuit-wall-street-journal-epstein-birthday-letter-dismissed/4041198/",
+          "published_at": "2026-10-31T04:18:30Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge tosses Trump lawsuit against WSJ, Murdoch over Epstein story",
+          "url": "https://www.axios.com/2026/10/31/trump-epstein-wsj-murdoch",
+          "published_at": "2026-10-31T20:22:31Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge dismisses with prejudice Trump lawsuit against Wall Street Journal",
+          "url": "https://www.cbsnews.com/news/trump-lawsuit-wall-street-journal-epstein-birthday-letter-dismissed/",
+          "published_at": "2026-10-31T20:59:41Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump lawsuit against Wall Street Journal over Epstein birthday letter is dismissed with prejudice",
+          "url": "https://www.wcvb.com/article/trump-lawsuit-against-wall-street-journal-over-epstein-birthday-letter-is-dismissed-with-prejudice/74303336",
+          "published_at": "2026-10-31T21:04:00Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge dismisses Trump\u2019s $10 billion defamation suit over Jeffrey Epstein birthday card story",
+          "url": "https://www.nbcnews.com/politics/donald-trump/judge-dismisses-trump-10-billion-defamation-suit-jeffrey-epstein-wsj-rcna591049",
+          "published_at": "2026-10-31T21:09:34Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge dismisses Trump suit against Wall Street Journal over Epstein birthday letter",
+          "url": "https://www.pbs.org/newshour/politics/judge-dismisses-trump-suit-against-wall-street-journal-over-epstein-birthday-letter",
+          "published_at": "2026-10-31T21:32:54Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice",
+          "url": "https://www.cnbc.com/2026/10/31/trump-murdoch-wsj-epstein-defamation-lawsuit-dismissed.html",
+          "published_at": "2026-10-31T23:56:40Z"
+        }
+      ]
+    },
+    {
+      "headline": "No. 5 Notre Dame beats Navy 35-13 at Gillette Stadium",
+      "score": 87,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 0,
+        "front_pages": 4,
+        "boston_local": [
+          "boston",
+          "massachusetts"
+        ]
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "MassLive",
+        "NBC Boston",
+        "The Boston Globe",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-10-31T05:53:17Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "No. 5 Notre Dame beats Navy 35-13 at Gillette Stadium",
+          "url": "https://www.nbcboston.com/news/sports/notre-dame-navy-gillette-stadium/4041205/",
+          "published_at": "2026-10-31T05:53:17Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Final data projections released for Notre Dame-Navy Week 9 matchup at Gillette Stadium",
+          "url": "https://www.masslive.com/betting/2026/10/final-data-projections-released-for-notre-dame-navy-week-9-matchup-at-gillette-stadium.html",
+          "published_at": "2026-10-31T15:15:00Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Kalshi code \u201cMASSLIVE1\u201d $55 bonus enhanced for Notre Dame-Navy",
+          "url": "https://www.masslive.com/betting/2026/10/kalshi-code-masslive1-55-bonus-enhanced-for-notre-dame-navy.html",
+          "published_at": "2026-10-31T16:45:00Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Police remind residents about flyover during Navy-Notre Dame game at Gillette",
+          "url": "https://www.wcvb.com/article/police-remind-residents-about-flyover-during-navy-notre-dame-game-at-gillette-stadium/74302466",
+          "published_at": "2026-10-31T18:18:00Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Notre Dame-Navy rivalry takes stage at Gillette Stadium in college football world losing traditions",
+          "url": "https://www.bostonglobe.com/2026/10/31/sports/college-football-notre-dame-navy-rivalry/",
+          "published_at": "2026-10-31T23:38:42Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Kalshi upgrades $55 college football promo code \u201cMASSLIVE1\u201d for Saturday night",
+          "url": "https://www.masslive.com/betting/2026/10/kalshi-upgrades-55-college-football-promo-code-masslive1-for-saturday-night.html",
+          "published_at": "2026-10-31T23:45:00Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Saturday Night Football Polymarket promo code \u201cMASS\u201d upgrades $25 deal for Ohio State-USC",
+          "url": "https://www.masslive.com/betting/2026/10/saturday-night-football-polymarket-promo-code-mass-upgrades-25-deal-for-ohio-state-usc.html",
+          "published_at": "2026-10-31T23:45:00Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Boston College takes a massive hit in ACC football status by getting run over on the road by Duke",
+          "url": "https://www.boston.com/sports/college-sports/2026/10/31/boston-college-duke-score-recap-college-football/",
+          "published_at": "2026-11-01T00:14:54Z"
+        }
+      ]
+    },
+    {
+      "headline": "FBI visits Dan J. Sullivan donor in candidate\u2019s home town as Alaska Senate inquiry widens",
+      "score": 73,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 1,
+        "front_pages": 4,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "CBS News",
+        "NPR",
+        "PBS NewsHour",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-10-31T04:29:34Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "FBI visits Dan J. Sullivan donor in candidate\u2019s home town as Alaska Senate inquiry widens",
+          "url": "https://www.bostonglobe.com/2026/10/31/nation/fbi-visits-dan-j-sullivan-donor-as-alaska-senate-inquiry-widens/",
+          "published_at": "2026-10-31T04:29:34Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Justice Department seeks to isolate Alaska ballots amid criminal probe over Senate candidate",
+          "url": "https://www.npr.org/2026/10/31/nx-s1-6024423/criminal-probe-alaska-senate-candidate",
+          "published_at": "2026-10-31T13:50:58Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "FBI visits Dan J. Sullivan donor in candidate's hometown as Alaska Senate inquiry widens",
+          "url": "https://www.pbs.org/newshour/politics/fbi-visits-dan-j-sullivan-donor-in-candidates-hometown-as-alaska-senate-inquiry-widens",
+          "published_at": "2026-10-31T19:50:16Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "DOJ calls Alaska Senate allegations \"troubling,\" asks to segregate ballots",
+          "url": "https://www.cbsnews.com/news/alaska-us-attorney-senate-race-two-dan-sullivans/",
+          "published_at": "2026-10-31T21:56:00Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Attorneys for Alaska say 'meritless' Trump demand to set aside Senate ballots 'not even possible'",
+          "url": "https://www.pbs.org/newshour/politics/attorneys-for-alaska-say-meritless-trump-demand-to-set-aside-senate-ballots-not-even-possible",
+          "published_at": "2026-10-31T22:22:29Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+          "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-01T00:46:12Z"
+        }
+      ]
+    },
+    {
+      "headline": "What to know about the $6.3B hack on Binance, likely the biggest-ever crypto theft",
+      "score": 73,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 1,
+        "front_pages": 4,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "CBS News",
+        "CNBC",
+        "PBS NewsHour",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-10-31T11:16:14Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "What to know about the $6.3B hack on Binance, likely the biggest-ever crypto theft",
+          "url": "https://www.bostonglobe.com/2026/10/31/business/what-to-know-about-the-63b-hack-on-binance/",
+          "published_at": "2026-10-31T11:16:14Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "What to know about the $6.3B hack on Binance, likely the biggest-ever crypto theft",
+          "url": "https://www.pbs.org/newshour/world/what-to-know-about-the-6-3b-hack-on-binance-likely-the-biggest-ever-crypto-theft",
+          "published_at": "2026-10-31T15:14:44Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Binance, crypto and hacks: What to know about keeping coin safe as cyber criminals advance",
+          "url": "https://www.cnbc.com/2026/10/31/binance-crypto-hack-safety.html",
+          "published_at": "2026-10-31T16:13:06Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+          "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-31T22:11:45Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
+          "url": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
+          "published_at": "2026-10-31T22:27:56Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "$6.3 billion Binance hack likely work of North Korea, experts say",
+          "url": "https://www.cbsnews.com/news/binance-hack-north-korea/",
+          "published_at": "2026-10-31T23:20:47Z"
+        }
+      ]
+    },
+    {
+      "headline": "Patriots receiver A.J. Brown again misses practice, officially listed as questionable for Sunday\u2019s game against Dolphins",
+      "score": 70,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": [
+          "celtics",
+          "new england",
+          "patriots"
+        ]
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "Fox News",
+        "MassLive",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-10-31T04:05:55Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Patriots receiver A.J. Brown again misses practice, officially listed as questionable for Sunday\u2019s game against Dolphins",
+          "url": "https://www.bostonglobe.com/2026/10/30/sports/patriots-injuries-aj-brown/",
+          "published_at": "2026-10-31T04:05:55Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Will A.J. Brown play vs. Miami? Experts release final Patriots vs. Dolphins predictions for Week 8",
+          "url": "https://www.masslive.com/betting/2026/10/patriots-dolphins-week-8-final-prediction-odds.html",
+          "published_at": "2026-10-31T16:15:00Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Patriots downgrade A.J. Brown, TreVeyon Henderson to out for Week 8 game vs. Dolphins",
+          "url": "https://www.masslive.com/patriots/2026/10/patriots-downgrade-aj-brown-treveyon-henderson-to-out-for-week-8-game-vs-dolphins.html",
+          "published_at": "2026-10-31T17:05:59Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Celtics injury report: Mitchell Robinson listed for Magic game Sunday",
+          "url": "https://www.masslive.com/celtics/2026/10/celtics-injury-report-mitchell-robinson-listed-for-magic-game-sunday.html",
+          "published_at": "2026-10-31T20:37:02Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Patriots\u2019 A.J. Brown, TreVeyon Henderson ruled out vs. Dolphins",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/10/31/aj-brown-treveyon-henderson-ruled-out-vs-dolphins/",
+          "published_at": "2026-10-31T22:28:39Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Patriots offense will be without A.J. Brown, TreVeyon Henderson for AFC East road game vs. the Dolphins",
+          "url": "https://www.bostonglobe.com/2026/10/31/sports/patriots-aj-brown-treveyon-henderson-out-dolphins/",
+          "published_at": "2026-10-31T23:32:31Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Patriots lose AJ Brown to injury again, rule out other offensive players ahead of matchup with division rival",
+          "url": "https://www.foxnews.com/outkick-sports/patriots-lose-aj-brown-injury-rule-out-offensive-players-division-rival",
+          "published_at": "2026-11-01T00:38:20Z"
+        }
+      ]
+    },
+    {
+      "headline": "Texas teen arrested in deadly South Station stabbing, authorities say",
+      "score": 66,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": [
+          "boston"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "The Boston Globe",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-10-31T17:28:43Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Texas teen arrested in deadly South Station stabbing, authorities say",
+          "url": "https://www.bostonglobe.com/2026/10/31/metro/south-station-stabbing-arrest/",
+          "published_at": "2026-10-31T17:28:43Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Texas teen arrested in connection with fatal South Station stabbing",
+          "url": "https://www.masslive.com/boston/2026/10/teenager-wanted-in-connection-with-fatal-south-station-stabbing-arrested-in-texas.html",
+          "published_at": "2026-10-31T19:14:50Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Man, 18, wanted in fatal stabbing at Boston\u2019s South Station arrested in Texas",
+          "url": "https://www.wcvb.com/article/stabbing-south-station-boston-arrest-texas-october-31/74302654",
+          "published_at": "2026-10-31T22:04:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "El-Sayed clashes with former primary rival who demanded his apology",
+      "score": 61,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 1,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "CBS News",
+        "The Boston Globe",
+        "The Guardian",
+        "The Hill",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-31T04:45:16Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "El-Sayed clashes with former primary rival who demanded his apology",
+          "url": "https://www.bostonglobe.com/2026/10/31/nation/el-sayed-clashes-with-former-primary-rival/",
+          "published_at": "2026-10-31T04:45:16Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Abdul El-Sayed disinvites former Democratic rival Haley Stevens from Michigan Senate rally, reports say \u2013 as it happened",
+          "url": "https://www.theguardian.com/us-news/live/2026/oct/31/doj-threats-election-workers-trump-tele-rallies",
+          "published_at": "2026-10-31T22:10:44Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "El-Sayed\u2019s Campaign Doesn\u2019t Want Haley Stevens at His Events",
+          "url": "https://www.nytimes.com/2026/10/31/us/elections/el-sayed-haley-stevens-democrats-tension.html",
+          "published_at": "2026-10-31T22:20:38Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Abdul El-Sayed\u2019s campaign disinvites Haley Stevens from events to limit \u2018distractions\u2019",
+          "url": "https://www.theguardian.com/us-news/2026/oct/31/abdul-el-sayed-haley-stevens-disinvited-from-events",
+          "published_at": "2026-10-31T23:58:44Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Advisor to Clyburn says El-Sayed can't disinvite Stevens from unity event",
+          "url": "https://thehill.com/homenews/campaign/6186552-clyburn-rally-el-sayed-stevens/",
+          "published_at": "2026-11-01T00:20:21Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "El-Sayed asks fellow Democrat Stevens not to attend final campaign events",
+          "url": "https://www.cbsnews.com/news/abdul-el-sayed-haley-stevens-feud-michigan-senate/",
+          "published_at": "2026-11-01T00:53:26Z"
+        }
+      ]
+    },
+    {
+      "headline": "Mamdani says Trump agrees to grant visa to mother of Ghanian teen killed in Bronx shooting",
+      "score": 60,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "Bloomberg",
+        "The Boston Globe",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-10-31T22:03:57Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Mamdani says Trump agrees to grant visa to mother of Ghanian teen killed in Bronx shooting",
+          "url": "https://www.bostonglobe.com/2026/10/31/nation/mamdani-trump-visa-mother-ghanian-teen/",
+          "published_at": "2026-10-31T22:03:57Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Mamdani Says Trump Agrees to Visa for Mother of Slain Bronx Teen",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-31/mamdani-says-trump-agrees-to-visa-for-mother-of-slain-bronx-teen",
+          "published_at": "2026-10-31T22:44:45Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Mamdani says Trump agrees to grant visa to mother of Ghanian teen killed in Bronx shooting",
+          "url": "https://www.wcvb.com/article/mamdani-trump-visa-teen-killed-in-bronx-shooting/74303890",
+          "published_at": "2026-11-01T00:55:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Blackhawks at Bruins preview: Boston looks to get back on track in return home",
+      "score": 51,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "boston",
+          "bruins"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-10-31T13:49:59Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Blackhawks at Bruins preview: Boston looks to get back on track in return home",
+          "url": "https://www.bostonglobe.com/2026/10/31/sports/bruins-blackhawks-preview-october-31/",
+          "published_at": "2026-10-31T13:49:59Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "David Pastrnak hits milestone, Bruins defeat Blackhawks at home",
+          "url": "https://www.masslive.com/bruins/2026/10/david-pastrnak-hits-milestone-bruins-defeat-blackhawks-at-home.html",
+          "published_at": "2026-10-31T22:27:41Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Bruins forced to rally vs. lowly Blackhawks, but get the win in overtime thanks to Elias Lindholm\u2019s goal",
+          "url": "https://www.bostonglobe.com/2026/10/31/sports/bruins-blackhawks-game-score/",
+          "published_at": "2026-10-31T23:13:09Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "David Pastrnak moves into third place on Bruins\u2019 all-time goals list",
+          "url": "https://www.bostonglobe.com/2026/10/31/sports/david-pastrnak-bruins-all-time-goals/",
+          "published_at": "2026-11-01T00:15:44Z"
+        }
+      ]
+    },
+    {
+      "headline": "Civilians from Russian-occupied Oleshky arrive in Belarus on their way to Ukraine",
+      "score": 49,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 1,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "CBS News",
+        "The Boston Globe",
+        "The Guardian",
+        "The Hill"
+      ],
+      "first_seen": "2026-10-31T11:47:06Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Civilians from Russian-occupied Oleshky arrive in Belarus on their way to Ukraine",
+          "url": "https://www.bostonglobe.com/2026/10/31/world/civilians-from-oleshky-arrive-in-belarus-on-way-to-ukraine/",
+          "published_at": "2026-10-31T11:47:06Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Evacuees from Russia-controlled Oleshky arrive back in Ukraine amid U.S.-brokered ceasefire",
+          "url": "https://thehill.com/policy/international/6186192-oleshky-residents-return-ukraine/",
+          "published_at": "2026-10-31T17:22:03Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Oleshky evacuees reunite with families after truce allows crossing back into Ukraine",
+          "url": "https://www.theguardian.com/world/2026/oct/31/oleshky-evacuees-reunite-with-families-after-truce-allows-crossing-into-ukraine",
+          "published_at": "2026-10-31T19:17:22Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Residents evacuated from Russia-occupied city back in Ukraine",
+          "url": "https://www.cbsnews.com/news/residents-evacuated-oleshky-arrive-ukraine-temporary-us-brokered-ceasefire/",
+          "published_at": "2026-11-01T01:05:02Z"
+        }
+      ]
+    },
+    {
+      "headline": "Westborough fought Amazon's drone delivery plan \u2014 and the community won",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-10-31T18:01:14Z",
+      "reports": [
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Westborough fought Amazon's drone delivery plan \u2014 and the community won",
+          "url": "https://www.masslive.com/business/2026/10/amazons-drone-delivery-dream-just-hit-a-wall-in-one-massachusetts-town-heres-what-happened.html",
+          "published_at": "2026-10-31T18:01:14Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Amazon halts plans for Westborough drone deliveries",
+          "url": "https://www.wcvb.com/article/amazon-drone-westborough-massachusetts-oct-31/74302149",
+          "published_at": "2026-10-31T22:11:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Federal judge bars DoJ from threatening election workers to stop processing ballots",
+      "score": 49,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 1,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "CBS News",
+        "NPR",
+        "The Guardian"
+      ],
+      "first_seen": "2026-10-31T18:48:41Z",
+      "reports": [
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Federal judge bars DoJ from threatening election workers to stop processing ballots",
+          "url": "https://www.theguardian.com/us-news/2026/oct/30/justice-department-election-workers-ballots",
+          "published_at": "2026-10-31T18:48:41Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge orders DOJ to stop trying to \"intimidate\" California election officials",
+          "url": "https://www.cbsnews.com/news/judge-orders-doj-stop-threaten-intimidate-california-election-officials/",
+          "published_at": "2026-10-31T19:48:38Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Election officials worry about DOJ monitoring of Tuesday's vote",
+          "url": "https://www.npr.org/2026/10/31/nx-s1-6019312/election-officials-worry-about-doj-monitoring-of-tuesdays-vote",
+          "published_at": "2026-10-31T21:14:31Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Election workers describe toll of DOJ threats in court filings",
+          "url": "https://abcnews.com/Politics/california-election-workers-describe-toll-doj-threats-court/story?id=137736879",
+          "published_at": "2026-10-31T22:43:20Z"
+        }
+      ]
+    },
+    {
+      "headline": "Charlestown High School faces possible closure",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "boston"
+        ]
+      },
+      "independent_outlets": [
+        "The Boston Globe",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-10-31T22:15:00Z",
+      "reports": [
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Charlestown High School faces possible closure",
+          "url": "https://www.wcvb.com/article/boston-public-schools-proposes-closing-charlestown-high-school/74302890",
+          "published_at": "2026-10-31T22:15:00Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "BPS proposes to close Charlestown High School, citing declining enrollment",
+          "url": "https://www.bostonglobe.com/2026/10/31/metro/boston-public-schools-charlestown-high/",
+          "published_at": "2026-10-31T22:28:36Z"
+        }
+      ]
+    },
+    {
+      "headline": "Boston College football\u2019s offense falls flat in loss to Duke",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "boston"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-10-31T22:51:04Z",
+      "reports": [
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Boston College football\u2019s offense falls flat in loss to Duke",
+          "url": "https://www.masslive.com/bcsports/2026/10/boston-college-offense-falls-flat-in-loss-to-duke.html",
+          "published_at": "2026-10-31T22:51:04Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Boston College takes a massive hit in ACC football status by getting run over on the road by Duke",
+          "url": "https://www.bostonglobe.com/2026/10/31/sports/boston-college-football-duke-game-score/",
+          "published_at": "2026-10-31T23:33:27Z"
+        }
+      ]
+    },
+    {
+      "headline": "Can I trust the polls? And other questions from listeners about the 2026 midterms",
+      "score": 45,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Bloomberg",
+        "NPR",
+        "PBS NewsHour"
+      ],
+      "first_seen": "2026-10-31T09:00:00Z",
+      "reports": [
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Can I trust the polls? And other questions from listeners about the 2026 midterms",
+          "url": "https://www.npr.org/2026/10/31/g-s1-149981/listener-questions-npr-midterms-2026-election",
+          "published_at": "2026-10-31T09:00:00Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Why Kalshi, Polymarket Odds Don't Mimic Midterm Elections 2026 Polls",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-31/why-kalshi-polymarket-odds-don-t-mimic-midterm-elections-2026-polls",
+          "published_at": "2026-10-31T15:00:12Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "When will we know 2026 midterm election results? It may take some time, but that's normal",
+          "url": "https://www.pbs.org/newshour/politics/when-will-we-know-2026-midterm-election-results-it-may-take-some-time-but-thats-normal",
+          "published_at": "2026-10-31T17:02:17Z"
+        }
+      ]
+    },
+    {
+      "headline": "Trump and GOP Close Midterms With Ugly Personal Attacks",
+      "score": 45,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "CBS News",
+        "The Boston Globe",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-31T09:05:21Z",
+      "reports": [
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump and GOP Close Midterms With Ugly Personal Attacks",
+          "url": "https://www.nytimes.com/2026/10/31/us/politics/trump-republicans-personal-attacks-midterms.html",
+          "published_at": "2026-10-31T09:05:21Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Led by Trump, Republicans close midterms with ugly personal attacks",
+          "url": "https://www.bostonglobe.com/2026/10/31/nation/republicans-midterms-personal-attacks/",
+          "published_at": "2026-10-31T19:31:56Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump rallies Republicans in Iowa and Kansas on last weekend before midterms",
+          "url": "https://www.cbsnews.com/video/trump-rallies-republicans-in-iowa-and-kansas-on-last-weekend-before-midterms/",
+          "published_at": "2026-11-01T00:48:15Z"
+        }
+      ]
+    },
+    {
+      "headline": "Evacuees fleeing Oleshky reunite with family at the Ukrainian-Belarusian border",
+      "score": 45,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 1,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "PBS NewsHour",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-31T14:47:05Z",
+      "reports": [
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Evacuees fleeing Oleshky reunite with family at the Ukrainian-Belarusian border",
+          "url": "https://www.pbs.org/newshour/world/residents-evacuated-from-russian-occupied-oleshky-reach-ukraine-after-localized-ceasefire",
+          "published_at": "2026-10-31T14:47:05Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-31T17:53:35Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+          "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-31T19:22:26Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "\u2018We Are Coming From Hell\u2019: A Ukrainian City\u2019s Evacuees Tell Survival Stories",
+          "url": "https://www.nytimes.com/2026/10/31/todayspaper/we-are-coming-from-hell-a-ukrainian-citys-evacuees-tell-survival-stories.html",
+          "published_at": "2026-10-31T21:43:34Z"
+        }
+      ]
+    },
+    {
+      "headline": "Congo\u2019s Ebola deaths top 5,000 as fear of continent-wide spread mounts",
+      "score": 44,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 1,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "PBS NewsHour",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-10-31T09:19:24Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Congo\u2019s Ebola deaths top 5,000 as fear of continent-wide spread mounts",
+          "url": "https://www.bostonglobe.com/2026/10/31/world/congos-ebola-deaths-top-5000/",
+          "published_at": "2026-10-31T09:19:24Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+          "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-31T15:16:20Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Congo's Ebola deaths top 5,000 as fear of continent-wide spread mounts",
+          "url": "https://www.pbs.org/newshour/world/congos-ebola-deaths-top-5000-as-fear-of-continent-wide-spread-mounts",
+          "published_at": "2026-10-31T15:25:17Z"
+        }
+      ]
+    },
+    {
+      "headline": "Other women contacted police about previous incidents with Packers\u2019 Josh Jacobs after his arrest",
+      "score": 38,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 1,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Fox News",
+        "The Boston Globe",
+        "The Guardian"
+      ],
+      "first_seen": "2026-10-31T06:08:25Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Other women contacted police about previous incidents with Packers\u2019 Josh Jacobs after his arrest",
+          "url": "https://www.bostonglobe.com/2026/10/31/nation/packers-josh-jacobs-other-women-contacted-police-after-arrest/",
+          "published_at": "2026-10-31T06:08:25Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Packers\u2019 Josh Jacobs faces fresh abuse allegations from three women in police records",
+          "url": "https://www.theguardian.com/sport/2026/oct/31/josh-jacobs-green-bay-packers-abuse-allegations-police-records",
+          "published_at": "2026-10-31T17:35:04Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "NFL to review additional abuse allegations against Packers star Josh Jacobs following May arrest",
+          "url": "https://www.foxnews.com/outkick-sports/nfl-review-additional-abuse-allegations-packers-star-josh-jacobs-following-may-arrest",
+          "published_at": "2026-10-31T19:51:42Z"
+        }
+      ]
+    },
+    {
+      "headline": "Chloe Scott, Kate Whitticom power Longmeadow girls volleyball to WMass Class A title",
+      "score": 36,
+      "signals": {
+        "us_outlets": 1,
+        "intl_outlets": 0,
+        "front_pages": 1,
+        "boston_local": [
+          "mass."
+        ]
+      },
+      "independent_outlets": [
+        "MassLive"
+      ],
+      "first_seen": "2026-10-31T17:47:39Z",
+      "reports": [
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Chloe Scott, Kate Whitticom power Longmeadow girls volleyball to WMass Class A title",
+          "url": "https://www.masslive.com/highschoolsports/2026/10/chloe-scott-kate-whitticom-power-longmeadow-girls-volleyball-to-wmass-class-a-title.html",
+          "published_at": "2026-10-31T17:47:39Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "East Longmeadow captures back-to-back Western Mass. volleyball titles after five-set battle",
+          "url": "https://www.masslive.com/highschoolsports/2026/10/east-longmeadow-volleyball-wins-second-straight-western-mass-class-b-title-in-five-set-thriller.html",
+          "published_at": "2026-10-31T19:38:49Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Roy siblings lead Belchertown to Western Mass. field hockey title",
+          "url": "https://www.masslive.com/highschoolsports/2026/10/roy-siblings-lead-belchertown-field-hockey-to-western-mass-class-b-title.html",
+          "published_at": "2026-10-31T21:06:29Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "PVCA downs Mt. Greylock, wins WMass Class C girls volleyball title",
+          "url": "https://www.masslive.com/highschoolsports/2026/10/pvca-downs-mount-greylock-wins-wmass-class-c-girls-volleyball-title.html",
+          "published_at": "2026-10-31T22:37:51Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Kelly Tousignant leads Renaissance girls volleyball to win in WMass Class D final",
+          "url": "https://www.masslive.com/highschoolsports/2026/10/kelly-tousignant-leads-renaissance-girls-volleyball-to-win-in-wmass-class-d-final.html",
+          "published_at": "2026-10-31T23:51:35Z"
+        }
+      ]
+    },
+    {
+      "headline": "Voters Usually Ignore Corruption as an Issue. It Now Has Their Attention.",
+      "score": 34,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "The Boston Globe",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-31T09:00:44Z",
+      "reports": [
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Voters Usually Ignore Corruption as an Issue. It Now Has Their Attention.",
+          "url": "https://www.nytimes.com/2026/10/31/us/politics/corruption-midterms.html",
+          "published_at": "2026-10-31T09:00:44Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "For some voters, issue \u2014 and definition \u2014 of corruption has grown in this election cycle",
+          "url": "https://www.bostonglobe.com/2026/10/31/nation/some-voters-issue-definition-corruption-has-grown-this-election-cycle/",
+          "published_at": "2026-10-31T19:38:21Z"
+        }
+      ]
+    },
+    {
+      "headline": "As Midterms Near, Top Law Firms That Capitulated to Trump Are on the Sidelines",
+      "score": 34,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "The Boston Globe",
+        "The New York Times"
+      ],
+      "first_seen": "2026-10-31T09:02:24Z",
+      "reports": [
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "As Midterms Near, Top Law Firms That Capitulated to Trump Are on the Sidelines",
+          "url": "https://www.nytimes.com/2026/10/31/us/politics/law-firms-trump-voting.html",
+          "published_at": "2026-10-31T09:02:24Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "As midterms near, top law firms that capitulated to Trump are on the sidelines",
+          "url": "https://www.bostonglobe.com/2026/10/31/nation/midterms-near-top-law-firms-that-capitulated-trump-are-sidelines/",
+          "published_at": "2026-10-31T18:28:25Z"
+        }
+      ]
+    }
+  ]
+}

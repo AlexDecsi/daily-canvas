@@ -1,0 +1,64 @@
+{
+  "date": "2026-10-31",
+  "mode": "live (scheduled run)",
+  "prepared_at": "2026-11-01T01:40:00Z",
+  "candidates_considered": 25,
+  "rationale": "The top-ranked cluster mixed two stories; 9 of its 10 reports were about Virginia and D.C. suing to block the planned 250-foot arch at Memorial Circle (NBC, AP via PBS/CBS, NYT, ABC, NPR, Axios, Globe, Guardian). That is the day's most widely led US national story with a clear, drawable subject, so it is the focal story. The Washington State ballot lawsuit (one NYT report in the cluster) and the dismissed Trump-WSJ suit are also significant, but the last two entries were both about ballots, and neither fits the same scene. The Fairfield Spirit Halloween shooting was serious but would require depicting violence, and the arch story led more outlets. Notre Dame-Navy at Gillette was the top Boston story but is less significant nationally. The arch is not built, so it is drawn only as a ghostly blueprint outline, not as a real structure.",
+  "stories": [
+    {
+      "role": "focal",
+      "name": "Virginia and D.C. sue to block Trump's planned arch",
+      "facts": [
+        "On Oct. 31, Virginia Attorney General Jay Jones and D.C. Attorney General Brian Schwalb sued in federal court to stop the planned arch, seeking a temporary restraining order. It is the third lawsuit against the project.",
+        "The arch would rise about 250 feet on a grassy site at Memorial Circle, off the bridge between Washington and Arlington National Cemetery. Plans describe a winged bronze Lady Liberty holding a torch with an eternal flame on top.",
+        "The states say about three years of construction would snarl traffic between D.C. and Virginia, add Potomac runoff and hinder emergency services; they also cite height, commemorative-works, environmental and historic-preservation laws.",
+        "The administration says construction could begin as early as next week, after a National Capital Planning Commission vote. The White House calls the arch a gateway to Arlington National Cemetery. Judge Tanya Chutkan has not yet ruled in the first lawsuit."
+      ],
+      "people": [
+        {
+          "name": "Jay Jones (Virginia attorney general)",
+          "public_figure": true,
+          "verified_action": "filed a federal lawsuit to block the arch; drawn only as a generic, unrecognizable figure in a suit holding a bound legal complaint, as a symbolic representation of the filing, not a likeness or a reported visit to the site"
+        },
+        {
+          "name": "Brian Schwalb (D.C. attorney general)",
+          "public_figure": true,
+          "verified_action": "filed a federal lawsuit to block the arch; drawn only as a generic, unrecognizable figure in a suit, as a symbolic representation of the filing, not a likeness or a reported visit to the site"
+        }
+      ],
+      "visual_notes": "The arch does not exist yet: show it only as a translucent cyan blueprint outline (dashed lines, grid) towering over the real Memorial Circle setting, with Arlington Memorial Bridge's low arches across the Potomac and the Lincoln Memorial and Washington Monument beyond. Two generic suited figures in the foreground hold up a thick bound complaint toward it. No text, no names, no protest signs, no construction equipment, no crowds; ordinary cars on the circle only as setting.",
+      "confidence": "high: AP (via PBS NewsHour and CBS) and NBC News's own reporting independently confirm the filing, the plaintiffs, the site, the 250-foot plan (AP) and the construction timeline.",
+      "sources": [
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "wire": "AP",
+          "title": "Virginia and D.C. sue over Trump's arch, adding to legal challenges as government wants work to begin",
+          "url": "https://www.pbs.org/newshour/politics/virginia-and-d-c-sue-over-trumps-arch-adding-to-legal-challenges-as-government-wants-work-to-begin",
+          "published_at": "2026-10-31T18:29:25Z",
+          "checked_at": "2026-11-01T01:30:00Z",
+          "checked": "full article"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "title": "Virginia and D.C. sue to stop proposed Trump arch",
+          "url": "https://www.nbcnews.com/politics/white-house/dc-virginia-lawsuit-stop-proposed-trump-arch-construction-rcna606705",
+          "published_at": "2026-10-31T17:03:15Z",
+          "checked_at": "2026-11-01T01:35:00Z",
+          "checked": "full article"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "wire": "AP",
+          "title": "Virginia and D.C. sue over Trump's planned arch",
+          "url": "https://www.cbsnews.com/news/trump-arch-lawsuits-virginia-dc-politics/",
+          "published_at": "2026-10-31T17:42:22Z",
+          "checked_at": "2026-11-01T01:31:00Z",
+          "checked": "full article (CBS/AP)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "date": "2026-10-31",
+  "runs": [
+    {
+      "started_at": "2026-11-01T01:23:36.394244Z",
+      "outcome": "published",
+      "steps": [
+        {
+          "at": "2026-11-01T01:23:36.394248Z",
+          "step": "prepare: lock acquired (live)"
+        },
+        {
+          "at": "2026-11-01T01:39:29.975712Z",
+          "step": "prepare: ran src/news/feeds.py"
+        },
+        {
+          "at": "2026-11-01T01:39:30.059606Z",
+          "step": "prepare: ran src/news/cluster.py"
+        },
+        {
+          "at": "2026-11-01T01:58:11.192615Z",
+          "step": "finalize: published to local site"
+        }
+      ],
+      "_new_run": true,
+      "mode": "live",
+      "prelaunch": false,
+      "finished_at": "2026-11-01T01:58:11.192477Z",
+      "link_checks": [
+        {
+          "url": "https://www.pbs.org/newshour/politics/virginia-and-d-c-sue-over-trumps-arch-adding-to-legal-challenges-as-government-wants-work-to-begin",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.nbcnews.com/politics/white-house/dc-virginia-lawsuit-stop-proposed-trump-arch-construction-rcna606705",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.cbsnews.com/news/trump-arch-lawsuits-virginia-dc-politics/",
+          "ok": true,
+          "note": "HTTP 200"
+        }
+      ],
+      "samples_removed": [],
+      "stories_shown": [
+        "Virginia and D.C. sue to block Trump's planned arch"
+      ],
+      "usage": {
+        "article_reads": 4,
+        "web_searches": 0,
+        "render_rounds": 3,
+        "minutes": 40
+      }
+    }
+  ]
+}
