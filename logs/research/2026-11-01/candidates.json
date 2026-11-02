@@ -1,0 +1,1846 @@
+{
+  "date": "2026-11-01",
+  "fetched_at": "2026-11-02T02:12:52.847734Z",
+  "items_considered": 486,
+  "candidates": [
+    {
+      "headline": "Former President Obama endorses Booker in Kentucky Senate race",
+      "score": 195,
+      "signals": {
+        "us_outlets": 11,
+        "intl_outlets": 2,
+        "front_pages": 9,
+        "boston_local": [
+          "maine"
+        ]
+      },
+      "independent_outlets": [
+        "ABC News",
+        "Axios",
+        "BBC News",
+        "CBS News",
+        "CNBC",
+        "Fox News",
+        "NBC News",
+        "NPR",
+        "The Boston Globe",
+        "The Guardian",
+        "The Hill",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-01T14:00:00Z",
+      "reports": [
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Former President Obama endorses Booker in Kentucky Senate race",
+          "url": "https://www.cbsnews.com/news/obama-charles-booker-kentucky-midterms/",
+          "published_at": "2026-11-01T14:00:00Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Rep. Haley Stevens endorses GOP candidate Mike Rogers in Michigan Senate race",
+          "url": "https://www.nbcnews.com/politics/2026-election/haley-stevens-endorses-gop-mike-rogers-michigan-senate-race-el-sayed-rcna606831",
+          "published_at": "2026-11-01T17:49:44Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge dismisses lawsuit seeking to block certification of Alaska Senate race if GOP incumbent loses",
+          "url": "https://www.bostonglobe.com/2026/11/01/nation/judge-dismisses-lawsuit-alaska-senate/",
+          "published_at": "2026-11-01T19:08:39Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge Rejects Trump Officials\u2019 Move to Challenge Alaska Senate Election",
+          "url": "https://www.nytimes.com/2026/11/01/us/alaska-senate-election-lawsuit.html",
+          "published_at": "2026-11-01T19:44:12Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Haley Stevens endorses GOP candidate in Michigan Senate race, spurning Abdul El-Sayed",
+          "url": "https://www.npr.org/2026/11/01/nx-s1-6020993/michigan-senate-race-abdul-el-sayed-haley-stevens-mike-rogers",
+          "published_at": "2026-11-01T19:49:15Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "RNC says 'Michigan should take notice' of Stevens endorsing Rogers",
+          "url": "https://thehill.com/homenews/campaign/6187095-rnc-rogers-receives-stevens-support/",
+          "published_at": "2026-11-01T20:00:39Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge dismisses Trump attempt to block Alaska Senate race results if Republican loses",
+          "url": "https://www.theguardian.com/us-news/2026/nov/01/alaska-senate-race-republican-dan-sullivan",
+          "published_at": "2026-11-01T20:10:27Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge dismisses lawsuit seeking to block certification of Alaska Senate race if GOP incumbent loses",
+          "url": "https://www.wcvb.com/article/judge-dismisses-alaska-senate-certification-lawsuit/74305576",
+          "published_at": "2026-11-01T20:17:00Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "In a stunning move, Democrat Stevens endorses Republican Rogers in Michigan Senate race",
+          "url": "https://www.bostonglobe.com/2026/11/01/nation/haley-stevens-abdul-el-sayed-michigan-senate/",
+          "published_at": "2026-11-01T20:25:46Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Democratic Rep. Stevens endorses Republican Rogers over rival El-Sayed in Michigan Senate election",
+          "url": "https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html",
+          "published_at": "2026-11-01T21:06:42Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "El-Sayed's primary opponent stuns Democrats by endorsing Republican opponent in Michigan Senate race",
+          "url": "https://www.wcvb.com/article/michigans-senate-race-haley-stevens-mike-rogers-el-sayed/74305377",
+          "published_at": "2026-11-01T21:32:00Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Roger Marshall Goes Rogue in Kansas Senate Race With a Video",
+          "url": "https://www.nytimes.com/2026/11/01/us/elections/roger-marshall-ad-kansas-senate-race.html",
+          "published_at": "2026-11-01T22:10:43Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "DOJ set to appeal ruling in Alaska Senate race dispute over \u2018Decoy Dan\u2019",
+          "url": "https://www.foxnews.com/politics/doj-set-appeal-ruling-alaska-senate-race-dispute-over-decoy-dan",
+          "published_at": "2026-11-01T22:16:21Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Haley Stevens Bashed Mike Rogers in Michigan Senate Race Until She Endorsed Him",
+          "url": "https://www.nytimes.com/2026/11/01/us/elections/haley-stevens-mike-rogers-endorse-michigan.html",
+          "published_at": "2026-11-01T22:35:48Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge dismisses Alaska Senate election lawsuit; DOJ vows appeal",
+          "url": "https://www.cnbc.com/2026/11/01/alaska-senate-doj-lawsuit-dismissed-sullivan-peltola.html",
+          "published_at": "2026-11-01T23:17:57Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Haley Stevens Abandons El-Sayed, Endorsing Mike Rogers in Michigan",
+          "url": "https://www.nytimes.com/2026/11/01/us/elections/stevens-rogers-el-sayed-michigan-senate.html",
+          "published_at": "2026-11-01T23:27:31Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Haley Stevens endorses Mike Rogers amid Michigan Democratic feud",
+          "url": "https://www.axios.com/2026/11/01/haley-stevens-mike-rogers-church-michigan-senate",
+          "published_at": "2026-11-01T23:29:34Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Midterm elections live updates: Judge dismisses DOJ Alaska election results suit",
+          "url": "https://abcnews.com/Politics/live-updates/midterm-elections-2026-1-week-high-stakes-elections/?id=137578278",
+          "published_at": "2026-11-01T23:44:48Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "New twist in critical Michigan Senate race",
+          "url": "https://www.nbcnews.com/nightly-news/video/new-twist-in-critical-michigan-senate-race-272667717513",
+          "published_at": "2026-11-01T23:50:46Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge dismisses Trump lawsuit in Alaska Senate race",
+          "url": "https://www.nbcnews.com/nightly-news/video/judge-dismisses-trump-lawsuit-in-alaska-senate-race-272667717592",
+          "published_at": "2026-11-01T23:52:39Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrat Haley Stevens endorses Abdul El-Sayed\u2019s Republican rival Mike Rogers",
+          "url": "https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate",
+          "published_at": "2026-11-02T00:12:17Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Democratic Rep. Stevens endorses GOP candidate Mike Rogers in Michigan US Senate race",
+          "url": "https://abcnews.com/Politics/democratic-rep-haley-stevens-endorses-gop-candidate-mike/story?id=137752255",
+          "published_at": "2026-11-02T00:40:50Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Abdul El-Sayed, Mike Rogers make final pitch to Michigan voters",
+          "url": "https://www.cbsnews.com/news/michigan-senate-race-candidates-abdul-el-sayed-mike-rogers-60-minutes/",
+          "published_at": "2026-11-02T00:45:00Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Michigan candidates Abdul El-Sayed and Mike Rogers: The 60 Minutes Interviews",
+          "url": "https://www.cbsnews.com/video/michican-senate-abdul-el-sayed-mike-rogers-60-minutes-video-2026-11-01/",
+          "published_at": "2026-11-02T00:45:00Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "60 Minutes Transcript: Candidates Abdul El-Sayed and Mike Rogers",
+          "url": "https://www.cbsnews.com/news/abdul-el-sayed-mike-rogers-michigan-senate-60-minutes-transcript/",
+          "published_at": "2026-11-02T00:45:12Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrats Show Strength in Final Days of Race for the Senate, New Polls Find",
+          "url": "https://www.nytimes.com/2026/11/01/us/politics/times-siena-poll-senate.html",
+          "published_at": "2026-11-02T00:53:08Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Fact-checking El-Sayed and Rogers on 60 Minutes",
+          "url": "https://www.cbsnews.com/news/fact-checking-el-sayed-rogers-60-minutes/",
+          "published_at": "2026-11-02T01:22:00Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrats Are Leading or Tied in Seven Battleground Governor\u2019s Races, Polls Find",
+          "url": "https://www.nytimes.com/2026/11/01/us/politics/times-siena-poll-governor.html",
+          "published_at": "2026-11-02T01:29:14Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+          "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-02T01:45:42Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrats blast Stevens over Michigan 'betrayal'",
+          "url": "https://thehill.com/homenews/campaign/6187640-democrats-blast-stevens-rogers-endorsement-michigan/",
+          "published_at": "2026-11-02T01:54:30Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Madness in Michigan after Democratic Rep. Haley Stevens endorses GOP candidate Mike Rogers",
+          "url": "https://www.cbsnews.com/video/fallout-of-michigan-democratic-rift/",
+          "published_at": "2026-11-02T01:55:22Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Stevens endorses Rogers amid rift with El-Sayed",
+          "url": "https://www.cbsnews.com/news/haley-stevens-mike-rogers-together-church-abdul-el-sayed-michigan-senate/",
+          "published_at": "2026-11-02T01:58:35Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "The Final Polls Show a Blue Surge. Can We Trust Them?",
+          "url": "https://www.nytimes.com/2026/11/01/upshot/poll-times-siena-senate-midterms.html",
+          "published_at": "2026-11-02T02:03:37Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Inside the Abdul El-Sayed-Haley Stevens Meltdown in Michigan",
+          "url": "https://www.nytimes.com/2026/11/01/us/politics/el-sayed-stevens-meltdown-michigan-democrats.html",
+          "published_at": "2026-11-02T02:07:46Z"
+        }
+      ]
+    },
+    {
+      "headline": "U.S. Senator Chris Murphy hospitalized after suffering a stroke",
+      "score": 186,
+      "signals": {
+        "us_outlets": 11,
+        "intl_outlets": 1,
+        "front_pages": 8,
+        "boston_local": [
+          "connecticut"
+        ]
+      },
+      "independent_outlets": [
+        "Axios",
+        "Bloomberg",
+        "CBS News",
+        "CNBC",
+        "MassLive",
+        "NBC Boston",
+        "NBC News",
+        "NPR",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The Guardian",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-01T12:47:12Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "U.S. Senator Chris Murphy hospitalized after suffering a stroke",
+          "url": "https://www.nbcboston.com/news/national-international/u-s-senator-chris-murphy-hospitalized-after-suffering-a-stroke/4041353/",
+          "published_at": "2026-11-01T12:47:12Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Sen. Chris Murphy hospitalized after stroke",
+          "url": "https://www.nbcnews.com/politics/congress/chris-murphy-hospitalized-stroke-recovery-rcna606834",
+          "published_at": "2026-11-01T18:01:47Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Senate Democrat Chris Murphy Hospitalized Due to a Stroke",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-01/senate-democrat-chris-murphy-hospitalized-due-to-a-stroke",
+          "published_at": "2026-11-01T18:18:26Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Sen. Chris Murphy hospitalized with stroke and expected to make full recovery, his team says",
+          "url": "https://www.wcvb.com/article/sen-chris-murphy-hospitalized-stroke/74305545",
+          "published_at": "2026-11-01T18:49:00Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Democratic Senator Chris Murphy of Connecticut had a stroke and is in the hospital, his office says",
+          "url": "https://www.bostonglobe.com/2026/11/01/nation/chris-murphy-stroke-democrat-senator-connecticut/",
+          "published_at": "2026-11-01T18:54:18Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Connecticut Senator Chris Murphy is hospitalized with a stroke",
+          "url": "https://www.npr.org/2026/11/01/nx-s1-6025467/chris-murphy-stroke",
+          "published_at": "2026-11-01T19:00:58Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Senator Chris Murphy Is \u2018Awake and Alert\u2019 After Suffering a Stroke",
+          "url": "https://www.nytimes.com/2026/11/01/us/politics/chris-murphy-stroke.html",
+          "published_at": "2026-11-01T19:02:09Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Connecticut Sen. Chris Murphy has stroke and is in the hospital, office says",
+          "url": "https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html",
+          "published_at": "2026-11-01T19:10:12Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Connecticut senator Chris Murphy hospitalized after stroke",
+          "url": "https://www.theguardian.com/us-news/2026/nov/01/chris-murphy-stroke-hospitalized",
+          "published_at": "2026-11-01T19:27:44Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Sen. Chris Murphy hospitalized following stroke",
+          "url": "https://www.cbsnews.com/news/chris-murphy-stroke-hospitalized/",
+          "published_at": "2026-11-01T19:27:52Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Connecticut Senator Chris Murphy hospitalized Sunday after suffering stroke",
+          "url": "https://www.masslive.com/politics/2026/11/connecticut-senator-chris-murphy-hospitalized-after-suffering-stroke-on-saturday.html",
+          "published_at": "2026-11-01T19:47:55Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Connecticut Sen. Chris Murphy is in the hospital after having a stroke, his office says",
+          "url": "https://www.pbs.org/newshour/politics/connecticut-sen-chris-murphy-is-in-the-hospital-after-having-a-stroke-his-office-says",
+          "published_at": "2026-11-01T21:20:25Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Sen. Chris Murphy hospitalized after suffering stroke",
+          "url": "https://www.axios.com/2026/11/01/chris-murphy-stroke-hospitalized",
+          "published_at": "2026-11-01T21:44:49Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Officials and colleagues offer well wishes after Conn. Senator Chris Murphy suffers stroke",
+          "url": "https://www.bostonglobe.com/2026/11/01/metro/senator-chris-murphy-receives-support-after-stroke/",
+          "published_at": "2026-11-01T23:09:17Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Connecticut Sen. Chris Murphy reportedly \"awake\" and recovering from stroke",
+          "url": "https://www.cbsnews.com/video/sen-chris-murphy-recovering-from-stroke/",
+          "published_at": "2026-11-02T02:03:26Z"
+        }
+      ]
+    },
+    {
+      "headline": "Private jet with 9 people on board crashes just miles from Mar-a-Lago",
+      "score": 118,
+      "signals": {
+        "us_outlets": 7,
+        "intl_outlets": 1,
+        "front_pages": 6,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "CBS News",
+        "CNBC",
+        "Fox News",
+        "NBC News",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The Guardian",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-01T19:31:26Z",
+      "reports": [
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Private jet with 9 people on board crashes just miles from Mar-a-Lago",
+          "url": "https://www.foxnews.com/us/private-jet-9-people-board-crashes-just-miles-from-mar-a-lago",
+          "published_at": "2026-11-01T19:31:26Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Jet crashes in Florida, killing all nine people on board",
+          "url": "https://www.nbcnews.com/news/us-news/jet-crashes-florida-nine-people-board-rcna606874",
+          "published_at": "2026-11-01T20:43:44Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "All nine people aboard business jet that crashed in Florida have died",
+          "url": "https://www.theguardian.com/us-news/2026/nov/01/business-jet-crash-florida",
+          "published_at": "2026-11-01T21:13:23Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "All 9 people aboard a jet that crashed in Florida have died, transportation secretary says",
+          "url": "https://www.pbs.org/newshour/nation/all-9-people-aboard-a-jet-that-crashed-in-florida-have-died-transportation-secretary-says",
+          "published_at": "2026-11-01T22:05:03Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "All 9 people aboard a jet that crashed in Florida have died, transportation secretary says",
+          "url": "https://www.boston.com/news/national-news/2026/11/01/all-9-people-aboard-a-jet-that-crashed-in-florida-have-died-transportation-secretary-says/",
+          "published_at": "2026-11-01T23:12:25Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "All 9 people aboard a jet that crashed in Florida have died, transportation secretary says",
+          "url": "https://www.bostonglobe.com/2026/11/01/nation/south-florida-plane-crash/",
+          "published_at": "2026-11-01T23:43:38Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "All 9 people aboard a jet that crashed near a busy roadway in South Florida have died",
+          "url": "https://www.wcvb.com/article/palm-beach-jet-crash/74305816",
+          "published_at": "2026-11-02T01:46:00Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Jet from Texas crashes near homes in Palm Beach, Florida, killing 9 on board",
+          "url": "https://www.cbsnews.com/news/texas-jet-florida-crash-11-1-2026/",
+          "published_at": "2026-11-02T01:54:19Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Jet nosedives and erupts into fireball near busy roadway in South Florida. All 9 on board died",
+          "url": "https://www.cnbc.com/2026/11/01/jet-nosedives-erupts-into-fireball-near-busy-roadway-in-south-florida.html",
+          "published_at": "2026-11-02T02:01:42Z"
+        }
+      ]
+    },
+    {
+      "headline": "4 dead, 15 injured in 3 Halloween night shootings in Dallas, Texas",
+      "score": 90,
+      "signals": {
+        "us_outlets": 6,
+        "intl_outlets": 0,
+        "front_pages": 4,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "CBS News",
+        "MassLive",
+        "NBC Boston",
+        "PBS NewsHour",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-01T08:20:04Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "4 dead, 15 injured in 3 Halloween night shootings in Dallas, Texas",
+          "url": "https://www.nbcboston.com/news/national-international/dallas-halloween-shootings-deep-ellum-fatal/4041334/",
+          "published_at": "2026-11-01T08:20:04Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Shooting after Alabama football game leaves 1 dead, 8 injured",
+          "url": "https://www.cbsnews.com/news/birmingham-alabama-football-game-shooting/",
+          "published_at": "2026-11-01T16:50:57Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "4 dead in 3 Halloween shootings in Dallas",
+          "url": "https://www.masslive.com/news/2026/11/4-dead-in-3-halloween-shootings-in-dallas-this-is-a-really-big-scene.html",
+          "published_at": "2026-11-01T17:19:29Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Dozens injured, at least 6 dead in Halloween weekend gun violence at nightlife districts across US",
+          "url": "https://www.wcvb.com/article/police-4-dead-15-injured-shootings-texas-halloween/74305168",
+          "published_at": "2026-11-01T17:40:00Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Shootings over Halloween weekend leave at least 6 dead and dozens injured across U.S.",
+          "url": "https://www.pbs.org/newshour/nation/dozens-injured-at-least-6-dead-in-halloween-weekend-gun-violence-at-nightlife-districts-across-u-s",
+          "published_at": "2026-11-01T17:49:59Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Halloween Shootings Leave at Least 24 Dead and 94 Wounded Nationwide",
+          "url": "https://www.nytimes.com/2026/11/01/us/halloween-shootings-deaths.html",
+          "published_at": "2026-11-01T23:01:34Z"
+        }
+      ]
+    },
+    {
+      "headline": "Watch: Heidi Klum as giant severed hand for Halloween bash",
+      "score": 76,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 1,
+        "front_pages": 4,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "BBC News",
+        "NBC Boston",
+        "The Boston Globe",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-01T05:26:02Z",
+      "reports": [
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Watch: Heidi Klum as giant severed hand for Halloween bash",
+          "url": "https://www.bbc.co.uk/news/videos/cj040yd1xdrlo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-01T05:26:02Z"
+        },
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Heidi Klum reveals Halloween costume as her iconic party marks 25 years",
+          "url": "https://www.nbcboston.com/entertainment/entertainment-news/heidi-klum-2026-halloween-costume/4041295/",
+          "published_at": "2026-11-01T06:54:56Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Heidi Klum reveals Halloween costume as her iconic party marks 25 years",
+          "url": "https://www.bostonglobe.com/2026/11/01/nation/heidi-klum-reveals-halloween-costume/",
+          "published_at": "2026-11-01T08:17:54Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Heidi Klum reveals Halloween costume as her iconic party marks 25 years",
+          "url": "https://www.wcvb.com/article/heidi-klum-hand-halloween-costume/74305723",
+          "published_at": "2026-11-01T19:45:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Barabak: This desert duel is a key test of Trump's effect on the midterm election",
+      "score": 74,
+      "signals": {
+        "us_outlets": 5,
+        "intl_outlets": 1,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Bloomberg",
+        "CBS News",
+        "Los Angeles Times",
+        "MassLive",
+        "The Guardian",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-01T11:00:00Z",
+      "reports": [
+        {
+          "publisher": "Los Angeles Times",
+          "group": "latimes",
+          "kind": "news",
+          "wire": false,
+          "title": "Barabak: This desert duel is a key test of Trump's effect on the midterm election",
+          "url": "https://www.latimes.com/politics/story/2026-11-01/midterm-election-trump-voters-arizona-congressional-battleground-tucson-ciscomani-mendoza",
+          "published_at": "2026-11-01T11:00:00Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "2026 Midterm Elections: What a Democratic Win Would Mean for Trump",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-01/2026-midterm-elections-what-a-democratic-win-would-mean-for-trump",
+          "published_at": "2026-11-01T13:30:00Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Midterm elections preview: How might this year's vote change Washington?",
+          "url": "https://www.cbsnews.com/video/midterm-elections-preview-how-might-this-years-vote-change-washington/",
+          "published_at": "2026-11-01T14:15:05Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Midterm elections preview: How might this year's vote change Washington?",
+          "url": "https://www.cbsnews.com/news/midterm-elections-preview-how-might-this-years-vote-change-washington/",
+          "published_at": "2026-11-01T14:15:48Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump Says He May Be \u2018Mr. Veto\u2019 If Democrats Win Midterms",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-01/trump-says-he-may-become-mr-veto-if-democrats-take-majority",
+          "published_at": "2026-11-01T15:24:44Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Will Trump\u2019s party lose the midterm elections? Here\u2019s what history tells us.",
+          "url": "https://www.masslive.com/politics/2026/11/will-trumps-party-lose-the-midterm-elections-heres-what-history-tells-us.html",
+          "published_at": "2026-11-01T16:00:00Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "The Guardian view on the US midterms and election interference: Trump\u2019s attempted heist is already under way | Editorial",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/01/the-guardian-view-on-the-us-midterms-and-election-interference-trumps-attempted-heist-is-already-under-way",
+          "published_at": "2026-11-01T17:30:17Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Three key takeaways from early voting in midterm elections",
+          "url": "https://www.theguardian.com/us-news/2026/nov/01/key-takeaways-midterm-elections-early-voting",
+          "published_at": "2026-11-01T18:19:54Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "The key governor races to watch in the 2026 midterm election",
+          "url": "https://www.wcvb.com/article/governors-races-to-watch-midterm-election/74265602",
+          "published_at": "2026-11-02T01:43:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Sen. Tim Scott dodges on whether he would accept the results of the Alaska Senate race",
+      "score": 74,
+      "signals": {
+        "us_outlets": 5,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Bloomberg",
+        "NBC News",
+        "NPR",
+        "PBS NewsHour",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-01T15:19:27Z",
+      "reports": [
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Sen. Tim Scott dodges on whether he would accept the results of the Alaska Senate race",
+          "url": "https://www.nbcnews.com/politics/2026-election/tim-scott-dodges-accept-election-results-alaska-senate-race-sullivan-rcna606813",
+          "published_at": "2026-11-01T15:19:27Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge dismisses lawsuit seeking to block certification of Alaska Senate race if GOP incumbent loses",
+          "url": "https://www.pbs.org/newshour/politics/sullivan-claims-peltola-is-still-lying-about-campaigns-involvement-in-alaska-ballot-controversy",
+          "published_at": "2026-11-01T16:40:55Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "DOJ Lawsuit to Probe Alaska Senate Vote Thrown Out by Judge",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-01/gop-s-sullivan-says-he-d-accept-alaska-senate-result-if-he-loses",
+          "published_at": "2026-11-01T17:54:17Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge tosses Trump's attempt to block Alaska Senate results if GOP incumbent loses",
+          "url": "https://www.npr.org/2026/11/01/nx-s1-6023766/doj-alaska-lawsuit-senate-race-dan-sullivan",
+          "published_at": "2026-11-01T18:00:37Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Federal judge dismisses Trump attempt to interfere in Alaska Senate race",
+          "url": "https://www.nbcnews.com/politics/2026-election/federal-judge-dismisses-trump-attempt-ballots-alaska-senate-race-rcna606838",
+          "published_at": "2026-11-01T19:03:25Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Alaska\u2019s Republican senator says he\u2019ll accept the race result, even as he says it could be \u2018stolen.\u2019",
+          "url": "https://www.nytimes.com/live/2026/11/01/us/midterms-elections-trump/dan-sullivan-accept-election-results-alaska-peltola",
+          "published_at": "2026-11-01T19:54:47Z"
+        }
+      ]
+    },
+    {
+      "headline": "Rewind: Second-half turnaround leads Patriots over Dolphins",
+      "score": 71,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": [
+          "new england",
+          "patriots"
+        ]
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "MassLive",
+        "The Boston Globe",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-01T19:27:26Z",
+      "reports": [
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Rewind: Second-half turnaround leads Patriots over Dolphins",
+          "url": "https://www.masslive.com/patriots/2026/11/live-coverage-patriots-take-on-dolphins-without-aj-brown.html",
+          "published_at": "2026-11-01T19:27:26Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "5 Patriots takeaways as Drake Maye pulls off second-half comeback",
+          "url": "https://www.masslive.com/patriots/2026/11/5-patriots-takeaways-as-drake-maye-pulls-off-second-half-comeback-in-win-over-dolphins.html",
+          "published_at": "2026-11-02T00:29:13Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Drake Maye playing short-handed, lifts Patriots over Dolphins",
+          "url": "https://www.masslive.com/patriots/2026/11/drake-maye-minus-his-four-top-receiving-targets-shines-in-win-over-miami.html",
+          "published_at": "2026-11-02T00:31:03Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Maye has 3 touchdowns as Patriots rally to beat Dolphins 24-19",
+          "url": "https://www.wcvb.com/article/patriots-dolphins-nov-1-2026/74306556",
+          "published_at": "2026-11-02T00:46:00Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "10 takeaways from the Patriots\u2019 comeback win over the Dolphins",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/11/01/patriots-dolphins-takeaways-score-update-drake-maye-miami-rain-nfl/",
+          "published_at": "2026-11-02T01:05:06Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Patriots postgame: Drake Maye has big second half in Week 8 win vs. Dolphins",
+          "url": "https://www.masslive.com/patriots/2026/11/patriots-postgame-drake-maye-has-big-second-half-in-week-8-win-vs-dolphins.html",
+          "published_at": "2026-11-02T01:41:01Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Drake Maye praised highly by Mike Vrabel after big second half in Patriots' win",
+          "url": "https://www.masslive.com/patriots/2026/11/mike-vrabel-sings-drake-mayes-praises-after-patriots-win-vs-dolphins.html",
+          "published_at": "2026-11-02T01:47:42Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Patriots 24, Dolphins 19: New England finds its footing in second half for rainy bounce-back win",
+          "url": "https://www.bostonglobe.com/2026/11/01/sports/patriots-dolphins-live-score-news-updates/",
+          "published_at": "2026-11-02T01:49:31Z"
+        }
+      ]
+    },
+    {
+      "headline": "Laxative given out to trick-or-treaters in Millis, police warn",
+      "score": 67,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": [
+          "mass.",
+          "massachusetts"
+        ]
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "NBC Boston",
+        "The Boston Globe",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-01T10:08:51Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Laxative given out to trick-or-treaters in Millis, police warn",
+          "url": "https://www.nbcboston.com/news/local/millis-trick-or-treat-safety-candy-laxative/4041311/",
+          "published_at": "2026-11-01T10:08:51Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Millis police investigating after laxatives were given out to Halloween trick-or-treaters",
+          "url": "https://www.bostonglobe.com/2026/11/01/metro/laxative-halloween-candy-millis/",
+          "published_at": "2026-11-01T21:18:16Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Mass. resident accidentally gave out laxatives during trick-or-treat, police say",
+          "url": "https://www.boston.com/news/local-news/2026/11/01/mass-resident-accidentally-gave-out-laxatives-during-trick-or-treat-police-say/",
+          "published_at": "2026-11-01T22:10:43Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Police: Check your child's candy bags, laxatives found on Halloween",
+          "url": "https://www.wcvb.com/article/police-check-your-childs-candy-bags/74304004",
+          "published_at": "2026-11-02T00:33:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Brigham and Women's nurses issue new strike notice after latest offer falls flat",
+      "score": 67,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": [
+          "boston",
+          "massachusetts"
+        ]
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "NBC Boston",
+        "The Boston Globe",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-01T11:08:52Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Brigham and Women's nurses issue new strike notice after latest offer falls flat",
+          "url": "https://www.nbcboston.com/news/local/brigham-and-womens-nurses-strike-negotiations/4041326/",
+          "published_at": "2026-11-01T11:08:52Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Brigham nurses plan to strike Nov. 12 as ongoing contract fight heats up again",
+          "url": "https://www.bostonglobe.com/2026/11/01/metro/brigham-nurses-strike-contract-mgb/",
+          "published_at": "2026-11-01T23:04:41Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Brigham and Women\u2019s Hospital nurses set date for open-ended strike",
+          "url": "https://www.wcvb.com/article/brigham-and-womens-hospital-nurses-set-date-for-open-ended-strike-nov-12/74305296",
+          "published_at": "2026-11-02T00:07:00Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Brigham nurses once again schedule indefinite strike for Nov. 12",
+          "url": "https://www.boston.com/news/local-news/2026/11/01/brigham-womens-nurses-strike/",
+          "published_at": "2026-11-02T00:15:49Z"
+        }
+      ]
+    },
+    {
+      "headline": "Kimi Antonelli becomes youngest Formula 1 champion ever at 20 years old",
+      "score": 66,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 1,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ESPN",
+        "NBC News",
+        "The Boston Globe",
+        "The Guardian",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-01T22:25:42Z",
+      "reports": [
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Kimi Antonelli becomes youngest Formula 1 champion ever at 20 years old",
+          "url": "https://www.nbcnews.com/sports/formula-1/kimi-antonelli-becomes-youngest-formula-1-champion-ever-20-years-old-rcna606726",
+          "published_at": "2026-11-01T22:25:42Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Mexican Formula One Grand Prix: Antonelli becomes youngest F1 champion as Verstappen wins \u2013 as it happened",
+          "url": "https://www.theguardian.com/sport/live/2026/nov/01/mexican-formula-one-grand-prix-kimi-antonelli-aims-to-seal-title-live",
+          "published_at": "2026-11-01T22:43:42Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Kimi Antonelli becomes youngest Formula 1 champion in history",
+          "url": "https://www.wcvb.com/article/kimi-antonelli-youngest-formula-1-champion-in-history/74157261",
+          "published_at": "2026-11-01T22:45:00Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Mercedes driver Kimi Antonelli becomes youngest champion in Formula 1 history at age 20",
+          "url": "https://www.bostonglobe.com/2026/11/01/sports/kimi-antonelli-formula-1-mercedes/",
+          "published_at": "2026-11-01T23:51:26Z"
+        },
+        {
+          "publisher": "ESPN",
+          "group": "espn",
+          "kind": "news",
+          "wire": false,
+          "title": "Antonelli crowned F1's youngest-ever world champion",
+          "url": "https://www.espn.com/f1/story/_/id/50250037/kimi-antonelli-youngest-f1-world-champion-2026-mexico-city-grand-prix",
+          "published_at": "2026-11-02T01:36:48Z"
+        }
+      ]
+    },
+    {
+      "headline": "El-Sayed's primary opponent stuns Democrats by endorsing Republican opponent in Michigan Senate race",
+      "score": 60,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 1,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "CBS News",
+        "PBS NewsHour",
+        "Politico",
+        "The Guardian",
+        "The Hill"
+      ],
+      "first_seen": "2026-11-01T17:37:32Z",
+      "reports": [
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "El-Sayed's primary opponent stuns Democrats by endorsing Republican opponent in Michigan Senate race",
+          "url": "https://www.pbs.org/newshour/politics/democrat-haley-stevens-endorses-gops-mike-rogers-in-michigan-senate-race-2-days-before-election",
+          "published_at": "2026-11-01T17:37:32Z"
+        },
+        {
+          "publisher": "Politico",
+          "group": "politico",
+          "kind": "news",
+          "wire": false,
+          "title": "Democratic Rep. Haley Stevens endorses Republican Mike Rogers for Michigan Senate",
+          "url": "https://www.politico.com/news/2026/11/01/haley-stevens-endorses-mike-rogers-michigan-senate-01144698",
+          "published_at": "2026-11-01T17:44:25Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump says he would \u2018love to have\u2019 Haley Stevens join Republican Party",
+          "url": "https://thehill.com/homenews/administration/6187354-trump-haley-stevens-join-republican-party/",
+          "published_at": "2026-11-01T22:37:36Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump praises Haley Stevens while rallying in Iowa in final push before election day \u2013 follow live",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/01/trump-midterm-rallies-iowa-kansas",
+          "published_at": "2026-11-02T01:59:08Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump makes final campaign push in Iowa and Kansas as Republicans try to hang on to majority",
+          "url": "https://www.cbsnews.com/video/trump-final-campaign-push-in-iowa-kansas/",
+          "published_at": "2026-11-02T01:59:17Z"
+        }
+      ]
+    },
+    {
+      "headline": "Sweden\u2019s Andreas Almgren, Kenya\u2019s Sheila Chepkirui claim New York City marathon titles",
+      "score": 52,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "NPR",
+        "The Boston Globe",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-01T17:23:01Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Sweden\u2019s Andreas Almgren, Kenya\u2019s Sheila Chepkirui claim New York City marathon titles",
+          "url": "https://www.bostonglobe.com/2026/11/01/sports/new-york-city-marathon-winners-results/",
+          "published_at": "2026-11-01T17:23:01Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "New York City Marathon: Sweden's Almgren and Kenya's Chepkirui win as 60,000 take part",
+          "url": "https://www.npr.org/2026/11/01/nx-s1-6025437/new-york-marathon-almgren-chepkirui-win",
+          "published_at": "2026-11-01T17:33:21Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Stylish Looks From the New York City Marathon",
+          "url": "https://www.nytimes.com/2026/11/01/style/nyc-marathon-fashion-outfits.html",
+          "published_at": "2026-11-01T21:29:29Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "The New York City Marathon in Photos and Videos",
+          "url": "https://www.nytimes.com/2026/11/01/nyregion/the-new-york-city-marathon-in-photos-and-videos.html",
+          "published_at": "2026-11-02T00:26:27Z"
+        }
+      ]
+    },
+    {
+      "headline": "List of top 100 NBA players \u2014 including the Celtics\u2019 Jayson Tatum at No. 9 \u2014 deserves dissection",
+      "score": 51,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "boston",
+          "celtics"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-01T08:00:00Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "List of top 100 NBA players \u2014 including the Celtics\u2019 Jayson Tatum at No. 9 \u2014 deserves dissection",
+          "url": "https://www.bostonglobe.com/2026/11/01/sports/bob-ryan-nba-top-current-players/",
+          "published_at": "2026-11-01T08:00:00Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Jayson Tatum is Celtics\u2019 Name to Know Player of the Game in win over Magic",
+          "url": "https://www.masslive.com/celtics/2026/11/jayson-tatum-is-celtics-name-to-know-player-of-the-game-in-win-over-magic.html",
+          "published_at": "2026-11-01T23:17:27Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Stingy defense, Jayson Tatum\u2019s 32 points help Celtics put away Magic for fifth straight win",
+          "url": "https://www.bostonglobe.com/2026/11/01/sports/celtics-magic/",
+          "published_at": "2026-11-01T23:56:07Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "From Paul George to new lineup: What we learned from Celtics\u2019 win over Magic",
+          "url": "https://www.masslive.com/celtics/2026/11/from-paul-george-to-new-lineup-what-we-learned-from-celtics-win-over-magic.html",
+          "published_at": "2026-11-02T00:17:08Z"
+        }
+      ]
+    },
+    {
+      "headline": "Martha Stewart responds to backlash over \u2018hungry\u2019 homeless Halloween costume",
+      "score": 51,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Fox News",
+        "MassLive",
+        "NBC News"
+      ],
+      "first_seen": "2026-11-01T19:00:40Z",
+      "reports": [
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Martha Stewart responds to backlash over \u2018hungry\u2019 homeless Halloween costume",
+          "url": "https://www.nbcnews.com/news/us-news/martha-stewart-backlash-homeless-halloween-costume-rcna606837",
+          "published_at": "2026-11-01T19:00:40Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Martha Stewart reacts to backlash over Halloween costume",
+          "url": "https://www.masslive.com/entertainment/2026/11/martha-stewart-reacts-to-backlash-over-halloween-costume-intended-to-bring-more-awareness.html",
+          "published_at": "2026-11-01T20:24:29Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Martha Stewart addresses backlash after dressing as homeless person for Halloween",
+          "url": "https://www.foxnews.com/entertainment/martha-stewart-addresses-backlash-after-dressing-homeless-person-halloween",
+          "published_at": "2026-11-01T21:46:28Z"
+        }
+      ]
+    },
+    {
+      "headline": "Mexico comes alive during annual Day of the Dead celebrations",
+      "score": 50,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "boston"
+        ]
+      },
+      "independent_outlets": [
+        "The Boston Globe",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-01T07:30:06Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Mexico comes alive during annual Day of the Dead celebrations",
+          "url": "https://www.bostonglobe.com/2026/11/01/world/day-of-the-dead-mexico-celebrates/",
+          "published_at": "2026-11-01T07:30:06Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Mexico comes alive during annual Day of the Dead celebrations",
+          "url": "https://www.wcvb.com/article/day-of-the-dead-celebrations-in-mexico/74305790",
+          "published_at": "2026-11-01T21:18:00Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "East Boston comes alive in annual Day of the Dead celebrations",
+          "url": "https://www.bostonglobe.com/2026/11/01/metro/east-boston-day-of-the-dead-celebrations/",
+          "published_at": "2026-11-01T21:19:42Z"
+        }
+      ]
+    },
+    {
+      "headline": "12 displaced after fire in Jamaica Plain",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "boston"
+        ]
+      },
+      "independent_outlets": [
+        "NBC Boston",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-01T08:03:11Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "12 displaced after fire in Jamaica Plain",
+          "url": "https://www.nbcboston.com/news/local/12-displaced-after-fire-in-jamaica-plain/4041298/",
+          "published_at": "2026-11-01T08:03:11Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Fire displaces more than a dozen residents at Jamaica Plain apartment building",
+          "url": "https://www.bostonglobe.com/2026/11/01/metro/jamaica-plain-apartment-building-fire/",
+          "published_at": "2026-11-01T22:49:08Z"
+        }
+      ]
+    },
+    {
+      "headline": "Red Sox pick up team option on Garrett Whitlock to bring righthander back for 2027",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "red sox"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-01T19:15:24Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Red Sox pick up team option on Garrett Whitlock to bring righthander back for 2027",
+          "url": "https://www.bostonglobe.com/2026/11/01/sports/red-sox-garrett-whitlock-team-option-2027/",
+          "published_at": "2026-11-01T19:15:24Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Garrett Whitlock's $8.25M option an easy call for Red Sox",
+          "url": "https://www.masslive.com/redsox/2026/11/red-sox-make-easy-825-million-call-on-key-reliever-bring-him-back-for-2027.html",
+          "published_at": "2026-11-01T20:46:04Z"
+        }
+      ]
+    },
+    {
+      "headline": "MIAA football playoffs: Seeds and brackets for Divisions 1-8",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-01T19:57:11Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "MIAA football playoffs: Seeds and brackets for Divisions 1-8",
+          "url": "https://www.bostonglobe.com/2026/11/01/sports/miaa-football-playoffs/",
+          "published_at": "2026-11-01T19:57:11Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "MIAA football playoffs: Brackets, seeds for all 8 divisions",
+          "url": "https://www.masslive.com/highschoolsports/2026/11/miaa-football-playoffs-brackets-seeds-for-all-8-divisions.html",
+          "published_at": "2026-11-01T21:44:17Z"
+        }
+      ]
+    },
+    {
+      "headline": "Patriots offense gets thinner with Hunter Henry injury",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "patriots"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-02T00:05:57Z",
+      "reports": [
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Patriots offense gets thinner with Hunter Henry injury",
+          "url": "https://www.masslive.com/patriots/2026/11/patriots-offense-gets-thinner-with-hunter-henry-injury.html",
+          "published_at": "2026-11-02T00:05:57Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Tight end Hunter Henry goes down in first half with a foot injury against Dolphins",
+          "url": "https://www.bostonglobe.com/2026/11/01/sports/patriots-dolphins-notebook-nfl-football/",
+          "published_at": "2026-11-02T00:57:52Z"
+        }
+      ]
+    },
+    {
+      "headline": "University of Cambridge scientist among those who died in Spanish train crash",
+      "score": 47,
+      "signals": {
+        "us_outlets": 1,
+        "intl_outlets": 2,
+        "front_pages": 2,
+        "boston_local": [
+          "cambridge"
+        ]
+      },
+      "independent_outlets": [
+        "BBC News",
+        "CBS News",
+        "The Guardian"
+      ],
+      "first_seen": "2026-11-01T17:05:18Z",
+      "reports": [
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "University of Cambridge scientist among those who died in Spanish train crash",
+          "url": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-01T17:05:18Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Tributes paid to \u2018inspiring\u2019 Cambridge scientist who died in Spain train crash",
+          "url": "https://www.theguardian.com/world/2026/nov/01/tributes-marta-shahbazi-university-of-cambridge-scientist-spanish-train-crash",
+          "published_at": "2026-11-01T19:36:46Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "4 Americans among dozens killed in train crash in Spain, officials say",
+          "url": "https://www.cbsnews.com/news/americans-urda-spain-train-crash/",
+          "published_at": "2026-11-02T00:58:27Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Spain train crash: US, Japan and Canada citizens among dead, authorities say",
+          "url": "https://www.theguardian.com/world/2026/nov/02/spain-train-crash-us-citizens-japan-canada-dead",
+          "published_at": "2026-11-02T01:06:13Z"
+        }
+      ]
+    },
+    {
+      "headline": "Filmmaker Michael Mann suffers \"superficial injury\" at gun range",
+      "score": 45,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "CBS News",
+        "MassLive",
+        "NBC News"
+      ],
+      "first_seen": "2026-11-01T17:26:24Z",
+      "reports": [
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Filmmaker Michael Mann suffers \"superficial injury\" at gun range",
+          "url": "https://www.cbsnews.com/news/filmmaker-michael-mann-superficial-injury-gun-range/",
+          "published_at": "2026-11-01T17:26:24Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "\u2018Heat\u2019 director Michael Mann injured in accidental weapon discharge at L.A. gun range",
+          "url": "https://www.nbcnews.com/news/us-news/michael-mann-injury-shooting-gun-range-rcna606851",
+          "published_at": "2026-11-01T19:15:52Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Legendary director accidentally shoots himself at LA gun range",
+          "url": "https://www.masslive.com/entertainment/2026/11/legendary-director-accidentally-shoots-himself-at-la-gun-range.html",
+          "published_at": "2026-11-01T20:14:37Z"
+        }
+      ]
+    },
+    {
+      "headline": "Binance resumes customer withdrawals after record $6.3bn hack",
+      "score": 42,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 2,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "CNBC",
+        "PBS NewsHour",
+        "The Guardian"
+      ],
+      "first_seen": "2026-11-01T11:54:23Z",
+      "reports": [
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Binance resumes customer withdrawals after record $6.3bn hack",
+          "url": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency",
+          "published_at": "2026-11-01T11:54:23Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+          "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-01T13:11:37Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "FBI says North Korea was behind $6.3 billion Binance heist, the biggest crypto hack in history",
+          "url": "https://www.pbs.org/newshour/world/fbi-says-north-korea-was-behind-6-3-billion-binance-heist-the-biggest-crypto-hack-in-history",
+          "published_at": "2026-11-01T16:20:20Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Binance sees $3.64 billion in net outflows as withdrawals resume after massive hack",
+          "url": "https://www.cnbc.com/2026/11/02/binance-outflow-hack-bitcoin.html",
+          "published_at": "2026-11-02T00:11:37Z"
+        }
+      ]
+    },
+    {
+      "headline": "Iran\u2019s Long Game Complicates Trump\u2019s War Plans",
+      "score": 39,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 1,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Axios",
+        "Bloomberg",
+        "CBS News"
+      ],
+      "first_seen": "2026-11-01T14:15:17Z",
+      "reports": [
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Iran\u2019s Long Game Complicates Trump\u2019s War Plans",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-01/iran-s-long-game-complicates-trump-s-war-plans-video",
+          "published_at": "2026-11-01T14:15:17Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump has frank call with Netanyahu about next move in Iran war",
+          "url": "https://www.axios.com/2026/11/01/trump-netanyahu-iran-negotiations-war",
+          "published_at": "2026-11-01T18:00:05Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump says Iran war will be put away very soon: \"One way or the other\"",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/",
+          "published_at": "2026-11-02T00:05:59Z"
+        }
+      ]
+    },
+    {
+      "headline": "NYC Marathon celebrates 50th year of 5-borough race",
+      "score": 34,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "CBS News"
+      ],
+      "first_seen": "2026-11-01T16:22:00Z",
+      "reports": [
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "NYC Marathon celebrates 50th year of 5-borough race",
+          "url": "https://www.cbsnews.com/news/nyc-marathon-2026-runners-winners/",
+          "published_at": "2026-11-01T16:22:00Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "WATCH: Runner looks forward to his 50th straight NYC marathon",
+          "url": "https://abcnews.com/video/137720336/",
+          "published_at": "2026-11-02T00:39:33Z"
+        }
+      ]
+    }
+  ]
+}

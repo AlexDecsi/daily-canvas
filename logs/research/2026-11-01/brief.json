@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-01",
+  "mode": "live (scheduled run)",
+  "prepared_at": "2026-11-02T02:25:00Z",
+  "candidates_considered": 25,
+  "rationale": "The top-ranked cluster merged several separate midterm stories (Obama endorsing Charles Booker in Kentucky, Rep. Haley Stevens endorsing Republican Mike Rogers in Michigan, a judge dismissing the Alaska Senate certification suit). None dominates alone, and two of the last three entries were already about the midterms. Sen. Chris Murphy's stroke was widely covered, but it is a private medical event whose only honest picture would be a hospital exterior, and his office says he is expected to recover. The Learjet crash in Palm Beach County, which killed all nine aboard and forced about 600 nearby residents to evacuate, led front pages across seven US outlets, is confirmed independently by AP and NBC News, and has a concrete, drawable setting. It is the focal story. Supporting stories were left out to keep one clear scene.",
+  "stories": [
+    {
+      "role": "focal",
+      "name": "Jet crashes on a Palm Beach County road, killing all nine aboard",
+      "facts": [
+        "A Learjet 60 bound from Austin, Texas, to the Bahamas crashed around 12:50 p.m. on Nov. 1 near a residential area of Palm Beach County, Florida, coming down nose-first on Military Trail and leaving a burning crater in the road.",
+        "Transportation Secretary Sean Duffy said all nine people aboard were killed; their identities had not been released. Gov. Ron DeSantis said there were no immediate reports of anyone hurt on the ground.",
+        "Witnesses told AP the jet landed feet from homes and close to passing vehicles. Thick black smoke covered the site; the road was closed in both directions.",
+        "Authorities evacuated about 600 residents of a nearby mobile home community. Rain was falling and a flood watch was in effect.",
+        "The NTSB is investigating with FAA support. Air traffic audio shows the crew reported icing and turbulence and asked to climb before a steep dive and a mayday; no cause has been determined."
+      ],
+      "people": [],
+      "visual_notes": "Rainy midday on a wide suburban Florida road: a crater in the pavement with flames and a tall black smoke column rising into storm clouds; scattered pavement chunks; low houses and palms nearby, untouched; ordinary cars stopped well back. Generic firefighters spray water from a red engine; a generic deputy's patrol car with lights blocks the road; generic residents walk away from a mobile home park under umbrellas. No aircraft, wreckage close-up, victims, bodies, names, logos or text. No depiction of the plane in flight or of any cause.",
+      "confidence": "high: AP (via PBS NewsHour) and NBC News's own reporting independently confirm the aircraft, route, time, location on Military Trail, nine deaths, no ground injuries, the evacuation and the investigation.",
+      "sources": [
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "wire": "AP",
+          "title": "All 9 people aboard a jet that crashed in Florida have died, transportation secretary says",
+          "url": "https://www.pbs.org/newshour/nation/all-9-people-aboard-a-jet-that-crashed-in-florida-have-died-transportation-secretary-says",
+          "published_at": "2026-11-01T22:05:03Z",
+          "checked_at": "2026-11-02T02:18:00Z",
+          "checked": "full article"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "title": "Jet crashes in Florida, killing all nine people on board",
+          "url": "https://www.nbcnews.com/news/us-news/jet-crashes-florida-nine-people-board-rcna606874",
+          "published_at": "2026-11-01T20:43:44Z",
+          "checked_at": "2026-11-02T02:19:00Z",
+          "checked": "full article"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "wire": "AP",
+          "title": "All 9 people aboard a jet that crashed in Florida have died, transportation secretary says",
+          "url": "https://www.bostonglobe.com/2026/11/01/nation/south-florida-plane-crash/",
+          "published_at": "2026-11-01T23:43:38Z",
+          "checked": "headline only (AP copy)"
+        }
+      ]
+    }
+  ]
+}

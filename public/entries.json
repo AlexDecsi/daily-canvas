@@ -1,6 +1,58 @@
 {
   "entries": [
     {
+      "date": "2026-11-01",
+      "published_at": "2026-11-02T02:16:27.682143Z",
+      "status": "published",
+      "prelaunch": false,
+      "title": "Jet crashes on a Palm Beach County road, killing all nine aboard",
+      "caption": "A Learjet flying from Austin to the Bahamas crashed nose-first onto Military Trail in Palm Beach County, Florida, on Nov. 1, killing all nine people aboard. It left a burning crater feet from homes; no one on the ground was reported hurt, and about 600 nearby mobile home residents were evacuated. The crew had reported icing and turbulence before a steep dive. The NTSB is investigating; no cause has been determined.",
+      "stories": [
+        {
+          "name": "Jet crashes on a Palm Beach County road, killing all nine aboard",
+          "role": "focal",
+          "facts": [
+            "A Learjet 60 bound from Austin, Texas, to the Bahamas crashed around 12:50 p.m. on Nov. 1 near a residential area of Palm Beach County, Florida, coming down nose-first on Military Trail and leaving a burning crater in the road.",
+            "Transportation Secretary Sean Duffy said all nine people aboard were killed; their identities had not been released. Gov. Ron DeSantis said there were no immediate reports of anyone hurt on the ground.",
+            "Witnesses told AP the jet landed feet from homes and close to passing vehicles. Thick black smoke covered the site; the road was closed in both directions.",
+            "Authorities evacuated about 600 residents of a nearby mobile home community. Rain was falling and a flood watch was in effect.",
+            "The NTSB is investigating with FAA support. Air traffic audio shows the crew reported icing and turbulence and asked to climb before a steep dive and a mayday; no cause has been determined."
+          ],
+          "sources": [
+            {
+              "publisher": "PBS NewsHour",
+              "title": "All 9 people aboard a jet that crashed in Florida have died, transportation secretary says",
+              "url": "https://www.pbs.org/newshour/nation/all-9-people-aboard-a-jet-that-crashed-in-florida-have-died-transportation-secretary-says",
+              "published_at": "2026-11-01T22:05:03Z"
+            },
+            {
+              "publisher": "NBC News",
+              "title": "Jet crashes in Florida, killing all nine people on board",
+              "url": "https://www.nbcnews.com/news/us-news/jet-crashes-florida-nine-people-board-rcna606874",
+              "published_at": "2026-11-01T20:43:44Z"
+            },
+            {
+              "publisher": "The Boston Globe",
+              "title": "All 9 people aboard a jet that crashed in Florida have died, transportation secretary says",
+              "url": "https://www.bostonglobe.com/2026/11/01/nation/south-florida-plane-crash/",
+              "published_at": "2026-11-01T23:43:38Z"
+            }
+          ]
+        }
+      ],
+      "artwork": {
+        "path": "artwork/2026-11-01.svg",
+        "format": "svg",
+        "alt": "Graphic poster illustration on a rainy afternoon, looking down a wide suburban Florida road. A burning crater in the pavement sends a tall black smoke column up into storm clouds, with chunks of pavement around it. Low houses, palm trees and a mobile home park stand close on both sides, untouched. Firefighters spray water from a red fire engine; a deputy beside a striped barricade and a patrol car close the road; residents walk away under umbrellas. No aircraft or victims are shown.",
+        "method": "code-generated SVG (graphic-poster kit, src/art/daily/)",
+        "revision": "r3"
+      },
+      "backfill": {
+        "is_backfill": false,
+        "reason": null
+      }
+    },
+    {
       "date": "2026-10-31",
       "published_at": "2026-11-01T01:58:10.350820Z",
       "status": "published",
