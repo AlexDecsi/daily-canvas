@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-02",
+  "mode": "live (scheduled run)",
+  "prepared_at": "2026-11-03T02:30:00Z",
+  "candidates_considered": 25,
+  "rationale": "The top-ranked cluster ('who is winning Congress') is poll coverage, not an event, and three of the last four entries already touched the midterms or a crash (the Palm Beach jet crash was yesterday's entry). The Supreme Court's same-day rejection of the Justice Department's emergency bid to set aside about 20,000 California mail ballots, on the eve of Election Day, was covered by ten US outlets including NBC, NPR, CBS, the LA Times, Bloomberg, The Hill and AP. It is a concrete, consequential national ruling with a drawable setting, so it is the focal story. Related same-day items (DOJ voter-fraud charges in California, Judge Boasberg's separate ruling) were left out to keep one clear scene.",
+  "stories": [
+    {
+      "role": "focal",
+      "name": "Supreme Court rejects bid to set aside 20,000 California ballots",
+      "facts": [
+        "On Nov. 2, the day before Election Day, the Supreme Court rejected the Trump administration's emergency request that California set aside up to about 20,000 mail ballots from people the administration says are noncitizens.",
+        "The brief order gave no explanation and no justice publicly dissented; the court acted within hours, without first asking California to respond.",
+        "Solicitor General D. John Sauer had filed the request that morning after U.S. District Judge David O. Carter denied it and a Ninth Circuit panel upheld him 2-1.",
+        "California officials dispute the accuracy of the federal list and warned eligible citizens could be disenfranchised; noncitizen voting is already illegal under state law. Hundreds of thousands of ballots had already been processed."
+      ],
+      "people": [],
+      "visual_notes": "Election-eve night. The Supreme Court building's west facade (wide steps, row of Corinthian columns, triangular pediment) seen from a low angle on the left; on the right a warmly lit generic California county ballot-processing room where generic election workers handle and sort mail-ballot envelopes in trays. A stream of blank white envelopes links the two halves. No justices, no likenesses, no names, no text on envelopes, no protesters, no vote counts or outcomes.",
+      "confidence": "high: NBC News's own reporting and the AP story (via The Boston Globe) independently confirm the ruling, its timing, the ~20,000 figure, no public dissent and the lower-court history; CBS News confirms the request, the solicitor general, and the lower-court rulings.",
+      "sources": [
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "title": "Supreme Court quickly rejects Trump effort to target alleged noncitizen voters in California",
+          "url": "https://www.nbcnews.com/politics/supreme-court/rejects-trump-effort-target-alleged-noncitizen-voters-california-midte-rcna606607",
+          "published_at": "2026-11-02T22:52:20Z",
+          "checked_at": "2026-11-03T02:20:00Z",
+          "checked": "full article"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "wire": "AP",
+          "title": "Supreme Court rejects Trump administration push to set aside thousands of California ballots",
+          "url": "https://www.bostonglobe.com/2026/11/02/nation/supreme-court-trump-california-mail-ballots/",
+          "published_at": "2026-11-02T23:31:36Z",
+          "checked_at": "2026-11-03T02:24:00Z",
+          "checked": "full article (AP copy)"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "title": "Trump asks Supreme Court to intervene in California ballot case",
+          "url": "https://www.cbsnews.com/news/trump-supreme-court-california-ballots-alleged-noncitizens/",
+          "published_at": "2026-11-02T16:58:00Z",
+          "checked_at": "2026-11-03T02:18:00Z",
+          "checked": "full article (updated with ruling)"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "title": "The Supreme Court rejects a DOJ push to separate California ballots",
+          "url": "https://www.npr.org/2026/11/02/nx-s1-6023802/supreme-court-california-voting-ballots-trump",
+          "published_at": "2026-11-02T16:34:17Z",
+          "checked": "headline only (fetch timed out)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "date": "2026-11-02",
+  "runs": [
+    {
+      "started_at": "2026-11-03T02:12:25.419384Z",
+      "outcome": "published",
+      "steps": [
+        {
+          "at": "2026-11-03T02:12:25.419389Z",
+          "step": "prepare: lock acquired (live)"
+        },
+        {
+          "at": "2026-11-03T02:12:42.963773Z",
+          "step": "prepare: ran src/news/feeds.py"
+        },
+        {
+          "at": "2026-11-03T02:12:43.098054Z",
+          "step": "prepare: ran src/news/cluster.py"
+        },
+        {
+          "at": "2026-11-03T02:18:46.326305Z",
+          "step": "finalize: published to local site"
+        }
+      ],
+      "_new_run": true,
+      "mode": "live",
+      "prelaunch": false,
+      "finished_at": "2026-11-03T02:18:46.326190Z",
+      "link_checks": [
+        {
+          "url": "https://www.nbcnews.com/politics/supreme-court/rejects-trump-effort-target-alleged-noncitizen-voters-california-midte-rcna606607",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.bostonglobe.com/2026/11/02/nation/supreme-court-trump-california-mail-ballots/",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.cbsnews.com/news/trump-supreme-court-california-ballots-alleged-noncitizens/",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.npr.org/2026/11/02/nx-s1-6023802/supreme-court-california-voting-ballots-trump",
+          "ok": true,
+          "note": "HTTP 200"
+        }
+      ],
+      "samples_removed": [],
+      "stories_shown": [
+        "Supreme Court rejects bid to set aside 20,000 California ballots"
+      ],
+      "usage": {
+        "article_reads": 6,
+        "web_searches": 0,
+        "render_rounds": 4,
+        "minutes": 7
+      }
+    }
+  ]
+}

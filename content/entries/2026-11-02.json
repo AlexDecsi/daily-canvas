@@ -1,0 +1,57 @@
+{
+  "date": "2026-11-02",
+  "published_at": "2026-11-03T02:18:45.192423Z",
+  "status": "published",
+  "prelaunch": false,
+  "title": "Supreme Court rejects bid to set aside 20,000 California ballots",
+  "caption": "On Nov. 2, the eve of Election Day, the Supreme Court rejected the Trump administration's emergency request that California set aside up to about 20,000 mail ballots it says came from noncitizens. The brief order gave no reasons; no justice publicly dissented. Lower courts had also refused, and state officials dispute the federal list. The stream of envelopes is symbolic.",
+  "stories": [
+    {
+      "name": "Supreme Court rejects bid to set aside 20,000 California ballots",
+      "role": "focal",
+      "facts": [
+        "On Nov. 2, the day before Election Day, the Supreme Court rejected the Trump administration's emergency request that California set aside up to about 20,000 mail ballots from people the administration says are noncitizens.",
+        "The brief order gave no explanation and no justice publicly dissented; the court acted within hours, without first asking California to respond.",
+        "Solicitor General D. John Sauer had filed the request that morning after U.S. District Judge David O. Carter denied it and a Ninth Circuit panel upheld him 2-1.",
+        "California officials dispute the accuracy of the federal list and warned eligible citizens could be disenfranchised; noncitizen voting is already illegal under state law. Hundreds of thousands of ballots had already been processed."
+      ],
+      "sources": [
+        {
+          "publisher": "NBC News",
+          "title": "Supreme Court quickly rejects Trump effort to target alleged noncitizen voters in California",
+          "url": "https://www.nbcnews.com/politics/supreme-court/rejects-trump-effort-target-alleged-noncitizen-voters-california-midte-rcna606607",
+          "published_at": "2026-11-02T22:52:20Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "title": "Supreme Court rejects Trump administration push to set aside thousands of California ballots",
+          "url": "https://www.bostonglobe.com/2026/11/02/nation/supreme-court-trump-california-mail-ballots/",
+          "published_at": "2026-11-02T23:31:36Z"
+        },
+        {
+          "publisher": "CBS News",
+          "title": "Trump asks Supreme Court to intervene in California ballot case",
+          "url": "https://www.cbsnews.com/news/trump-supreme-court-california-ballots-alleged-noncitizens/",
+          "published_at": "2026-11-02T16:58:00Z"
+        },
+        {
+          "publisher": "NPR",
+          "title": "The Supreme Court rejects a DOJ push to separate California ballots",
+          "url": "https://www.npr.org/2026/11/02/nx-s1-6023802/supreme-court-california-voting-ballots-trump",
+          "published_at": "2026-11-02T16:34:17Z"
+        }
+      ]
+    }
+  ],
+  "artwork": {
+    "path": "artwork/2026-11-02.svg",
+    "format": "svg",
+    "alt": "Split-screen night illustration. Left: the floodlit marble Supreme Court, with its columned portico, pediment, flanking statues and wide steps, against a huge pale moon. A ribbon of blank white mail-ballot envelopes sweeps past the steps and across a diagonal divide into a warm-lit California ballot-processing room with palm trees outside the window, where generic election workers sort envelopes at a long counter and one carries a tray. Represents the Supreme Court declining to set aside California ballots.",
+    "method": "code-generated SVG (graphic-poster kit, src/art/daily/)",
+    "revision": "r4"
+  },
+  "backfill": {
+    "is_backfill": false,
+    "reason": null
+  }
+}

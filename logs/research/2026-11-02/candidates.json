@@ -1,0 +1,1956 @@
+{
+  "date": "2026-11-02",
+  "fetched_at": "2026-11-03T02:12:42.937096Z",
+  "items_considered": 603,
+  "candidates": [
+    {
+      "headline": "Midterm Elections: Who Is Winning the Race for Congress?",
+      "score": 159,
+      "signals": {
+        "us_outlets": 11,
+        "intl_outlets": 1,
+        "front_pages": 6,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "Axios",
+        "Bloomberg",
+        "CBS News",
+        "CNBC",
+        "Los Angeles Times",
+        "NPR",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The Guardian",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-02T10:03:33Z",
+      "reports": [
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Midterm Elections: Who Is Winning the Race for Congress?",
+          "url": "https://www.nytimes.com/2026/11/02/us/politics/congress-races-midterms.html",
+          "published_at": "2026-11-02T10:03:33Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "2026 midterm election races to watch",
+          "url": "https://www.cbsnews.com/news/2026-midterm-election-races/",
+          "published_at": "2026-11-02T12:19:00Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Parties End the Midterm Election With Their Closing Arguments",
+          "url": "https://www.nytimes.com/2026/11/02/us/politics/midterm-elections.html",
+          "published_at": "2026-11-02T13:23:50Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "WATCH: A look at the state of the midterm races",
+          "url": "https://abcnews.com/video/137764411/",
+          "published_at": "2026-11-02T13:49:34Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "How to watch live 2026 election results on CBS News",
+          "url": "https://www.cbsnews.com/news/where-to-watch-election-2026/",
+          "published_at": "2026-11-02T14:09:00Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump Chooses DC Reflecting Pool For Midterm Elections Closing Argument",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-02/trump-chooses-dc-reflecting-pool-for-midterm-closing-argument",
+          "published_at": "2026-11-02T20:11:37Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump Delivers Final Midterm Message at Lincoln Memorial Reflecting Pool",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-02/trump-delivers-final-midterm-message-at-reflecting-pool-video",
+          "published_at": "2026-11-02T20:37:43Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump unveils results of $14m reflecting pool makeover in final appeal before midterms",
+          "url": "https://www.theguardian.com/us-news/2026/nov/02/trump-reflecting-pool-renovation-midterms",
+          "published_at": "2026-11-02T20:42:37Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump pre-election pitch: Reflecting Pool, pipes and a new promenade",
+          "url": "https://www.axios.com/2026/11/02/trump-dc-projects-reflecting-pool-speech",
+          "published_at": "2026-11-02T20:48:47Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump focuses on Reflecting Pool in final public speech before midterms",
+          "url": "https://www.cnbc.com/2026/11/02/trump-midterm-election-speech-reflecting-pool.html",
+          "published_at": "2026-11-02T21:15:13Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "CISA Retreats From Election Security Ahead of Midterms",
+          "url": "https://www.nytimes.com/2026/11/02/us/politics/cisa-election-security-midterms.html",
+          "published_at": "2026-11-02T22:13:15Z"
+        },
+        {
+          "publisher": "Los Angeles Times",
+          "group": "latimes",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump's closing message to American voters highlights repairs to Reflecting Pool",
+          "url": "https://www.latimes.com/politics/story/2026-11-02/trumps-closing-message-to-american-voters-highlights-repairs-to-reflecting-pool",
+          "published_at": "2026-11-02T22:13:58Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "What to Know About the 2026 Midterm Elections and the Fight for Congress",
+          "url": "https://www.nytimes.com/2026/11/02/us/politics/midterms-election-2026-senate-house-congress.html",
+          "published_at": "2026-11-02T22:15:02Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "What Voters Should Know About Election Security for the 2026 Midterms",
+          "url": "https://www.nytimes.com/2026/11/02/us/politics/election-integrity-polling-sites.html",
+          "published_at": "2026-11-02T22:20:41Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump spends the day before midterm Election Day promoting his Reflecting Pool makeover",
+          "url": "https://www.bostonglobe.com/2026/11/02/nation/trump-promotes-reflection-pool-makeover/",
+          "published_at": "2026-11-02T22:46:49Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": true,
+          "title": "Inside the AP's process for calling election races",
+          "url": "https://www.pbs.org/newshour/show/inside-the-aps-process-for-calling-election-races",
+          "published_at": "2026-11-02T23:20:13Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Midterm elections live updates: SCOTUS denies Trump bid to segregate California votes",
+          "url": "https://abcnews.com/Politics/live-updates/midterm-elections-2026-1-week-high-stakes-elections/?id=137578278",
+          "published_at": "2026-11-02T23:21:01Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "President Trump reopens Reflecting Pool in final midterm pitch",
+          "url": "https://www.wcvb.com/article/president-trump-reopens-reflecting-pool-in-final-midterm-pitch/74316163",
+          "published_at": "2026-11-02T23:27:00Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump's final midterm message for voters largely focuses on D.C. renovations",
+          "url": "https://www.cbsnews.com/video/trumps-final-midterm-message-largely-focuses-on-dc-renovations/",
+          "published_at": "2026-11-02T23:28:42Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump offered a closing message to voters by touting his D.C. renovations",
+          "url": "https://www.npr.org/2026/11/02/nx-s1-6026399/trump-offered-a-closing-message-to-voters-by-touting-his-d-c-renovations",
+          "published_at": "2026-11-02T23:35:51Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "When will we know 2026 midterm election results? It may take some time, but that\u2019s normal",
+          "url": "https://www.wcvb.com/article/when-will-we-know-2026-midterm-election-results-may-take-some-time-but-thats-normal/74312593",
+          "published_at": "2026-11-02T23:42:00Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Where the battle for Congress stands heading into Election Day",
+          "url": "https://www.pbs.org/newshour/show/where-the-battle-for-congress-stands-heading-into-election-day",
+          "published_at": "2026-11-02T23:55:15Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Details on the races to watch heading into the 2026 midterm elections",
+          "url": "https://www.cbsnews.com/video/the-races-to-watch-heading-into-the-2026-midterm-elections/",
+          "published_at": "2026-11-03T00:08:00Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump Talks Reflecting Pool in Midterm Closing Message",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-03/balance-of-power-late-edition-11-02-2026-video",
+          "published_at": "2026-11-03T00:15:08Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump touts renovation projects instead of addressing cost of living in final midterm push",
+          "url": "https://www.cbsnews.com/video/trump-touts-renovation-projects-instead-addressing-cost-of-living-midterm/",
+          "published_at": "2026-11-03T00:17:57Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump Delivers a Closing Midterm Message. Mostly About Landscaping.",
+          "url": "https://www.nytimes.com/2026/11/02/us/politics/trump-reflecting-pool-midterms.html",
+          "published_at": "2026-11-03T00:22:03Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrats Head Into Election Day Feeling Hopeful About the Midterms",
+          "url": "https://www.nytimes.com/2026/11/02/us/politics/democrats-election-day-midterms.html",
+          "published_at": "2026-11-03T00:48:18Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "The parties make their closing arguments: \u2018This isn\u2019t just red versus blue\u2019",
+          "url": "https://www.bostonglobe.com/2026/11/02/nation/parties-closing-arguments-midterms/",
+          "published_at": "2026-11-03T00:48:55Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Supreme court rules against Trump over bid to force California to set aside ballots",
+          "url": "https://www.theguardian.com/us-news/2026/nov/02/supreme-court-trump-california-ballots",
+          "published_at": "2026-11-03T00:50:37Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Supreme Court rejects Trump request for California to set aside ballots from alleged noncitizens",
+          "url": "https://www.cbsnews.com/video/supreme-court-rejects-trump-request-for-california-to-set-aside-20000-ballots/",
+          "published_at": "2026-11-03T01:00:55Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Supreme Court rejects Trump's request in California mail ballots dispute",
+          "url": "https://www.cbsnews.com/news/supreme-court-rejects-trump-california-mail-ballots-alleged-noncitizens/",
+          "published_at": "2026-11-03T01:02:00Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "House races to watch in the 2026 midterm election",
+          "url": "https://www.wcvb.com/article/house-races-to-watch-in-the-2026-midterm-election/74265590",
+          "published_at": "2026-11-03T01:03:00Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Supreme Court rejects DOJ's bid to block California from counting disputed ballots",
+          "url": "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
+          "published_at": "2026-11-03T01:32:13Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "How Hispanic voters could sway midterm election outcomes",
+          "url": "https://www.cbsnews.com/video/how-hispanic-voters-could-sway-midterm-election-outcomes/",
+          "published_at": "2026-11-03T01:40:00Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Political AI deepfakes infiltrating midterm elections, could pose risks to voters",
+          "url": "https://www.cbsnews.com/video/political-ai-deepfakes-infiltrating-midterm-elections-pose-risks-voters/",
+          "published_at": "2026-11-03T01:42:21Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump loses supreme court bid to set aside 20,000 California ballots as justices refuse to take up emergency request \u2013 live",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/02/democrats-haley-stevens-mike-rogers-abdul-el-sayed-michigan-midterms-trump-rallies-latest-news-updates",
+          "published_at": "2026-11-03T02:00:32Z"
+        }
+      ]
+    },
+    {
+      "headline": "Dashcam footage captures Florida private jet crash",
+      "score": 156,
+      "signals": {
+        "us_outlets": 8,
+        "intl_outlets": 1,
+        "front_pages": 8,
+        "boston_local": [
+          "harvard",
+          "nantucket"
+        ]
+      },
+      "independent_outlets": [
+        "BBC News",
+        "CNBC",
+        "Fox News",
+        "MassLive",
+        "NBC News",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-02T08:51:30Z",
+      "reports": [
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Dashcam footage captures Florida private jet crash",
+          "url": "https://www.bbc.co.uk/news/videos/cqdjv0wr1klwo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-02T08:51:30Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Evidence indicates parts of jet broke off before Florida crash that killed 9, investigators say",
+          "url": "https://www.cnbc.com/2026/11/01/jet-nosedives-erupts-into-fireball-near-busy-roadway-in-south-florida.html",
+          "published_at": "2026-11-02T19:32:29Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Parts of a Learjet may have broken off midair before Florida crash that killed 9, investigators say",
+          "url": "https://www.bostonglobe.com/2026/11/01/nation/south-florida-plane-crash/",
+          "published_at": "2026-11-02T20:53:52Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Florida plane crash victims identified after 9 people killed in fiery wreck",
+          "url": "https://www.foxnews.com/us/florida-plane-crash-victims-identified-9-people-killed-fiery-wreck",
+          "published_at": "2026-11-02T21:57:03Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "News Wrap: Parts of jet may have broken off before crash in Florida",
+          "url": "https://www.pbs.org/newshour/show/news-wrap-parts-of-jet-may-have-broken-off-before-crash-in-florida",
+          "published_at": "2026-11-02T23:50:30Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Investigators Looking for Cause of Learjet Crash Say Ice Was \u2018Certainly a Factor\u2019",
+          "url": "https://www.nytimes.com/2026/11/02/science/florida-learjet-crash-causes.html",
+          "published_at": "2026-11-02T23:50:50Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
+          "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-03T00:08:14Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Co-pilot and passengers killed in learjet crash identified",
+          "url": "https://www.nbcnews.com/nightly-news/video/co-pilot-and-passengers-killed-in-learjet-crash-identified-272729669541",
+          "published_at": "2026-11-03T00:10:56Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Investigators recover cockpit section from fatal jet crash off Nantucket",
+          "url": "https://www.masslive.com/news/2026/11/voice-recorder-cockpit-section-recovered-from-the-bermuda-boston-air-ambulance-crash.html",
+          "published_at": "2026-11-03T00:11:13Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Victims of Florida jet crash include 20-year-old copilot and tech entrepreneur and his family",
+          "url": "https://www.wcvb.com/article/20-year-old-pilot-florida-jet-crash/74314970",
+          "published_at": "2026-11-03T00:25:00Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Who are the victims of the deadly Florida jet crash?",
+          "url": "https://www.bbc.co.uk/news/articles/cm9wz01dx8xro?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-03T00:54:40Z"
+        }
+      ]
+    },
+    {
+      "headline": "The Supreme Court rejects a DOJ push to separate California ballots",
+      "score": 127,
+      "signals": {
+        "us_outlets": 9,
+        "intl_outlets": 1,
+        "front_pages": 4,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Axios",
+        "Bloomberg",
+        "CBS News",
+        "Los Angeles Times",
+        "NBC News",
+        "NPR",
+        "The Boston Globe",
+        "The Guardian",
+        "The Hill",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-02T16:34:17Z",
+      "reports": [
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "The Supreme Court rejects a DOJ push to separate California ballots",
+          "url": "https://www.npr.org/2026/11/02/nx-s1-6023802/supreme-court-california-voting-ballots-trump",
+          "published_at": "2026-11-02T16:34:17Z"
+        },
+        {
+          "publisher": "Los Angeles Times",
+          "group": "latimes",
+          "kind": "news",
+          "wire": false,
+          "title": "Supreme Court rejects Trump administration's bid to set aside 20,000 California ballots",
+          "url": "https://www.latimes.com/politics/story/2026-11-02/trump-lawyers-ask-supreme-court-to-set-aside-20-000-california-ballots",
+          "published_at": "2026-11-02T16:41:01Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump asks Supreme Court to intervene in California ballot case",
+          "url": "https://www.cbsnews.com/news/trump-supreme-court-california-ballots-alleged-noncitizens/",
+          "published_at": "2026-11-02T16:58:00Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Supreme Court to hear religious liberty case over Colorado preschools",
+          "url": "https://www.cbsnews.com/news/supreme-court-religious-liberty-colorado-preschools-st-mary-catholic-parish-v-roy/",
+          "published_at": "2026-11-02T18:03:32Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump administration turns to SCOTUS in California ballot case",
+          "url": "https://www.axios.com/2026/11/02/trump-supreme-court-california-ballots-case",
+          "published_at": "2026-11-02T18:11:30Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Another judge blocks DOJ ballot demands in California",
+          "url": "https://www.axios.com/2026/11/02/judge-blocks-trump-doj-california-ballot-demands",
+          "published_at": "2026-11-02T22:45:11Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump\u2019s DOJ Rejected by Supreme Court on California Ballots",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-02/trump-s-doj-rejected-by-supreme-court-on-california-ballots",
+          "published_at": "2026-11-02T22:48:57Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Grand Jury Rejects Trump Administration\u2019s Effort to Charge Individual With Voter Fraud",
+          "url": "https://www.nytimes.com/2026/11/02/us/politics/grand-jury-justice-dept-voter-fraud.html",
+          "published_at": "2026-11-02T22:50:03Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Supreme Court quickly rejects Trump effort to target alleged noncitizen voters in California",
+          "url": "https://www.nbcnews.com/politics/supreme-court/rejects-trump-effort-target-alleged-noncitizen-voters-california-midte-rcna606607",
+          "published_at": "2026-11-02T22:52:20Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Supreme Court rejects Trump administration's bid to set aside 20,000 California ballots",
+          "url": "https://thehill.com/regulation/court-battles/6190525-supreme-court-trump-administration-california-ballots/",
+          "published_at": "2026-11-02T22:55:26Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Supreme Court Will Not Set Aside Some California Ballots",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-02/supreme-court-will-not-set-aside-some-california-ballots-video",
+          "published_at": "2026-11-02T23:05:41Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "SCOTUS rejects Trump's bid over disputed California ballots",
+          "url": "https://www.axios.com/2026/11/02/supreme-court-california-voter-rolls-doj",
+          "published_at": "2026-11-02T23:09:37Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump\u2019s DoJ charges six more people in \u2018voter fraud\u2019 crackdown in California",
+          "url": "https://www.theguardian.com/us-news/2026/nov/02/california-voter-fraud-charges",
+          "published_at": "2026-11-02T23:22:24Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Supreme Court rejects Trump administration push to set aside thousands of California ballots",
+          "url": "https://www.bostonglobe.com/2026/11/02/nation/supreme-court-trump-california-mail-ballots/",
+          "published_at": "2026-11-02T23:31:36Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump Is Playing Up Voter Fraud Prosecutions. Meet Some of the Accused.",
+          "url": "https://www.nytimes.com/2026/11/02/us/politics/noncitizen-voters-green-cards.html",
+          "published_at": "2026-11-03T00:54:30Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "The Justice Department charges more people with voter fraud in California.",
+          "url": "https://www.nytimes.com/live/2026/11/02/us/midterms-elections-trump/voter-fraud-charges-california-doj",
+          "published_at": "2026-11-03T01:12:23Z"
+        }
+      ]
+    },
+    {
+      "headline": "Judge dismisses case against ex-FBI agents accused of lying to Congress in Hunter Biden probe",
+      "score": 112,
+      "signals": {
+        "us_outlets": 6,
+        "intl_outlets": 1,
+        "front_pages": 4,
+        "boston_local": [
+          "harvard"
+        ]
+      },
+      "independent_outlets": [
+        "CBS News",
+        "CNBC",
+        "NBC Boston",
+        "NPR",
+        "The Boston Globe",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-02T12:18:39Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge dismisses case against ex-FBI agents accused of lying to Congress in Hunter Biden probe",
+          "url": "https://www.nbcboston.com/news/national-international/judge-dismisses-case-fbi-agents-hunter-biden-probe/4041876/",
+          "published_at": "2026-11-02T12:18:39Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge tosses case against two officials accused of lying about Hunter Biden",
+          "url": "https://www.theguardian.com/us-news/2026/nov/02/judge-tosses-case-fbi-hunter-biden",
+          "published_at": "2026-11-02T17:33:32Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge cites \u2018weaponization\u2019 in tossing charges for ex-FBI agents accused of lying about Hunter Biden",
+          "url": "https://www.bostonglobe.com/2026/11/02/nation/judge-dismisses-complaint-former-fbi-officials-hunter-biden-laptop/",
+          "published_at": "2026-11-02T17:57:39Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge accuses DOJ of 'weaponization,' tosses case against ex-FBI officials",
+          "url": "https://www.npr.org/2026/11/02/g-s1-151242/judge-tosses-case-fbi-officials-hunter-biden",
+          "published_at": "2026-11-02T18:54:01Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge tosses DOJ case against ex-FBI officials accused of lying about Hunter Biden probe",
+          "url": "https://www.cnbc.com/2026/11/02/fbi-hunter-biden-doj-case-dismissed.html",
+          "published_at": "2026-11-02T19:19:17Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge Throws Out Charges Against Former F.B.I. Officials",
+          "url": "https://www.nytimes.com/2026/11/02/us/politics/judge-fbi-agents-charges-midterms.html",
+          "published_at": "2026-11-02T19:34:12Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Case dismissed against 2 ex-FBI officials in Hunter Biden probe",
+          "url": "https://www.cbsnews.com/news/judge-dismisses-ex-fbi-officials-hunter-biden-case/",
+          "published_at": "2026-11-02T19:34:20Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "U.S. judge dismisses Trump administration's Harvard admissions probe case",
+          "url": "https://www.cnbc.com/2026/11/02/us-judge-dismisses-trump-administrations-harvard-admissions-probe-case.html",
+          "published_at": "2026-11-02T21:37:56Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Former Chicago FBI Chief Sues DOJ, Says He Was Wrongly Blamed for Botched Broadview Six Case",
+          "url": "https://www.nytimes.com/2026/11/02/us/chicago-fbi-broadview-six-lawsuit.html",
+          "published_at": "2026-11-02T21:49:31Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge throws out charges against former FBI officials",
+          "url": "https://www.bostonglobe.com/2026/11/02/nation/judge-throws-out-charges-against-former-fbi-officials/",
+          "published_at": "2026-11-02T22:21:21Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Supreme Court Rejects Trump Administration Request to Intervene in California Ballot Case",
+          "url": "https://www.nytimes.com/2026/11/02/us/politics/trump-supreme-court-california-ballots.html",
+          "published_at": "2026-11-03T00:14:14Z"
+        }
+      ]
+    },
+    {
+      "headline": "Ken Paxton Leans on Trump in Tight Texas Senate Race",
+      "score": 109,
+      "signals": {
+        "us_outlets": 6,
+        "intl_outlets": 0,
+        "front_pages": 4,
+        "boston_local": [
+          "boston",
+          "harvard"
+        ]
+      },
+      "independent_outlets": [
+        "ABC News",
+        "CBS News",
+        "Fox News",
+        "The Boston Globe",
+        "The Hill",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-02T10:02:51Z",
+      "reports": [
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Ken Paxton Leans on Trump in Tight Texas Senate Race",
+          "url": "https://www.nytimes.com/2026/11/02/us/paxton-bus-tour.html",
+          "published_at": "2026-11-02T10:02:51Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Will Trump\u2019s Comments About Jon Husted\u2019s Physique Help Him Win the Ohio Senate Race?",
+          "url": "https://www.nytimes.com/2026/11/02/us/politics/trump-husted-body-comments.html",
+          "published_at": "2026-11-02T19:27:03Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Latest on Alaska Senate race after judge tosses Trump lawsuit seeking to delay certification",
+          "url": "https://www.cbsnews.com/video/latest-on-alaska-senate-race-after-judge-tosses-trump-lawsuit-seeking-to-delay-certification/",
+          "published_at": "2026-11-02T23:43:57Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Michigan Senate race shifts to 'lean Democrat' in final Cook Political Report rating",
+          "url": "https://thehill.com/homenews/campaign/6190665-cook-political-report-michigan-senate/",
+          "published_at": "2026-11-02T23:56:59Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge Dismisses Trump Lawsuit Demanding Harvard Admissions Data",
+          "url": "https://www.nytimes.com/2026/11/02/us/harvard-admissions-trump-lawsuit-dismissed.html",
+          "published_at": "2026-11-03T00:23:28Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge dismisses Trump lawsuit demanding Harvard admissions data",
+          "url": "https://www.bostonglobe.com/2026/11/02/metro/judge-dismisses-trump-lawsuit-harvard-admissions-data/",
+          "published_at": "2026-11-03T00:28:06Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Last-minute polls show Democrats leading in Ohio Senate and gubernatorial races",
+          "url": "https://www.cbsnews.com/video/ohio-democrats-polling-ahead-of-republicans-in-final/",
+          "published_at": "2026-11-03T00:29:03Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "JD Vance says Haley Stevens' endorsement of GOP's Mike Rogers will 'certainly' help Michigan Senate race",
+          "url": "https://www.foxnews.com/politics/jd-vance-says-haley-stevens-endorsement-gops-mike-rogers-certainly-help-michigan-senate-race",
+          "published_at": "2026-11-03T00:39:04Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "How Kalshi traders reacted to Haley Stevens' endorsement of Mike Rogers over Abdul El-Sayed",
+          "url": "https://www.cbsnews.com/video/how-kalshi-traders-reacted-to-haley-stevens-endorsement-of-mike-rogers-over-abdul-el-sayed/",
+          "published_at": "2026-11-03T00:42:00Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Michigan's Democratic Party chair says Haley Stevens \"lied to her own constituents\"",
+          "url": "https://www.cbsnews.com/video/michigans-democratic-party-chair-haley-stevens-lied-constituents/",
+          "published_at": "2026-11-03T01:22:00Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "GOP touts Stevens endorsement while El-Sayed's campaign reports a record haul",
+          "url": "https://abcnews.com/Politics/gop-touts-stevens-endorsement-republican-rival-el-sayeds/story?id=137771141",
+          "published_at": "2026-11-03T01:34:08Z"
+        }
+      ]
+    },
+    {
+      "headline": "Ikea among shops affected by fridge cyber-hacks \u2013 Europe live",
+      "score": 80,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 2,
+        "front_pages": 4,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "CBS News",
+        "MassLive",
+        "The Boston Globe",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-02T16:17:14Z",
+      "reports": [
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Ikea among shops affected by fridge cyber-hacks \u2013 Europe live",
+          "url": "https://www.theguardian.com/world/live/2026/nov/02/ukraine-russia-emergency-warning-systems-hack-zelenskyy-streeting-eu-latest-news-updates",
+          "published_at": "2026-11-02T16:17:14Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Shop fridges and freezers across Europe hit by fresh suspected cyber-attack",
+          "url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
+          "published_at": "2026-11-02T16:39:20Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
+          "url": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-02T17:34:58Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Shop freezers in seven European countries hit by cyber-attack",
+          "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-02T17:38:11Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Who is hacking Europe\u2019s supermarket fridges and freezers, and why?",
+          "url": "https://www.theguardian.com/technology/2026/nov/02/europe-supermarket-fridges-freezers-who-hacking-why",
+          "published_at": "2026-11-02T19:07:40Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "European countries hit by apparent cyberattacks",
+          "url": "https://www.masslive.com/news/2026/11/european-countries-hit-by-apparent-cyberattacks-targeting-supermarket-freezers.html",
+          "published_at": "2026-11-02T19:46:38Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Are Freezers Being Hacked? Europe and the U.S. Military Are Investigating.",
+          "url": "https://www.nytimes.com/2026/11/02/business/cyberattack-freezers-europe-us-army.html",
+          "published_at": "2026-11-02T21:28:04Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Are freezers being hacked? Europe and the US military are investigating.",
+          "url": "https://www.bostonglobe.com/2026/11/02/business/freezers-hacked-europe-us-military-investigating/",
+          "published_at": "2026-11-02T22:53:23Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "New cyberattacks hit supermarket fridges across Europe",
+          "url": "https://www.cbsnews.com/video/new-cyberattacks-hit-supermarket-fridges-across-europe/",
+          "published_at": "2026-11-03T01:18:33Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "More European grocery stores hit by apparent fridge-freezer hacks",
+          "url": "https://www.cbsnews.com/news/europe-grocery-store-refrigerator-freezer-cyberattack-hack-food-wasted/",
+          "published_at": "2026-11-03T01:51:41Z"
+        }
+      ]
+    },
+    {
+      "headline": "Lindsay Clancy's defense continues push to dismiss charges. Will the case be retried?",
+      "score": 75,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 2,
+        "front_pages": 3,
+        "boston_local": [
+          "massachusetts"
+        ]
+      },
+      "independent_outlets": [
+        "BBC News",
+        "CBS News",
+        "NBC Boston",
+        "The Boston Globe",
+        "The Guardian"
+      ],
+      "first_seen": "2026-11-02T06:22:20Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Lindsay Clancy's defense continues push to dismiss charges. Will the case be retried?",
+          "url": "https://www.nbcboston.com/news/local/lindsay-clancy-trial-retried-judge-hears-motions/4041593/",
+          "published_at": "2026-11-02T06:22:20Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Watch live: Lindsay Clancy in court as her lawyers seek dismissal of murder charges",
+          "url": "https://www.bostonglobe.com/2026/11/02/metro/lindsay-clancy-hearing-watch-live/",
+          "published_at": "2026-11-02T14:33:43Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Prosecutors hint at retrial for Lindsay Clancy on murder charges",
+          "url": "https://www.bbc.co.uk/news/articles/cjly0rgk34y2o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-02T19:23:07Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Lindsay Clancy back in court seeking to dismiss murder charges after mistrial",
+          "url": "https://www.theguardian.com/us-news/2026/nov/02/lindsay-clancy-massachusetts-court-hearing",
+          "published_at": "2026-11-02T21:40:39Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Lindsay Clancy\u2019s lawyer presses DA to decide on murder retrial, \u2018The ball is in Mr. Cruz\u2019s court\u2019",
+          "url": "https://www.bostonglobe.com/2026/11/02/metro/lindsay-clancy-retrial-juror-gag-order-dismissal/",
+          "published_at": "2026-11-02T22:33:45Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Lindsay Clancy judge says he's leaning toward retrial in March",
+          "url": "https://www.cbsnews.com/news/lindsay-clancy-hearing-new-second-trial/",
+          "published_at": "2026-11-03T00:07:28Z"
+        }
+      ]
+    },
+    {
+      "headline": "Bruins introduce \u2018Varsity Sweater\u2019 look as part of NHL\u2019s Hometown Remix collection",
+      "score": 72,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "bruins"
+        ]
+      },
+      "independent_outlets": [
+        "CNBC",
+        "ESPN",
+        "Fox News",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-02T15:00:46Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Bruins introduce \u2018Varsity Sweater\u2019 look as part of NHL\u2019s Hometown Remix collection",
+          "url": "https://www.bostonglobe.com/2026/11/02/sports/bruins-new-jerseys-varsity-sweater/",
+          "published_at": "2026-11-02T15:00:46Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Fanatics takes bigger NHL design role with all-32 team Hometown Remix jerseys",
+          "url": "https://www.cnbc.com/2026/11/02/fanatics-nhl-hometown-remix-jerseys.html",
+          "published_at": "2026-11-02T17:28:16Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "NHL and Fanatics unveil 'Hometown Remix' jerseys celebrating local culture for all 32 teams",
+          "url": "https://www.foxnews.com/outkick-sports/nhl-fanatics-unveil-hometown-remix-jerseys-celebrating-local-culture-32-teams",
+          "published_at": "2026-11-02T21:35:22Z"
+        },
+        {
+          "publisher": "ESPN",
+          "group": "espn",
+          "kind": "news",
+          "wire": false,
+          "title": "How the Florida Panthers' audacious 'pink' Hometown Remix jerseys came to be",
+          "url": "https://www.espn.com/nhl/story/_/id/50356979/nhl-2026-27-florida-panthers-hometown-remix-jerseys",
+          "published_at": "2026-11-02T22:49:51Z"
+        },
+        {
+          "publisher": "ESPN",
+          "group": "espn",
+          "kind": "news",
+          "wire": false,
+          "title": "From the best to the worst: Our definitive ranking of the NHL Hometown Remix jerseys",
+          "url": "https://www.espn.com/nhl/story/_/id/50354672/nhl-2026-27-hometown-remix-jerseys-rankings",
+          "published_at": "2026-11-02T22:49:51Z"
+        }
+      ]
+    },
+    {
+      "headline": "Person dies after being hurt in ambulance crash in West Boylston",
+      "score": 60,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "massachusetts",
+          "worcester"
+        ]
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "MassLive",
+        "NBC Boston"
+      ],
+      "first_seen": "2026-11-02T05:35:53Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Person dies after being hurt in ambulance crash in West Boylston",
+          "url": "https://www.nbcboston.com/news/local/ambulance-crashes-construction-container-west-boylston/4041580/",
+          "published_at": "2026-11-02T05:35:53Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Patient dies after stealing ambulance in Worcester, crashing it in West Boylston",
+          "url": "https://www.masslive.com/centralmass/2026/11/patient-dies-after-stealing-ambulance-in-worcester-and-crashing-it-in-west-boylston.html",
+          "published_at": "2026-11-02T20:51:57Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Patient dead after stealing, crashing ambulance in Worcester County, officials say",
+          "url": "https://www.boston.com/news/local-news/2026/11/02/patient-dead-after-stealing-crashing-ambulance-in-worcester-county-officials-say/",
+          "published_at": "2026-11-02T21:59:53Z"
+        }
+      ]
+    },
+    {
+      "headline": "What Are Voters\u2019 Top Concerns? Midterm Election Polls Point to the Economy.",
+      "score": 60,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "massachusetts"
+        ]
+      },
+      "independent_outlets": [
+        "ABC News",
+        "The Boston Globe",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-02T18:30:05Z",
+      "reports": [
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "What Are Voters\u2019 Top Concerns? Midterm Election Polls Point to the Economy.",
+          "url": "https://www.nytimes.com/2026/11/02/us/politics/midterm-election-polls-trump-economy-immigration.html",
+          "published_at": "2026-11-02T18:30:05Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "What you need to know about the Election Day Voter Poll",
+          "url": "https://abcnews.com/Politics/election-day-voter-poll/story?id=73792952",
+          "published_at": "2026-11-02T20:29:54Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Everything you need to know about the candidates running in Massachusetts\u2019 general election",
+          "url": "https://www.bostonglobe.com/2026/10/19/metro/globe-voter-guide-general-election-senate-governor/",
+          "published_at": "2026-11-02T20:35:05Z"
+        }
+      ]
+    },
+    {
+      "headline": "Bill Belichick reacts to reported Jordon Hudson breakup",
+      "score": 60,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "Fox News",
+        "MassLive"
+      ],
+      "first_seen": "2026-11-02T21:37:38Z",
+      "reports": [
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Bill Belichick reacts to reported Jordon Hudson breakup",
+          "url": "https://www.masslive.com/sports/2026/11/bill-belichick-responds-to-question-about-reported-jordon-hudson-breakup.html",
+          "published_at": "2026-11-02T21:37:38Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Bill Belichick has snarky response to question about reported Jordon Hudson breakup",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/11/02/bill-belichick-jordon-husdson-breakup-response-comments/",
+          "published_at": "2026-11-02T22:30:35Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Bill Belichick doesn't have time for questions about relationship with Jordon Hudson after near Miami upset",
+          "url": "https://www.foxnews.com/outkick-sports/bill-belichick-doesnt-have-time-questions-relationship-jordon-hudson-after-near-miami-upset",
+          "published_at": "2026-11-02T23:19:20Z"
+        }
+      ]
+    },
+    {
+      "headline": "Democrat Stevens defends endorsement switch to Republican Rogers two days before election",
+      "score": 59,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 2,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "CBS News",
+        "Fox News",
+        "PBS NewsHour",
+        "The Guardian"
+      ],
+      "first_seen": "2026-11-02T11:08:09Z",
+      "reports": [
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrat Stevens defends endorsement switch to Republican Rogers two days before election",
+          "url": "https://www.bbc.co.uk/news/articles/c699z8v3282xo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-02T11:08:09Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "'The View' host Sara Haines lauds Haley Stevens' 'brave' endorsement of Mike Rogers",
+          "url": "https://www.foxnews.com/media/the-view-host-sara-haines-lauds-haley-stevens-brave-endorsement-mike-rogers",
+          "published_at": "2026-11-02T20:34:27Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "What to know about Michigan Senate race after Stevens' surprise endorsement of Rogers over El-Sayed",
+          "url": "https://www.cbsnews.com/video/what-to-know-about-the-michigan-senate-race-after-stevens-surprise-rogers-endorsement/",
+          "published_at": "2026-11-02T23:22:07Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "\u2018A despicable betrayal\u2019: Democrats incensed by Haley Stevens\u2019s endorsement of Mike Rogers",
+          "url": "https://www.theguardian.com/us-news/2026/nov/02/democrats-reaction-haley-steven-mike-rogers",
+          "published_at": "2026-11-02T23:22:57Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Surprise endorsement in Michigan Senate race a 'huge distraction,' says Rep. Dingell",
+          "url": "https://www.pbs.org/newshour/show/surprise-endorsement-in-michigan-senate-race-a-huge-distraction-says-rep-dingell",
+          "published_at": "2026-11-02T23:35:57Z"
+        }
+      ]
+    },
+    {
+      "headline": "Burning crater seen on ground after Florida plane crash \u2013 video",
+      "score": 57,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 1,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "CBS News",
+        "The Boston Globe",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-02T10:56:00Z",
+      "reports": [
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Burning crater seen on ground after Florida plane crash \u2013 video",
+          "url": "https://www.theguardian.com/world/video/2026/nov/02/burning-crater-florida-plane-crash-video",
+          "published_at": "2026-11-02T10:56:00Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Victims of Florida plane crash include a 20-year-old who got her pilot\u2019s license as a teen",
+          "url": "https://www.bostonglobe.com/2026/11/02/nation/florida-plane-crash-victims/",
+          "published_at": "2026-11-02T18:41:33Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Young co-pilot, 20, named as one of nine victims of deadly Florida plane crash",
+          "url": "https://www.theguardian.com/us-news/2026/nov/02/investigators-florida-plane-crash",
+          "published_at": "2026-11-02T21:52:26Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "A 20-year-old was one pilot of the jet that plunged to Earth in Florida",
+          "url": "https://www.bostonglobe.com/2026/11/02/nation/20-year-old-was-one-pilot-jet-that-plunged-earth-florida/",
+          "published_at": "2026-11-02T22:40:20Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Pilot in plane crash said \"we're managing the ice,\" then \"Mayday\"",
+          "url": "https://www.cbsnews.com/news/pilot-florida-plane-crash-ice-mayday/",
+          "published_at": "2026-11-02T23:12:00Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "20-Year-Old Nathalia Filgueiras Was a Pilot on Learjet That Crashed in Florida",
+          "url": "https://www.nytimes.com/2026/11/02/us/nathalia-filgueiras-florida-plane-crash-pilot.html",
+          "published_at": "2026-11-03T01:22:04Z"
+        }
+      ]
+    },
+    {
+      "headline": "Underdog Promo Code FOXNEWS: Play $10, Get $50 on Seahawks vs Bears",
+      "score": 53,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "celtics"
+        ]
+      },
+      "independent_outlets": [
+        "Fox News",
+        "MassLive"
+      ],
+      "first_seen": "2026-11-02T20:55:35Z",
+      "reports": [
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Underdog Promo Code FOXNEWS: Play $10, Get $50 on Seahawks vs Bears",
+          "url": "https://www.foxnews.com/outkick-betting/underdog-promo-code-foxnews-play-10-get-50-seahawks-vs-bears",
+          "published_at": "2026-11-02T20:55:35Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Betr Promo Code FOXNEWS: Get $200 in Bonuses and 4x Sweat-Free Picks for Seahawks vs Bears",
+          "url": "https://www.foxnews.com/outkick-betting/betr-promo-code-foxnews-get-200-bonuses-4x-sweat-free-picks-seahawks-vs-bears",
+          "published_at": "2026-11-02T20:56:53Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Fanatics Sportsbook Promo Code FOXNEWS350: Bet $20, Get $350 on Seahawks vs Bears on MNF",
+          "url": "https://www.foxnews.com/outkick-betting/fanatics-sportsbook-promo-code-foxnews350-bet-20-get-350-seahawks-vs-bears-mnf",
+          "published_at": "2026-11-02T20:57:52Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "BetMGM Bonus Code FOXNEWS: Cover Your First Seahawks vs Bears MNF Bet up to $1500",
+          "url": "https://www.foxnews.com/outkick-betting/betmgm-bonus-code-foxnews-cover-your-first-seahawks-vs-bears-mnf-bet-up-1500",
+          "published_at": "2026-11-02T20:58:20Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Best Sportsbook Promos for Monday Night Football: Get $2,000+ in Bonuses for Bears vs Seahawks",
+          "url": "https://www.foxnews.com/outkick-betting/best-sportsbook-promos-monday-night-football-get-2000-bonuses-bears-vs-seahawks",
+          "published_at": "2026-11-02T20:59:34Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Kalshi updates $55 MNF promo code \u201cMASSLIVE1\u201d for Bears-Seahawks and Celtics-Rockets",
+          "url": "https://www.masslive.com/betting/2026/11/kalshi-updates-55-mnf-promo-code-masslive1-for-bears-seahawks-and-celtics-rockets.html",
+          "published_at": "2026-11-03T00:45:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "ICE officer charged with ramming man with SUV in Houston turns himself in",
+      "score": 52,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "CBS News",
+        "PBS NewsHour",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-02T19:44:40Z",
+      "reports": [
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "ICE officer charged with ramming man with SUV in Houston turns himself in",
+          "url": "https://www.pbs.org/newshour/nation/ice-officer-charged-with-ramming-man-with-suv-in-houston-turns-himself-in",
+          "published_at": "2026-11-02T19:44:40Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "ICE officer accused of hitting immigrant in Houston with an SUV turns himself in",
+          "url": "https://www.bostonglobe.com/2026/11/02/nation/ice-officer-houston-suv-assault/",
+          "published_at": "2026-11-02T21:09:57Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "ICE officer turns himself in after allegedly running down immigrant with SUV",
+          "url": "https://www.cbsnews.com/video/ice-officer-turns-himself-allegedly-running-down-immigrant-suv/",
+          "published_at": "2026-11-03T00:32:30Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "ICE officer charged in Texas after allegedly hitting man with vehicle",
+          "url": "https://www.cbsnews.com/news/ice-officer-indicted-felony-texas-hit-man-vehicle/",
+          "published_at": "2026-11-03T00:53:16Z"
+        }
+      ]
+    },
+    {
+      "headline": "Is El Ni\u00f1o making storms and flash floods in the Southwest worse?",
+      "score": 51,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "PBS NewsHour",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-02T21:19:37Z",
+      "reports": [
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Is El Ni\u00f1o making storms and flash floods in the Southwest worse?",
+          "url": "https://www.pbs.org/newshour/science/is-el-nino-making-storms-and-flash-floods-in-the-southwest-worse",
+          "published_at": "2026-11-02T21:19:37Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "\u2018Devastating\u2019 Damage as Hard Rains and Flash Floods Batter the Southwest",
+          "url": "https://www.nytimes.com/2026/11/02/weather/southwest-flooding-four-corners.html",
+          "published_at": "2026-11-03T01:22:59Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Is El Ni\u00f1o making storms and flash floods in the Southwest worse?",
+          "url": "https://www.wcvb.com/article/is-el-nino-making-storms-and-flash-floods-in-the-southwest-worse/74314777",
+          "published_at": "2026-11-03T01:27:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "New York reports first measles death in more than 30 years",
+      "score": 51,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "NBC News",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-02T23:52:36Z",
+      "reports": [
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "New York reports first measles death in more than 30 years",
+          "url": "https://www.nbcnews.com/health/health-news/new-york-measles-death-rcna607137",
+          "published_at": "2026-11-02T23:52:36Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "New York state reports 1st measles-associated death in over 30 years",
+          "url": "https://abcnews.com/Health/new-york-state-reports-1st-measles-death-30/story?id=137787620",
+          "published_at": "2026-11-03T00:46:07Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Child Dies From Measles in New York State\u2019s First Fatal Case in 30 Years",
+          "url": "https://www.nytimes.com/2026/11/02/nyregion/measles-death-child-new-york-lewis-county.html",
+          "published_at": "2026-11-03T01:04:46Z"
+        }
+      ]
+    },
+    {
+      "headline": "Boston Public Schools proposing closing 2 high schools, adding grades to 2 others",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "boston"
+        ]
+      },
+      "independent_outlets": [
+        "NBC Boston",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-02T05:00:00Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Boston Public Schools proposing closing 2 high schools, adding grades to 2 others",
+          "url": "https://www.nbcboston.com/news/local/boston-public-schools-high-school-change-proposal/4042042/",
+          "published_at": "2026-11-02T05:00:00Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Boston proposes closing Charlestown High School and Greater Egleston in Roxbury",
+          "url": "https://www.bostonglobe.com/2026/11/02/metro/boston-schools-enrollment-decline-proposal-closures-2028/",
+          "published_at": "2026-11-02T22:53:30Z"
+        }
+      ]
+    },
+    {
+      "headline": "Recap: Medical examiner, forensic experts testify in Matthew Farwell trial",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "massachusetts"
+        ]
+      },
+      "independent_outlets": [
+        "NBC Boston",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-02T08:40:20Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Recap: Medical examiner, forensic experts testify in Matthew Farwell trial",
+          "url": "https://www.nbcboston.com/news/local/matthew-farwell-trial-day-16-live-updates-on-the-sandra-birchmore-case/4041616/",
+          "published_at": "2026-11-02T08:40:20Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Farwell trial daily recap: Former officer accused in death of Sandra Birchmore",
+          "url": "https://www.wcvb.com/article/farwell-birchmore-trial-daily-recap/74149247",
+          "published_at": "2026-11-03T00:07:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Six hurt when maintenance vehicles crash near Commuter Rail tracks in Norwood",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "massachusetts",
+          "mbta"
+        ]
+      },
+      "independent_outlets": [
+        "NBC Boston",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-02T09:34:17Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Six hurt when maintenance vehicles crash near Commuter Rail tracks in Norwood",
+          "url": "https://www.nbcboston.com/news/local/mbta-commuter-rail-delays-on-foxboro-line-due-to-vehicle-on-the-tracks-in-norwood/4041701/",
+          "published_at": "2026-11-02T09:34:17Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "6 workers injured when 2 maintenance vehicles collide on commuter rail tracks in Norwood",
+          "url": "https://www.bostonglobe.com/2026/11/02/metro/maintenance-vehicles-collide-norwood/",
+          "published_at": "2026-11-03T01:43:48Z"
+        }
+      ]
+    },
+    {
+      "headline": "Cockpit voice recorder recovered from plane that crashed off Nantucket",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "boston",
+          "massachusetts",
+          "nantucket"
+        ]
+      },
+      "independent_outlets": [
+        "NBC Boston",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-02T12:46:49Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Cockpit voice recorder recovered from plane that crashed off Nantucket",
+          "url": "https://www.nbcboston.com/news/local/cockpit-voice-recorder-recovered-from-medical-flight-that-crashed-off-nantucket/4041899/",
+          "published_at": "2026-11-02T12:46:49Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Cockpit recorder recovered from Boston-bound medical transport flight that crashed off Nantucket, killing 6",
+          "url": "https://www.bostonglobe.com/2026/11/02/metro/bermuda-flight-crash-cockpit-recorder/",
+          "published_at": "2026-11-02T20:19:42Z"
+        }
+      ]
+    },
+    {
+      "headline": "Here's why the 2026 MIAA football state championships are leaving Gillette",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-02T19:38:08Z",
+      "reports": [
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Here's why the 2026 MIAA football state championships are leaving Gillette",
+          "url": "https://www.masslive.com/highschoolsports/2026/11/miaa-super-bowls-moving-away-from-gillette-for-revolution-and-patriots.html",
+          "published_at": "2026-11-02T19:38:08Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "MIAA football Super Bowls will not be held at Gillette Stadium this year",
+          "url": "https://www.bostonglobe.com/2026/11/02/sports/miaa-super-bowls-gillette-stadium/",
+          "published_at": "2026-11-02T21:34:09Z"
+        }
+      ]
+    },
+    {
+      "headline": "Red Sox DFA pair of pitchers as offseason roster moves begin",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "red sox"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-03T00:15:37Z",
+      "reports": [
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Red Sox DFA pair of pitchers as offseason roster moves begin",
+          "url": "https://www.masslive.com/redsox/2026/11/red-sox-roster-crunch-leads-to-two-cuts-from-pitching-staff-including-longtime-reliever.html",
+          "published_at": "2026-11-03T00:15:37Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Chad Tracy, Payton Tolle get major award nods; Red Sox cut two pitchers",
+          "url": "https://www.bostonglobe.com/2026/11/02/sports/red-sox-chad-tracy-payton-tolle/",
+          "published_at": "2026-11-03T01:17:47Z"
+        }
+      ]
+    },
+    {
+      "headline": "Senate Control After the Midterms: Party Switches, Ties and Wild Cards",
+      "score": 45,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Fox News",
+        "The Boston Globe",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-02T10:03:42Z",
+      "reports": [
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Senate Control After the Midterms: Party Switches, Ties and Wild Cards",
+          "url": "https://www.nytimes.com/2026/11/02/us/politics/senate-midterms-tie-independents-wild-cards.html",
+          "published_at": "2026-11-02T10:03:42Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "The future of the Senate is riddled with wild cards",
+          "url": "https://www.bostonglobe.com/2026/11/02/nation/future-senate-is-riddled-with-wild-cards/",
+          "published_at": "2026-11-02T22:59:55Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "How a midterm tie gets settled in the case of the Senate",
+          "url": "https://www.foxnews.com/politics/how-midterm-tie-gets-settled-case-senate",
+          "published_at": "2026-11-02T23:38:26Z"
+        }
+      ]
+    },
+    {
+      "headline": "Recap: Fiery debate on future of Lindsay Clancy murder trial at latest hearing",
+      "score": 43,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 1,
+        "boston_local": [
+          "massachusetts"
+        ]
+      },
+      "independent_outlets": [
+        "NBC Boston",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-02T08:50:14Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Recap: Fiery debate on future of Lindsay Clancy murder trial at latest hearing",
+          "url": "https://www.nbcboston.com/news/local/lindsay-clancy-murder-trial/lindsay-clancy-trial-hearing-live-stream-live-updates/4041526/",
+          "published_at": "2026-11-02T08:50:14Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Lindsay Clancy Hearing Focuses on Holdout Juror Who Prompted Mistrial",
+          "url": "https://www.nytimes.com/2026/11/02/us/lindsay-clancy-trial-hearing.html",
+          "published_at": "2026-11-02T19:38:41Z"
+        }
+      ]
+    }
+  ]
+}
