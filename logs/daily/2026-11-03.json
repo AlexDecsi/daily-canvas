@@ -1,0 +1,68 @@
+{
+  "date": "2026-11-03",
+  "runs": [
+    {
+      "started_at": "2026-11-04T02:09:13.384457Z",
+      "outcome": "published",
+      "steps": [
+        {
+          "at": "2026-11-04T02:09:13.384460Z",
+          "step": "prepare: lock acquired (live)"
+        },
+        {
+          "at": "2026-11-04T02:09:31.913028Z",
+          "step": "prepare: ran src/news/feeds.py"
+        },
+        {
+          "at": "2026-11-04T02:09:32.031791Z",
+          "step": "prepare: ran src/news/cluster.py"
+        },
+        {
+          "at": "2026-11-04T02:21:26.469956Z",
+          "step": "finalize: published to local site"
+        }
+      ],
+      "_new_run": true,
+      "mode": "live",
+      "prelaunch": false,
+      "finished_at": "2026-11-04T02:21:26.469843Z",
+      "link_checks": [
+        {
+          "url": "https://www.bostonglobe.com/2026/11/03/metro/nh-senate-election-chris-pappas-john-sununu/",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.cbsnews.com/news/new-hampshire-2026-senate-pappas-sununu/",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.nbcboston.com/elections/2026-midterm-voting-live-updates-mass-nh-maine/4038516/",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.nytimes.com/2026/11/03/us/politics/chris-pappas-first-openly-gay-male-senator.html",
+          "ok": true,
+          "note": "HTTP 403 (blocks automated checks; not verifiable here)"
+        },
+        {
+          "url": "https://abcnews.com/video/137829186/",
+          "ok": true,
+          "note": "HTTP 200"
+        }
+      ],
+      "samples_removed": [],
+      "stories_shown": [
+        "Pappas wins New Hampshire Senate seat on midterm Election Day"
+      ],
+      "usage": {
+        "article_reads": 4,
+        "web_searches": 1,
+        "render_rounds": 4,
+        "minutes": 15
+      }
+    }
+  ]
+}

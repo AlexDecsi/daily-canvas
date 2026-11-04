@@ -1,0 +1,72 @@
+{
+  "date": "2026-11-03",
+  "mode": "live (scheduled run)",
+  "prepared_at": "2026-11-04T02:25:00Z",
+  "candidates_considered": 25,
+  "rationale": "Election Day dominates every US and Boston outlet (top two clusters, 14 and 11 US outlets). The clearest concrete, verified New England event inside the Boston day is the New Hampshire Senate result: AP called the open seat for Democrat Chris Pappas at 8:22 p.m., CBS and NBC projected it, and Republican John E. Sununu conceded. It is also one of the first battleground Senate calls of the night and makes Pappas the first openly gay man elected to the Senate. National control of Congress was still undecided at the cutoff, so no chamber outcome is drawn or claimed. Healey/Markey re-election in Massachusetts and the Alaska DOJ letters are left out of the picture to keep one clear scene.",
+  "stories": [
+    {
+      "role": "focal",
+      "name": "Pappas wins New Hampshire Senate seat on midterm Election Day",
+      "facts": [
+        "On Nov. 3, Election Day in the 2026 midterms, Democratic Rep. Chris Pappas defeated former Republican Sen. John E. Sununu for New Hampshire's open US Senate seat, left open by retiring Sen. Jeanne Shaheen.",
+        "The Associated Press called the race at 8:22 p.m. Eastern; CBS News and NBC News also projected Pappas the winner.",
+        "Sununu conceded in a speech to supporters in Manchester, saying he had called Pappas to congratulate him; Democratic partygoers cheered as word of the concession spread.",
+        "Pappas becomes the first openly gay man elected to the US Senate. The win keeps the seat in Democratic hands; control of the Senate and House was still undecided that night."
+      ],
+      "people": [
+        {
+          "name": "Chris Pappas",
+          "verified_action": "Addressed supporters on election night after his projected win (ABC News video); drawn from behind as a generic suited silhouette at a podium, no likeness."
+        }
+      ],
+      "visual_notes": "Election night in New Hampshire, seen from behind the stage: a suited figure (Pappas, back to the viewer, no face or likeness) at a podium with a stage microphone, rim-lit by spotlights, faces a room of cheering supporters with raised arms. A huge glowing generic ballot shape (blank ovals, no text) rises behind the room as a symbolic backdrop. No signs, slogans, names, numbers, confetti or crowd size claims.",
+      "confidence": "high: the AP call and Sununu's concession are confirmed by The Boston Globe's own reporting; CBS News and NBC Boston independently report the projection; the historic first is in headlines from The New York Times, The Guardian and WCVB. Pappas addressing supporters is from an ABC News video headline (single source, low-stakes; he is drawn generically from behind).",
+      "sources": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "title": "John E. Sununu concedes to Chris Pappas in N.H. race for US Senate",
+          "url": "https://www.bostonglobe.com/2026/11/03/metro/nh-senate-election-chris-pappas-john-sununu/",
+          "published_at": "2026-11-04T01:21:09Z",
+          "checked_at": "2026-11-04T02:15:00Z",
+          "checked": "full article"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "title": "Chris Pappas wins New Hampshire 2026 Senate election",
+          "url": "https://www.cbsnews.com/news/new-hampshire-2026-senate-pappas-sununu/",
+          "published_at": "2026-11-04T01:33:37Z",
+          "checked_at": "2026-11-04T02:14:00Z",
+          "checked": "full article"
+        },
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "title": "Election Day live updates: Pappas wins NH Senate race, Maine too early to call",
+          "url": "https://www.nbcboston.com/elections/2026-midterm-voting-live-updates-mass-nh-maine/4038516/",
+          "published_at": "2026-11-03T06:49:12Z",
+          "checked_at": "2026-11-04T02:10:00Z",
+          "checked": "full live page"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "title": "Representative Chris Pappas Will Become the Senate’s First Openly Gay Male Senator",
+          "url": "https://www.nytimes.com/2026/11/03/us/politics/chris-pappas-first-openly-gay-male-senator.html",
+          "published_at": "2026-11-04T01:53:08Z",
+          "checked": "headline only (paywall)"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "title": "WATCH: Chris Pappas addresses supporters after projected win in New Hampshire Senate race",
+          "url": "https://abcnews.com/video/137829186/",
+          "published_at": "2026-11-04T02:00:09Z",
+          "checked": "headline only (video)"
+        }
+      ]
+    }
+  ]
+}
