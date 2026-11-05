@@ -1,0 +1,73 @@
+{
+  "date": "2026-11-04",
+  "runs": [
+    {
+      "started_at": "2026-11-05T02:13:13.654624Z",
+      "outcome": "published",
+      "steps": [
+        {
+          "at": "2026-11-05T02:13:13.654627Z",
+          "step": "prepare: lock acquired (live)"
+        },
+        {
+          "at": "2026-11-05T02:13:32.418487Z",
+          "step": "prepare: ran src/news/feeds.py"
+        },
+        {
+          "at": "2026-11-05T02:13:32.535545Z",
+          "step": "prepare: ran src/news/cluster.py"
+        },
+        {
+          "at": "2026-11-05T02:18:00.472987Z",
+          "step": "finalize: published to local site"
+        }
+      ],
+      "_new_run": true,
+      "mode": "live",
+      "prelaunch": false,
+      "finished_at": "2026-11-05T02:18:00.472795Z",
+      "link_checks": [
+        {
+          "url": "https://www.cbsnews.com/live-updates/senate-election-results-2026/",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.cbsnews.com/live-updates/house-election-results-2026/",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.nbcnews.com/politics/congress/house-speaker-mike-johnson-republican-leader-gop-losses-rcna607434",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.nbcnews.com/nightly-news/video/democrats-take-house-and-senate-in-historic-midterm-win-272884293564",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.wcvb.com/article/will-democrats-impeach-trump-party-leaders-lay-out-priorities-after-winning-control-of-congress/74339098",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.nytimes.com/2026/11/03/world/us-midterms-trump-iran-ukraine.html",
+          "ok": true,
+          "note": "HTTP 403 (blocks automated checks; not verifiable here)"
+        }
+      ],
+      "samples_removed": [],
+      "stories_shown": [
+        "Democrats win control of the House and Senate"
+      ],
+      "usage": {
+        "article_reads": 6,
+        "web_searches": 0,
+        "render_rounds": 4,
+        "minutes": 22
+      }
+    }
+  ]
+}

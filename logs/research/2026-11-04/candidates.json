@@ -1,0 +1,1895 @@
+{
+  "date": "2026-11-04",
+  "fetched_at": "2026-11-05T02:13:32.393851Z",
+  "items_considered": 540,
+  "candidates": [
+    {
+      "headline": "See CBS News exit poll results for the 2026 midterm elections",
+      "score": 162,
+      "signals": {
+        "us_outlets": 11,
+        "intl_outlets": 2,
+        "front_pages": 6,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "Axios",
+        "BBC News",
+        "Bloomberg",
+        "CBS News",
+        "CNBC",
+        "Fox News",
+        "Los Angeles Times",
+        "NBC News",
+        "PBS NewsHour",
+        "The Guardian",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-04T06:15:00Z",
+      "reports": [
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "See CBS News exit poll results for the 2026 midterm elections",
+          "url": "https://www.cbsnews.com/news/cbs-news-exit-polls-midterm-elections-2026/",
+          "published_at": "2026-11-04T06:15:00Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Watch: Key moments from the US midterm election results",
+          "url": "https://www.bbc.co.uk/news/videos/cq3dj7xn2xvko?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-04T07:23:10Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "How Astronauts Voted From Space in the Midterm Elections",
+          "url": "https://www.nytimes.com/2026/11/04/us/politics/midterm-elections-remote-voting-astronauts-space-antarctica.html",
+          "published_at": "2026-11-04T11:27:41Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Everything you need to know from the US midterm elections",
+          "url": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-04T14:05:42Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "WATCH: World leaders react to US midterm elections",
+          "url": "https://abcnews.com/video/137845749/",
+          "published_at": "2026-11-04T14:54:26Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "The Republican Party\u2019s Financial Advantage Wasn\u2019t Enough in the 2026 Midterm Elections",
+          "url": "https://www.nytimes.com/2026/11/04/us/republican-party-fundraising-midterms.html",
+          "published_at": "2026-11-04T16:23:39Z"
+        },
+        {
+          "publisher": "Los Angeles Times",
+          "group": "latimes",
+          "kind": "news",
+          "wire": false,
+          "title": "Wins and losses: Sports figures turned politicians have mixed results in midterm elections",
+          "url": "https://www.latimes.com/sports/story/2026-11-04/midterm-elections-results-sports-figures-turned-politicians",
+          "published_at": "2026-11-04T16:50:07Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "UK politics: Burnham says US midterm results have created \u2018opportunity\u2019 for world to focus on cost of living and ending Iran war \u2013 as it happened",
+          "url": "https://www.theguardian.com/politics/live/2026/nov/04/ed-miliband-andy-burnham-king-charles-labour-louise-haigh-alex-burghart-pmqs-conservatives-uk-politics-latest-news",
+          "published_at": "2026-11-04T17:01:31Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "JD Vance says US war on Iran is \u2018real reason\u2019 Republicans lost midterm elections",
+          "url": "https://www.theguardian.com/us-news/2026/nov/04/jd-vance-iran-war-midterms-election",
+          "published_at": "2026-11-04T17:15:33Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Vance says the Iran war cost Republicans the midterms",
+          "url": "https://www.axios.com/2026/11/04/jd-vance-iran-war-trump-election",
+          "published_at": "2026-11-04T18:22:47Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Oil prices plunge after Vance post on Iran war",
+          "url": "https://www.axios.com/2026/11/04/oil-prices-plunge-midterms-vance-democrats-iran",
+          "published_at": "2026-11-04T19:34:07Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump speaks about White House ballroom and Iran war\u2019s unpopularity after midterm losses \u2013 video",
+          "url": "https://www.theguardian.com/us-news/video/2026/nov/04/trump-speaks-about-white-house-ballroom-and-iran-wars-unpopularity-after-midterm-losses-video",
+          "published_at": "2026-11-04T19:57:37Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Crude oil prices fall below $90 a barrel as Vance blames GOP election defeat on Iran war",
+          "url": "https://www.cnbc.com/2026/11/04/oil-price-iran-war-us-election-strait-hormuz.html",
+          "published_at": "2026-11-04T20:14:52Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump touts White House ballroom after GOP midterm losses",
+          "url": "https://www.cbsnews.com/news/trump-2026-midterms-republicans-white-house-ballroom/",
+          "published_at": "2026-11-04T20:16:34Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "U.S. stocks surge, and the Dow soars 1,500 points as Brent oil's price drops below $95 per barrel",
+          "url": "https://www.pbs.org/newshour/economy/u-s-stocks-surge-and-the-dow-soars-1500-points-as-brent-oils-price-drops-below-95-per-barrel",
+          "published_at": "2026-11-04T20:47:45Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Forget the midterm ballots. Trump is back to ballrooms.",
+          "url": "https://www.axios.com/2026/11/04/trump-ballroom-focus-2026-midterm-election",
+          "published_at": "2026-11-04T20:47:47Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Mike Johnson Won\u2019t Seek Re-Election as House Leader After GOP Midterm Losses",
+          "url": "https://www.nytimes.com/2026/11/04/us/mike-johnson-reelection-house-leader.html",
+          "published_at": "2026-11-04T21:31:06Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Erika Kirk channels Charlie with blunt message to conservatives after GOP midterm losses",
+          "url": "https://www.foxnews.com/politics/erika-kirk-channels-charlie-blunt-message-conservatives-after-gop-midterm-losses",
+          "published_at": "2026-11-04T23:00:14Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump dismisses prospect of replacing Hegseth amid Iran war fallout",
+          "url": "https://abcnews.com/Politics/trump-dismisses-prospect-replacing-hegseth-amid-iran-war/story?id=137852219",
+          "published_at": "2026-11-04T23:16:55Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Panetta Says Voters Sent Trump a Message on Iran War",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-04/panetta-says-voters-sent-trump-a-message-on-iran-war-video",
+          "published_at": "2026-11-04T23:19:07Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "From party control to voter turnout: These charts explain the 2026 midterm election results",
+          "url": "https://www.wcvb.com/article/8-charts-explain-2026-midterms/74335794",
+          "published_at": "2026-11-04T23:21:00Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Stock market surges on election results",
+          "url": "https://www.nbcnews.com/nightly-news/video/stock-market-surges-on-election-results-272882757861",
+          "published_at": "2026-11-04T23:51:37Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "These candidates made history in the 2026 midterm elections",
+          "url": "https://abcnews.com/Politics/candidates-made-history-2026-midterm-elections/story?id=137829582",
+          "published_at": "2026-11-05T00:03:33Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Five reasons why Republicans lost so badly",
+          "url": "https://www.bbc.co.uk/news/articles/cqkgjvr00zmyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-05T00:07:19Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Black candidates from both parties made history in midterm elections",
+          "url": "https://abcnews.com/Politics/black-candidates-make-history-party-lines-250-years/story?id=137851377",
+          "published_at": "2026-11-05T00:26:47Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Ted Cruz Laments GOP\u2019s Midterm Losses and Texas Turning Blue",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-05/ted-cruz-laments-gop-s-midterm-losses-and-texas-turning-blue",
+          "published_at": "2026-11-05T00:35:58Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Melania Trump to bring Russian and Ukrainian representatives to White House this week",
+          "url": "https://www.wcvb.com/article/melania-trump-russian-ukrainian-representatives-white-house/74323144",
+          "published_at": "2026-11-05T02:02:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Democrats Win Big",
+      "score": 123,
+      "signals": {
+        "us_outlets": 8,
+        "intl_outlets": 1,
+        "front_pages": 5,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "Axios",
+        "CBS News",
+        "NBC News",
+        "NPR",
+        "PBS NewsHour",
+        "The Guardian",
+        "The Hill",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-04T05:45:07Z",
+      "reports": [
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrats Win Big",
+          "url": "https://www.nytimes.com/2026/11/03/world/us-midterms-trump-iran-ukraine.html",
+          "published_at": "2026-11-04T05:45:07Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrats Deliver a Big Blue Bludgeoning",
+          "url": "https://www.nytimes.com/2026/11/04/us/politics/democrats-deliver-a-big-blue-bludgeoning.html",
+          "published_at": "2026-11-04T12:52:35Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrats win chance to take on energy costs",
+          "url": "https://www.axios.com/2026/11/04/democrats-midterms-energy-costs",
+          "published_at": "2026-11-04T13:16:43Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "WATCH: What Democrats' big night means for the political landscape",
+          "url": "https://abcnews.com/video/137845838/",
+          "published_at": "2026-11-04T14:54:31Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump says he was 'a little bit surprised' after Democrats' big win in midterms",
+          "url": "https://abcnews.com/Politics/trump-bit-surprised-after-democrats-big-win-midterms/story?id=137835787",
+          "published_at": "2026-11-04T15:26:49Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "WATCH: Sen. Cory Booker sees 'big realignment' of US after Democrats' win",
+          "url": "https://abcnews.com/video/137849355/",
+          "published_at": "2026-11-04T17:05:15Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump\u2019s wealth dented after Democrats trounce Republicans in midterms",
+          "url": "https://www.theguardian.com/us-news/2026/nov/04/trump-wealth-midterm-elections",
+          "published_at": "2026-11-04T20:29:09Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrats sweeping victories mean big changes for Trump's final two years in office",
+          "url": "https://www.npr.org/2026/11/04/nx-s1-6028819/democrats-sweeping-victories-mean-big-changes-for-trumps-final-two-years-in-office",
+          "published_at": "2026-11-04T21:38:44Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump Wanted Democrats to Win",
+          "url": "https://www.nytimes.com/2026/11/04/opinion/trump-democrats-midterms.html",
+          "published_at": "2026-11-04T22:32:07Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrats win House majority with Trump approval at historic low",
+          "url": "https://www.cbsnews.com/live-updates/house-election-results-2026/",
+          "published_at": "2026-11-04T23:11:28Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Vance, in Break With Trump, Blames Iran War for Republicans\u2019 2026 Midterm Losses",
+          "url": "https://www.nytimes.com/2026/11/04/us/politics/vance-iran-war-midterms-trump.html",
+          "published_at": "2026-11-04T23:26:48Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "What Trump\u2019s Midterm Defeat Means for Iran and Oil Prices",
+          "url": "https://www.nytimes.com/2026/11/04/world/asia/midterms-trump-foreign-policy-world.html",
+          "published_at": "2026-11-04T23:36:59Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Tech moguls suffer defeat as midterm results show young men swinging away from Trump",
+          "url": "https://www.nbcnews.com/video/tech-moguls-suffer-defeat-as-manosphere-swings-away-from-trump-272884805508",
+          "published_at": "2026-11-04T23:45:20Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Breaking down the Democrats' big majorities after the blue wave",
+          "url": "https://www.pbs.org/newshour/show/breaking-down-the-democrats-big-majorities-after-the-blue-wave",
+          "published_at": "2026-11-04T23:45:30Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "News Wrap: Officials in Iran welcome midterm results as vote against war",
+          "url": "https://www.pbs.org/newshour/show/news-wrap-officials-in-iran-welcome-midterm-results-as-vote-against-war",
+          "published_at": "2026-11-04T23:50:44Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "The blame game: Administration points finger at Iran after major GOP midterm loss",
+          "url": "https://thehill.com/newsletters/defense-national-security/6199780-the-blame-game-administration-points-finger-at-iran-after-major-gop-midterm-loss/",
+          "published_at": "2026-11-04T23:51:21Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Midterm voters rebuke Trump, handing Democrats both chambers of Congress",
+          "url": "https://www.pbs.org/newshour/show/midterm-voters-rebuke-trump-handing-democrats-both-chambers-of-congress",
+          "published_at": "2026-11-04T23:55:07Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "How Democrats pulled off a historic win in Texas",
+          "url": "https://www.cbsnews.com/video/how-democrats-pulled-off-texas-wins/",
+          "published_at": "2026-11-05T00:09:04Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Talarico, Hinojosa win Texas for Democrats amid wide discontent over ICE tactics, more",
+          "url": "https://www.cbsnews.com/video/talarico-hinojosa-win-texas-for-democrats-amid-wide-discontent-over-ice-tactics-more/",
+          "published_at": "2026-11-05T00:31:25Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "A day after a stinging midterm defeat, Trump focuses on his ballroom.",
+          "url": "https://www.nytimes.com/live/2026/11/04/us/midterm-election-results-democrats/a-day-after-a-stinging-midterm-defeat-trump-focuses-on-his-ballroom",
+          "published_at": "2026-11-05T00:33:16Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Pete Hegseth may take fall for Republicans\u2019 midterm losses, despite Trump support",
+          "url": "https://www.theguardian.com/us-news/2026/nov/04/pete-hegseth-republicans-midterm-losses",
+          "published_at": "2026-11-05T00:41:00Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Iowa Democrat who quit race wins seat anyway",
+          "url": "https://thehill.com/homenews/state-watch/6199864-eric-armstrong-iowa-house-win/",
+          "published_at": "2026-11-05T00:41:44Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "House Democrats face epic power struggle over their massive majority",
+          "url": "https://www.axios.com/2026/11/05/house-democrats-jeffries-centrists-majority-left",
+          "published_at": "2026-11-05T00:47:05Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "The 2026 blue wave, in charts",
+          "url": "https://www.cbsnews.com/news/2026-elections-blue-wave-charts-data/",
+          "published_at": "2026-11-05T00:47:55Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Iran says U.S. election results show Americans reject the war",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/",
+          "published_at": "2026-11-05T00:55:48Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Live updates: Trump blames Iran war for midterm loss while touting ballroom construction",
+          "url": "https://thehill.com/homenews/campaign/6188142-live-updates-trump-democrats-congress-control/",
+          "published_at": "2026-11-05T00:56:00Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "After midterm defeat, Trump faces mostly bad options in Iran",
+          "url": "https://www.axios.com/2026/11/05/trump-iran-war-midterm-defeat-bad-options",
+          "published_at": "2026-11-05T00:57:18Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Inside Team Trump\u2019s Historic Collapse in the 2026 Midterm Elections",
+          "url": "https://www.nytimes.com/2026/11/04/us/politics/trump-midterms-losses-republicans.html",
+          "published_at": "2026-11-05T02:02:47Z"
+        }
+      ]
+    },
+    {
+      "headline": "WATCH: House Speaker Mike Johnson speaks after Democrats projected to take control of House",
+      "score": 123,
+      "signals": {
+        "us_outlets": 8,
+        "intl_outlets": 1,
+        "front_pages": 5,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "Axios",
+        "CNBC",
+        "Fox News",
+        "NBC News",
+        "NPR",
+        "PBS NewsHour",
+        "The Guardian",
+        "The Hill"
+      ],
+      "first_seen": "2026-11-04T10:32:52Z",
+      "reports": [
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "WATCH: House Speaker Mike Johnson speaks after Democrats projected to take control of House",
+          "url": "https://abcnews.com/video/137834129/",
+          "published_at": "2026-11-04T10:32:52Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Mike Johnson bows out of leadership after crushing House GOP defeat",
+          "url": "https://www.axios.com/2026/11/04/speaker-mike-johnson-retires-house-republicans-midterms",
+          "published_at": "2026-11-04T15:14:11Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "House Speaker Mike Johnson won\u2019t stay on as Republican leader after GOP losses",
+          "url": "https://www.nbcnews.com/politics/congress/house-speaker-mike-johnson-republican-leader-gop-losses-rcna607434",
+          "published_at": "2026-11-04T15:14:15Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Texas Democrat James Talarico speaks out after projected win against Paxton",
+          "url": "https://abcnews.com/Politics/texas-democrat-james-talarico-speaks-after-win-paxton/story?id=137841748",
+          "published_at": "2026-11-04T16:01:53Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Mike Johnson says he will not pursue House minority leader role \u2013 reports",
+          "url": "https://www.theguardian.com/us-news/2026/nov/04/mike-johnson-house-leadership",
+          "published_at": "2026-11-04T17:08:29Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Mike Johnson will step aside as top House Republican next Congress",
+          "url": "https://www.npr.org/2026/11/04/g-s1-151854/2026-midterms-mike-johnson-speaker",
+          "published_at": "2026-11-04T18:14:13Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrats win full control of more state governments and the Texas House",
+          "url": "https://www.pbs.org/newshour/politics/democrats-win-full-control-of-more-state-governments-and-the-texas-house",
+          "published_at": "2026-11-04T21:50:17Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "JACKSON THOMPSON: Democrat-appointed judges hand Letitia James win over county trying to protect girls sports",
+          "url": "https://www.foxnews.com/outkick-sports/jackson-thompson-democrat-appointed-judges-hand-letitia-james-win-county-trying-protect-girls-sports",
+          "published_at": "2026-11-04T22:21:30Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "WATCH: What to know after Democrats take back control of Congress",
+          "url": "https://abcnews.com/video/137859587/",
+          "published_at": "2026-11-04T22:24:26Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrats take Congress in a blue wave. Here's what it means for your money",
+          "url": "https://www.cnbc.com/2026/11/04/blue-wave-democrats-control-congress-your-money.html",
+          "published_at": "2026-11-04T23:11:48Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "None of the House Republicans who voted to impeach Trump will be in the next Congress",
+          "url": "https://thehill.com/homenews/house/6199833-trump-impeachment-vote-republicans-exit/",
+          "published_at": "2026-11-05T00:33:50Z"
+        }
+      ]
+    },
+    {
+      "headline": "Adam Hamilton wins Kansas Senate race in another Democratic upset",
+      "score": 91,
+      "signals": {
+        "us_outlets": 6,
+        "intl_outlets": 1,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "CBS News",
+        "CNBC",
+        "NBC News",
+        "The Guardian",
+        "The Hill",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-04T05:03:00Z",
+      "reports": [
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Adam Hamilton wins Kansas Senate race in another Democratic upset",
+          "url": "https://www.cbsnews.com/news/kansas-2026-senate-hamilton-marshall/",
+          "published_at": "2026-11-04T05:03:00Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Abdul El-Sayed wins Michigan Senate race, CBS News projects",
+          "url": "https://www.cbsnews.com/news/michigan-2026-senate-el-sayed-rogers/",
+          "published_at": "2026-11-04T07:29:00Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Rep. Hillary Scholten on Abdul El-Sayed's Senate victory, Democrats' huge midterm gains",
+          "url": "https://www.cbsnews.com/video/rep-hillary-scholten-on-el-sayeds-senate-victory/",
+          "published_at": "2026-11-04T23:14:00Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "How Kansas Democrats Laid the Groundwork for Adam Hamilton\u2019s Senate Upset",
+          "url": "https://www.nytimes.com/2026/11/04/us/kansas-adam-hamilton-democrats.html",
+          "published_at": "2026-11-04T23:54:08Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "5 takeaways on the demographic shifts that powered the Democrats\u2019 midterm victory",
+          "url": "https://thehill.com/homenews/analysis/6199809-five-takeaways-on-the-demographic-shifts-that-powered-the-democrats-midterm-victory/",
+          "published_at": "2026-11-05T00:06:49Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrats take House and Senate in historic midterm win",
+          "url": "https://www.nbcnews.com/nightly-news/video/democrats-take-house-and-senate-in-historic-midterm-win-272884293564",
+          "published_at": "2026-11-05T00:11:40Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrats win Senate control \u2014 live updates",
+          "url": "https://www.cbsnews.com/live-updates/senate-election-results-2026/",
+          "published_at": "2026-11-05T00:32:21Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "What's next as Democrats win control of House, Senate, CBS News projects",
+          "url": "https://www.cbsnews.com/video/whats-next-as-democrats-win-control-of-house-senate-cbs-news-projects/",
+          "published_at": "2026-11-05T00:39:02Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Midterm fallout begins after Democrats win control of Congress",
+          "url": "https://www.cbsnews.com/live-updates/election-day-2026-midterms/",
+          "published_at": "2026-11-05T00:58:59Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Stock futures are little changed after big rally following Democrats' decisive midterm wins",
+          "url": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html",
+          "published_at": "2026-11-05T01:27:15Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Will Democrats impeach Trump? Party leaders lay out priorities after winning control of Congress",
+          "url": "https://www.wcvb.com/article/will-democrats-impeach-trump-party-leaders-lay-out-priorities-after-winning-control-of-congress/74339098",
+          "published_at": "2026-11-05T01:29:00Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Abdul El-Sayed\u2019s Senate Win Is Big to Muslim Americans, but Not Because of Faith",
+          "url": "https://www.nytimes.com/2026/11/04/us/muslim-americans-el-sayed.html",
+          "published_at": "2026-11-05T01:33:07Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "DFL trifecta 2.0: Democrats win full control of Minnesota government",
+          "url": "https://www.cbsnews.com/news/minnesota-legislature-balance-of-power-2026-house-senate-control/",
+          "published_at": "2026-11-05T01:43:53Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "US midterm elections 2026 live: Democratic lead grows in Mississippi Senate race as Republican blame game begins",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates",
+          "published_at": "2026-11-05T02:06:38Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Mississippi Senate race is toss-up, with razor-thin margin",
+          "url": "https://www.cbsnews.com/news/mississippi-senate-race-results-2026-midterms/",
+          "published_at": "2026-11-05T02:11:21Z"
+        }
+      ]
+    },
+    {
+      "headline": "Ballot measure takeaways: Voters back abortion rights and voter ID",
+      "score": 79,
+      "signals": {
+        "us_outlets": 5,
+        "intl_outlets": 0,
+        "front_pages": 4,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "CNBC",
+        "Fox News",
+        "NBC News",
+        "NPR",
+        "PBS NewsHour"
+      ],
+      "first_seen": "2026-11-04T21:24:36Z",
+      "reports": [
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Ballot measure takeaways: Voters back abortion rights and voter ID",
+          "url": "https://www.nbcnews.com/politics/2026-election/ballot-measure-takeaways-voters-back-abortion-rights-photo-id-citizens-rcna607016",
+          "published_at": "2026-11-04T21:24:36Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Where voters stand on state ballot measures, from abortion to LGBTQ rights to guns",
+          "url": "https://www.npr.org/2026/11/04/nx-s1-6028833/midterms-ballot-measures-abortion-lgbtq-guns",
+          "published_at": "2026-11-04T21:49:17Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Voters rebuff data centers in every ballot measure except one during the 2026 midterms",
+          "url": "https://www.cnbc.com/2026/11/04/data-center-ballot-measures-2026-midterm.html",
+          "published_at": "2026-11-04T22:29:51Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Idaho voters focused on the real issues during midterms, like choosing the Winchester 1873 as their state gun",
+          "url": "https://www.foxnews.com/outkick-sports/idaho-voters-focused-real-issues-midterms-choosing-winchester-1873-state-gun",
+          "published_at": "2026-11-04T22:37:06Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "The issues that drove voters' decisions in the midterms",
+          "url": "https://www.pbs.org/newshour/show/the-issues-that-drove-voters-decisions-in-the-midterms",
+          "published_at": "2026-11-04T23:40:31Z"
+        }
+      ]
+    },
+    {
+      "headline": "Troy Jackson defeats GOP Sen. Susan Collins in Maine, padding Democrats\u2019 majority",
+      "score": 78,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": [
+          "maine"
+        ]
+      },
+      "independent_outlets": [
+        "NBC News",
+        "The New York Times",
+        "WBUR",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-04T05:49:24Z",
+      "reports": [
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Troy Jackson defeats GOP Sen. Susan Collins in Maine, padding Democrats\u2019 majority",
+          "url": "https://www.nbcnews.com/politics/2026-election/troy-jackson-maine-senator-win-democrat-senate-majority-susan-collins-rcna603312",
+          "published_at": "2026-11-04T05:49:24Z"
+        },
+        {
+          "publisher": "WBUR",
+          "group": "wbur",
+          "kind": "news",
+          "wire": false,
+          "title": "Maine: Troy Jackson bests incumbent Susan Collins in close Senate race",
+          "url": "https://www.wbur.org/news/2026/11/04/maine-troy-jackson-wins-senate-race",
+          "published_at": "2026-11-04T06:13:30Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "How Troy Jackson Defeated Susan Collins in Maine, Ending Her 30 Year Senate Career",
+          "url": "https://www.nytimes.com/2026/11/04/us/politics/how-troy-jackson-beat-susan-collins.html",
+          "published_at": "2026-11-04T21:36:04Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Mississippi\u2019s Senate Race Is Close. The State Has No Vote Recount Law.",
+          "url": "https://www.nytimes.com/2026/11/04/us/mississippi-senate-election-recount-law.html",
+          "published_at": "2026-11-04T23:54:31Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Mississippi Senate race is still too close to call",
+          "url": "https://www.wcvb.com/article/mississippi-senate-race-colom-hyde-smith/74336276",
+          "published_at": "2026-11-05T00:02:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Mother and daughter killed in grizzly bear attack, Canadian authorities confirm",
+      "score": 76,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 2,
+        "front_pages": 4,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "BBC News",
+        "Fox News",
+        "MassLive",
+        "The Guardian",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-04T19:42:47Z",
+      "reports": [
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Mother and daughter killed in grizzly bear attack, Canadian authorities confirm",
+          "url": "https://www.theguardian.com/world/2026/nov/04/canada-bear-attack-mother-daughter-killed",
+          "published_at": "2026-11-04T19:42:47Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Canadian mother and daughter dead after suspected grizzly bear attack on hiking trail",
+          "url": "https://www.foxnews.com/world/canadian-mother-daughter-dead-suspected-grizzly-bear-attack-hiking-trail",
+          "published_at": "2026-11-04T21:14:59Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Canadian mom, daughter killed in suspected bear attack",
+          "url": "https://www.masslive.com/news/2026/11/mom-daughter-killed-in-suspected-bear-attack.html",
+          "published_at": "2026-11-04T21:29:47Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Canadian authorities say multiple grizzlies may have attacked mother and daughter found dead",
+          "url": "https://www.wcvb.com/article/canada-possible-grizzly-attack-mother-daughter/74338317",
+          "published_at": "2026-11-04T23:13:00Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Mother and daughter die after suspected grizzly bear attack in Canada",
+          "url": "https://www.bbc.co.uk/news/articles/cqvgry8k5d01o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-04T23:50:40Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Authorities say multiple grizzlies may have attacked mother and daughter found dead",
+          "url": "https://abcnews.com/International/wireStory/canadian-authorities-multiple-grizzlies-attacked-mother-daughter-found-137863509",
+          "published_at": "2026-11-05T01:13:21Z"
+        }
+      ]
+    },
+    {
+      "headline": "Florida sheriff says 2 dead, including suspect, as witnesses report shooting at Tampa office complex",
+      "score": 68,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 0,
+        "front_pages": 4,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "CBS News",
+        "Fox News",
+        "MassLive",
+        "PBS NewsHour"
+      ],
+      "first_seen": "2026-11-04T22:14:47Z",
+      "reports": [
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Florida sheriff says 2 dead, including suspect, as witnesses report shooting at Tampa office complex",
+          "url": "https://www.pbs.org/newshour/nation/florida-sheriff-says-2-dead-including-suspect-as-witnesses-report-shooting-at-tampa-office-complex",
+          "published_at": "2026-11-04T22:14:47Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "2 dead at Florida office complex, including gunman",
+          "url": "https://www.masslive.com/news/2026/11/2-dead-at-florida-office-complex-including-gunman-shot-by-security-guard.html",
+          "published_at": "2026-11-04T22:44:36Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Four dead, including Washington deputy, following domestic call shooting; another deputy on life support",
+          "url": "https://www.foxnews.com/us/four-dead-including-washington-deputy-following-domestic-call-shooting-another-deputy-life-support",
+          "published_at": "2026-11-04T23:41:09Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "4 dead, including deputy and suspect, in Washington state shooting",
+          "url": "https://www.cbsnews.com/news/several-dead-shooting-washington-state-deputies/",
+          "published_at": "2026-11-05T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Officials share cause of fire involved in Boston firefighter Bobby Kilduff\u2019s death",
+      "score": 61,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "boston"
+        ]
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "MassLive",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-04T20:37:02Z",
+      "reports": [
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Officials share cause of fire involved in Boston firefighter Bobby Kilduff\u2019s death",
+          "url": "https://www.masslive.com/boston/2026/11/officials-share-cause-of-fire-involved-in-boston-firefighter-bobby-kilduffs-death.html",
+          "published_at": "2026-11-04T20:37:02Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Wu, fire commissioner provide update on cause of fire that killed Boston firefighter Bobby Kilduff",
+          "url": "https://www.boston.com/news/local-news/2026/11/04/wu-fire-commissioner-provide-update-on-cause-of-fire-that-killed-boston-firefighter-bobby-kilduff/",
+          "published_at": "2026-11-04T22:23:25Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Louisa Gag\u2019s family urges Boston officials to take concrete action on traffic deaths",
+          "url": "https://www.wcvb.com/article/family-of-cyclist-louisa-gag-presses-boston-to-act-on-traffic-deaths/74338227",
+          "published_at": "2026-11-04T23:20:00Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Batteries in toolbox caused Dorchester fire that led to firefighter's death, officials say",
+          "url": "https://www.wcvb.com/article/boston-firefighter-kilduff-death-investigation-nov-4-2026/74334273",
+          "published_at": "2026-11-05T01:03:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Women ride midterm blue wave to historic gains",
+      "score": 60,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "Axios",
+        "MassLive",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-04T17:40:55Z",
+      "reports": [
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Women ride midterm blue wave to historic gains",
+          "url": "https://www.axios.com/2026/11/04/women-midterm-blue-wave-historic-gains",
+          "published_at": "2026-11-04T17:40:55Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Hakeem Jeffries downplays Trump impeachment talk after historic blue wave",
+          "url": "https://www.masslive.com/politics/2026/11/hakeem-jeffries-downplays-trump-impeachment-talk-after-historic-blue-wave.html",
+          "published_at": "2026-11-04T22:00:00Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Local analyst discusses 2026 midterm 'blue wave'",
+          "url": "https://www.wcvb.com/article/political-expert-tom-whalen-significance-2026-midterm-blue-wave/74338538",
+          "published_at": "2026-11-05T00:03:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Back in the majority, Democrats have plans for a long list of Trump investigations",
+      "score": 50,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 0,
+        "front_pages": 1,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Axios",
+        "CNBC",
+        "NPR",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-04T17:38:36Z",
+      "reports": [
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Back in the majority, Democrats have plans for a long list of Trump investigations",
+          "url": "https://www.npr.org/2026/11/04/g-s1-150276/2026-midterms-democrats-investigations",
+          "published_at": "2026-11-04T17:38:36Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrats vow Trump investigations, but voters have another priority too",
+          "url": "https://www.axios.com/2026/11/04/democrats-trump-investigations-affordability-agenda",
+          "published_at": "2026-11-04T18:50:01Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "On the Democrats\u2019 Agenda: Investigations of Trump and His Family",
+          "url": "https://www.nytimes.com/2026/11/04/us/trump-family-investigations-democrats.html",
+          "published_at": "2026-11-04T21:46:44Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it",
+          "url": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html",
+          "published_at": "2026-11-04T22:46:43Z"
+        }
+      ]
+    },
+    {
+      "headline": "Black Candidates for Governor Break Barriers in Four States",
+      "score": 45,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "CBS News",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-04T13:08:00Z",
+      "reports": [
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Black Candidates for Governor Break Barriers in Four States",
+          "url": "https://www.nytimes.com/2026/11/04/us/elections/black-governors-georgia-florida-wisconsin-usvi.html",
+          "published_at": "2026-11-04T13:08:00Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Black candidates for governor make history with midterm victories",
+          "url": "https://www.cbsnews.com/news/2026-midterm-elections-governors-races-bottoms-donalds-crowley-moore-ford/",
+          "published_at": "2026-11-04T18:38:00Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "WATCH: Candidates make midterms history",
+          "url": "https://abcnews.com/video/137857899/",
+          "published_at": "2026-11-04T20:41:12Z"
+        }
+      ]
+    },
+    {
+      "headline": "LIV Golf's new funding partner pulls out over lack of player commitment in huge blow to league: report",
+      "score": 45,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ESPN",
+        "Fox News",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-04T22:01:19Z",
+      "reports": [
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "LIV Golf's new funding partner pulls out over lack of player commitment in huge blow to league: report",
+          "url": "https://www.foxnews.com/outkick-sports/liv-golfs-new-funding-partner-pulls-out-over-lack-player-commitment-huge-blow-league-report",
+          "published_at": "2026-11-04T22:01:19Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Report: LIV Golf's financial backer dropping plan for new league in 2027",
+          "url": "https://www.wcvb.com/article/report-livs-financial-backer-dropping-plan-new-league-2027/74338391",
+          "published_at": "2026-11-04T23:16:00Z"
+        },
+        {
+          "publisher": "ESPN",
+          "group": "espn",
+          "kind": "news",
+          "wire": false,
+          "title": "Sources: BC Partners pulls out of financing deal in major blow to LIV Golf 2.0",
+          "url": "https://www.espn.com/golf/story/_/id/50382095/bc-partners-pulls-liv-golf-financing-deal",
+          "published_at": "2026-11-05T01:17:31Z"
+        }
+      ]
+    },
+    {
+      "headline": "Pope Leo XIV welcomes Bob Dylan to the Vatican in a brief visit",
+      "score": 45,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "PBS NewsHour",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-04T23:06:26Z",
+      "reports": [
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Pope Leo XIV welcomes Bob Dylan to the Vatican in a brief visit",
+          "url": "https://www.pbs.org/newshour/arts/pope-leo-xiv-welcomes-bob-dylan-to-the-vatican-in-a-brief-visit",
+          "published_at": "2026-11-04T23:06:26Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Bob Dylan Meets With Pope Leo",
+          "url": "https://www.nytimes.com/2026/11/04/world/europe/bob-dylan-pope-leo.html",
+          "published_at": "2026-11-04T23:14:39Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Bob Dylan comes knockin' on pope's door as Leo welcomes legend to Vatican",
+          "url": "https://www.wcvb.com/article/bob-dylan-pope-leo-vatican/74338871",
+          "published_at": "2026-11-04T23:56:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Leon Black Sues Congressman Garcia Over Epstein Statements",
+      "score": 45,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Bloomberg",
+        "NBC News",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-05T00:05:58Z",
+      "reports": [
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Leon Black Sues Congressman Garcia Over Epstein Statements",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-05/leon-black-sues-congressman-garcia-over-epstein-statements",
+          "published_at": "2026-11-05T00:05:58Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Leon Black sues US Rep. Robert Garcia for defamation over Epstein comments",
+          "url": "https://www.wcvb.com/article/leon-black-sues-robert-garcia-defamation-epstein/74338997",
+          "published_at": "2026-11-05T00:25:00Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Billionaire Leon Black sues Rep. Robert Garcia, alleging defamation over Epstein comments",
+          "url": "https://www.nbcnews.com/politics/congress/leon-black-sues-robert-garcia-alleging-defamation-epstein-comments-rcna607565",
+          "published_at": "2026-11-05T02:03:35Z"
+        }
+      ]
+    },
+    {
+      "headline": "What Trump losing power over Congress means for Iran, Ukraine and foreign policy",
+      "score": 44,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 0,
+        "front_pages": 0,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "CBS News",
+        "CNBC",
+        "Los Angeles Times",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-04T12:07:08Z",
+      "reports": [
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "What Trump losing power over Congress means for Iran, Ukraine and foreign policy",
+          "url": "https://www.cnbc.com/2026/11/04/democrats-congress-trump-foreign-policy.html",
+          "published_at": "2026-11-04T12:07:08Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "With Democrats\u2019 Sweep, Congress Is Set to Reassert Power to Check Trump",
+          "url": "https://www.nytimes.com/2026/11/04/us/politics/democrats-house-senate-congress-trump.html",
+          "published_at": "2026-11-04T19:51:04Z"
+        },
+        {
+          "publisher": "Los Angeles Times",
+          "group": "latimes",
+          "kind": "news",
+          "wire": false,
+          "title": "'Lawyer up': Democrats seize Congress, plot ways to rein in Trump",
+          "url": "https://www.latimes.com/politics/story/2026-11-04/lawyer-up-democrats-seize-congress-plot-ways-to-rein-in-trump",
+          "published_at": "2026-11-04T19:56:45Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Dow posts biggest gain of the year after Democrats sweep Congress",
+          "url": "https://www.cbsnews.com/news/stock-market-soar-democrats-take-control-of-congress/",
+          "published_at": "2026-11-04T22:18:39Z"
+        }
+      ]
+    },
+    {
+      "headline": "Patriots takeaways: Are Christian Barmore and Carlton Davis being shopped?",
+      "score": 43,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 1,
+        "boston_local": [
+          "patriots"
+        ]
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "MassLive"
+      ],
+      "first_seen": "2026-11-04T20:54:41Z",
+      "reports": [
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Patriots takeaways: Are Christian Barmore and Carlton Davis being shopped?",
+          "url": "https://www.masslive.com/patriots/2026/11/patriots-takeaways-christian-barmore-and-carlton-davis-trade-rumors-aj-brown-update-and-more.html",
+          "published_at": "2026-11-04T20:54:41Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Mike Vrabel addresses report about Christian Barmore, Carlton Davis trade talks",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/11/04/patriots-christian-barmore-carlton-davis-trade-rumors-mike-vrabel-comments/",
+          "published_at": "2026-11-04T22:45:09Z"
+        }
+      ]
+    },
+    {
+      "headline": "Red Sox could add offense this offseason with Japanese Triple Crown winner",
+      "score": 43,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 1,
+        "boston_local": [
+          "red sox"
+        ]
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "MassLive"
+      ],
+      "first_seen": "2026-11-05T00:08:18Z",
+      "reports": [
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Red Sox could add offense this offseason with Japanese Triple Crown winner",
+          "url": "https://www.boston.com/sports/boston-red-sox/2026/11/04/teruaki-sato-boston-red-sox-mlb-baseball-offseason-targets-japan/",
+          "published_at": "2026-11-05T00:08:18Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Red Sox bolster staff with hire of Yankees' Triple-A manager",
+          "url": "https://www.masslive.com/redsox/2026/11/red-sox-hire-longtime-yankee-staffer-to-chad-tracys-staff.html",
+          "published_at": "2026-11-05T00:43:22Z"
+        }
+      ]
+    },
+    {
+      "headline": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
+      "score": 39,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 1,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "PBS NewsHour",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-04T13:33:30Z",
+      "reports": [
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
+          "url": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-04T13:33:30Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump-backed redistricting sought a midterm edge for Republicans. It didn't work",
+          "url": "https://www.pbs.org/newshour/politics/trump-backed-redistricting-sought-a-midterm-edge-for-republicans-it-didnt-work",
+          "published_at": "2026-11-04T20:00:33Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "How the Audacious Trump Redistricting Push Backfired for Republicans in the Midterms",
+          "url": "https://www.nytimes.com/2026/11/04/us/trump-republican-redistricting-backfire.html",
+          "published_at": "2026-11-04T20:13:17Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "These Republicans Bet Big on Trump. It Didn\u2019t Pay Off.",
+          "url": "https://www.nytimes.com/2026/11/04/us/trump-allies-defeated-midterms.html",
+          "published_at": "2026-11-05T00:12:18Z"
+        }
+      ]
+    },
+    {
+      "headline": "'A mandate for change': Progressive Democrat William Lawrence flips House seat in Michigan",
+      "score": 39,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 1,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "CNBC",
+        "PBS NewsHour",
+        "The Hill"
+      ],
+      "first_seen": "2026-11-04T23:35:28Z",
+      "reports": [
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "'A mandate for change': Progressive Democrat William Lawrence flips House seat in Michigan",
+          "url": "https://www.pbs.org/newshour/show/a-mandate-for-change-progressive-democrat-william-lawrence-flips-house-seat-in-michigan",
+          "published_at": "2026-11-04T23:35:28Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrats flip dozens of GOP seats. Republicans haven't flipped a single one",
+          "url": "https://www.cnbc.com/2026/11/04/democrats-2026-midterm-election-results.html",
+          "published_at": "2026-11-04T23:44:18Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrats flip open Arizona House seat",
+          "url": "https://thehill.com/homenews/house/6190311-shah-wins-arizona-house-race/",
+          "published_at": "2026-11-05T01:44:21Z"
+        }
+      ]
+    },
+    {
+      "headline": "Israel\u2019s President Could Play Key Role in Breaking Post-Election Deadlock",
+      "score": 38,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 1,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "PBS NewsHour",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-04T13:18:58Z",
+      "reports": [
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Israel\u2019s President Could Play Key Role in Breaking Post-Election Deadlock",
+          "url": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-president-herzog-election-government.html",
+          "published_at": "2026-11-04T13:18:58Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Israel's president begins consultations with parties after election deadlock",
+          "url": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-04T16:18:21Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Israel's president takes first steps on building new government after accepting election results",
+          "url": "https://www.pbs.org/newshour/world/israels-president-takes-first-steps-on-building-new-government-after-accepting-election-results",
+          "published_at": "2026-11-04T21:16:26Z"
+        }
+      ]
+    },
+    {
+      "headline": "Lions\u2019 Jack Campbell making progress on movement in upper body after injury during game",
+      "score": 38,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 1,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "CBS News",
+        "Fox News",
+        "The Guardian"
+      ],
+      "first_seen": "2026-11-04T18:14:23Z",
+      "reports": [
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Lions\u2019 Jack Campbell making progress on movement in upper body after injury during game",
+          "url": "https://www.theguardian.com/sport/2026/nov/04/jack-campbell-injury-update-nfl",
+          "published_at": "2026-11-04T18:14:23Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Lions star Amon-Ra St Brown says Jack Campbell's harrowing neck injury puts things into perspective",
+          "url": "https://www.foxnews.com/outkick-sports/lions-amon-ra-st-brown-jack-campbell-neck-injury-perspective",
+          "published_at": "2026-11-04T23:01:40Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Latest on Detroit Lions linebacker Jack Campbell's recovery after dramatic neck injury",
+          "url": "https://www.cbsnews.com/video/latest-on-detroit-lions-linebacker-jack-campbells-recovery-after-dramatic-neck-injury/",
+          "published_at": "2026-11-05T00:51:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Mass. voters opt to keep recreational marijuana legal",
+      "score": 34,
+      "signals": {
+        "us_outlets": 1,
+        "intl_outlets": 0,
+        "front_pages": 1,
+        "boston_local": [
+          "mass.",
+          "massachusetts"
+        ]
+      },
+      "independent_outlets": [
+        "WBUR"
+      ],
+      "first_seen": "2026-11-04T05:00:20Z",
+      "reports": [
+        {
+          "publisher": "WBUR",
+          "group": "wbur",
+          "kind": "news",
+          "wire": false,
+          "title": "Mass. voters opt to keep recreational marijuana legal",
+          "url": "https://www.wbur.org/news/2026/11/04/massachusetts-question-8-keep-weed-legal",
+          "published_at": "2026-11-04T05:00:20Z"
+        },
+        {
+          "publisher": "WBUR",
+          "group": "wbur",
+          "kind": "news",
+          "wire": false,
+          "title": "Question 3: Mass. voters opt to keep partisan state primaries",
+          "url": "https://www.wbur.org/news/2026/11/04/massachusetts-question-3-election-result",
+          "published_at": "2026-11-04T06:44:46Z"
+        },
+        {
+          "publisher": "WBUR",
+          "group": "wbur",
+          "kind": "news",
+          "wire": false,
+          "title": "Question 4: Mass. voters pass Election Day voter registration",
+          "url": "https://www.wbur.org/news/2026/11/04/massachusetts-question-4-election-results",
+          "published_at": "2026-11-04T07:03:21Z"
+        }
+      ]
+    },
+    {
+      "headline": "Record number of female governors elected",
+      "score": 34,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "NBC News"
+      ],
+      "first_seen": "2026-11-04T05:45:20Z",
+      "reports": [
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Record number of female governors elected",
+          "url": "https://www.nbcnews.com/politics/2026-election/record-number-female-governors-elected-rcna607366",
+          "published_at": "2026-11-04T05:45:20Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Voters elect female governors in 17 states, setting new record",
+          "url": "https://abcnews.com/GMA/News/women-make-history-governor-congressional-races-2026-midterms/story?id=137841842",
+          "published_at": "2026-11-04T18:47:12Z"
+        }
+      ]
+    },
+    {
+      "headline": "US stocks rise, dollar slides as investors digest Democrats\u2019 midterm victories",
+      "score": 34,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 1,
+        "front_pages": 1,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "CNBC",
+        "NBC News",
+        "The Guardian"
+      ],
+      "first_seen": "2026-11-04T16:38:28Z",
+      "reports": [
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "US stocks rise, dollar slides as investors digest Democrats\u2019 midterm victories",
+          "url": "https://www.theguardian.com/business/2026/nov/04/us-dollar-slides-democrats-midterm-election-win-growth-fears",
+          "published_at": "2026-11-04T16:38:28Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Top stocks to own now after Democrats sweep the midterms, according to CIBC",
+          "url": "https://www.cnbc.com/2026/11/04/top-stocks-to-own-now-after-democrats-sweep-the-midterms-according-to-cibc.html",
+          "published_at": "2026-11-04T19:43:09Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrats map out an agenda to address affordability and corruption after midterm sweep",
+          "url": "https://www.cnbc.com/2026/11/04/congressional-democrats-affordability-oversight.html",
+          "published_at": "2026-11-04T20:53:19Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "What Wall Street billionaires are saying about Democrats' midterm sweep",
+          "url": "https://www.cnbc.com/2026/11/04/billionaires-musk-branson-democrats-midterms-ai-wall-street.html",
+          "published_at": "2026-11-04T23:17:56Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "5 healthcare fights Democrats could take on after midterms sweep",
+          "url": "https://www.nbcnews.com/health/health-care/5-healthcare-fights-democrats-take-midterms-sweep-rcna607457",
+          "published_at": "2026-11-05T00:02:55Z"
+        }
+      ]
+    }
+  ]
+}
