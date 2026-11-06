@@ -1,0 +1,73 @@
+{
+  "date": "2026-11-05",
+  "mode": "live (scheduled run)",
+  "prepared_at": "2026-11-06T02:25:00Z",
+  "candidates_considered": 25,
+  "rationale": "California Gov. Gavin Newsom commuting every death sentence in the state is the top-ranked cluster (9 US outlets, 7 front pages, including the NYT, NBC, NPR, PBS and the Boston Globe). It is a clear, consequential single-day national story, and a change of subject after three straight election entries. The Oval Office monument order, the hush-money appeal and post-midterm stories score lower and repeat recent themes; Boston items (Voice of Logan, Question 7 likely failing) are smaller. No supporting story fits one coherent picture, so the entry shows the focal story only.",
+  "stories": [
+    {
+      "role": "focal",
+      "name": "Newsom commutes California's death sentences",
+      "facts": [
+        "On Thursday, Nov. 5, California Gov. Gavin Newsom reduced the sentences of all 548 people on the state's death row to life in prison without the possibility of parole.",
+        "He announced it in an open letter to Californians, writing that state-sanctioned killing is incompatible with California's values.",
+        "Some cases require review by the California Supreme Court (people with two prior felony convictions), and the move could face legal challenges; crime victims' groups criticized it as a blanket decision.",
+        "Newsom imposed a moratorium on executions in 2019; California has not executed anyone since 2006."
+      ],
+      "people": [
+        {
+          "name": "Gavin Newsom",
+          "public_figure": true,
+          "verified_action": "Issued an open letter to Californians commuting all 548 death sentences to life without parole (NYT via Boston Globe; PBS; NBC). Drawn from behind, over the shoulder, signing a letter at a desk in an unspecified office: an editorial staging of issuing the letter, no face, no readable text."
+        }
+      ],
+      "visual_notes": "Over-the-shoulder at dusk: the governor (seen from behind: slicked-back dark hair greying at the temples, navy suit) signs a single blank-lined letter under a desk lamp; a tall stack of case folders beside him stands in symbolically for the 548 cases; through a tall window, a generic distant prison (not a specific facility) with rows of small lit cell windows. A California bear flag in the room. No text, no inmates, no open cell doors or releases (the sentences become life without parole).",
+      "confidence": "high: the Boston Globe (republishing the NYT, full read) and PBS NewsHour (full transcript page) independently report the 548 commutations to life without parole via an open letter; NBC News (video page) reports he has commuted all death sentences. PBS and the Globe agree some cases need state Supreme Court review. Some headlines (NPR, WCVB) say he 'will' commute; the NYT/Globe and NBC describe the action as done, with court review still needed for some cases, so the caption mentions that review.",
+      "sources": [
+        {
+          "publisher": "The Boston Globe (from The New York Times)",
+          "group": "nyt",
+          "title": "Newsom commutes the sentences of California’s 548 death row inmates",
+          "url": "https://www.bostonglobe.com/2026/11/05/nation/gavin-newsom-death-sentence-commutes/",
+          "published_at": "2026-11-05T20:11:46Z",
+          "checked_at": "2026-11-06T02:12:00Z",
+          "checked": "full article (originally NYT)"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "title": "Newsom plans to commute all of California's death sentences",
+          "url": "https://www.pbs.org/newshour/show/newsom-plans-to-commute-all-of-californias-death-sentences",
+          "published_at": "2026-11-05T23:40:51Z",
+          "checked_at": "2026-11-06T02:08:00Z",
+          "checked": "full transcript page"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "title": "California Gov. Newsom commutes all death sentences in the state",
+          "url": "https://www.nbcnews.com/now/video/california-gov-newsom-commutes-all-death-sentences-in-the-state-272948293775",
+          "published_at": "2026-11-05T20:41:57Z",
+          "checked_at": "2026-11-06T02:11:00Z",
+          "checked": "video page summary"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "title": "Newsom Commutes the Sentences of California’s 548 Death Row Inmates",
+          "url": "https://www.nytimes.com/2026/11/05/us/california-death-row-newsom-commutation.html",
+          "published_at": "2026-11-06T00:44:34Z",
+          "checked": "headline only (paywall)"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "title": "Newsom announces he will commute sentences of inmates on California's death row",
+          "url": "https://www.npr.org/2026/11/05/nx-s1-6030961/newsom-announces-he-will-commute-sentences-of-inmates-on-californias-death-row",
+          "published_at": "2026-11-05T23:11:43Z",
+          "checked": "headline only (fetch timed out)"
+        }
+      ]
+    }
+  ]
+}

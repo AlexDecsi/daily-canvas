@@ -1,6 +1,69 @@
 {
   "entries": [
     {
+      "date": "2026-11-05",
+      "published_at": "2026-11-06T02:18:16.728815Z",
+      "status": "published",
+      "prelaunch": false,
+      "title": "Newsom commutes California's 548 death sentences",
+      "caption": "California Gov. Gavin Newsom reduced the sentences of all 548 people on the state's death row to life without parole, announcing it in an open letter to Californians. Some cases still need California Supreme Court review, and victims' groups criticized the blanket move. The state has not executed anyone since 2006 and has been under Newsom's moratorium since 2019.",
+      "stories": [
+        {
+          "name": "Newsom commutes California's death sentences",
+          "role": "focal",
+          "facts": [
+            "On Thursday, Nov. 5, California Gov. Gavin Newsom reduced the sentences of all 548 people on the state's death row to life in prison without the possibility of parole.",
+            "He announced it in an open letter to Californians, writing that state-sanctioned killing is incompatible with California's values.",
+            "Some cases require review by the California Supreme Court (people with two prior felony convictions), and the move could face legal challenges; crime victims' groups criticized it as a blanket decision.",
+            "Newsom imposed a moratorium on executions in 2019; California has not executed anyone since 2006."
+          ],
+          "sources": [
+            {
+              "publisher": "The Boston Globe (from The New York Times)",
+              "title": "Newsom commutes the sentences of California’s 548 death row inmates",
+              "url": "https://www.bostonglobe.com/2026/11/05/nation/gavin-newsom-death-sentence-commutes/",
+              "published_at": "2026-11-05T20:11:46Z"
+            },
+            {
+              "publisher": "PBS NewsHour",
+              "title": "Newsom plans to commute all of California's death sentences",
+              "url": "https://www.pbs.org/newshour/show/newsom-plans-to-commute-all-of-californias-death-sentences",
+              "published_at": "2026-11-05T23:40:51Z"
+            },
+            {
+              "publisher": "NBC News",
+              "title": "California Gov. Newsom commutes all death sentences in the state",
+              "url": "https://www.nbcnews.com/now/video/california-gov-newsom-commutes-all-death-sentences-in-the-state-272948293775",
+              "published_at": "2026-11-05T20:41:57Z"
+            },
+            {
+              "publisher": "The New York Times",
+              "title": "Newsom Commutes the Sentences of California’s 548 Death Row Inmates",
+              "url": "https://www.nytimes.com/2026/11/05/us/california-death-row-newsom-commutation.html",
+              "published_at": "2026-11-06T00:44:34Z"
+            },
+            {
+              "publisher": "NPR",
+              "title": "Newsom announces he will commute sentences of inmates on California's death row",
+              "url": "https://www.npr.org/2026/11/05/nx-s1-6030961/newsom-announces-he-will-commute-sentences-of-inmates-on-californias-death-row",
+              "published_at": "2026-11-05T23:11:43Z"
+            }
+          ]
+        }
+      ],
+      "artwork": {
+        "path": "artwork/2026-11-05.svg",
+        "format": "svg",
+        "alt": "Editorial illustration seen over a man's shoulder: Gov. Gavin Newsom, from behind with slicked-back greying hair and a navy suit, signs a letter under a green desk lamp in a dark office at dusk. A towering stack of case folders rises beside him and a California bear flag hangs nearby. Through a tall window, a distant generic prison's cell blocks glow with rows of small lit windows. Represents Newsom commuting all 548 California death sentences.",
+        "method": "code-generated SVG (graphic-poster kit, src/art/daily/)",
+        "revision": "r3"
+      },
+      "backfill": {
+        "is_backfill": false,
+        "reason": null
+      }
+    },
+    {
       "date": "2026-11-04",
       "published_at": "2026-11-05T02:17:58.180898Z",
       "status": "published",

@@ -1,0 +1,1882 @@
+{
+  "date": "2026-11-05",
+  "fetched_at": "2026-11-06T02:12:56.847935Z",
+  "items_considered": 654,
+  "candidates": [
+    {
+      "headline": "Chabria: Newsom wants to empty death row. Most politicians wouldn't bother \u2014 or dare",
+      "score": 148,
+      "signals": {
+        "us_outlets": 9,
+        "intl_outlets": 2,
+        "front_pages": 7,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Axios",
+        "BBC News",
+        "Los Angeles Times",
+        "MassLive",
+        "NBC News",
+        "NPR",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The Guardian",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-05T19:27:35Z",
+      "reports": [
+        {
+          "publisher": "Los Angeles Times",
+          "group": "latimes",
+          "kind": "news",
+          "wire": false,
+          "title": "Chabria: Newsom wants to empty death row. Most politicians wouldn't bother \u2014 or dare",
+          "url": "https://www.latimes.com/california/story/2026-11-05/newsom-wants-to-empty-death-row-most-politicians-wouldnt-bother-or-dare",
+          "published_at": "2026-11-05T19:27:35Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Newsom commutes the sentences of California\u2019s 548 death row inmates",
+          "url": "https://www.bostonglobe.com/2026/11/05/nation/gavin-newsom-death-sentence-commutes/",
+          "published_at": "2026-11-05T20:11:46Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "California Gov. Newsom commutes all death sentences in the state",
+          "url": "https://www.nbcnews.com/now/video/california-gov-newsom-commutes-all-death-sentences-in-the-state-272948293775",
+          "published_at": "2026-11-05T20:41:57Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Gavin Newsom commutes more than 500 death sentences in California",
+          "url": "https://www.theguardian.com/us-news/2026/nov/05/gavin-newsom-commutes-death-sentences-california",
+          "published_at": "2026-11-05T20:44:57Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Newsom moves to empty California's death row as 2028 looms",
+          "url": "https://www.axios.com/2026/11/05/newsom-california-death-penalty-2028",
+          "published_at": "2026-11-05T20:57:07Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Gavin Newsom just made one of his biggest moves yet on California\u2019s death penalty",
+          "url": "https://www.masslive.com/politics/2026/11/gavin-newsom-makes-sweeping-move-involving-all-548-california-death-sentences.html",
+          "published_at": "2026-11-05T21:24:33Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "California governor commutes sentences for state's 548 death row inmates",
+          "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-05T23:09:33Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Newsom announces he will commute sentences of inmates on California's death row",
+          "url": "https://www.npr.org/2026/11/05/nx-s1-6030961/newsom-announces-he-will-commute-sentences-of-inmates-on-californias-death-row",
+          "published_at": "2026-11-05T23:11:43Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Newsom plans to commute all of California's death sentences",
+          "url": "https://www.pbs.org/newshour/show/newsom-plans-to-commute-all-of-californias-death-sentences",
+          "published_at": "2026-11-05T23:40:51Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Newsom Commutes the Sentences of California\u2019s 548 Death Row Inmates",
+          "url": "https://www.nytimes.com/2026/11/05/us/california-death-row-newsom-commutation.html",
+          "published_at": "2026-11-06T00:44:34Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "California governor says he'll commute all 548 death sentences in state",
+          "url": "https://www.wcvb.com/article/california-newsom-death-sentences-commuted/74348785",
+          "published_at": "2026-11-06T01:07:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Trump makes the Oval Office a national monument, but future presidents can still redecorate",
+      "score": 112,
+      "signals": {
+        "us_outlets": 6,
+        "intl_outlets": 2,
+        "front_pages": 6,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "BBC News",
+        "Fox News",
+        "NBC News",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-05T21:48:33Z",
+      "reports": [
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump makes the Oval Office a national monument, but future presidents can still redecorate",
+          "url": "https://www.pbs.org/newshour/politics/trump-signs-proclamation-he-says-will-prevent-future-changes-to-oval-office-and-cabinet-room",
+          "published_at": "2026-11-05T21:48:33Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump signs proclamation he says will prevent future changes to the Oval Office and Cabinet Room",
+          "url": "https://www.bostonglobe.com/2026/11/05/nation/trump-oval-office-cabinet-changes/",
+          "published_at": "2026-11-05T22:00:28Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump signs proclamation to prevent changes to Oval Office, other White House rooms",
+          "url": "https://www.foxnews.com/politics/trump-signs-proclamation-prevent-changes-oval-office-other-white-house-rooms",
+          "published_at": "2026-11-05T23:10:31Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": true,
+          "title": "Trump seeks national monument status for iconic White House rooms",
+          "url": "https://thehill.com/newsletters/energy-environment/6202853-white-house-rooms-national-monuments-trump/",
+          "published_at": "2026-11-05T23:46:56Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump signs proclamation to try to prevent changes to gold-covered Oval Office",
+          "url": "https://www.theguardian.com/us-news/2026/nov/05/trump-oval-office-design-proclamation",
+          "published_at": "2026-11-06T00:29:06Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump moves to make Oval Office a national monument to prevent future major changes",
+          "url": "https://abcnews.com/Politics/trump-moves-make-oval-office-national-monument-aiming/story?id=137894328",
+          "published_at": "2026-11-06T00:45:32Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Chargers coach Mike McDaniel makes major change to try and spark offense amid dreadful start to season",
+          "url": "https://www.foxnews.com/outkick-sports/chargers-coach-mike-mcdaniel-makes-major-change-spark-offense-amid-dreadful-start-season",
+          "published_at": "2026-11-06T00:54:38Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump signs order preventing future presidents from changing Oval Office",
+          "url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-06T01:20:01Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump Moves to Make Oval Office a National Monument",
+          "url": "https://www.nytimes.com/2026/11/05/us/politics/trump-oval-office-national-monument.html",
+          "published_at": "2026-11-06T01:24:38Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump focuses on White House decor for second straight day in post-midterm remarks",
+          "url": "https://www.nbcnews.com/politics/white-house/trump-focuses-white-house-decor-second-straight-day-midterm-remarks-rcna607776",
+          "published_at": "2026-11-06T01:50:16Z"
+        }
+      ]
+    },
+    {
+      "headline": "Court weighs President Trump's appeal in Stormy Daniels hush money case",
+      "score": 107,
+      "signals": {
+        "us_outlets": 6,
+        "intl_outlets": 1,
+        "front_pages": 6,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "CBS News",
+        "MassLive",
+        "NBC Boston",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The Guardian"
+      ],
+      "first_seen": "2026-11-05T08:26:39Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Court weighs President Trump's appeal in Stormy Daniels hush money case",
+          "url": "https://www.nbcboston.com/news/national-international/trump-is-still-trying-to-get-his-ny-hush-money-conviction-thrown-out/4044519/",
+          "published_at": "2026-11-05T08:26:39Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump tries to get 2024 conviction in hush-money corruption case thrown out",
+          "url": "https://www.theguardian.com/us-news/2026/nov/05/trump-2024-conviction-hush-money",
+          "published_at": "2026-11-05T19:05:48Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Court weighs Trump\u2019s appeal in the Stormy Daniels hush money case",
+          "url": "https://www.bostonglobe.com/2026/11/05/nation/trump-hush-money-conviction/",
+          "published_at": "2026-11-05T20:20:36Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Appeals court weighs Trump's challenge to 2024 criminal hush money conviction",
+          "url": "https://abcnews.com/US/judges-hear-trumps-appeal-2024-criminal-hush-money/story?id=137859786",
+          "published_at": "2026-11-05T20:36:44Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump's lawyers argue appeal in \"hush money\" case",
+          "url": "https://www.cbsnews.com/news/trump-hush-money-conviction-appeal/",
+          "published_at": "2026-11-05T21:03:00Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Key federal panel expected to approve Trump's arch amid court challenge",
+          "url": "https://www.pbs.org/newshour/politics/key-federal-panel-expected-to-approve-trumps-arch-amid-court-challenge",
+          "published_at": "2026-11-05T21:34:07Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Appeals Court to hear breach of contract case involving former NYC Mayor Bloomberg",
+          "url": "https://www.masslive.com/westernmass/2026/11/appeals-court-to-hear-breach-of-contract-case-involving-former-nyc-mayor-bloomberg.html",
+          "published_at": "2026-11-05T23:06:51Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump lawyers try to appeal convictions in his Stormy Daniels \"hush money\" case",
+          "url": "https://www.cbsnews.com/video/trump-lawyers-try-appeal-convictions-stormy-daniels-hush-money-case/",
+          "published_at": "2026-11-06T01:10:49Z"
+        }
+      ]
+    },
+    {
+      "headline": "Recap: Vance blames Iran war for GOP losses as Democrats retake Congress",
+      "score": 103,
+      "signals": {
+        "us_outlets": 7,
+        "intl_outlets": 0,
+        "front_pages": 4,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Axios",
+        "CBS News",
+        "Fox News",
+        "NBC Boston",
+        "PBS NewsHour",
+        "The Hill",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-05T08:26:39Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Recap: Vance blames Iran war for GOP losses as Democrats retake Congress",
+          "url": "https://www.nbcboston.com/elections/election-day-after-2026-midterms-congress-results-live-updates/4043270/",
+          "published_at": "2026-11-05T08:26:39Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Midterm Election Losses Complicate Trump\u2019s Options on Iran War",
+          "url": "https://www.nytimes.com/2026/11/05/us/politics/trump-iran-war-midterm-elections.html",
+          "published_at": "2026-11-05T10:04:44Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump meets with national security team, says Iran war decision coming \"soon\"",
+          "url": "https://www.axios.com/2026/11/05/trump-iran-war-national-security-team-decision",
+          "published_at": "2026-11-05T23:25:56Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Hegseth in \u2018trouble\u2019 as Trump faces music on Iran war, midterms",
+          "url": "https://thehill.com/policy/defense/6202854-hegseth-pentagon-future-uncertain/",
+          "published_at": "2026-11-05T23:41:23Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "After midterms, world leaders await Trump's next move in Iran",
+          "url": "https://www.pbs.org/newshour/show/after-midterms-world-leaders-await-trumps-next-move-in-iran",
+          "published_at": "2026-11-05T23:45:29Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "After midterms, Trump is left to weigh his next move in Iran war that contributed to GOP loss",
+          "url": "https://www.pbs.org/newshour/politics/after-midterms-trump-is-left-to-weigh-his-next-move-in-iran-war-that-contributed-to-gop-loss",
+          "published_at": "2026-11-05T23:46:36Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Vance \u2018privately\u2019 blasts Netanyahu as Iran war divides Trump administration and 2028 ambitions loom",
+          "url": "https://www.foxnews.com/politics/vance-privately-blasts-netanyahu-iran-war-divides-trump-admin-2028-ambitions-loom",
+          "published_at": "2026-11-05T23:49:09Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Hegseth vows to continue war with Iran amid bipartisan impeachment threats",
+          "url": "https://www.cbsnews.com/video/hegseth-vows-continue-war-iran-amid-bipartisan-impeachment-threats/",
+          "published_at": "2026-11-06T00:32:35Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Pete Hegseth doubles down on Iran war in new video despite election losses",
+          "url": "https://www.cbsnews.com/video/pete-hegseth-doubles-down-on-iran-war-in-new-video-despite-election-losses/",
+          "published_at": "2026-11-06T01:17:10Z"
+        }
+      ]
+    },
+    {
+      "headline": "And the \u2018Voice of Logan' winner is\u2026",
+      "score": 94,
+      "signals": {
+        "us_outlets": 5,
+        "intl_outlets": 0,
+        "front_pages": 4,
+        "boston_local": [
+          "boston",
+          "logan airport",
+          "massachusetts"
+        ]
+      },
+      "independent_outlets": [
+        "ABC News",
+        "CBS News",
+        "NBC Boston",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-05T08:26:39Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "And the \u2018Voice of Logan' winner is\u2026",
+          "url": "https://www.nbcboston.com/news/local/voice-of-logan-winner-christopher-donisi-massport-boston/4044191/",
+          "published_at": "2026-11-05T08:26:39Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Pipefitter's pipes will provide new 'Voice of Logan'",
+          "url": "https://www.wcvb.com/article/voice-of-logan-winner-announcement-boston/74343292",
+          "published_at": "2026-11-05T22:47:00Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "WATCH: Meet the man who's the new voice of Boston's Logan airport",
+          "url": "https://abcnews.com/video/137886085/",
+          "published_at": "2026-11-05T23:45:59Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "\u2018Let\u2019s Go, Bahhston\u2019: Logan Airport Chooses Its New Voice",
+          "url": "https://www.nytimes.com/2026/11/05/us/voice-of-logan-airport-boston-winner.html",
+          "published_at": "2026-11-05T23:48:47Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "The new voice of Boston Logan Airport on winning contest: \"I am so honored\"",
+          "url": "https://www.cbsnews.com/video/new-voice-boston-logan-airport-winning-contest-honored/",
+          "published_at": "2026-11-06T01:16:30Z"
+        }
+      ]
+    },
+    {
+      "headline": "Head of Justice Department office on Civil Rights resigns",
+      "score": 94,
+      "signals": {
+        "us_outlets": 6,
+        "intl_outlets": 1,
+        "front_pages": 4,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "CBS News",
+        "Los Angeles Times",
+        "NPR",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-05T18:01:57Z",
+      "reports": [
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Head of Justice Department office on Civil Rights resigns",
+          "url": "https://www.npr.org/2026/11/05/g-s1-152080/head-of-justice-department-office-on-civil-rights-resigns",
+          "published_at": "2026-11-05T18:01:57Z"
+        },
+        {
+          "publisher": "Los Angeles Times",
+          "group": "latimes",
+          "kind": "news",
+          "wire": false,
+          "title": "Harmeet Dhillon, California attorney who radically reshaped DOJ civil rights unit, resigns",
+          "url": "https://www.latimes.com/world-nation/story/2026-11-05/harmeet-dhillon-exits-after-radical-overhaul-of-justice-departments-civil-rights-division",
+          "published_at": "2026-11-05T18:47:07Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Harmeet Dhillon, controversial head of DoJ\u2019s civil rights division, steps down",
+          "url": "https://www.theguardian.com/us-news/2026/nov/05/harmeet-dhillon-doj-resignation",
+          "published_at": "2026-11-05T19:04:05Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Harmeet Dhillon, DOJ's controversial civil rights chief, resigns",
+          "url": "https://www.cbsnews.com/news/harmeet-dhillon-resigns-doj-civil-rights-division/",
+          "published_at": "2026-11-05T20:32:51Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Harmeet Dhillon exits after radical overhaul of Justice Department\u2019s Civil Rights Division",
+          "url": "https://www.bostonglobe.com/2026/11/05/nation/harmeet-dhillon-trump-justice-department/",
+          "published_at": "2026-11-05T21:51:00Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "News Wrap: Head of Justice Department's civil rights division resigns",
+          "url": "https://www.pbs.org/newshour/show/news-wrap-head-of-justice-departments-civil-rights-division-resigns",
+          "published_at": "2026-11-05T23:50:08Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Harmeet Dhillon, Leader of Justice Department\u2019s Civil Rights Unit, Resigns",
+          "url": "https://www.nytimes.com/2026/11/05/us/politics/harmeet-dhillon-resigns-doj-civil-rights-unit.html",
+          "published_at": "2026-11-06T01:36:29Z"
+        }
+      ]
+    },
+    {
+      "headline": "Democratic socialist Nithya Raman wins Los Angeles mayoral race over incumbent Karen Bass",
+      "score": 93,
+      "signals": {
+        "us_outlets": 5,
+        "intl_outlets": 2,
+        "front_pages": 5,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "Axios",
+        "BBC News",
+        "CBS News",
+        "The Guardian",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-05T21:12:41Z",
+      "reports": [
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Democratic socialist Nithya Raman wins Los Angeles mayoral race over incumbent Karen Bass",
+          "url": "https://www.theguardian.com/us-news/2026/nov/05/los-angeles-mayor-nithya-raman-karen-bass",
+          "published_at": "2026-11-05T21:12:41Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Raman ousts Bass in LA mayor race for historic socialist win",
+          "url": "https://www.axios.com/2026/11/05/nithya-raman-la-mayor-upset-democratic-socialist",
+          "published_at": "2026-11-05T21:36:01Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Djuna Perkins wins Norfolk DA race, vows review of Birchmore and Karen Read cases",
+          "url": "https://www.wcvb.com/article/djuna-perkins-vows-norfolk-da-overhaul-after-winning-election/74349821",
+          "published_at": "2026-11-05T23:33:00Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Nithya Raman Wins Los Angeles Mayoral Race, Defeating Karen Bass",
+          "url": "https://www.nytimes.com/2026/11/05/us/la-mayor-raman-bass.html",
+          "published_at": "2026-11-06T00:07:16Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
+          "url": "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-06T01:28:03Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Election 2026 live results: Karen Bass concedes LA mayoral race to Nithya Raman",
+          "url": "https://abcnews.com/Politics/live-updates/midterm-elections-live-updates/?id=137782085",
+          "published_at": "2026-11-06T01:57:11Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Nithya Raman ousts incumbent Karen Bass in LA mayor's race, CBS News projects",
+          "url": "https://www.cbsnews.com/news/los-angeles-mayor-election-2026-nithya-raman-karen-bass/",
+          "published_at": "2026-11-06T01:59:10Z"
+        }
+      ]
+    },
+    {
+      "headline": "From probes to possible impeachment: What happens to Trump now that Dems won Congress?",
+      "score": 89,
+      "signals": {
+        "us_outlets": 5,
+        "intl_outlets": 1,
+        "front_pages": 5,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "CBS News",
+        "CNBC",
+        "NBC Boston",
+        "PBS NewsHour",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-05T08:26:39Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "From probes to possible impeachment: What happens to Trump now that Dems won Congress?",
+          "url": "https://www.nbcboston.com/elections/investigation-possible-impeachment-trump-democrat-won-congress-republican/4043835/",
+          "published_at": "2026-11-05T08:26:39Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "After taking control of Congress, Democrats vow major probes into Trump\u2019s \u2018tentacles of corruption\u2019",
+          "url": "https://www.bostonglobe.com/2026/11/05/nation/democrats-vow-probes-intro-trump-after-midterms/",
+          "published_at": "2026-11-05T14:46:07Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrats to probe JPMorgan's relationship with Jeffrey Epstein when they take Senate control",
+          "url": "https://www.cnbc.com/2026/11/05/jpmorgan-epstein-democrats-erdoes-midterm-election.html",
+          "published_at": "2026-11-05T17:42:29Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "After taking control of Congress, Democrats vow major probes into Trump's 'tentacles of corruption'",
+          "url": "https://www.pbs.org/newshour/politics/after-taking-control-of-congress-democrats-vow-major-probes-into-trumps-tentacles-of-corruption",
+          "published_at": "2026-11-05T23:00:50Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Stocks plunge over AI restriction fears as Democrats win control of Congress",
+          "url": "https://www.cbsnews.com/video/stocks-plunge-over-ai-restriction-fears-as-democrats-win-control-of-congress/",
+          "published_at": "2026-11-06T00:12:00Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+          "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-06T01:44:03Z"
+        }
+      ]
+    },
+    {
+      "headline": "Melania Trump on Oleshky ceasefire: Russia and Ukraine have chosen 'humanity over war'",
+      "score": 85,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 2,
+        "front_pages": 5,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "NBC News",
+        "NPR",
+        "PBS NewsHour",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-05T16:41:24Z",
+      "reports": [
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Melania Trump on Oleshky ceasefire: Russia and Ukraine have chosen 'humanity over war'",
+          "url": "https://www.nbcnews.com/video/melania-trump-thanks-russia-and-ukraine-for-oleshky-ceasefire-272928837687",
+          "published_at": "2026-11-05T16:41:24Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Putin envoy thanks Melania Trump for brokering ceasefire \u2013 video",
+          "url": "https://www.theguardian.com/us-news/video/2026/nov/05/putin-envoy-thanks-melania-trump-for-brokering-ceasefire-video",
+          "published_at": "2026-11-05T18:35:22Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
+          "url": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-05T19:08:08Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "White House event reveals Ukraine and Russia share one goal: flattering Melania",
+          "url": "https://www.theguardian.com/us-news/2026/nov/05/melania-trump-white-house-visit-ukraine-russia",
+          "published_at": "2026-11-05T20:52:27Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Russian and Ukrainian officials thank Melania Trump for brokering ceasefire - video",
+          "url": "https://www.theguardian.com/world/video/2026/nov/05/russian-and-ukrainian-officials-thank-melania-trump-for-brokering-ceasefire-video",
+          "published_at": "2026-11-05T21:04:53Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "How Melania Trump Became a Dark-Horse Diplomat on Ukraine",
+          "url": "https://www.nytimes.com/2026/11/05/world/europe/melania-trump-oleshky-ukraine-ceasefire.html",
+          "published_at": "2026-11-05T21:07:31Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "WATCH: First lady Melania Trump hosted Russian and Ukrainian officials. Trump met with Putin's envoy",
+          "url": "https://www.pbs.org/newshour/politics/watch-first-lady-melania-trump-hosted-russian-and-ukrainian-officials-trump-met-with-putins-envoy",
+          "published_at": "2026-11-05T22:04:18Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump Says He Met With a Senior Russian Official on a Ukraine Peace Deal",
+          "url": "https://www.nytimes.com/2026/11/05/us/politics/trump-russian-official-ukraine-peace-deal.html",
+          "published_at": "2026-11-05T23:47:35Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Melania Trump touts rare agreement she brokered between Russia and Ukraine",
+          "url": "https://www.npr.org/2026/11/05/nx-s1-6030662/melania-trump-touts-rare-agreement-she-brokered-between-russia-and-ukraine",
+          "published_at": "2026-11-05T23:52:48Z"
+        }
+      ]
+    },
+    {
+      "headline": "Postal employee shot 2 coworkers at an Iowa post office before being captured, police say",
+      "score": 83,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 0,
+        "front_pages": 4,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "CBS News",
+        "MassLive",
+        "The Boston Globe",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-05T19:19:43Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Postal employee shot 2 coworkers at an Iowa post office before being captured, police say",
+          "url": "https://www.bostonglobe.com/2026/11/05/nation/iowa-post-office-shooting/",
+          "published_at": "2026-11-05T19:19:43Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Postal worker in Iowa accused of shooting 2 co-workers at USPS office",
+          "url": "https://www.masslive.com/news/2026/11/postal-worker-accused-of-shooting-2-co-workers-at-usps-office.html",
+          "published_at": "2026-11-05T23:00:00Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "USPS employee in custody after allegedly shooting 2 coworkers in Iowa post office",
+          "url": "https://www.cbsnews.com/video/usps-emoloyee-in-custody-after-allegedly-shooting-2-coworkers-in-iowa-post-office/",
+          "published_at": "2026-11-06T00:21:39Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "West Des Moines woman charged after Iowa post office shooting",
+          "url": "https://www.wcvb.com/article/shooting-united-states-postal-service-iowa/74346185",
+          "published_at": "2026-11-06T00:31:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Bomb threats target more than a dozen flights in Europe, forcing emergency landings",
+      "score": 80,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 2,
+        "front_pages": 4,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "CBS News",
+        "NBC Boston",
+        "NBC News",
+        "PBS NewsHour",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-05T08:26:39Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Bomb threats target more than a dozen flights in Europe, forcing emergency landings",
+          "url": "https://www.nbcboston.com/news/national-international/multiple-flights-europe-diverted-over-bomb-threats/4044280/",
+          "published_at": "2026-11-05T08:26:39Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Wave of Bomb Threats Target Flights All Across Europe",
+          "url": "https://www.today.com/video/wave-of-bomb-threats-target-flights-all-across-europe-272908357814",
+          "published_at": "2026-11-05T12:27:18Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Hoax bomb threats affect at least 20 European flights within hours",
+          "url": "https://www.cbsnews.com/news/europe-flights-airlines-hoax-bomb-threats/",
+          "published_at": "2026-11-05T17:04:31Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Hoax bomb threats target European airlines and airports for second time in a week",
+          "url": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-05T17:39:48Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Multiple planes diverted as bomb threats to commercial flights reported across Europe \u2013 as it happened",
+          "url": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates",
+          "published_at": "2026-11-05T17:57:54Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
+          "url": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears",
+          "published_at": "2026-11-05T18:17:36Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Bomb Threats Disrupt European Flights and Rattle Passengers",
+          "url": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-airline-passengers.html",
+          "published_at": "2026-11-05T19:39:19Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Who could be behind hoax bomb threats to European air travel?",
+          "url": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-05T19:58:40Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "What to Know About the Bomb Threats Disrupting Flights in Europe",
+          "url": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-europe-flights-airlines.html",
+          "published_at": "2026-11-05T20:38:38Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "What happens when airlines receive bomb threats?",
+          "url": "https://www.pbs.org/newshour/world/what-happens-when-airlines-receive-bomb-threats",
+          "published_at": "2026-11-05T22:31:45Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Dozens of planes targeted by bomb threats in Europe in apparent hoax",
+          "url": "https://www.cbsnews.com/video/dozens-planes-targeted-bomb-threats-europe-apparent-hoax/",
+          "published_at": "2026-11-06T00:44:29Z"
+        }
+      ]
+    },
+    {
+      "headline": "What to know about recounts in Mississippi with razor-thin margin in Senate race",
+      "score": 79,
+      "signals": {
+        "us_outlets": 5,
+        "intl_outlets": 1,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "BBC News",
+        "CBS News",
+        "CNBC",
+        "The Hill",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-05T10:45:03Z",
+      "reports": [
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "What to know about recounts in Mississippi with razor-thin margin in Senate race",
+          "url": "https://abcnews.com/Politics/recounts-mississippi-razor-thin-margin-senate-race/story?id=137844445",
+          "published_at": "2026-11-05T10:45:03Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "3rd place Mississippi Senate candidate says he did not spoil tight race for Democrat",
+          "url": "https://abcnews.com/Politics/3rd-place-mississippi-senate-candidate-spoil-tight-race/story?id=137875509",
+          "published_at": "2026-11-05T19:02:47Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Inside Mississippi's ballot counting in tight Senate race",
+          "url": "https://www.bbc.co.uk/news/videos/cmj477d0dyxqo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-05T20:31:38Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Senate GOP's campaign arm demands Mississippi election officials preserve affidavit ballots",
+          "url": "https://thehill.com/homenews/campaign/6202795-nrsc-demands-mississippi-ballot-preservation/",
+          "published_at": "2026-11-05T23:25:19Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Mississippi Senate election: Democrat Scott Colom narrowly leads Republican Cindy Hyde-Smith",
+          "url": "https://www.cnbc.com/2026/11/05/mississippi-senate-election-scott-colom-hyde-smith.html",
+          "published_at": "2026-11-05T23:40:00Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "In Tight Mississippi Senate Race, Votes Are Carefully Scrutinized",
+          "url": "https://www.nytimes.com/2026/11/05/us/mississippi-senate-colom-hydesmith-votes.html",
+          "published_at": "2026-11-06T01:03:27Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "What's next as Mississippi, Alaska Senate races still too close to call",
+          "url": "https://www.cbsnews.com/video/whats-next-mississippi-alaska-senate-races/",
+          "published_at": "2026-11-06T01:06:00Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Mississippi Senate race is toss-up, with razor-thin margin",
+          "url": "https://www.cbsnews.com/news/mississippi-senate-race-results-2026-midterms/",
+          "published_at": "2026-11-06T01:28:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Kelly Ayotte survives blue wave, wins reelection for governor in NH",
+      "score": 77,
+      "signals": {
+        "us_outlets": 5,
+        "intl_outlets": 1,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "CBS News",
+        "Fox News",
+        "NBC Boston",
+        "The Guardian",
+        "The Hill",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-05T08:26:39Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Kelly Ayotte survives blue wave, wins reelection for governor in NH",
+          "url": "https://www.nbcboston.com/news/local/kelly-ayotte-wins-reelection-for-governor-in-new-hampshire/4043450/",
+          "published_at": "2026-11-05T08:26:39Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Rosie O'Donnell considers return to New York from Dublin after celebrating blue wave of midterm election wins",
+          "url": "https://www.foxnews.com/entertainment/rosie-odonnell-plots-return-new-york-dublin-celebrating-blue-wave-midterm-election-wins",
+          "published_at": "2026-11-05T21:12:38Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "These 5 Midterm Races Tell the Story of the Democrats\u2019 Blue Wave",
+          "url": "https://www.nytimes.com/2026/11/05/us/politics/democrats-blue-wave-elections-districts.html",
+          "published_at": "2026-11-06T00:03:36Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "US elections 2026 live: Democrats exceed 250 House seats as blue wave sweeping Congress grows",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
+          "published_at": "2026-11-06T01:23:42Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrats flip more seats in Congress as GOP grapples with stunning losses",
+          "url": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/",
+          "published_at": "2026-11-06T01:50:06Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrat Jessica Killin flips longtime GOP-held Colorado House seat",
+          "url": "https://thehill.com/homenews/campaign/6180533-jessica-killin-unseats-jeff-crank-colorado-5th-district/",
+          "published_at": "2026-11-06T01:58:35Z"
+        }
+      ]
+    },
+    {
+      "headline": "Russell Brand found guilty of rape and sexual assault",
+      "score": 68,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 1,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Los Angeles Times",
+        "NBC Boston",
+        "NBC News",
+        "NPR",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-05T08:26:39Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Russell Brand found guilty of rape and sexual assault",
+          "url": "https://www.nbcboston.com/entertainment/entertainment-news/russell-brand-found-guilty-rape-sexual-assault/4044338/",
+          "published_at": "2026-11-05T08:26:39Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Russell Brand is convicted of rape, and judge says he'll get a prison term",
+          "url": "https://www.npr.org/2026/11/05/nx-s1-6030720/russell-brand-rape-sexual-assault-prison",
+          "published_at": "2026-11-05T16:15:02Z"
+        },
+        {
+          "publisher": "Los Angeles Times",
+          "group": "latimes",
+          "kind": "news",
+          "wire": false,
+          "title": "Russell Brand found guilty of rape and sexual assault in U.K. trial",
+          "url": "https://www.latimes.com/entertainment-arts/story/2026-11-05/russell-brand-verdict-convicted-rape-sexual-assault",
+          "published_at": "2026-11-05T16:32:12Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Russell Brand found guilty of rape and sexual assault in London court",
+          "url": "https://www.nbcnews.com/now/video/russell-brand-found-guilty-of-rape-and-sexual-assault-in-london-court-272934981930",
+          "published_at": "2026-11-05T18:31:47Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Police investigating two further rape allegations against Russell Brand",
+          "url": "https://www.theguardian.com/culture/2026/nov/05/russell-brand-detective-other-potential-victims",
+          "published_at": "2026-11-05T19:17:40Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Russell Brand Is Found Guilty of Rape and Sexual Assault",
+          "url": "https://www.nytimes.com/2026/11/05/arts/russell-brand-rape-sexual-assault-trial-verdict.html",
+          "published_at": "2026-11-05T20:08:30Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "How British Law Informed Russell Brand Trial Coverage",
+          "url": "https://www.nytimes.com/2026/11/05/insider/russell-brand-trial-british-law.html",
+          "published_at": "2026-11-05T22:56:32Z"
+        }
+      ]
+    },
+    {
+      "headline": "Question 7, Massachusetts starter-home ballot question, appears likely to fail",
+      "score": 66,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": [
+          "massachusetts"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "NBC Boston",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-05T08:26:39Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Question 7, Massachusetts starter-home ballot question, appears likely to fail",
+          "url": "https://www.nbcboston.com/boston-business-journal/question-7-massachusetts-starter-home-ballot-question-appears-likely-to-fail/4043857/",
+          "published_at": "2026-11-05T08:26:39Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "The Massachusetts ballot wasn\u2019t crowded enough. So here are nine more questions.",
+          "url": "https://www.bostonglobe.com/2026/11/05/opinion/nine-more-ballot-questions/",
+          "published_at": "2026-11-05T16:49:27Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Question 5 fails: Massachusetts voters halt tax rebate changes",
+          "url": "https://www.masslive.com/politics/2026/11/massachusetts-ballot-question-5-fails-halting-change-to-tax-rebates.html",
+          "published_at": "2026-11-06T01:14:16Z"
+        }
+      ]
+    },
+    {
+      "headline": "Here's what Mass. voters decided on the 9 statewide ballot questions",
+      "score": 66,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": [
+          "mass.",
+          "massachusetts"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "NBC Boston",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-05T08:26:39Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Here's what Mass. voters decided on the 9 statewide ballot questions",
+          "url": "https://www.nbcboston.com/news/local/massachusetts-election-results-ballot-questions-2026/4043419/",
+          "published_at": "2026-11-05T08:26:39Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "All but one of nine ballot questions had clear results. This Mass. housing measure is still a toss-up.",
+          "url": "https://www.bostonglobe.com/2026/11/04/metro/massachusetts-ballot-question-7-town-by-town/",
+          "published_at": "2026-11-05T14:58:37Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "68.6% of Mass. voters preserved the 2024 gun law \u2014 here's where the opposition was concentrated",
+          "url": "https://www.masslive.com/election/2026/11/question-9-results-which-mass-voters-wanted-to-repeal-2024-gun-law.html",
+          "published_at": "2026-11-05T20:25:46Z"
+        }
+      ]
+    },
+    {
+      "headline": "WATCH: Fuel prices drop after midterm elections",
+      "score": 62,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "CBS News",
+        "CNBC",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-05T17:11:24Z",
+      "reports": [
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "WATCH: Fuel prices drop after midterm elections",
+          "url": "https://abcnews.com/video/137882438/",
+          "published_at": "2026-11-05T17:11:24Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Three consumer stocks to buy after the midterm elections",
+          "url": "https://www.cnbc.com/2026/11/05/three-consumer-stocks-to-buy-after-the-midterm-elections.html",
+          "published_at": "2026-11-05T19:37:28Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Stocks Erase Post-Midterm Elections Rally, Dragged Down by Tech",
+          "url": "https://www.nytimes.com/2026/11/05/business/stocks-midterms-artificial-intelligence.html",
+          "published_at": "2026-11-06T00:48:29Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Stocks crater as midterms spur investor exodus from tech and AI",
+          "url": "https://www.cbsnews.com/news/stocks-midterm-elections-tech-companies-ai-data-centers/",
+          "published_at": "2026-11-06T00:53:24Z"
+        }
+      ]
+    },
+    {
+      "headline": "Hegseth expands National Guard operations in DC, authorizes police patrol cars, Humvees and boats",
+      "score": 62,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Fox News",
+        "PBS NewsHour",
+        "The Hill",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-05T22:45:21Z",
+      "reports": [
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Hegseth expands National Guard operations in DC, authorizes police patrol cars, Humvees and boats",
+          "url": "https://www.foxnews.com/politics/hegseth-expands-national-guard-operations-dc-authorizes-police-patrol-cars-humvees-boats",
+          "published_at": "2026-11-05T22:45:21Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "National Guard to Expand Patrols in Washington With Military Vehicles and Boats",
+          "url": "https://www.nytimes.com/2026/11/05/us/politics/washington-dc-national-guard-troops-hegseth-trump.html",
+          "published_at": "2026-11-05T22:50:58Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "National Guard to use boats, Humvees in expanded DC presence",
+          "url": "https://thehill.com/policy/defense/6202760-national-guard-washington-dc-expands-presence/",
+          "published_at": "2026-11-05T23:04:32Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Hegseth allows National Guard to boost DC patrols with military vehicles, boats and patrol cars",
+          "url": "https://www.pbs.org/newshour/politics/hegseth-allows-national-guard-to-boost-dc-patrols-with-military-vehicles-boats-and-patrol-cars",
+          "published_at": "2026-11-05T23:31:50Z"
+        }
+      ]
+    },
+    {
+      "headline": "5 healthcare fights Democrats could take on after midterms sweep",
+      "score": 61,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "CNBC",
+        "NBC Boston",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-05T08:26:39Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "5 healthcare fights Democrats could take on after midterms sweep",
+          "url": "https://www.nbcboston.com/elections/democrats-healthcare-policy-changes-after-midterms-sweep/4044033/",
+          "published_at": "2026-11-05T08:26:39Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "What Wall Street billionaires are saying about Democrats' midterm sweep",
+          "url": "https://www.cnbc.com/2026/11/04/billionaires-musk-branson-democrats-midterms-ai-wall-street.html",
+          "published_at": "2026-11-05T13:44:27Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'",
+          "url": "https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html",
+          "published_at": "2026-11-05T20:17:16Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "After midterm rebuke, OpenAI pledges to give data center towns more say",
+          "url": "https://www.bostonglobe.com/2026/11/05/business/midterm-openai-data-center-towns/",
+          "published_at": "2026-11-05T23:34:58Z"
+        }
+      ]
+    },
+    {
+      "headline": "Paraguay President Santiago Pe\u00f1a resigns after bank collapse",
+      "score": 59,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 2,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "NPR",
+        "PBS NewsHour",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-05T17:40:40Z",
+      "reports": [
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Paraguay President Santiago Pe\u00f1a resigns after bank collapse",
+          "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-05T17:40:40Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Paraguay's president is impeached minutes after resigning following a bank collapse",
+          "url": "https://www.npr.org/2026/11/05/nx-s1-6030842/paraguay-president-impeached-bank-collapse",
+          "published_at": "2026-11-05T18:30:16Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Paraguay\u2019s president quits after millions of people\u2019s savings frozen in bank crisis",
+          "url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
+          "published_at": "2026-11-05T18:48:07Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Paraguay\u2019s President, Santiago Pe\u00f1a, Quits Amid Ueno Bank Scandal",
+          "url": "https://www.nytimes.com/2026/11/05/world/americas/paraguay-santiago-pena-resigns.html",
+          "published_at": "2026-11-05T21:40:04Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Paraguay prosecutor will seek charges against embattled president after bank collapse",
+          "url": "https://www.pbs.org/newshour/world/paraguay-prosecutor-will-seek-charges-against-embattled-president-after-bank-collapse",
+          "published_at": "2026-11-05T23:16:26Z"
+        }
+      ]
+    },
+    {
+      "headline": "A brutal sell-off for AI stocks sends Wall Street reeling, and the S&P 500 tumbles 4.4%",
+      "score": 54,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 1,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "CNBC",
+        "NBC Boston"
+      ],
+      "first_seen": "2026-11-05T08:26:39Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "A brutal sell-off for AI stocks sends Wall Street reeling, and the S&P 500 tumbles 4.4%",
+          "url": "https://www.nbcboston.com/news/national-international/ai-stocks-wall-street-reeling-sp-500-tumbles/4044610/",
+          "published_at": "2026-11-05T08:26:39Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "A brutal sell-off for AI stocks sends Wall Street reeling, and the S&P 500 tumbles 4.4%",
+          "url": "https://www.boston.com/news/national-news/2026/11/05/a-brutal-sell-off-for-ai-stocks-sends-wall-street-reeling-and-the-sp-500-tumbles-4-4/",
+          "published_at": "2026-11-05T21:19:47Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble",
+          "url": "https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html",
+          "published_at": "2026-11-06T01:41:32Z"
+        }
+      ]
+    },
+    {
+      "headline": "MIAA boys\u2019 soccer tournament: Seeds and pairings for Divisions 1-5",
+      "score": 53,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "cambridge"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-05T20:03:21Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "MIAA boys\u2019 soccer tournament: Seeds and pairings for Divisions 1-5",
+          "url": "https://www.bostonglobe.com/2026/11/05/sports/miaa-boys-soccer-tournament/",
+          "published_at": "2026-11-05T20:03:21Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "MIAA girls\u2019 soccer tournament: Seedings and pairings for Divisions 1-5",
+          "url": "https://www.bostonglobe.com/2026/11/05/sports/miaa-girls-soccer-tournament/",
+          "published_at": "2026-11-05T20:21:18Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "MIAA girls\u2019 soccer tournament: Favorites, sleepers, analysis for Divisions 1-5",
+          "url": "https://www.bostonglobe.com/2026/11/05/sports/miaa-girls-soccer-playoff-preview-2026/",
+          "published_at": "2026-11-05T22:09:35Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Check out these 17 football players to watch in the MIAA Division 3 state tournament",
+          "url": "https://www.masslive.com/highschoolsports/2026/11/17-high-school-football-players-to-watch-in-the-division-3-state-tournament.html",
+          "published_at": "2026-11-05T22:52:07Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "MIAA boys\u2019 soccer tournament: Favorites, sleepers, analysis for Divisions 1-5",
+          "url": "https://www.bostonglobe.com/2026/11/05/sports/miaa-boys-soccer-playoff-preview/",
+          "published_at": "2026-11-06T00:30:37Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "MassLive breaks down all 5 MIAA girls soccer brackets with guests from around the state",
+          "url": "https://www.masslive.com/highschoolsports/2026/11/watch-the-masslive-miaa-girls-soccer-bracket-breakdown-show-here.html",
+          "published_at": "2026-11-06T00:40:49Z"
+        }
+      ]
+    },
+    {
+      "headline": "Kraft to miss Gronkowski's Patriots hall of fame induction after back surgery",
+      "score": 51,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "patriots"
+        ]
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "NBC Boston",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-05T08:26:39Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Kraft to miss Gronkowski's Patriots hall of fame induction after back surgery",
+          "url": "https://www.nbcboston.com/news/sports/kraft-to-miss-gronkowskis-patriots-hall-of-fame-induction-after-back-surgery/4044656/",
+          "published_at": "2026-11-05T08:26:39Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Bill Belichick, Robert Kraft advance in Pro Football Hall of Fame Class of 2027 selection process",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/11/05/bill-belichick-robert-kraft-advance-in-pro-football-hall-of-fame-class-of-2027-selection-process/",
+          "published_at": "2026-11-05T22:14:29Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Bill Belichick a coach category finalist for Hall of Fame, Patriots owner Robert Kraft to miss events after back surgery",
+          "url": "https://www.bostonglobe.com/2026/11/05/sports/patriots-bill-belichick-bob-kraft/",
+          "published_at": "2026-11-05T22:53:51Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Brad Marchand writes tribute to Patrice Bergeron ahead of Hall of Fame induction",
+          "url": "https://www.boston.com/sports/boston-bruins/2026/11/05/patrice-bergeron-brad-marchand-nhl-hockey-boston-bruins-hall-of-fame/",
+          "published_at": "2026-11-06T01:00:19Z"
+        }
+      ]
+    },
+    {
+      "headline": "Closing arguments next in Farwell trial. Did the defense create reasonable doubt?",
+      "score": 50,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "NBC Boston"
+      ],
+      "first_seen": "2026-11-05T08:26:39Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Closing arguments next in Farwell trial. Did the defense create reasonable doubt?",
+          "url": "https://www.nbcboston.com/news/local/matthew-farwell-sandra-birchmore-trial-closing-arguments-friday/4044266/",
+          "published_at": "2026-11-05T08:26:39Z"
+        },
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Sandra Birchmore case recap: Defense rests, Matthew Farwell doesn't testify in his trial",
+          "url": "https://www.nbcboston.com/news/local/matthew-farwell-trial-live-updates-from-day-18-of-the-sandra-birchmore-case/4043497/",
+          "published_at": "2026-11-05T08:26:39Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Could Sandra Birchmore\u2019s death have been suicide? The defense made its case",
+          "url": "https://www.masslive.com/news/2026/11/how-matthew-farwells-defense-tried-to-create-doubt-about-sandra-birchmores-death.html",
+          "published_at": "2026-11-05T22:24:51Z"
+        }
+      ]
+    },
+    {
+      "headline": "Dunlap concedes in close Maine congressional race, securing win for former Gov. LePage",
+      "score": 50,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "maine"
+        ]
+      },
+      "independent_outlets": [
+        "NBC Boston",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-05T08:26:39Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Dunlap concedes in close Maine congressional race, securing win for former Gov. LePage",
+          "url": "https://www.nbcboston.com/news/local/lepage-declares-victory-but-2nd-congressional-district-race-in-maine-still-undecided/4044329/",
+          "published_at": "2026-11-05T08:26:39Z"
+        },
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Troy Jackson wins Maine U.S. Senate race over Susan Collins",
+          "url": "https://www.nbcboston.com/news/local/susan-collins-troy-jackson-maine-senate-race-results-2026/4043388/",
+          "published_at": "2026-11-05T08:26:39Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Susan Collins gave her first interview after a shocking Senate loss. These are the three big takeaways.",
+          "url": "https://www.bostonglobe.com/2026/11/05/elections/susan-collins-maine-nyt-interview/",
+          "published_at": "2026-11-05T18:37:27Z"
+        }
+      ]
+    }
+  ]
+}
