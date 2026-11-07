@@ -1,6 +1,68 @@
 {
   "entries": [
     {
+      "date": "2026-11-06",
+      "published_at": "2026-11-07T02:21:46.292120Z",
+      "status": "published",
+      "prelaunch": false,
+      "title": "Stephen Miller replaces Susie Wiles as chief of staff",
+      "caption": "On Nov. 6, President Trump announced on Truth Social that deputy chief of staff Stephen Miller will replace Susie Wiles as White House chief of staff, starting Monday. Wiles, the first woman in the job, said Friday was her last day. The first major shake-up after Republicans lost Congress in the midterms elevates the architect of the administration's immigration crackdown.",
+      "stories": [
+        {
+          "name": "Stephen Miller replaces Susie Wiles as White House chief of staff",
+          "role": "focal",
+          "facts": [
+            "On Friday, Nov. 6, President Trump announced on Truth Social that deputy chief of staff Stephen Miller will replace Susie Wiles as White House chief of staff; his post said Miller starts Monday.",
+            "Wiles, the first woman to hold the post, posted that Friday was her last day, calling the job the honor of a lifetime; Trump said she will move to his political operation.",
+            "The change came days after Republicans lost control of Congress in the midterm elections; Miller is known as the architect of the administration's immigration enforcement and deportation policies."
+          ],
+          "sources": [
+            {
+              "publisher": "CBS News",
+              "title": "Trump installs Stephen Miller as chief of staff, replacing Susie Wiles",
+              "url": "https://www.cbsnews.com/news/stephen-miller-trump-chief-of-staff-susie-wiles/",
+              "published_at": "2026-11-07T01:40:50Z"
+            },
+            {
+              "publisher": "PBS NewsHour (from the Associated Press)",
+              "title": "Trump names Stephen Miller his next chief of staff after major Republican midterm losses",
+              "url": "https://www.pbs.org/newshour/politics/trump-names-stephen-miller-his-next-chief-of-staff-after-major-republican-midterm-losses",
+              "published_at": "2026-11-06T19:17:44Z"
+            },
+            {
+              "publisher": "NBC News",
+              "title": "Trump names Stephen Miller his new chief of staff, replacing Susie Wiles",
+              "url": "https://www.nbcnews.com/politics/donald-trump/trump-stephen-miller-susie-wiles-white-house-chief-of-staff-rcna607892",
+              "published_at": "2026-11-06T19:00:20Z"
+            },
+            {
+              "publisher": "The Boston Globe",
+              "title": "Stephen Miller replaces Susie Wiles as Trump’s White House chief of staff after GOP’s midterm defeat",
+              "url": "https://www.bostonglobe.com/2026/11/06/nation/susie-wiles-replaced-stephen-miller-white-house-chief-of-staff/",
+              "published_at": "2026-11-06T21:21:55Z"
+            },
+            {
+              "publisher": "NPR",
+              "title": "Stephen Miller replaces Susie Wiles as White House chief of staff",
+              "url": "https://www.npr.org/2026/11/06/nx-s1-6032810/stephen-miller-replaces-susie-wiles-as-white-house-chief-of-staff",
+              "published_at": "2026-11-06T22:21:35Z"
+            }
+          ]
+        }
+      ],
+      "artwork": {
+        "path": "artwork/2026-11-06.svg",
+        "format": "svg",
+        "alt": "Editorial illustration at night: the white columned portico of the White House West Wing glows, its doorway lit gold. Stephen Miller, bald, in a dark suit and tie, stands in the doorway while Susie Wiles, with pale-blonde hair and a dark suit, walks away down the driveway. A huge blank phone screen glows above the roof like a moon, standing for Trump's social media announcement, and silhouetted press with cameras and a boom microphone watch from the foreground.",
+        "method": "code-generated SVG (graphic-poster kit, src/art/daily/)",
+        "revision": "r4"
+      },
+      "backfill": {
+        "is_backfill": false,
+        "reason": null
+      }
+    },
+    {
       "date": "2026-11-05",
       "published_at": "2026-11-06T02:18:16.728815Z",
       "status": "published",

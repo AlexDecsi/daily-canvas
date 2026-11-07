@@ -1,0 +1,68 @@
+{
+  "date": "2026-11-06",
+  "runs": [
+    {
+      "started_at": "2026-11-07T02:17:18.966640Z",
+      "outcome": "published",
+      "steps": [
+        {
+          "at": "2026-11-07T02:17:18.966643Z",
+          "step": "prepare: lock acquired (live)"
+        },
+        {
+          "at": "2026-11-07T02:17:28.041446Z",
+          "step": "prepare: ran src/news/feeds.py"
+        },
+        {
+          "at": "2026-11-07T02:17:28.179747Z",
+          "step": "prepare: ran src/news/cluster.py"
+        },
+        {
+          "at": "2026-11-07T02:21:47.368651Z",
+          "step": "finalize: published to local site"
+        }
+      ],
+      "_new_run": true,
+      "mode": "live",
+      "prelaunch": false,
+      "finished_at": "2026-11-07T02:21:47.368441Z",
+      "link_checks": [
+        {
+          "url": "https://www.cbsnews.com/news/stephen-miller-trump-chief-of-staff-susie-wiles/",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.pbs.org/newshour/politics/trump-names-stephen-miller-his-next-chief-of-staff-after-major-republican-midterm-losses",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.nbcnews.com/politics/donald-trump/trump-stephen-miller-susie-wiles-white-house-chief-of-staff-rcna607892",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.bostonglobe.com/2026/11/06/nation/susie-wiles-replaced-stephen-miller-white-house-chief-of-staff/",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.npr.org/2026/11/06/nx-s1-6032810/stephen-miller-replaces-susie-wiles-as-white-house-chief-of-staff",
+          "ok": true,
+          "note": "HTTP 200"
+        }
+      ],
+      "samples_removed": [],
+      "stories_shown": [
+        "Stephen Miller replaces Susie Wiles as White House chief of staff"
+      ],
+      "usage": {
+        "article_reads": 3,
+        "web_searches": 0,
+        "render_rounds": 4,
+        "minutes": 5
+      }
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "date": "2026-11-06",
+  "mode": "live (scheduled run)",
+  "prepared_at": "2026-11-07T02:35:00Z",
+  "candidates_considered": 25,
+  "rationale": "President Trump replacing chief of staff Susie Wiles with Stephen Miller is by far the top-ranked cluster (15 US outlets, 10 front pages, including the NYT, CBS, NBC, NPR, PBS, ABC and the Boston Globe). It is the first major White House shake-up after the Republicans' midterm losses. Other candidates (Meghan Markle's father's arrest, Cornell's no-confidence vote, Sen. Chris Murphy leaving hospital, the Mississippi Senate count, Porzingis stepping away) score far lower. The armed-man arrest near the White House is a separate, still-developing story and is not drawn. The entry shows the focal story only.",
+  "stories": [
+    {
+      "role": "focal",
+      "name": "Stephen Miller replaces Susie Wiles as White House chief of staff",
+      "facts": [
+        "On Friday, Nov. 6, President Trump announced on Truth Social that deputy chief of staff Stephen Miller will replace Susie Wiles as White House chief of staff; his post said Miller starts Monday.",
+        "Wiles, the first woman to hold the post, posted that Friday was her last day, calling the job the honor of a lifetime; Trump said she will move to his political operation.",
+        "The change came days after Republicans lost control of Congress in the midterm elections; Miller is known as the architect of the administration's immigration enforcement and deportation policies."
+      ],
+      "people": [
+        {
+          "name": "Susie Wiles",
+          "public_figure": true,
+          "verified_action": "Left the chief of staff post; Friday, Nov. 6 was her last day (CBS News; AP via PBS). Drawn walking out of a West Wing doorway as an editorial staging of her departure, not a reported moment; no face detail, no text."
+        },
+        {
+          "name": "Stephen Miller",
+          "public_figure": true,
+          "verified_action": "Named the next White House chief of staff, starting Monday (CBS News; AP via PBS). Drawn walking into the same doorway as an editorial staging of the handover, not a reported moment; no text."
+        },
+        {
+          "name": "Donald Trump",
+          "public_figure": true,
+          "verified_action": "Announced the change in a Truth Social post (CBS News; AP via PBS). Not drawn as a figure; the post is represented by a large blank glowing phone screen in the sky, with no readable text."
+        }
+      ],
+      "visual_notes": "Night, low angle on a West Wing-style white classical entrance (pediment, columns, hanging lantern, black door). A huge blank phone screen glows in the sky like a moon, standing for the Truth Social announcement. In the lit doorway, two figures cross: Wiles (short white-blonde bob, dark suit) walking out to the left, and Miller (bald, slim dark suit, thin dark tie) walking in, with long cast shadows on the driveway. Generic press silhouettes with cameras in the foreground. No text, no slogans, no Trump figure.",
+      "confidence": "high: CBS News (own reporting, full article) and the Associated Press (via PBS NewsHour, full article) independently report the Truth Social announcement, Wiles's departure and statement, and Miller's appointment; CBS reports the Monday start date from Trump's post. NBC, NPR, the Boston Globe, the NYT, ABC and others report the same headline.",
+      "sources": [
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "title": "Trump installs Stephen Miller as chief of staff, replacing Susie Wiles",
+          "url": "https://www.cbsnews.com/news/stephen-miller-trump-chief-of-staff-susie-wiles/",
+          "published_at": "2026-11-07T01:40:50Z",
+          "checked_at": "2026-11-07T02:28:00Z",
+          "checked": "full article"
+        },
+        {
+          "publisher": "PBS NewsHour (from the Associated Press)",
+          "group": "pbs",
+          "wire": "AP",
+          "title": "Trump names Stephen Miller his next chief of staff after major Republican midterm losses",
+          "url": "https://www.pbs.org/newshour/politics/trump-names-stephen-miller-his-next-chief-of-staff-after-major-republican-midterm-losses",
+          "published_at": "2026-11-06T19:17:44Z",
+          "checked_at": "2026-11-07T02:28:00Z",
+          "checked": "full article (AP)"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "title": "Trump names Stephen Miller his new chief of staff, replacing Susie Wiles",
+          "url": "https://www.nbcnews.com/politics/donald-trump/trump-stephen-miller-susie-wiles-white-house-chief-of-staff-rcna607892",
+          "published_at": "2026-11-06T19:00:20Z",
+          "checked": "headline only"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "title": "Stephen Miller replaces Susie Wiles as Trump’s White House chief of staff after GOP’s midterm defeat",
+          "url": "https://www.bostonglobe.com/2026/11/06/nation/susie-wiles-replaced-stephen-miller-white-house-chief-of-staff/",
+          "published_at": "2026-11-06T21:21:55Z",
+          "checked": "headline only"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "title": "Stephen Miller replaces Susie Wiles as White House chief of staff",
+          "url": "https://www.npr.org/2026/11/06/nx-s1-6032810/stephen-miller-replaces-susie-wiles-as-white-house-chief-of-staff",
+          "published_at": "2026-11-06T22:21:35Z",
+          "checked": "headline only (fetch timed out)"
+        }
+      ]
+    }
+  ]
+}

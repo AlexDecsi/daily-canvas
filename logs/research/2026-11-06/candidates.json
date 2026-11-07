@@ -1,0 +1,2050 @@
+{
+  "date": "2026-11-06",
+  "fetched_at": "2026-11-07T02:17:28.015712Z",
+  "items_considered": 648,
+  "candidates": [
+    {
+      "headline": "Trump replaces Susie Wiles with Stephen Miller as White House chief of staff",
+      "score": 241,
+      "signals": {
+        "us_outlets": 15,
+        "intl_outlets": 2,
+        "front_pages": 10,
+        "boston_local": [
+          "healey",
+          "massachusetts"
+        ]
+      },
+      "independent_outlets": [
+        "ABC News",
+        "Axios",
+        "BBC News",
+        "Bloomberg",
+        "Boston.com",
+        "CBS News",
+        "CNBC",
+        "Fox News",
+        "Los Angeles Times",
+        "MassLive",
+        "NBC Boston",
+        "NBC News",
+        "NPR",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The Guardian",
+        "The Hill",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-06T09:16:19Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump replaces Susie Wiles with Stephen Miller as White House chief of staff",
+          "url": "https://www.nbcboston.com/news/national-international/stephen-miller-white-house-chief-of-staff-susan-wiles-donald-trump/4045257/",
+          "published_at": "2026-11-06T09:16:19Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump Taps Stephen Miller to Replace Wiles as Chief of Staff",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-06/trump-taps-stephen-miller-to-replace-wiles-as-chief-of-staff",
+          "published_at": "2026-11-06T18:54:04Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump names Stephen Miller his new chief of staff, replacing Susie Wiles",
+          "url": "https://www.nbcnews.com/politics/donald-trump/trump-stephen-miller-susie-wiles-white-house-chief-of-staff-rcna607892",
+          "published_at": "2026-11-06T19:00:20Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Stephen Miller will replace Susie Wiles as Trump's chief of staff",
+          "url": "https://www.npr.org/2026/11/06/nx-s1-6032795/stephen-miller-replace-susie-wiles-trumps-chief-of-staff",
+          "published_at": "2026-11-06T19:13:52Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump names Stephen Miller his next chief of staff after major Republican midterm losses",
+          "url": "https://www.pbs.org/newshour/politics/trump-names-stephen-miller-his-next-chief-of-staff-after-major-republican-midterm-losses",
+          "published_at": "2026-11-06T19:17:44Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Stephen Miller is now the most powerful unelected person in the White House \u2014 what that means for America",
+          "url": "https://www.masslive.com/politics/2026/11/stephen-miller-is-now-white-house-chief-of-staff-heres-what-you-need-to-know-about-his-rise.html",
+          "published_at": "2026-11-06T19:20:44Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump announces first major staffing change after midterm blowout",
+          "url": "https://www.masslive.com/politics/2026/11/trump-announces-first-major-staffing-change-after-midterm-blowout.html",
+          "published_at": "2026-11-06T19:25:39Z"
+        },
+        {
+          "publisher": "Los Angeles Times",
+          "group": "latimes",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump taps Stephen Miller as chief of staff, doubling down after midterm rout",
+          "url": "https://www.latimes.com/politics/story/2026-11-06/trump-names-stephen-miller-chief-of-staff-replacing-susie-wiles",
+          "published_at": "2026-11-06T19:33:04Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Susie Wiles responds as dramatic shake-up rocks Trump\u2019s inner circle",
+          "url": "https://www.masslive.com/politics/2026/11/susie-wiles-responds-as-sudden-shakeup-rocks-trumps-inner-circle.html",
+          "published_at": "2026-11-06T19:55:00Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump names Stephen Miller as new White House chief of staff",
+          "url": "https://www.bbc.co.uk/news/articles/cm9qzz5x9g5yo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-06T20:11:45Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump's move from Wiles to Miller signals major tactical shift for governing without Congress",
+          "url": "https://www.foxnews.com/politics/trumps-move-wiles-miller-signals-major-tactical-shift-governing-without-congress",
+          "published_at": "2026-11-06T20:34:35Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Secret Service arrests armed Venezuelan migrant near White House over alleged Trump assassination threat",
+          "url": "https://www.foxnews.com/us/secret-service-arrests-armed-venezuelan-migrant-near-white-house-alleged-trump-assassination-threat",
+          "published_at": "2026-11-06T21:18:15Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Stephen Miller replaces Susie Wiles as Trump\u2019s White House chief of staff after GOP\u2019s midterm defeat",
+          "url": "https://www.bostonglobe.com/2026/11/06/nation/susie-wiles-replaced-stephen-miller-white-house-chief-of-staff/",
+          "published_at": "2026-11-06T21:21:55Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Stephen Miller\u2019s promotion tells you everything about Trump\u2019s next two years. Here are three takeaways.",
+          "url": "https://www.bostonglobe.com/2026/11/06/nation/stephen-millers-promotion-tells-you-everything-about-trumps-next-two-years-here-are-three-takeaways/",
+          "published_at": "2026-11-06T21:33:56Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump Names Miller Chief of Staff as Tech Rebounds",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-06/bloomberg-businessweek-daily-xx-xx-2026-video",
+          "published_at": "2026-11-06T21:46:42Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Watch live: Trump to speak from Kennedy Space Center days after GOP midterm losses",
+          "url": "https://thehill.com/video-clips/6204918-watch-live-donald-trump-florida-nasa-space-center-midterms/",
+          "published_at": "2026-11-06T22:00:00Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Susie Wiles Is First High-Level Official to Leave Trump Administration After Midterms",
+          "url": "https://www.nytimes.com/2026/11/06/us/susie-wiles-replaced-trump-chief-of-staff.html",
+          "published_at": "2026-11-06T22:03:07Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Susie Wiles, Trump\u2019s Chief of Staff, Is Accused of Blocking Health Policies to Attract Donations",
+          "url": "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-calley-means-joe-rogan.html",
+          "published_at": "2026-11-06T22:03:52Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "What to Know About Stephen Miller, Trump\u2019s New Chief of Staff",
+          "url": "https://www.nytimes.com/2026/11/06/us/politics/stephen-miller-white-house-chief-staff.html",
+          "published_at": "2026-11-06T22:13:11Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump replaces chief of staff Susie Wiles with Stephen Miller",
+          "url": "https://www.axios.com/2026/11/06/susie-wiles-trump-stephen-miller-chief-of-staff",
+          "published_at": "2026-11-06T22:16:01Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Stephen Miller replaces Susie Wiles as White House chief of staff",
+          "url": "https://www.npr.org/2026/11/06/nx-s1-6032810/stephen-miller-replaces-susie-wiles-as-white-house-chief-of-staff",
+          "published_at": "2026-11-06T22:21:35Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump says Stephen Miller to replace Susie Wiles as White House chief of staff",
+          "url": "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html",
+          "published_at": "2026-11-06T22:22:53Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "White House trashes 'peanut-sized brain' Jimmy Kimmel after host demands Trump 'resign'",
+          "url": "https://www.foxnews.com/media/white-house-trashes-peanut-sized-brain-jimmy-kimmel-host-demands-trump-resign",
+          "published_at": "2026-11-06T22:30:27Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Susie Wiles exits White House as Trump ousts another woman from key role",
+          "url": "https://www.theguardian.com/us-news/2026/nov/06/susie-wiles-white-house-resignation",
+          "published_at": "2026-11-06T22:35:09Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Politicians react to Trump's decision to replace chief of staff Susie Wiles with Stephen Miller",
+          "url": "https://www.cbsnews.com/video/politicians-react-to-trumps-decision-to-replace-chief-of-staff-wiles-with-stephen-miller/",
+          "published_at": "2026-11-06T22:44:00Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "The Evening: Trump Replaces Chief of Staff",
+          "url": "https://www.nytimes.com/2026/11/06/briefing/stephen-miller-trump.html",
+          "published_at": "2026-11-06T22:47:21Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "President Trump names Stephen Miller chief of staff amid debate over immigration enforcement",
+          "url": "https://www.wcvb.com/article/president-trump-names-stephen-miller-chief-of-staff-amid-debate-over-immigration-enforcement/74362205",
+          "published_at": "2026-11-06T23:02:00Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "With Stephen Miller pick, Trump readies for a battle",
+          "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-06T23:24:15Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Brooks and Capehart on Trump's White House shakeup and fallout from the midterms",
+          "url": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-trumps-white-house-shakeup-and-fallout-from-the-midterms",
+          "published_at": "2026-11-06T23:25:07Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Former Sen. Flake, outspoken Trump critic, on the GOP reckoning post-midterms",
+          "url": "https://www.pbs.org/newshour/show/former-sen-flake-outspoken-trump-critic-on-the-gop-reckoning-post-midterms",
+          "published_at": "2026-11-06T23:30:54Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Lawmakers react with criticism as Trump replaces Wiles with Miller after midterm loss",
+          "url": "https://www.cbsnews.com/video/lawmakers-react-with-criticism-as-trump-replaces-wiles-with-miller-after-midterms-loss/",
+          "published_at": "2026-11-06T23:49:00Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Susie Wiles Is the Latest Powerful Woman to Exit the Trump Administration",
+          "url": "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-trump-women.html",
+          "published_at": "2026-11-06T23:53:13Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "What Trump picking Stephen Miller for chief of staff signals about his agenda",
+          "url": "https://www.pbs.org/newshour/show/what-trump-picking-stephen-miller-for-chief-of-staff-signals-about-his-agenda",
+          "published_at": "2026-11-06T23:55:50Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Wiles Out as White House Chief of Staff, Stephen Miller Takes Role",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-06/balance-of-power-late-edition-11-06-2026-video",
+          "published_at": "2026-11-06T23:56:40Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump said to expect firings. Hours later, he announced Susie Wiles' departure.",
+          "url": "https://www.cbsnews.com/video/trump-said-to-expect-firings-hours-later-he-announced-susie-wiles-departure/",
+          "published_at": "2026-11-07T00:00:00Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump told 60 Minutes to expect post-midterm firings",
+          "url": "https://www.cbsnews.com/news/trump-60-minutes-midterm-election-firings-susie-wiles/",
+          "published_at": "2026-11-07T00:03:00Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Venezuelan man who said voices told him to kill Trump is arrested near White House, DHS says",
+          "url": "https://www.nbcnews.com/news/us-news/venezuelan-man-said-voices-told-kill-trump-arrested-white-house-dhs-sa-rcna607943",
+          "published_at": "2026-11-07T00:30:59Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Man in custody after being found in vehicle near White House with guns",
+          "url": "https://www.theguardian.com/us-news/2026/nov/06/secret-service-man-in-custody-trump",
+          "published_at": "2026-11-07T00:31:59Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "In Elevating Stephen Miller, Trump Doubles Down on Hard-Line Agenda",
+          "url": "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-chief-of-staff-trump.html",
+          "published_at": "2026-11-07T00:39:51Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "How Stephen Miller appointment shows Trump hasn\u2019t learned his lesson on immigration",
+          "url": "https://www.theguardian.com/us-news/2026/nov/06/donald-trump-stephen-miller-immigration",
+          "published_at": "2026-11-07T01:04:52Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Stephen Miller named as new White House chief of staff",
+          "url": "https://www.nbcnews.com/nightly-news/video/stephen-miller-named-as-new-white-house-chief-of-staff-273042501821",
+          "published_at": "2026-11-07T01:05:57Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrats blast Trump\u2019s decision to appoint Stephen Miller as chief of staff in wake of Republican midterm rout \u2013 live",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
+          "published_at": "2026-11-07T01:08:08Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Stephen Miller to replace Susie Wiles as White House chief of staff",
+          "url": "https://www.cbsnews.com/video/stephen-miller-to-replace-susie-wiles-as-white-house-chief-of-staff-1/",
+          "published_at": "2026-11-07T01:21:28Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Secret Service arrests man near White House after he said he heard voices telling him to kill Trump",
+          "url": "https://www.boston.com/news/crime/2026/11/06/secret-service-arrests-man-near-white-house-after-he-said-he-heard-voices-telling-him-to-kill-trump/",
+          "published_at": "2026-11-07T01:21:56Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Secret Service arrests armed man near White House",
+          "url": "https://www.cbsnews.com/video/secret-service-arrests-armed-man-near-white-house/",
+          "published_at": "2026-11-07T01:23:49Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump says chief of staff Susie Wiles out, Stephen Miller will replace her",
+          "url": "https://abcnews.com/Politics/trump-chief-staff-susie-wiles-miller-replace/story?id=137921244",
+          "published_at": "2026-11-07T01:28:21Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Secret Service finds man parked near White House with multiple firearms: Authorities",
+          "url": "https://abcnews.com/US/man-arrested-after-secret-service-finds-parked-white/story?id=137930505",
+          "published_at": "2026-11-07T01:28:56Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Armed man arrested near White House planned to kill Trump, DHS says",
+          "url": "https://www.cbsnews.com/news/armed-man-arrested-near-white-house-secret-service-trump/",
+          "published_at": "2026-11-07T01:32:00Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "What Stephen Miller has pushed for while in Trump administration",
+          "url": "https://www.cbsnews.com/news/stephen-miller-chief-of-staff-trump-immigration-policies/",
+          "published_at": "2026-11-07T01:36:49Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Stephen Miller, architect of Trump\u2019s immigration crackdown, to become White House chief of staff",
+          "url": "https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump",
+          "published_at": "2026-11-07T01:38:06Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump installs Stephen Miller as chief of staff, replacing Susie Wiles",
+          "url": "https://www.cbsnews.com/news/stephen-miller-trump-chief-of-staff-susie-wiles/",
+          "published_at": "2026-11-07T01:40:50Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "What Wiles' legacy as chief of staff will be as she is replaced by Stephen Miller",
+          "url": "https://www.cbsnews.com/video/what-wiles-legacy-as-chief-of-staff-will-be-as-she-is-replaced-by-stephen-miller/",
+          "published_at": "2026-11-07T02:11:13Z"
+        }
+      ]
+    },
+    {
+      "headline": "Meghan Markle's father arrested in Florida over alleged child sexual abuse images",
+      "score": 115,
+      "signals": {
+        "us_outlets": 6,
+        "intl_outlets": 2,
+        "front_pages": 4,
+        "boston_local": [
+          "healey",
+          "massachusetts"
+        ]
+      },
+      "independent_outlets": [
+        "BBC News",
+        "Boston.com",
+        "CBS News",
+        "Los Angeles Times",
+        "NBC Boston",
+        "NBC News",
+        "The Boston Globe",
+        "The Guardian",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-06T09:16:19Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Meghan Markle's father arrested in Florida over alleged child sexual abuse images",
+          "url": "https://www.nbcboston.com/news/national-international/meghan-markle-father-arrested-florida-allegations-child-pornography/4045092/",
+          "published_at": "2026-11-06T09:16:19Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "YouTuber Accused of Child Sexual Abuse Is Arrested After Discussing Behavior in Film",
+          "url": "https://www.nytimes.com/2026/11/06/us/edp445-youtuber-arrested-sex-crimes.html",
+          "published_at": "2026-11-06T10:04:08Z"
+        },
+        {
+          "publisher": "Los Angeles Times",
+          "group": "latimes",
+          "kind": "news",
+          "wire": false,
+          "title": "Meghan Markle's estranged father arrested in California child pornography investigation",
+          "url": "https://www.latimes.com/world-nation/story/2026-11-06/thomas-meghan-markle-father-arrest",
+          "published_at": "2026-11-06T15:17:26Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Meghan Markle's estranged father is arrested in Florida",
+          "url": "https://www.nbcnews.com/video/meghan-markle-s-estranged-father-is-arrested-in-florida-273009221687",
+          "published_at": "2026-11-06T16:42:00Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Meghan Markle\u2019s estranged father arrested and charged with possessing child sexual abuse materials",
+          "url": "https://www.bostonglobe.com/2026/11/06/nation/thomas-meghan-markle-arrest/",
+          "published_at": "2026-11-06T20:00:09Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Meghan's father Thomas Markle appears in court over child sex abuse material",
+          "url": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-06T21:26:56Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Meghan Markle\u2019s Father Is Arrested on Child Sex Abuse Material Charges",
+          "url": "https://www.nytimes.com/2026/11/06/us/thomas-markle-arrested-child-sexual-abuse.html",
+          "published_at": "2026-11-06T21:59:43Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Thomas Markle, Meghan\u2019s father, charged in Florida in connection to child sexual abuse material",
+          "url": "https://www.theguardian.com/uk-news/2026/nov/06/thomas-markle-arrested",
+          "published_at": "2026-11-06T22:09:01Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Meghan\u2019s estranged father arrested and charged with possessing child sexual abuse materials",
+          "url": "https://www.boston.com/news/crime/2026/11/06/meghans-estranged-father-arrested-and-charged-with-possessing-child-sexual-abuse-materials/",
+          "published_at": "2026-11-06T23:13:50Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Meghan Markle's estranged father arrested by FBI in Florida on child sex abuse material charges",
+          "url": "https://www.cbsnews.com/video/meghan-markles-estranged-father-arrested-by-fbi-in-florida-on-child-sex-abuse-material-charges/",
+          "published_at": "2026-11-07T01:26:05Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Thomas Markle, father of Meghan, arrested on charges related to child sexual abuse materials",
+          "url": "https://www.wcvb.com/article/thomas-markle-meghan-arrested-child-sex-materials-arrested/74358740",
+          "published_at": "2026-11-07T01:28:00Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Thomas Markle Sr., Meghan's father, arrested in Florida",
+          "url": "https://www.cbsnews.com/news/thomas-markle-sr-meghan-father-arrested-florida/",
+          "published_at": "2026-11-07T01:32:49Z"
+        }
+      ]
+    },
+    {
+      "headline": "Cornell faculty senate votes no confidence in administration\u2019s handling of sexual assault",
+      "score": 115,
+      "signals": {
+        "us_outlets": 7,
+        "intl_outlets": 2,
+        "front_pages": 5,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "CBS News",
+        "NBC News",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The Guardian",
+        "The Hill",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-06T20:54:27Z",
+      "reports": [
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Cornell faculty senate votes no confidence in administration\u2019s handling of sexual assault",
+          "url": "https://www.nbcnews.com/news/education/cornell-faculty-senate-issues-no-confidence-vote-administrations-handl-rcna607286",
+          "published_at": "2026-11-06T20:54:27Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Cornell faculty vote \u2018no confidence\u2019 in university leadership after alleged fraternity gang rape",
+          "url": "https://www.bostonglobe.com/2026/11/06/nation/cornell-faculty-no-confidence-in-university-leadership/",
+          "published_at": "2026-11-06T20:55:25Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Cornell Faculty Senate passes no-confidence vote over Jane Doe case, but board of trustees backs president",
+          "url": "https://thehill.com/homenews/education/6205152-cornell-faculty-senate-no-confidence-vote-jane-doe-new-york/",
+          "published_at": "2026-11-06T21:09:33Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Cornell faculty vote 'no confidence' in university leadership after alleged fraternity gang rape",
+          "url": "https://www.pbs.org/newshour/nation/cornell-faculty-vote-no-confidence-in-university-leadership-after-alleged-fraternity-gang-rape",
+          "published_at": "2026-11-06T21:28:00Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Cornell faculty declares \u2018no confidence\u2019 in school leaders in fallout from alleged gang-rape",
+          "url": "https://www.theguardian.com/us-news/2026/nov/06/cornell-faculty-declares-no-confidence-school-leaders",
+          "published_at": "2026-11-06T21:46:37Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Cornell's Faculty Senate votes \"no confidence\" in administration",
+          "url": "https://www.cbsnews.com/news/cornell-faculty-senates-no-confidence-vote-results/",
+          "published_at": "2026-11-06T23:23:00Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
+          "url": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-06T23:46:08Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Cornell faculty vote \u2018no confidence\u2019 in university leadership",
+          "url": "https://www.wcvb.com/article/cornell-faculty-vote-no-confidence-university-leadership/74362145",
+          "published_at": "2026-11-07T00:04:00Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Cornell Faculty Passes Vote of No Confidence Over Handling of Sexual Assault Case",
+          "url": "https://www.nytimes.com/2026/11/06/nyregion/cornell-no-confidence-vote.html",
+          "published_at": "2026-11-07T00:06:37Z"
+        }
+      ]
+    },
+    {
+      "headline": "Sen. Chris Murphy announces he was discharged from hospital after stroke",
+      "score": 113,
+      "signals": {
+        "us_outlets": 6,
+        "intl_outlets": 0,
+        "front_pages": 5,
+        "boston_local": [
+          "connecticut",
+          "healey",
+          "massachusetts"
+        ]
+      },
+      "independent_outlets": [
+        "ABC News",
+        "CBS News",
+        "CNBC",
+        "NBC Boston",
+        "NBC News",
+        "PBS NewsHour",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-06T09:16:19Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Sen. Chris Murphy announces he was discharged from hospital after stroke",
+          "url": "https://www.nbcboston.com/news/national-international/sen-chris-murphy-announces-he-was-discharged-from-hospital-after-stroke/4045273/",
+          "published_at": "2026-11-06T09:16:19Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Connecticut Sen. Chris Murphy released from hospital after stroke",
+          "url": "https://www.pbs.org/newshour/politics/connecticut-sen-chris-murphy-released-from-hospital-after-stroke",
+          "published_at": "2026-11-06T19:52:13Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Sen. Chris Murphy discharged from hospital after stroke",
+          "url": "https://www.nbcnews.com/politics/congress/senator-chris-murphy-discharged-hospital-stroke-rcna607896",
+          "published_at": "2026-11-06T19:53:33Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Connecticut Sen. Murphy discharged from hospital after stroke, goes to rehab facility",
+          "url": "https://abcnews.com/Politics/wireStory/connecticut-sen-chris-murphy-discharged-hospital-after-stroke-137923241",
+          "published_at": "2026-11-06T20:16:18Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Sen. Chris Murphy released from hospital after stroke, will miss votes for 'several weeks' as he rehabs",
+          "url": "https://www.cnbc.com/2026/11/06/chris-murphy-stroke-hospital-senate.html",
+          "published_at": "2026-11-06T21:40:09Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Doctor explains recovery after Sen. Chris Murphy\u2019s stroke",
+          "url": "https://www.wcvb.com/article/doctor-explains-recovery-after-sen-chris-murphy-s-stroke/74362365",
+          "published_at": "2026-11-06T22:23:00Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Connecticut Sen. Chris Murphy is discharged from hospital after a stroke and goes to rehab facility",
+          "url": "https://www.wcvb.com/article/connecticut-sen-chris-murphy-discharged-hospital-stroke/74362436",
+          "published_at": "2026-11-07T00:48:00Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Sen. Chris Murphy out of hospital, will miss votes after stroke",
+          "url": "https://www.cbsnews.com/news/chris-murphy-stroke-hospital-miss-votes/",
+          "published_at": "2026-11-07T00:48:12Z"
+        }
+      ]
+    },
+    {
+      "headline": "Lawyers descend on Mississippi as vote counting continues in razor-thin Senate race",
+      "score": 97,
+      "signals": {
+        "us_outlets": 7,
+        "intl_outlets": 2,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Axios",
+        "BBC News",
+        "CBS News",
+        "CNBC",
+        "NBC News",
+        "NPR",
+        "The Guardian",
+        "The Hill",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-06T18:51:52Z",
+      "reports": [
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Lawyers descend on Mississippi as vote counting continues in razor-thin Senate race",
+          "url": "https://www.theguardian.com/us-news/2026/nov/06/mississippi-senate-race-vote-counting-lawyers",
+          "published_at": "2026-11-06T18:51:52Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Mississippi Senate: Longshot Ty Pinkins says he aimed to spoil Hyde-Smith, boost Colom vote",
+          "url": "https://www.cnbc.com/2026/11/06/mississippi-senate-ty-pinkins-colom-hyde-smith.html",
+          "published_at": "2026-11-06T19:44:33Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "No one knows how many ballots are outstanding in Mississippi's Senate race",
+          "url": "https://www.npr.org/2026/11/06/nx-s1-6030645/mississippi-senate-results-provisional-ballots",
+          "published_at": "2026-11-06T19:50:14Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Colom and Hyde-Smith's razor-thin Senate race spotlights Mississippi's voter rolls",
+          "url": "https://www.axios.com/2026/11/06/mississippi-colom-hyde-smith-inactive-voter-registrations",
+          "published_at": "2026-11-06T20:26:01Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "South Florida candidate sues election official, alleging bias in a contentious, razor-thin race",
+          "url": "https://www.nbcnews.com/politics/2026-election/south-florida-miami-rodriguez-sues-supervisor-elections-garcia-salazar-rcna607841",
+          "published_at": "2026-11-06T21:10:43Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Razor-tight Mississippi Senate race sparks ballot battle - could there be a recount?",
+          "url": "https://www.bbc.co.uk/news/articles/cwj0llvqqm72o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-06T22:22:51Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Mississippi Senate race still a toss-up; Democrat holds slim lead",
+          "url": "https://www.cbsnews.com/news/mississippi-senate-race-results-2026-midterms/",
+          "published_at": "2026-11-06T23:13:42Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Colom Leads Hyde-Smith in Mississippi Senate Race After Latest Vote Report",
+          "url": "https://www.nytimes.com/2026/11/06/us/elections/colom-hyde-smith-mississippi-senate-race.html",
+          "published_at": "2026-11-06T23:15:05Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "How Scott Colom turned his Mississippi Senate race into a nail-biter",
+          "url": "https://thehill.com/homenews/senate/6205607-hyde-smith-colom-mississippi-senate/",
+          "published_at": "2026-11-07T00:08:20Z"
+        }
+      ]
+    },
+    {
+      "headline": "Kristaps Porzingis stepping away from basketball amid health issues: 'Not where I want to be'",
+      "score": 82,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 1,
+        "front_pages": 3,
+        "boston_local": [
+          "boston"
+        ]
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "ESPN",
+        "Fox News",
+        "The Boston Globe",
+        "The Guardian",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-06T20:56:26Z",
+      "reports": [
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Kristaps Porzingis stepping away from basketball amid health issues: 'Not where I want to be'",
+          "url": "https://www.foxnews.com/outkick-sports/kristaps-porzingis-stepping-away-basketball-amid-health-issues-not-where-i-want-to-be",
+          "published_at": "2026-11-06T20:56:26Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "NBA player Kristaps Porzingis announces he is stepping away to address health concerns",
+          "url": "https://www.wcvb.com/article/kristaps-porzingis-stepping-away-nba-health/74362266",
+          "published_at": "2026-11-06T22:45:00Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Warriors center and former Celtic Kristaps Porzingis steps away from the NBA to focus on health issue",
+          "url": "https://www.bostonglobe.com/2026/11/06/sports/kristaps-porzingis-nba-warriors-celtics/",
+          "published_at": "2026-11-06T23:53:48Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Former Celtic Kristaps Porzingis \u2018stepping away\u2019 from basketball amid health issues",
+          "url": "https://www.boston.com/sports/boston-celtics/2026/11/06/nba-news-celtics-champion-kristaps-porzingis-stepping-away-from-basketball/",
+          "published_at": "2026-11-07T00:33:23Z"
+        },
+        {
+          "publisher": "ESPN",
+          "group": "espn",
+          "kind": "news",
+          "wire": false,
+          "title": "Warriors' Porzingis to 'step away' from NBA to prioritize his health",
+          "url": "https://www.espn.com/nba/story/_/id/50402041/warriors-kristaps-porzingis-step-away-prioritize-health",
+          "published_at": "2026-11-07T01:07:42Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Golden State Warriors\u2019 Kristaps Porzi\u0146\u0123is steps away from basketball over undisclosed health issue",
+          "url": "https://www.theguardian.com/sport/2026/nov/06/kristaps-porzingis-warriors-steps-away-basketball-health",
+          "published_at": "2026-11-07T01:47:39Z"
+        }
+      ]
+    },
+    {
+      "headline": "The 50 best players in women's college basketball right now",
+      "score": 78,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": [
+          "boston"
+        ]
+      },
+      "independent_outlets": [
+        "ESPN",
+        "Fox News",
+        "MassLive",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-06T19:57:12Z",
+      "reports": [
+        {
+          "publisher": "ESPN",
+          "group": "espn",
+          "kind": "news",
+          "wire": false,
+          "title": "The 50 best players in women's college basketball right now",
+          "url": "https://www.espn.com/womens-college-basketball/story/_/id/50394009/womens-college-basketball-2026-2027-player-rankings-top-50",
+          "published_at": "2026-11-06T19:57:12Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "World's tallest women's college basketball player makes her debut for Texas Tech",
+          "url": "https://www.foxnews.com/outkick-sports/worlds-tallest-womens-college-basketball-player-makes-debut-texas-tech",
+          "published_at": "2026-11-06T21:00:24Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Two women's college basketball teams score on their own baskets in the same day",
+          "url": "https://www.foxnews.com/outkick-sports/two-womens-college-basketball-teams-score-own-baskets-same-day",
+          "published_at": "2026-11-06T22:45:11Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Money Williams scores 35 points, Boston College men\u2019s basketball beats UMass in the Commonwealth Classic",
+          "url": "https://www.bostonglobe.com/2026/11/06/sports/boston-college-umass-mens-basketball-score/",
+          "published_at": "2026-11-06T23:39:20Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Money Williams guides BC men\u2019s basketball past UMass at TD Garden",
+          "url": "https://www.masslive.com/umassbasketball/2026/11/money-williams-guides-bc-mens-basketball-past-umass-at-td-garden.html",
+          "published_at": "2026-11-07T00:43:10Z"
+        }
+      ]
+    },
+    {
+      "headline": "Trump signs order to preserve Oval Office as national monument",
+      "score": 70,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 1,
+        "front_pages": 3,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "ABC News",
+        "BBC News",
+        "MassLive",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-06T09:19:57Z",
+      "reports": [
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump signs order to preserve Oval Office as national monument",
+          "url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-06T09:19:57Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump moves to make Oval Office a national monument to prevent future major changes",
+          "url": "https://abcnews.com/Politics/trump-moves-make-oval-office-national-monument-aiming/story?id=137894328",
+          "published_at": "2026-11-06T17:17:22Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Can the next president undo Trump\u2019s gold Oval Office?",
+          "url": "https://www.masslive.com/politics/2026/11/can-the-next-president-undo-trumps-gold-oval-office.html",
+          "published_at": "2026-11-06T21:47:00Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "President Trump declares Oval Office a national monument",
+          "url": "https://www.wcvb.com/article/trump-oval-office-national-monument/74362151",
+          "published_at": "2026-11-06T22:50:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Recap: Farwell trial jury hears closing statements, stays late but no verdict",
+      "score": 68,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": [
+          "healey",
+          "massachusetts"
+        ]
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "NBC Boston",
+        "The Boston Globe",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-06T09:16:19Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Recap: Farwell trial jury hears closing statements, stays late but no verdict",
+          "url": "https://www.nbcboston.com/news/local/matthew-farwell-trial-live-updates-as-closing-arguments-begin-in-sandra-birchmore-case/4044906/",
+          "published_at": "2026-11-06T09:16:19Z"
+        },
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Closing arguments next in Farwell trial. Did the defense create reasonable doubt?",
+          "url": "https://www.nbcboston.com/news/local/matthew-farwell-sandra-birchmore-trial-closing-arguments-friday/4044266/",
+          "published_at": "2026-11-06T09:16:19Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Jury to resume deliberations in Matthew Farwell trial on Monday",
+          "url": "https://www.wcvb.com/article/matthew-farwell-sandra-birchmore-trial-nov-6/74355791",
+          "published_at": "2026-11-06T23:15:00Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Closing arguments delivered in the trial of Sandra Birchmore\u2019s alleged killer, Matthew Farwell. Here\u2019s what happened.",
+          "url": "https://www.boston.com/news/crime/2026/11/06/closing-arguments-matthew-farwell-trial-sandra-birchmore-nov-6-2026/",
+          "published_at": "2026-11-06T23:25:48Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Jury takes case in Matthew Farwell trial over death of Sandra Birchmore. Here are the closing arguments.",
+          "url": "https://www.bostonglobe.com/2026/11/06/metro/sandra-birchmore-trial-closing-statements/",
+          "published_at": "2026-11-07T00:08:29Z"
+        }
+      ]
+    },
+    {
+      "headline": "Trump's 250-foot arch temporarily blocked by federal judge",
+      "score": 67,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 1,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Axios",
+        "BBC News",
+        "NPR",
+        "PBS NewsHour",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-06T05:54:56Z",
+      "reports": [
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump's 250-foot arch temporarily blocked by federal judge",
+          "url": "https://www.axios.com/local/washington-dc/2026/11/06/trump-arch-dc-arlington-cemetery-construction-lawsuits",
+          "published_at": "2026-11-06T05:54:56Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge halts construction of Trump's arch. And, Labor Department to release jobs report",
+          "url": "https://www.npr.org/2026/11/06/g-s1-152213/up-first-newsletter-job-market-trump-arch-school-enrollment-harmeet-dhillon",
+          "published_at": "2026-11-06T12:24:52Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
+          "url": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-06T15:30:42Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump's triumphal arch is blocked for now, but a new website highlights the plans",
+          "url": "https://www.pbs.org/newshour/politics/trumps-triumphal-arch-is-blocked-for-now-but-a-new-website-highlights-the-plans",
+          "published_at": "2026-11-06T20:36:43Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump\u2019s arch is blocked for now, but a glitzy new website highlights the plans",
+          "url": "https://www.bostonglobe.com/2026/11/06/nation/trumps-arch-is-blocked-now-glitzy-new-website-highlights-plans/",
+          "published_at": "2026-11-06T21:16:49Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "News Wrap: Judge blocks construction of Trump's triumphal arch for now",
+          "url": "https://www.pbs.org/newshour/show/news-wrap-judge-blocks-construction-of-trumps-triumphal-arch-for-now",
+          "published_at": "2026-11-06T23:50:18Z"
+        }
+      ]
+    },
+    {
+      "headline": "First Alert: Severe thunderstorm, flash flood warnings in Mass., RI as heavy rain hits",
+      "score": 67,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": [
+          "boston",
+          "cape cod",
+          "healey",
+          "mass.",
+          "massachusetts"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "NBC Boston",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-06T09:16:19Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "First Alert: Severe thunderstorm, flash flood warnings in Mass., RI as heavy rain hits",
+          "url": "https://www.nbcboston.com/news/local/flood-watch-weather-boston-massachusetts-rain-live-radar-thunderstorms/4044843/",
+          "published_at": "2026-11-06T09:16:19Z"
+        },
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Heavy rain brings flooding to parts of Mass. Friday",
+          "url": "https://www.nbcboston.com/news/local/massachusetts-flooding-cape-brockton-friday/4045350/",
+          "published_at": "2026-11-06T09:16:19Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Heavy rain floods Cape Cod as more downpours hit Mass. coast",
+          "url": "https://www.masslive.com/weather/2026/11/heavy-rain-floods-cape-cod-as-more-downpours-hit-mass-coast.html",
+          "published_at": "2026-11-06T23:39:59Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Weather Alert: Heavy rain floods roads in some parts of Mass.",
+          "url": "https://www.wcvb.com/article/warmer-temperatures-return-to-start-the-week-but-rain-returns-to-the-forecast-following-election-day/74305281",
+          "published_at": "2026-11-07T00:34:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Pats' TreVeyon Henderson says he was hospitalized with \u2018unusual' medical emergency",
+      "score": 67,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": [
+          "healey",
+          "massachusetts",
+          "new england",
+          "patriots"
+        ]
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "MassLive",
+        "NBC Boston",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-06T09:16:19Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Pats' TreVeyon Henderson says he was hospitalized with \u2018unusual' medical emergency",
+          "url": "https://www.nbcboston.com/news/local/treveyon-henderson-patriots-medical-update/4045071/",
+          "published_at": "2026-11-06T09:16:19Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "TreVeyon Henderson has been sidelined, hospitalized by \u2018neurological symptoms,\u2019 Patriots RB says",
+          "url": "https://www.bostonglobe.com/2026/11/06/sports/patriots-treveyon-henderson-injury/",
+          "published_at": "2026-11-06T15:46:44Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Patriots\u2019 TreVeyon Henderson shares health update after hospitalization",
+          "url": "https://www.masslive.com/sports/2026/11/patriots-treveyon-henderson-reveals-medical-emergency-says-cause-remains-unknown.html",
+          "published_at": "2026-11-06T19:07:27Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Patriots injury report: A.J. Brown, TreVeyon Henderson ruled out vs. Packers",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/11/06/patriots-packers-injury-report-aj-brown/",
+          "published_at": "2026-11-07T01:04:23Z"
+        }
+      ]
+    },
+    {
+      "headline": "Watch: Is it the end of the road for Tesla's Cybertruck?",
+      "score": 67,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 1,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "CBS News",
+        "CNBC",
+        "The Boston Globe",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-06T15:02:03Z",
+      "reports": [
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Watch: Is it the end of the road for Tesla's Cybertruck?",
+          "url": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-06T15:02:03Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Production of Tesla\u2019s Cybertruck will wind down soon",
+          "url": "https://www.bostonglobe.com/2026/11/06/business/cybertruck-production-winding-down-texas-plant/",
+          "published_at": "2026-11-06T15:02:32Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says",
+          "url": "https://www.cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html",
+          "published_at": "2026-11-06T15:06:11Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Musk says Tesla will end Cybertruck production next year",
+          "url": "https://www.cbsnews.com/news/tesla-ending-cybertruck-production-next-year/",
+          "published_at": "2026-11-06T20:57:20Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+          "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-06T21:49:50Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Tesla\u2019s Cybertruck heads for an exit after years of hype and division",
+          "url": "https://www.wcvb.com/article/teslas-cybertruck-wind-down-production/74360563",
+          "published_at": "2026-11-06T22:43:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Healey's emergency declaration blocks bid to suspend Mass. abortion law",
+      "score": 66,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": [
+          "healey",
+          "mass.",
+          "massachusetts"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "NBC Boston",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-06T09:16:19Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Healey's emergency declaration blocks bid to suspend Mass. abortion law",
+          "url": "https://www.nbcboston.com/news/politics/healeys-emergency-declaration-blocks-bid-to-suspend-mass-abortion-law/4045522/",
+          "published_at": "2026-11-06T09:16:19Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Healey uses executive power to put abortion law into effect, blocking opponents\u2019 push to suspend it",
+          "url": "https://www.bostonglobe.com/2026/11/06/metro/maura-healey-blocks-abortion-law-suspension-effort/",
+          "published_at": "2026-11-06T21:10:53Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Mass. Gov. Healey moves to put new abortion law into effect now, ahead of a 2028 repeal push",
+          "url": "https://www.masslive.com/politics/2026/11/mass-cant-wait-healey-puts-new-abortion-law-into-effect-now-ahead-of-a-2028-repeal-push.html",
+          "published_at": "2026-11-06T21:44:32Z"
+        }
+      ]
+    },
+    {
+      "headline": "Two more DoJ officials resign, including US attorney leading inquiry into Trump rivals",
+      "score": 66,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 1,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "CBS News",
+        "The Boston Globe",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-06T18:37:55Z",
+      "reports": [
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Two more DoJ officials resign, including US attorney leading inquiry into Trump rivals",
+          "url": "https://www.theguardian.com/us-news/2026/nov/06/doj-officials-resign",
+          "published_at": "2026-11-06T18:37:55Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "U.S. Attorney Who Oversaw Centerpiece of Trump\u2019s Revenge Campaign Resigns",
+          "url": "https://www.nytimes.com/2026/11/06/us/politics/jason-reding-quinones-resigns.html",
+          "published_at": "2026-11-06T18:38:11Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Two Justice Department officials resign, including US attorney who oversaw \u2018grand conspiracy\u2019 probe",
+          "url": "https://www.bostonglobe.com/2026/11/06/nation/justice-department-resignations-grand-conspiracy/",
+          "published_at": "2026-11-06T22:09:54Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "US attorney tasked with leading probe into Trump's foes resigns from DOJ",
+          "url": "https://abcnews.com/US/us-attorney-tasked-leading-grand-conspiracy-probe-trumps/story?id=137912307",
+          "published_at": "2026-11-06T22:51:37Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "DOJ official resigns amid questions about \"grand conspiracy\" probe",
+          "url": "https://www.cbsnews.com/news/doj-jason-reding-quinones-resigns-grand-conspiracy-probe/",
+          "published_at": "2026-11-06T23:19:54Z"
+        }
+      ]
+    },
+    {
+      "headline": "\u2018ER' creator's estate can sue over \u2018The Pitt' similarities, appeals court rules",
+      "score": 60,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "healey",
+          "massachusetts"
+        ]
+      },
+      "independent_outlets": [
+        "ESPN",
+        "NBC Boston",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-06T09:16:19Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "\u2018ER' creator's estate can sue over \u2018The Pitt' similarities, appeals court rules",
+          "url": "https://www.nbcboston.com/entertainment/entertainment-news/er-creators-estate-can-sue-the-pitt-similarities-appeals-court-rules/4044412/",
+          "published_at": "2026-11-06T09:16:19Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "\u2018ER\u2019 and \u2018The Pitt\u2019 are similar enough for lawsuit to move forward, appeals court finds",
+          "url": "https://www.bostonglobe.com/2026/11/06/business/the-pitt-er-lawsuit/",
+          "published_at": "2026-11-06T17:53:06Z"
+        },
+        {
+          "publisher": "ESPN",
+          "group": "espn",
+          "kind": "news",
+          "wire": false,
+          "title": "Appeals court hands NCAA a victory in struggle for five-year eligibility rule",
+          "url": "https://www.espn.com/college-sports/story/_/id/50402469/ncaa-secures-win-struggle-five-year-eligibility-rule",
+          "published_at": "2026-11-07T01:07:42Z"
+        }
+      ]
+    },
+    {
+      "headline": "Houston mayor signs order to limit cooperation with ICE, says \u2018elections matter\u2019 after Democrats win",
+      "score": 60,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 1,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The Guardian",
+        "The Hill",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-06T19:26:26Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Houston mayor signs order to limit cooperation with ICE, says \u2018elections matter\u2019 after Democrats win",
+          "url": "https://www.bostonglobe.com/2026/11/06/nation/houston-signs-order-limit-ice-cooperation/",
+          "published_at": "2026-11-06T19:26:26Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Houston to limit police cooperation with federal immigration authorities",
+          "url": "https://www.theguardian.com/us-news/2026/nov/06/houston-police-ice-immigration",
+          "published_at": "2026-11-06T19:29:55Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "WATCH: 'Elections matter.' Houston mayor limits police cooperation with ICE",
+          "url": "https://www.pbs.org/newshour/politics/watch-elections-matter-houston-mayor-limits-police-cooperation-with-ice",
+          "published_at": "2026-11-06T20:51:53Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Houston Police to Stop Alerting ICE During Traffic Stops",
+          "url": "https://www.nytimes.com/2026/11/06/us/houston-mayor-john-whitmire-immigration-ice-cooperation.html",
+          "published_at": "2026-11-06T21:47:12Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Houston mayor looks to limit city's cooperation with ICE after Democrats' wins in Texas",
+          "url": "https://thehill.com/homenews/state-watch/6205559-houston-mayor-ice-cooperation/",
+          "published_at": "2026-11-06T23:26:33Z"
+        }
+      ]
+    },
+    {
+      "headline": "Father of young co-pilot killed in jet crash says recording shows she fought until the last minute",
+      "score": 52,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "CBS News",
+        "NBC News",
+        "PBS NewsHour"
+      ],
+      "first_seen": "2026-11-06T19:17:21Z",
+      "reports": [
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Father of young co-pilot killed in jet crash says recording shows she fought until the last minute",
+          "url": "https://www.nbcnews.com/news/us-news/father-young-co-pilot-killed-jet-crash-says-recording-shows-fought-las-rcna607848",
+          "published_at": "2026-11-06T19:17:21Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Dad of 20-year-old co-pilot in Florida jet crash says her final radio calls showed 'she's tough'",
+          "url": "https://www.pbs.org/newshour/nation/dad-of-20-year-old-co-pilot-in-florida-jet-crash-says-her-final-radio-calls-showed-shes-tough",
+          "published_at": "2026-11-06T21:52:13Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Family of 20-year-old co-pilot killed in Florida plane crash speaks out",
+          "url": "https://www.cbsnews.com/video/family-of-20-year-old-co-pilot-killed-in-florida-plane-crash-speaks-out/",
+          "published_at": "2026-11-07T00:36:00Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Father of 20-year-old co-pilot killed in Florida crash says she fought until the last minute",
+          "url": "https://www.cbsnews.com/video/father-of-20-year-old-co-pilot-killed-in-florida-crash-says-she-fought-until-the-last-minute/",
+          "published_at": "2026-11-07T01:45:11Z"
+        }
+      ]
+    },
+    {
+      "headline": "A Nantucket waterfront estate just sold for $42.5 million, edging out a record set two years ago",
+      "score": 50,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "nantucket"
+        ]
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "MassLive",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-06T20:03:44Z",
+      "reports": [
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "A Nantucket waterfront estate just sold for $42.5 million, edging out a record set two years ago",
+          "url": "https://www.masslive.com/news/2026/11/nantucket-waterfront-estate-sets-425-million-record-in-latest-sale.html",
+          "published_at": "2026-11-06T20:03:44Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "$42.5 million Nantucket home sale breaks island record",
+          "url": "https://www.bostonglobe.com/2026/11/06/real-estate/most-expensive-home-sale-nantucket/",
+          "published_at": "2026-11-06T20:26:00Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "$42.5 million Nantucket home sale breaks island record",
+          "url": "https://www.boston.com/real-estate/luxury-homes/2026/11/06/42-5-million-nantucket-home-sale-breaks-island-record/",
+          "published_at": "2026-11-06T21:21:15Z"
+        }
+      ]
+    },
+    {
+      "headline": "Mass. voters narrowly reject rezoning for single-family homes on smaller lots",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "healey",
+          "mass.",
+          "massachusetts"
+        ]
+      },
+      "independent_outlets": [
+        "NBC Boston",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-06T09:16:19Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Mass. voters narrowly reject rezoning for single-family homes on smaller lots",
+          "url": "https://www.nbcboston.com/elections/mass-ballot-question-7-result-vote/4045189/",
+          "published_at": "2026-11-06T09:16:19Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Mass. voters narrowly reject Question 7, dealing blow to housing and affordability advocates",
+          "url": "https://www.bostonglobe.com/2026/11/06/elections/massachusetts-question-7-result/",
+          "published_at": "2026-11-06T23:40:09Z"
+        }
+      ]
+    },
+    {
+      "headline": "Man hospitalized after pedestrian crash in Westwood",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "healey",
+          "massachusetts"
+        ]
+      },
+      "independent_outlets": [
+        "NBC Boston",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-06T09:16:19Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Man hospitalized after pedestrian crash in Westwood",
+          "url": "https://www.nbcboston.com/news/local/westwood-pedestrian-crash-washington-street/4045459/",
+          "published_at": "2026-11-06T09:16:19Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Pedestrian seriously hurt in Westwood crash",
+          "url": "https://www.wcvb.com/article/man-hit-by-vehicle-westwood-massachusetts/74362803",
+          "published_at": "2026-11-07T00:02:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Police on Cape Cod conduct extensive search for missing 76-year-old woman",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "cape cod",
+          "healey",
+          "massachusetts"
+        ]
+      },
+      "independent_outlets": [
+        "NBC Boston",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-06T09:16:19Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Police on Cape Cod conduct extensive search for missing 76-year-old woman",
+          "url": "https://www.nbcboston.com/news/local/police-on-cape-cod-conduct-extensive-search-for-missing-76-year-old-woman/4045393/",
+          "published_at": "2026-11-06T09:16:19Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Flooding on Cape Cod prompts warning from police to stay home",
+          "url": "https://www.wcvb.com/article/falmouth-flooding-heavy-rain-police-warning/74360117",
+          "published_at": "2026-11-06T22:46:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Snowport Holiday Market opens today in Boston's Seaport District",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "boston",
+          "healey",
+          "massachusetts"
+        ]
+      },
+      "independent_outlets": [
+        "NBC Boston",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-06T09:16:19Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Snowport Holiday Market opens today in Boston's Seaport District",
+          "url": "https://www.nbcboston.com/news/local/boston-snowport-holiday-market-opens-today-in-seaport-district/4044929/",
+          "published_at": "2026-11-06T09:16:19Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Snowport returns to Boston's Seaport: Here's what you need to know",
+          "url": "https://www.wcvb.com/article/snowport-opens-bostons-seaport-holiday-market/74361009",
+          "published_at": "2026-11-06T22:01:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Lightning strike sparks fire at Abington home",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "healey",
+          "massachusetts"
+        ]
+      },
+      "independent_outlets": [
+        "NBC Boston",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-06T09:16:19Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Lightning strike sparks fire at Abington home",
+          "url": "https://www.nbcboston.com/news/local/abington-ma-fire-route-139-randolph-street/4044895/",
+          "published_at": "2026-11-06T09:16:19Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Firefighter hospitalized for smoke inhalation after lightning ignites house fire in Abington",
+          "url": "https://www.bostonglobe.com/2026/11/06/metro/abington-fire-route-139-lightning-strike/",
+          "published_at": "2026-11-06T20:17:45Z"
+        }
+      ]
+    },
+    {
+      "headline": "Patrice Bergeron enters Hall of Fame as the ultimate winning hockey player",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "healey",
+          "massachusetts"
+        ]
+      },
+      "independent_outlets": [
+        "NBC Boston",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-06T09:16:19Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Patrice Bergeron enters Hall of Fame as the ultimate winning hockey player",
+          "url": "https://www.nbcboston.com/news/local/patrice-bergeron-hockey-hall-of-fame-stats/4044640/",
+          "published_at": "2026-11-06T09:16:19Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "On the eve of her induction into the Hockey Hall of Fame, Cindy Curley sees a bright future for women in the sport",
+          "url": "https://www.bostonglobe.com/2026/11/06/sports/cindy-curley-hockey-hall-of-fame/",
+          "published_at": "2026-11-06T10:00:00Z"
+        }
+      ]
+    }
+  ]
+}
