@@ -1,0 +1,63 @@
+{
+  "date": "2026-11-07",
+  "runs": [
+    {
+      "started_at": "2026-11-08T02:13:01.680336Z",
+      "outcome": "published",
+      "steps": [
+        {
+          "at": "2026-11-08T02:13:01.680339Z",
+          "step": "prepare: lock acquired (live)"
+        },
+        {
+          "at": "2026-11-08T02:13:10.488431Z",
+          "step": "prepare: ran src/news/feeds.py"
+        },
+        {
+          "at": "2026-11-08T02:13:10.605712Z",
+          "step": "prepare: ran src/news/cluster.py"
+        },
+        {
+          "at": "2026-11-08T02:16:41.910833Z",
+          "step": "finalize: published to local site"
+        }
+      ],
+      "_new_run": true,
+      "mode": "live",
+      "prelaunch": false,
+      "finished_at": "2026-11-08T02:16:41.910720Z",
+      "link_checks": [
+        {
+          "url": "https://www.cbsnews.com/news/trump-offers-white-house-press-secretary-role-dana-white/",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.espn.com/espn/story/_/id/50412085/trump-offers-press-secretary-role-ufc-boss-dana-white",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.nbcnews.com/politics/white-house/trump-offers-press-secretary-job-ufc-ceo-dana-white-rcna608039",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.nytimes.com/2026/11/07/us/politics/trump-dana-white-ufc-press-secretary.html",
+          "ok": true,
+          "note": "HTTP 403 (blocks automated checks; not verifiable here)"
+        }
+      ],
+      "samples_removed": [],
+      "stories_shown": [
+        "Trump offers UFC chief Dana White the White House press secretary job"
+      ],
+      "usage": {
+        "article_reads": 3,
+        "web_searches": 0,
+        "render_rounds": 4,
+        "minutes": 5
+      }
+    }
+  ]
+}

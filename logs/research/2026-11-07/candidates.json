@@ -1,0 +1,1656 @@
+{
+  "date": "2026-11-07",
+  "fetched_at": "2026-11-08T02:13:10.472692Z",
+  "items_considered": 487,
+  "candidates": [
+    {
+      "headline": "UFC head Dana White says he will meet with Trump Monday on White House press secretary offer",
+      "score": 188,
+      "signals": {
+        "us_outlets": 13,
+        "intl_outlets": 2,
+        "front_pages": 7,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "Bloomberg",
+        "CBS News",
+        "CNBC",
+        "ESPN",
+        "Fox News",
+        "MassLive",
+        "NBC Boston",
+        "NBC News",
+        "NPR",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The Guardian",
+        "The Hill",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-07T05:25:51Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "UFC head Dana White says he will meet with Trump Monday on White House press secretary offer",
+          "url": "https://www.nbcboston.com/news/national-international/dana-white-trump-press-secretary-position-ufc-head/4045688/",
+          "published_at": "2026-11-07T05:25:51Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump faces criticism for \u2018dangerous\u2019 Stephen Miller appointment as White House chief of staff",
+          "url": "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-democrats-react",
+          "published_at": "2026-11-07T10:00:08Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Week in Politics: Trump taps Miller for chief of staff; doubles down on Trumpism",
+          "url": "https://www.npr.org/2026/11/07/nx-s1-6030908/week-in-politics-trump-taps-miller-for-chief-of-staff-doubles-down-on-trumpism",
+          "published_at": "2026-11-07T12:41:07Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump\u2019s elevation of Stephen Miller is a middle finger to millions of voters",
+          "url": "https://www.theguardian.com/us-news/2026/nov/07/trump-stephen-miller-midterms",
+          "published_at": "2026-11-07T13:00:12Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "What Stephen Miller has pushed for while in Trump administration",
+          "url": "https://www.cbsnews.com/news/stephen-miller-chief-of-staff-trump-immigration-policies/",
+          "published_at": "2026-11-07T14:31:59Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Stephen Miller, Trump\u2019s incoming chief of staff, pledges \u2018total devotion\u2019 to the president",
+          "url": "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-trump-loyalty",
+          "published_at": "2026-11-07T15:15:11Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Meet Stephen Miller, Trump's new chief of staff: 5 things to know",
+          "url": "https://thehill.com/homenews/administration/6206059-stephen-miller-chief-of-staff-info/",
+          "published_at": "2026-11-07T18:22:14Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump says he offered White House press secretary job to Dana White",
+          "url": "https://thehill.com/homenews/administration/6206117-trump-says-he-offered-white-house-press-secretary-job-to-dana-white/",
+          "published_at": "2026-11-07T18:55:25Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump Asks UFC\u2019s Dana White to Be His Next Press Secretary",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-07/trump-asks-ufc-s-dana-white-to-be-his-next-press-secretary",
+          "published_at": "2026-11-07T18:59:03Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump offers Dana White the White House press secretary job",
+          "url": "https://www.masslive.com/sports/2026/11/dana-white-reacts-to-donald-trumps-plea-to-be-press-secretary-please-take-the-job.html",
+          "published_at": "2026-11-07T19:58:26Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Reaction fast, furious as Trump offers Dana White press secretary",
+          "url": "https://www.masslive.com/politics/2026/11/reaction-fast-furious-as-trump-offers-dana-white-press-secretary-job-from-awesome-to-embarrassing.html",
+          "published_at": "2026-11-07T20:17:50Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Live updates: Melania Trump attends LSU-Alabama game; UFC's Dana White offered press secretary role",
+          "url": "https://thehill.com/homenews/administration/6205796-live-melania-trump-football-mar-a-lago/",
+          "published_at": "2026-11-07T20:17:55Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump says he's asked UFC's Dana White to be his press secretary",
+          "url": "https://www.pbs.org/newshour/politics/trump-says-hes-asked-ufcs-dana-white-to-be-his-press-secretary",
+          "published_at": "2026-11-07T20:55:40Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Melania Trump gets \u2018Geaux Tigahs\u2019 from LSU legend",
+          "url": "https://www.masslive.com/sports/2026/11/watch-get-melania-trump-a-geaux-tigahs-from-lsu-legend-as-first-lady-attends-alabama-game.html",
+          "published_at": "2026-11-07T21:10:06Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump says he\u2019s asked UFC\u2019s Dana White to be his press secretary. No one will say if he\u2019s joking.",
+          "url": "https://www.bostonglobe.com/2026/11/07/nation/trump-dana-white-press-secretary/",
+          "published_at": "2026-11-07T21:30:31Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "JACKSON THOMPSON: Trump says he offered UFC CEO Dana White press secretary job",
+          "url": "https://www.foxnews.com/outkick-sports/jackson-thompson-trump-says-offered-ufc-ceo-dana-white-press-secretary-job",
+          "published_at": "2026-11-07T21:35:29Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Melania Trump secures $7.2M for foster care scholarships at LSU ahead of Alabama showdown",
+          "url": "https://www.foxnews.com/politics/melania-trump-secures-7-2m-foster-care-scholarships-lsu-ahead-alabama-showdown",
+          "published_at": "2026-11-07T21:36:56Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "UFC head Dana White says he\u2019ll meet with Trump Monday on press secretary offer",
+          "url": "https://www.nbcnews.com/politics/white-house/trump-offers-press-secretary-job-ufc-ceo-dana-white-rcna608039",
+          "published_at": "2026-11-07T21:39:10Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Melania Trump and LSU announce $7.2M to endow scholarships for former foster care students",
+          "url": "https://www.wcvb.com/article/melania-trump-lsu-set-to-announce-scholarship-program-students-foster-care/74364914",
+          "published_at": "2026-11-07T22:56:00Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump offers UFC chief Dana White press secretary job",
+          "url": "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html",
+          "published_at": "2026-11-07T23:13:38Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump says he's asked UFC's Dana White to be his press secretary",
+          "url": "https://www.wcvb.com/article/trump-says-hes-asked-ufcs-dana-white-to-be-his-press-secretary-no-one-will-say-if-hes-joking/74365735",
+          "published_at": "2026-11-07T23:33:00Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump Asks Dana White of U.F.C. to Be His Press Secretary",
+          "url": "https://www.nytimes.com/2026/11/07/us/politics/trump-dana-white-ufc-press-secretary.html",
+          "published_at": "2026-11-08T00:19:59Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump says he asked Dana White, UFC boss, to be his new White House press secretary",
+          "url": "https://www.theguardian.com/us-news/2026/nov/07/donald-trump-dana-white-press-secretary",
+          "published_at": "2026-11-08T00:28:33Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
+          "url": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-08T00:31:53Z"
+        },
+        {
+          "publisher": "ESPN",
+          "group": "espn",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump offers press secretary role to White; UFC boss to meet with president",
+          "url": "https://www.espn.com/espn/story/_/id/50412085/trump-offers-press-secretary-role-ufc-boss-dana-white",
+          "published_at": "2026-11-08T00:48:16Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Dana White confirms meeting with Trump after job offer",
+          "url": "https://www.masslive.com/sports/2026/11/ufc-ceo-confirms-meeting-with-trump-after-president-offers-press-secretary-job.html",
+          "published_at": "2026-11-08T00:52:40Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump says he offered UFC's Dana White the press secretary role",
+          "url": "https://www.cbsnews.com/news/trump-offers-white-house-press-secretary-role-dana-white/",
+          "published_at": "2026-11-08T02:09:24Z"
+        }
+      ]
+    },
+    {
+      "headline": "After Israel\u2019s Election, Who Will Get the First Chance to Form a Government?",
+      "score": 152,
+      "signals": {
+        "us_outlets": 10,
+        "intl_outlets": 2,
+        "front_pages": 6,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Axios",
+        "BBC News",
+        "Bloomberg",
+        "CBS News",
+        "Los Angeles Times",
+        "NPR",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The Guardian",
+        "The Hill",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-07T08:02:08Z",
+      "reports": [
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "After Israel\u2019s Election, Who Will Get the First Chance to Form a Government?",
+          "url": "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html",
+          "published_at": "2026-11-07T08:02:08Z"
+        },
+        {
+          "publisher": "Los Angeles Times",
+          "group": "latimes",
+          "kind": "news",
+          "wire": false,
+          "title": "Arab parties hold the key as Israel struggles to form a government",
+          "url": "https://www.latimes.com/world-nation/story/2026-11-07/arab-parties-hold-key-as-israel-struggles-to-form-government",
+          "published_at": "2026-11-07T11:00:00Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Eisenkot Gets Chance to Form Israeli Government After Tight Vote",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-07/israel-president-to-give-eisenkot-a-chance-to-form-government",
+          "published_at": "2026-11-07T19:33:30Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Israel\u2019s president picks Yashar leader Gadi Eisenkot to form government",
+          "url": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
+          "published_at": "2026-11-07T19:49:39Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Israel's president taps opposition candidate, not Netanyahu, to form a government",
+          "url": "https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog",
+          "published_at": "2026-11-07T20:18:18Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Israeli opposition leader tapped to try to form government",
+          "url": "https://www.bostonglobe.com/2026/11/07/world/israeli-opposition-leader-tapped-try-form-government/",
+          "published_at": "2026-11-07T20:33:37Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Israel\u2019s president taps opposition candidate Eisenkot to form a government, in setback for Netanyahu",
+          "url": "https://www.wcvb.com/article/israels-president-taps-opposition-candidate-eisenkot-to-form-a-government-in-setback-for-netanyahu/74365608",
+          "published_at": "2026-11-07T20:38:00Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Israel's president taps opposition candidate Eisenkot to form a government, in setback for Netanyahu",
+          "url": "https://www.pbs.org/newshour/world/israels-president-taps-opposition-candidate-eisenkot-to-form-a-government-in-setback-for-netanyahu",
+          "published_at": "2026-11-07T20:39:08Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Israel's president taps opposition candidate Eisenkot to form a government",
+          "url": "https://www.cbsnews.com/news/israel-election-government-gadi-eisenkot-benjamin-netanyahu/",
+          "published_at": "2026-11-07T20:47:45Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Netanyahu rival Eisenkot tapped to form Israeli government",
+          "url": "https://www.axios.com/2026/11/07/israel-eisenkot-netanyahu-government-herzog",
+          "published_at": "2026-11-07T20:48:32Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Israeli president picks Netanyahu's rival Eisenkot to form new government",
+          "url": "https://thehill.com/policy/international/6206234-herzog-appoints-eisenkot-form-government/",
+          "published_at": "2026-11-07T21:13:06Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+          "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-07T22:19:59Z"
+        }
+      ]
+    },
+    {
+      "headline": "Gunman who killed 9 in Poland held \u2018ultranationalistic' views, officials say",
+      "score": 112,
+      "signals": {
+        "us_outlets": 7,
+        "intl_outlets": 1,
+        "front_pages": 5,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "CNBC",
+        "NBC Boston",
+        "NBC News",
+        "NPR",
+        "The Boston Globe",
+        "The Guardian",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-07T05:25:51Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Gunman who killed 9 in Poland held \u2018ultranationalistic' views, officials say",
+          "url": "https://www.nbcboston.com/news/national-international/five-people-killed-multiple-injured-in-poland-market-shooting/4045650/",
+          "published_at": "2026-11-07T05:25:51Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Gunman kills 6 in \u2018terror attack\u2019 in Krakow, Poland, officials say; 3 found dead in his home",
+          "url": "https://www.nbcnews.com/world/europe/poland-krakow-shooting-rcna608001",
+          "published_at": "2026-11-07T15:58:06Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Polish gunman who killed 6 people in Krakow has 'ultranationalistic' views, authorities say",
+          "url": "https://www.npr.org/2026/11/07/g-s1-152532/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15",
+          "published_at": "2026-11-07T18:37:36Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Gunman who killed 6 people in Krakow was fascinated with far-right views, minister says",
+          "url": "https://www.bostonglobe.com/2026/11/07/world/gunman-who-killed-6-people-krakow-was-fascinated-with-far-right-views-minister-says/",
+          "published_at": "2026-11-07T20:42:36Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Six dead after gunman opens fire in Krak\u00f3w market square, with three more victims found at suspect\u2019s home",
+          "url": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
+          "published_at": "2026-11-07T21:19:01Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Polish gunman who killed 6 people in Krakow has 'ultranationalistic' views, minister says",
+          "url": "https://www.cnbc.com/2026/11/07/krakow-poland-shooting.html",
+          "published_at": "2026-11-07T22:39:10Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "At Least 6 Dead in Poland After Gunman Opens Fire in Krakow, Police Say",
+          "url": "https://www.nytimes.com/2026/11/07/world/europe/krakow-poland-shooting.html",
+          "published_at": "2026-11-07T23:36:17Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "6 dead, 15 injured in market square shooting in Poland: Police",
+          "url": "https://abcnews.com/International/5-killed-injured-shooting-polish-market-square/story?id=137941731",
+          "published_at": "2026-11-08T00:58:11Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Polish gunman who killed 6 people in Krakow has 'ultranationalistic' views, minister says",
+          "url": "https://www.wcvb.com/article/polish-gunman-who-killed-6-people-in-krakow-has-ultranationalistic-views-minister-says/74364751",
+          "published_at": "2026-11-08T01:43:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Rob Gronkowski is inducted into the Patriots Hall of Fame",
+      "score": 103,
+      "signals": {
+        "us_outlets": 5,
+        "intl_outlets": 0,
+        "front_pages": 5,
+        "boston_local": [
+          "new england",
+          "patriots"
+        ]
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "Fox News",
+        "MassLive",
+        "NBC Boston",
+        "The Boston Globe",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-07T05:25:51Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Rob Gronkowski is inducted into the Patriots Hall of Fame",
+          "url": "https://www.nbcboston.com/news/local/gronk-hall-of-fame-induction-patriots/4045581/",
+          "published_at": "2026-11-07T05:25:51Z"
+        },
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Kraft to miss Gronkowski's Patriots hall of fame induction after back surgery",
+          "url": "https://www.nbcboston.com/news/sports/kraft-to-miss-gronkowskis-patriots-hall-of-fame-induction-after-back-surgery/4044656/",
+          "published_at": "2026-11-07T05:25:51Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Bill Belichick reacts to Rob Gronkowski\u2019s Patriots honor",
+          "url": "https://www.masslive.com/patriots/2026/11/bill-belichick-reacts-to-rob-gronkowskis-patriots-hall-of-fame-induction.html",
+          "published_at": "2026-11-07T21:13:49Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Rob Gronkowski Hall takeaways: Gronk stories, Robert Kraft, Tom Brady appearance and more",
+          "url": "https://www.masslive.com/patriots/2026/11/rob-gronkowski-hall-of-fame-takeaways-gronk-stories-robert-kraft-tom-brady-appearance-and-more.html",
+          "published_at": "2026-11-07T21:27:37Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Rob Gronkowski's Patriots Hall of Fame celebration takes awkward turn with teammate's story about adult toys",
+          "url": "https://www.foxnews.com/outkick-sports/rob-gronkowski-patriots-hall-fame-celebration-awkward-turn-teammate-story-adult-toys",
+          "published_at": "2026-11-07T23:15:51Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Rob Gronkowski\u2019s Patriots Hall of Fame induction featured jokes, memories, and an appearance from Tom Brady",
+          "url": "https://www.bostonglobe.com/2026/11/07/sports/rob-gronkowski-patriots-hall-of-fame-induction-tom-brady/",
+          "published_at": "2026-11-07T23:49:46Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Rob Gronkowski\u2019s Patriots Hall of Fame induction featured jokes, memories, and an appearance from Tom Brady",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/11/07/rob-gronkowski-patriots-hall-of-fame-induction/",
+          "published_at": "2026-11-07T23:58:04Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Patriots honor Gronkowski with Hall of Fame induction",
+          "url": "https://www.wcvb.com/article/rob-gronkowski-patriots-hall-of-fame-induction-nov-7-2026/74364585",
+          "published_at": "2026-11-08T00:33:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Missiles target Kyiv, wound 5 as Ukraine prepares for talks with Russia and the US",
+      "score": 76,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 2,
+        "front_pages": 3,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "BBC News",
+        "Bloomberg",
+        "The Boston Globe",
+        "The Guardian",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-07T12:47:37Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Missiles target Kyiv, wound 5 as Ukraine prepares for talks with Russia and the US",
+          "url": "https://www.bostonglobe.com/2026/11/07/world/missiles-target-kyiv-as-ukraine-prepares-for-talks-with-russia-us/",
+          "published_at": "2026-11-07T12:47:37Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+          "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-07T12:49:36Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Blackouts and water shortages in Kyiv after Russia strikes Ukraine\u2019s energy grid",
+          "url": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid",
+          "published_at": "2026-11-07T13:03:03Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Russia Upgrades Its Delegation for US-Led Ukraine Peace Talks in Abu Dhabi",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-07/russia-upgrades-its-delegation-for-us-led-ukraine-peace-talks-in-abu-dhabi",
+          "published_at": "2026-11-07T13:25:27Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Missile attacks wound 9 as Ukraine prepares for talks with Russia and US",
+          "url": "https://www.wcvb.com/article/missile-attacks-ukraine-peace-talks-russia-us/74364608",
+          "published_at": "2026-11-07T14:34:00Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Drone and missile attacks wound 9 as Ukraine prepares for talks with Russia and the US",
+          "url": "https://www.wcvb.com/article/drone-missile-attacks-wound-9-ukraine-prepares-talks-russia-us/74365237",
+          "published_at": "2026-11-07T18:47:00Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Drone and missile attacks wound 9 as Ukraine prepares for talks with Russia and the US",
+          "url": "https://www.bostonglobe.com/2026/11/07/world/drone-missile-attacks-wound-9-ukraine-prepares-talks-with-russia-us/",
+          "published_at": "2026-11-07T20:37:49Z"
+        }
+      ]
+    },
+    {
+      "headline": "Man claiming to be LeBron James' son arrested at NBA star's Los Angeles home",
+      "score": 67,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "Fox News",
+        "MassLive",
+        "NBC Boston",
+        "NBC News"
+      ],
+      "first_seen": "2026-11-07T05:25:51Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Man claiming to be LeBron James' son arrested at NBA star's Los Angeles home",
+          "url": "https://www.nbcboston.com/news/national-international/lebron-james-stalker-arrest/4045696/",
+          "published_at": "2026-11-07T05:25:51Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "LeBron's alleged stalker claims to be NBA star's son",
+          "url": "https://www.masslive.com/sports/2026/11/lebron-james-alleged-stalker-arrested-at-nba-stars-home-claims-to-be-his-son.html",
+          "published_at": "2026-11-07T16:00:03Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Man arrested outside LeBron James\u2019 L.A. home claiming to be his son",
+          "url": "https://www.nbcnews.com/news/us-news/man-found-lebron-james-home-arrested-stalking-rcna608051",
+          "published_at": "2026-11-07T22:08:40Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Suspect who reportedly claimed to be LeBron James' son arrested for stalking at star's LA home, LAPD says",
+          "url": "https://www.foxnews.com/outkick-sports/suspect-claimed-lebron-james-son-arrested-stalking-star-la-home-lapd",
+          "published_at": "2026-11-07T22:20:30Z"
+        }
+      ]
+    },
+    {
+      "headline": "US midterm results may help unite Israeli coalition to unseat Netanyahu",
+      "score": 66,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 1,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "CNBC",
+        "Fox News",
+        "The Boston Globe",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-07T06:00:04Z",
+      "reports": [
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "US midterm results may help unite Israeli coalition to unseat Netanyahu",
+          "url": "https://www.theguardian.com/world/2026/nov/07/us-midterm-results-may-help-unite-israeli-coalition-to-unseat-netanyahu",
+          "published_at": "2026-11-07T06:00:04Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Israeli president taps Netanyahu rival to form government as coalition battle looms",
+          "url": "https://www.foxnews.com/world/israeli-president-picks-netanyahu-rival-form-government-coalition-battle-looms",
+          "published_at": "2026-11-07T22:17:37Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Israel\u2019s president taps opposition candidate Eisenkot to form a government, in setback for Netanyahu",
+          "url": "https://www.cnbc.com/2026/11/07/israel-eisenkot-netanyahu.html",
+          "published_at": "2026-11-07T22:36:37Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Israel\u2019s president taps opposition candidate Eisenkot to form a government, in setback for Netanyahu",
+          "url": "https://www.bostonglobe.com/2026/11/07/world/eisenkot-israel-form-government/",
+          "published_at": "2026-11-07T22:52:59Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Eisenkot, Netanyahu Rival and Opposition Leader, Tapped to Try to Form Government",
+          "url": "https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html",
+          "published_at": "2026-11-07T23:03:29Z"
+        }
+      ]
+    },
+    {
+      "headline": "Paraguay's president under house arrest after bank collapse",
+      "score": 66,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 1,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "Bloomberg",
+        "CBS News",
+        "PBS NewsHour",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-07T10:12:00Z",
+      "reports": [
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Paraguay's president under house arrest after bank collapse",
+          "url": "https://www.cbsnews.com/news/paraguay-president-arrest-bank-ueno-collapse/",
+          "published_at": "2026-11-07T10:12:00Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Paraguay Bank Crisis Drives Ex-President Horacio Cartes to Wrest Power Back",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-07/paraguay-bank-crisis-drives-ex-president-horacio-cortes-to-wrest-power-back",
+          "published_at": "2026-11-07T15:00:00Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Paraguay's ousted president charged with crimes linked to collapse of major bank",
+          "url": "https://www.pbs.org/newshour/world/paraguays-ousted-president-faces-prosecutors-after-his-removal-over-bank-collapse",
+          "published_at": "2026-11-07T17:10:20Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Paraguay's former president charged after bank collapse",
+          "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-07T19:17:22Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Prosecutors Charge Paraguay\u2019s Former President With Corruption",
+          "url": "https://www.nytimes.com/2026/11/06/world/americas/paraguay-president-removed-ueno.html",
+          "published_at": "2026-11-07T20:17:15Z"
+        }
+      ]
+    },
+    {
+      "headline": "Two women skydivers die after colliding in Southern California",
+      "score": 62,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "CBS News",
+        "NBC Boston",
+        "The Boston Globe",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-07T05:25:51Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Two women skydivers die after colliding in Southern California",
+          "url": "https://www.nbcboston.com/news/national-international/skydivers-killed-lake-elsinore/4045565/",
+          "published_at": "2026-11-07T05:25:51Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "2 skydivers die after midair collision in Southern California",
+          "url": "https://www.bostonglobe.com/2026/11/07/nation/midair-collision-in-southern-california-kills-2-skydivers/",
+          "published_at": "2026-11-07T05:40:10Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "2 Skydivers Die After Midair Collision in Southern California",
+          "url": "https://www.nytimes.com/2026/11/06/us/california-lake-elsinore-skydiving-deaths.html",
+          "published_at": "2026-11-07T22:25:13Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "2 licensed skydivers die after midair collision in California",
+          "url": "https://www.cbsnews.com/news/licensed-skydivers-die-midair-collision-california/",
+          "published_at": "2026-11-07T23:39:58Z"
+        }
+      ]
+    },
+    {
+      "headline": "What to know about the hoax bomb threats that targeted flights in Europe",
+      "score": 57,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "CNBC",
+        "NBC Boston",
+        "The Boston Globe",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-07T05:25:51Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "What to know about the hoax bomb threats that targeted flights in Europe",
+          "url": "https://www.nbcboston.com/news/national-international/what-know-hoax-bomb-threats-targeted-flights-europe/4045572/",
+          "published_at": "2026-11-07T05:25:51Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Why a wave of bomb threats is proving so difficult for Europe's aviation authorities to contain",
+          "url": "https://www.cnbc.com/2026/11/07/hoax-bomb-threats-flights-europe.html",
+          "published_at": "2026-11-07T09:01:57Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "What to know about the hoax bomb threats that targeted flights in Europe",
+          "url": "https://www.bostonglobe.com/2026/11/07/world/bomb-threats-targeting-flights-in-europe-heres-what-to-know/",
+          "published_at": "2026-11-07T11:20:11Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Bomb threats and cyberattacks in Europe inject unease into everyday life",
+          "url": "https://www.bostonglobe.com/2026/11/07/world/bomb-threats-cyberattacks-europe-inject-unease-into-everyday-life/",
+          "published_at": "2026-11-07T18:57:42Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Bomb Threats and Cyberattacks in Europe Inject Unease Into Everyday Life",
+          "url": "https://www.nytimes.com/2026/11/07/world/europe/bomb-threats-cyberattacks-europe-uncertainty.html",
+          "published_at": "2026-11-07T22:05:57Z"
+        }
+      ]
+    },
+    {
+      "headline": "After their midterm win and Stephen Miller\u2019s promotion, Democrats gear up for a fight on immigration",
+      "score": 52,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-07T05:54:36Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "After their midterm win and Stephen Miller\u2019s promotion, Democrats gear up for a fight on immigration",
+          "url": "https://www.bostonglobe.com/2026/11/07/nation/democrats-gear-up-for-fight-on-immigration-midterm-win-stephen-millers-promotion/",
+          "published_at": "2026-11-07T05:54:36Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "In his words: Stephen Miller is an immigration hardliner and a bombastic critic of Democrats",
+          "url": "https://www.pbs.org/newshour/politics/in-his-words-stephen-miller-is-an-immigration-hardliner-and-a-bombastic-critic-of-democrats",
+          "published_at": "2026-11-07T17:39:49Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "For Stephen Miller, midterm defeat is no reason to back down",
+          "url": "https://www.bostonglobe.com/2026/11/07/nation/stephen-miller-midterm-defeat-is-no-reason-back-down/",
+          "published_at": "2026-11-07T18:28:43Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "For Stephen Miller, Election Defeat Is No Reason to Back Down on Immigration Crackdown",
+          "url": "https://www.nytimes.com/2026/11/07/us/politics/stephen-miller-midterm-elections.html",
+          "published_at": "2026-11-07T18:29:56Z"
+        }
+      ]
+    },
+    {
+      "headline": "Jayson Tatum, Celtics hit from long range early and often in rout of Hornets",
+      "score": 51,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "boston",
+          "celtics"
+        ]
+      },
+      "independent_outlets": [
+        "NBC Boston",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-07T05:06:11Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Jayson Tatum, Celtics hit from long range early and often in rout of Hornets",
+          "url": "https://www.bostonglobe.com/2026/11/06/sports/celtics-hornets-game-score/",
+          "published_at": "2026-11-07T05:06:11Z"
+        },
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Celtics-Hornets recap: Tatum leads blowout NBA Cup win in Charlotte",
+          "url": "https://www.nbcboston.com/nba/boston-celtics/live-updates-hornets-nba-cup-highlights-score/4045388/",
+          "published_at": "2026-11-07T05:25:51Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "The Jays\u2019 falling-out still the rage as Jayson Tatum\u2019s Celtics prepare to face Jaylen Brown and the 76ers",
+          "url": "https://www.bostonglobe.com/2026/11/07/sports/christopher-l-gasper-celtics-jayson-tatum-jaylen-brown/",
+          "published_at": "2026-11-07T14:56:49Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Jayson Tatum enjoys another trip \u2018home\u2019 to North Carolina with big effort for Celtics in win at Charlotte",
+          "url": "https://www.bostonglobe.com/2026/11/07/sports/celtics-jayson-tatum-achilles-recovery/",
+          "published_at": "2026-11-07T19:44:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "School aide who briefly served as NYPD officer arrested in fatal stabbing of Brooklyn jogger",
+      "score": 51,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "CBS News",
+        "Fox News",
+        "NBC News"
+      ],
+      "first_seen": "2026-11-07T20:07:39Z",
+      "reports": [
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "School aide who briefly served as NYPD officer arrested in fatal stabbing of Brooklyn jogger",
+          "url": "https://www.nbcnews.com/news/us-news/school-aide-former-nypd-officer-arrested-fatal-stabbing-rcna608020",
+          "published_at": "2026-11-07T20:07:39Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Ex-police officer accused of stabbing NYC jogger to death appears emotionless in new photos",
+          "url": "https://www.foxnews.com/us/ex-police-officer-accused-stabbing-nyc-jogger-death-appears-emotionless-new-photos",
+          "published_at": "2026-11-08T00:00:18Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "NYPD arrests suspect in stabbing death of Brooklyn jogger",
+          "url": "https://www.cbsnews.com/news/katie-suarez-jogger-fatally-stabbed-in-brooklyn/",
+          "published_at": "2026-11-08T01:08:18Z"
+        }
+      ]
+    },
+    {
+      "headline": "Rockefeller Center Christmas Tree arrives in New York City",
+      "score": 50,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "NBC Boston",
+        "NBC News",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-07T05:25:51Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Rockefeller Center Christmas Tree arrives in New York City",
+          "url": "https://www.nbcboston.com/holidays/rockefeller-center-christmas-tree-arrives-in-new-york-city-2/4044762/",
+          "published_at": "2026-11-07T05:25:51Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "2026 Rockefeller Center Christmas Tree Arrives in New York City",
+          "url": "https://www.today.com/video/2026-rockefeller-center-christmas-tree-arrives-in-new-york-city-273069125683",
+          "published_at": "2026-11-07T16:04:48Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "76-foot Christmas tree arrives at Rockefeller Center",
+          "url": "https://www.wcvb.com/article/76-foot-christmas-tree-arrives-at-rockefeller-center/74366046",
+          "published_at": "2026-11-07T23:57:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Experts release updated Boston College vs. Florida State prediction ahead of ACC showdown",
+      "score": 50,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "boston"
+        ]
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "MassLive",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-07T16:15:00Z",
+      "reports": [
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Experts release updated Boston College vs. Florida State prediction ahead of ACC showdown",
+          "url": "https://www.masslive.com/betting/2026/11/experts-release-updated-boston-college-vs-florida-state-prediction-ahead-of-acc-showdown.html",
+          "published_at": "2026-11-07T16:15:00Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Boston College continues conference fade, falls to Florida State at home",
+          "url": "https://www.boston.com/sports/college-sports/2026/11/07/boston-college-florida-state-football-score/",
+          "published_at": "2026-11-08T00:48:38Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Boston College continues conference fade, falls to Florida State at home",
+          "url": "https://www.bostonglobe.com/2026/11/07/sports/boston-college-football-florida-state-game-score/",
+          "published_at": "2026-11-08T01:24:51Z"
+        }
+      ]
+    },
+    {
+      "headline": "Revolution will face Union after dropping regular-season finale without Peyton Miller",
+      "score": 50,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "new england"
+        ]
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "MassLive",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-07T23:56:43Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Revolution will face Union after dropping regular-season finale without Peyton Miller",
+          "url": "https://www.bostonglobe.com/2026/11/07/sports/mls-playoffs-revolution-orlando-city/",
+          "published_at": "2026-11-07T23:56:43Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Revolution will play Philadelphia Union in playoffs, fall to Orlando City in regular season finale: 3 takeaways",
+          "url": "https://www.boston.com/sports/new-england-revolution/2026/11/07/mls-soccer-revolution-orlando-city-recap-playoffs/",
+          "published_at": "2026-11-08T00:14:48Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Late header sinks Revolution against Orlando City",
+          "url": "https://www.masslive.com/sports/2026/11/late-header-sinks-revolution-against-orlando-city.html",
+          "published_at": "2026-11-08T00:37:57Z"
+        }
+      ]
+    },
+    {
+      "headline": "Bessie and Clyde: Loose cow, bull evade Marshfield police for days",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "NBC Boston"
+      ],
+      "first_seen": "2026-11-07T05:25:51Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Bessie and Clyde: Loose cow, bull evade Marshfield police for days",
+          "url": "https://www.nbcboston.com/news/local/marshfield-ma-loose-cow-bull-route-3a/4045593/",
+          "published_at": "2026-11-07T05:25:51Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "2 cows on the loose are snarling traffic in Marshfield",
+          "url": "https://www.masslive.com/news/2026/11/escaped-cows-eluding-authorities-in-mass-town-for-third-day.html",
+          "published_at": "2026-11-07T21:00:54Z"
+        }
+      ]
+    },
+    {
+      "headline": "Heavy rain moves out early but a few showers could linger",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "mass.",
+          "massachusetts"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "NBC Boston"
+      ],
+      "first_seen": "2026-11-07T05:25:51Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Heavy rain moves out early but a few showers could linger",
+          "url": "https://www.nbcboston.com/news/local/weather-boston-massachusetts-rain-totals-radar/4045582/",
+          "published_at": "2026-11-07T05:25:51Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Rain lingers in Mass. before drier weather moves in Sunday",
+          "url": "https://www.masslive.com/weather/2026/11/mass-weather-more-rain-on-the-way-to-close-weekend.html",
+          "published_at": "2026-11-07T21:19:16Z"
+        }
+      ]
+    },
+    {
+      "headline": "Recap: Farwell trial jury hears closing statements, stays late but no verdict",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "massachusetts"
+        ]
+      },
+      "independent_outlets": [
+        "NBC Boston",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-07T05:25:51Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Recap: Farwell trial jury hears closing statements, stays late but no verdict",
+          "url": "https://www.nbcboston.com/news/local/matthew-farwell-trial-live-updates-as-closing-arguments-begin-in-sandra-birchmore-case/4044906/",
+          "published_at": "2026-11-07T05:25:51Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "What is the jury considering? Key moments, evidence from the Farwell trial",
+          "url": "https://www.wcvb.com/article/farwell-birchmore-trial-daily-recap/74149247",
+          "published_at": "2026-11-07T13:51:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Patriots-Packers preview: What happens if Drake Maye's deep ball is taken away?",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "patriots"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "NBC Boston"
+      ],
+      "first_seen": "2026-11-07T05:25:51Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Patriots-Packers preview: What happens if Drake Maye's deep ball is taken away?",
+          "url": "https://www.nbcboston.com/news/local/patriots-packers-preview-what-happens-if-drake-mayes-deep-ball-is-taken-away/4045420/",
+          "published_at": "2026-11-07T05:25:51Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Drake Maye without A.J. Brown again: Patriots vs. Packers final predictions and best bets",
+          "url": "https://www.masslive.com/betting/2026/11/patriots-packers-week-9-model-draftkings.html",
+          "published_at": "2026-11-07T17:15:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Want to fly to the moon? NASA is looking for new astronauts to help grow its Artemis program",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "NBC Boston",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-07T05:25:51Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Want to fly to the moon? NASA is looking for new astronauts to help grow its Artemis program",
+          "url": "https://www.nbcboston.com/news/national-international/nasa-looking-new-astronauts-artemis-program/4045686/",
+          "published_at": "2026-11-07T05:25:51Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Want to fly to the moon? NASA is looking for new astronauts to help grow its Artemis program",
+          "url": "https://www.wcvb.com/article/nasa-artemis-program-new-astronauts/74366362",
+          "published_at": "2026-11-08T01:42:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Patrice Bergeron enters Hall of Fame as the ultimate winning hockey player",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "bruins"
+        ]
+      },
+      "independent_outlets": [
+        "NBC Boston",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-07T05:25:51Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Patrice Bergeron enters Hall of Fame as the ultimate winning hockey player",
+          "url": "https://www.nbcboston.com/news/local/patrice-bergeron-hockey-hall-of-fame-stats/4044640/",
+          "published_at": "2026-11-07T05:25:51Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Admission into the Hockey Hall of Fame comes with a price for the inductees \u2014 a cherished keepsake",
+          "url": "https://www.bostonglobe.com/2026/11/07/sports/patrice-bergeron-hockey-hall-of-fame-class-of-2026/",
+          "published_at": "2026-11-08T01:12:03Z"
+        }
+      ]
+    },
+    {
+      "headline": "Boston College basketball was an opening act at TD Garden\u2019s doubleheader, but offers a goal for Luke Murray\u2019s rebuild",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "boston"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-07T11:37:25Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Boston College basketball was an opening act at TD Garden\u2019s doubleheader, but offers a goal for Luke Murray\u2019s rebuild",
+          "url": "https://www.bostonglobe.com/2026/11/06/sports/boston-college-basketball-luke-murray-td-garden/",
+          "published_at": "2026-11-07T11:37:25Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Two college basketball games featured layups on wrong goal",
+          "url": "https://www.masslive.com/sports/2026/11/two-college-basketball-games-featured-layups-on-the-wrong-goal.html",
+          "published_at": "2026-11-07T16:19:48Z"
+        }
+      ]
+    },
+    {
+      "headline": "Judge wants former U.S. attorney to investigate whether the government misled her in Trump golf case",
+      "score": 49,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 1,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "PBS NewsHour",
+        "The Guardian",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-07T18:34:30Z",
+      "reports": [
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge wants former U.S. attorney to investigate whether the government misled her in Trump golf case",
+          "url": "https://www.pbs.org/newshour/politics/judge-wants-former-u-s-attorney-to-investigate-whether-the-government-misled-her-in-trump-golf-case",
+          "published_at": "2026-11-07T18:34:30Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge wants former US attorney to investigate whether the government misled her in Trump golf case",
+          "url": "https://www.wcvb.com/article/judge-ormer-us-attorney-investigate-government-misled-her-trump-golf-case/74365500",
+          "published_at": "2026-11-07T19:47:00Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge to appoint special master to determine whether Trump lawyers purposely misled her over golf course",
+          "url": "https://www.theguardian.com/us-news/2026/nov/07/trump-east-potomac-golf-course-lawsuit",
+          "published_at": "2026-11-07T19:47:10Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge Taps Lawyer to Investigate Trump Administration\u2019s Conduct in Golf Course Case",
+          "url": "https://www.nytimes.com/2026/11/07/us/politics/washington-judge-special-master-trump-golf.html",
+          "published_at": "2026-11-07T20:04:42Z"
+        }
+      ]
+    },
+    {
+      "headline": "Army student displays hilarious 'communism' sign ahead of game against Air Force",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "patriots"
+        ]
+      },
+      "independent_outlets": [
+        "Fox News",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-07T22:00:42Z",
+      "reports": [
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Army student displays hilarious 'communism' sign ahead of game against Air Force",
+          "url": "https://www.foxnews.com/outkick-sports/army-student-displays-hilarious-communism-sign-ahead-game-against-air-force",
+          "published_at": "2026-11-07T22:00:42Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Patriots activate wide receiver Mack Hollins from injured reserve ahead of game against Packers",
+          "url": "https://www.bostonglobe.com/2026/11/07/sports/patriots-activate-mack-hollins-packers-game/",
+          "published_at": "2026-11-08T01:02:40Z"
+        }
+      ]
+    }
+  ]
+}

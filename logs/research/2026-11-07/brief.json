@@ -1,0 +1,69 @@
+{
+  "date": "2026-11-07",
+  "mode": "live (scheduled run)",
+  "prepared_at": "2026-11-08T02:14:00Z",
+  "candidates_considered": 25,
+  "rationale": "Trump publicly offering UFC chief Dana White the vacant White House press secretary job is the top-ranked cluster (the NYT, NBC, CBS, PBS, NPR-cluster, ESPN, Bloomberg, CNBC, Fox, the Boston Globe and the BBC all carry it; 7 front pages). Israel's post-election coalition talks, the Poland shooting, Kyiv missile strikes and Rob Gronkowski's Patriots Hall of Fame induction score lower or fall outside the US-first focus. The offer is unresolved: White has not said whether he accepts, so the art shows the podium empty. Stephen Miller's appointment was yesterday's entry and is not repeated. Focal story only.",
+  "stories": [
+    {
+      "role": "focal",
+      "name": "Trump offers UFC chief Dana White the White House press secretary job",
+      "facts": [
+        "On Saturday, Nov. 7, President Trump said in a Truth Social post that he had offered UFC CEO Dana White the job of White House press secretary; some outlets noted it was unclear how serious the offer was.",
+        "Speaking at a boxing event news conference in London on Saturday, White said he was flying to Washington and had a meeting on Monday; he did not say whether he would accept.",
+        "The press secretary post has been vacant since mid-October, after Karoline Leavitt left in August and her successor Katie Zacharia departed after five days."
+      ],
+      "people": [
+        {
+          "name": "Dana White",
+          "public_figure": true,
+          "verified_action": "Answered reporters' questions at a news conference in London on Nov. 7, saying he was heading to Washington for a Monday meeting (CBS News, ESPN, NBC News). Drawn seated at a press-conference table with microphones in London, not at the White House podium; bald, dark suit, open collar; no text."
+        },
+        {
+          "name": "Donald Trump",
+          "public_figure": true,
+          "verified_action": "Made the offer in a Truth Social post (CBS News, ESPN, NBC News). Not drawn as a figure."
+        }
+      ],
+      "visual_notes": "Diagonal split. Left: a fight-night news conference in London under hard stage lights, ring ropes behind, White at a table of microphones facing reporters. Right: the White House briefing-room podium standing empty under a single spotlight, blue curtain and a blank oval plaque, empty press seats. An overnight jet arc crosses the divide from London toward Washington. No text, no seal details, no Trump figure, White not shown at the podium (his posted podium image appears AI-generated).",
+      "confidence": "high: CBS News, ESPN and NBC News (all read in full, independent reporting) agree on the Truth Social offer, White's London remarks and the Monday meeting, and the vacant post. Detail on White's Instagram image differs between outlets, so it is not drawn.",
+      "sources": [
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "title": "Trump says he offered UFC's Dana White the press secretary role",
+          "url": "https://www.cbsnews.com/news/trump-offers-white-house-press-secretary-role-dana-white/",
+          "published_at": "2026-11-08T02:09:24Z",
+          "checked_at": "2026-11-08T02:13:00Z",
+          "checked": "full article"
+        },
+        {
+          "publisher": "ESPN",
+          "group": "espn",
+          "title": "Trump offers press secretary role to White; UFC boss to meet with president",
+          "url": "https://www.espn.com/espn/story/_/id/50412085/trump-offers-press-secretary-role-ufc-boss-dana-white",
+          "published_at": "2026-11-08T00:48:16Z",
+          "checked_at": "2026-11-08T02:13:00Z",
+          "checked": "full article (ESPN News Services; AP contributed)"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "title": "UFC head Dana White says he'll meet with Trump Monday on press secretary offer",
+          "url": "https://www.nbcnews.com/politics/white-house/trump-offers-press-secretary-job-ufc-ceo-dana-white-rcna608039",
+          "published_at": "2026-11-07T21:39:10Z",
+          "checked_at": "2026-11-08T02:13:00Z",
+          "checked": "full article"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "title": "Trump Asks Dana White of U.F.C. to Be His Press Secretary",
+          "url": "https://www.nytimes.com/2026/11/07/us/politics/trump-dana-white-ufc-press-secretary.html",
+          "published_at": "2026-11-08T00:19:59Z",
+          "checked": "headline only"
+        }
+      ]
+    }
+  ]
+}
