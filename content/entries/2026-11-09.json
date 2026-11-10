@@ -1,0 +1,56 @@
+{
+  "date": "2026-11-09",
+  "published_at": "2026-11-10T05:24:54.913307Z",
+  "status": "backfilled",
+  "prelaunch": false,
+  "title": "Massie files impeachment articles against Hegseth",
+  "caption": "Rep. Thomas Massie (R-Ky.) introduced eight articles of impeachment against Defense Secretary Pete Hegseth on the House floor on Nov. 9, centred on the Iran war being waged without congressional authorization. Because the resolution is privileged, House leaders must table, refer or vote on it within two legislative days. Hegseth called the effort a sham.",
+  "stories": [
+    {
+      "name": "Rep. Thomas Massie files articles of impeachment against Defense Secretary Pete Hegseth",
+      "role": "focal",
+      "facts": [
+        "On Monday, Nov. 9, Rep. Thomas Massie (R-Ky.) introduced and read on the House floor a resolution with eight articles of impeachment against Defense Secretary Pete Hegseth, then discussed it at a news conference on Capitol Hill.",
+        "The articles focus mainly on waging the war with Iran without congressional authorization, and also cite the Caribbean boat strikes and the Pentagon's scrutiny of Sen. Mark Kelly.",
+        "Impeachment resolutions are privileged, so House leaders must act (table, refer or vote) within two legislative days. Speaker Mike Johnson opposed it; Democratic leader Hakeem Jeffries supports it; Hegseth called the effort a sham and scheduled a Tuesday news conference."
+      ],
+      "sources": [
+        {
+          "publisher": "CBS News",
+          "title": "Massie introduces Hegseth impeachment articles, teeing up vote",
+          "url": "https://www.cbsnews.com/news/pete-hegseth-impeachment-vote-house-thomas-massie/",
+          "published_at": "2026-11-10T00:36:12Z"
+        },
+        {
+          "publisher": "CNBC",
+          "title": "Hegseth impeachment articles introduced by Rep. Massie",
+          "url": "https://www.cnbc.com/2026/11/09/pete-hegseth-impeachment-articles-massie.html",
+          "published_at": "2026-11-09T22:41:12Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "title": "Thomas Massie Moves to Force Vote on Impeaching Pete Hegseth",
+          "url": "https://www.nytimes.com/2026/11/09/us/politics/hegseth-impeachment-massie.html",
+          "published_at": "2026-11-09T22:35:06Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "title": "Pete Hegseth decried 'destructive ideologies' in R.I. on Monday. Back in Washington, some are trying to impeach him.",
+          "url": "https://www.bostonglobe.com/2026/11/09/metro/hegseth-speech-naval-war-college-speech-impeachment/",
+          "published_at": "2026-11-09T23:38:39Z"
+        }
+      ]
+    }
+  ],
+  "artwork": {
+    "path": "artwork/2026-11-09.svg",
+    "format": "svg",
+    "alt": "Editorial illustration of the U.S. House chamber seen from a low angle. Rep. Thomas Massie, slim with glasses and grey hair in a dark suit, speaks at a wooden floor lectern toward the Speaker's rostrum, where clerks sit below a vertical American flag flanked by gold fasces. A few members listen from curved benches. Eight blank pages spiral up from his hand through a shaft of skylight, symbolising the eight articles of impeachment against Defense Secretary Pete Hegseth.",
+    "method": "code-generated SVG (graphic-poster kit, src/art/daily/)",
+    "revision": "r4"
+  },
+  "backfill": {
+    "is_backfill": true,
+    "reason": "Scheduled run started just after midnight Boston time on Nov. 10, a few hours after the 9 p.m. target."
+  }
+}

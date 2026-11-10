@@ -1,6 +1,106 @@
 {
   "entries": [
     {
+      "date": "2026-11-09",
+      "published_at": "2026-11-10T05:24:54.913307Z",
+      "status": "backfilled",
+      "prelaunch": false,
+      "title": "Massie files impeachment articles against Hegseth",
+      "caption": "Rep. Thomas Massie (R-Ky.) introduced eight articles of impeachment against Defense Secretary Pete Hegseth on the House floor on Nov. 9, centred on the Iran war being waged without congressional authorization. Because the resolution is privileged, House leaders must table, refer or vote on it within two legislative days. Hegseth called the effort a sham.",
+      "stories": [
+        {
+          "name": "Rep. Thomas Massie files articles of impeachment against Defense Secretary Pete Hegseth",
+          "role": "focal",
+          "facts": [
+            "On Monday, Nov. 9, Rep. Thomas Massie (R-Ky.) introduced and read on the House floor a resolution with eight articles of impeachment against Defense Secretary Pete Hegseth, then discussed it at a news conference on Capitol Hill.",
+            "The articles focus mainly on waging the war with Iran without congressional authorization, and also cite the Caribbean boat strikes and the Pentagon's scrutiny of Sen. Mark Kelly.",
+            "Impeachment resolutions are privileged, so House leaders must act (table, refer or vote) within two legislative days. Speaker Mike Johnson opposed it; Democratic leader Hakeem Jeffries supports it; Hegseth called the effort a sham and scheduled a Tuesday news conference."
+          ],
+          "sources": [
+            {
+              "publisher": "CBS News",
+              "title": "Massie introduces Hegseth impeachment articles, teeing up vote",
+              "url": "https://www.cbsnews.com/news/pete-hegseth-impeachment-vote-house-thomas-massie/",
+              "published_at": "2026-11-10T00:36:12Z"
+            },
+            {
+              "publisher": "CNBC",
+              "title": "Hegseth impeachment articles introduced by Rep. Massie",
+              "url": "https://www.cnbc.com/2026/11/09/pete-hegseth-impeachment-articles-massie.html",
+              "published_at": "2026-11-09T22:41:12Z"
+            },
+            {
+              "publisher": "The New York Times",
+              "title": "Thomas Massie Moves to Force Vote on Impeaching Pete Hegseth",
+              "url": "https://www.nytimes.com/2026/11/09/us/politics/hegseth-impeachment-massie.html",
+              "published_at": "2026-11-09T22:35:06Z"
+            },
+            {
+              "publisher": "The Boston Globe",
+              "title": "Pete Hegseth decried 'destructive ideologies' in R.I. on Monday. Back in Washington, some are trying to impeach him.",
+              "url": "https://www.bostonglobe.com/2026/11/09/metro/hegseth-speech-naval-war-college-speech-impeachment/",
+              "published_at": "2026-11-09T23:38:39Z"
+            }
+          ]
+        }
+      ],
+      "artwork": {
+        "path": "artwork/2026-11-09.svg",
+        "format": "svg",
+        "alt": "Editorial illustration of the U.S. House chamber seen from a low angle. Rep. Thomas Massie, slim with glasses and grey hair in a dark suit, speaks at a wooden floor lectern toward the Speaker's rostrum, where clerks sit below a vertical American flag flanked by gold fasces. A few members listen from curved benches. Eight blank pages spiral up from his hand through a shaft of skylight, symbolising the eight articles of impeachment against Defense Secretary Pete Hegseth.",
+        "method": "code-generated SVG (graphic-poster kit, src/art/daily/)",
+        "revision": "r4"
+      },
+      "backfill": {
+        "is_backfill": true,
+        "reason": "Scheduled run started just after midnight Boston time on Nov. 10, a few hours after the 9 p.m. target."
+      }
+    },
+    {
+      "date": "2026-11-08",
+      "published_at": "2026-11-10T05:29:42.952669Z",
+      "status": "backfilled",
+      "prelaunch": false,
+      "title": "Larson clinches a third NASCAR Cup title",
+      "caption": "Kyle Larson clinched his third NASCAR Cup Series championship at Homestead-Miami Speedway on Nov. 8, locking it up on points at the end of Stage 1, under caution, while crew chief Cliff Daniels and owner Rick Hendrick celebrated atop the pit box. Larson finished 12th; Ryan Blaney won the race. Larson is the first back-to-back champion since Jimmie Johnson.",
+      "stories": [
+        {
+          "name": "Kyle Larson clinches his third NASCAR Cup Series championship",
+          "role": "focal",
+          "facts": [
+            "At the season finale at Homestead-Miami Speedway on Sunday, Nov. 8, Kyle Larson (Hendrick Motorsports, No. 5 Chevrolet) clinched the 2026 Cup Series title by finishing fourth in Stage 1, which ended under caution after Chase Briscoe's engine failure.",
+            "Larson finished the race 12th and won the title by 49 points over Christopher Bell; Ryan Blaney won the race, passing Tyler Reddick on the last lap.",
+            "It is Larson's third Cup title and second in a row, making him the first back-to-back champion since Jimmie Johnson. Crew chief Cliff Daniels and team owner Rick Hendrick celebrated atop the pit box."
+          ],
+          "sources": [
+            {
+              "publisher": "NBC Sports",
+              "title": "Kyle Larson clinches third NASCAR Cup championship and second in a row",
+              "url": "https://www.nbcsports.com/nascar/news/kyle-larson-wins-third-nascar-cup-championship-and-second-in-a-row",
+              "published_at": "2026-11-08T21:17:17Z"
+            },
+            {
+              "publisher": "Heavy Sports",
+              "title": "NASCAR Cup Series Homestead Results: Kyle Larson Wins 2026 Championship",
+              "url": "https://heavy.com/sports/nascar/nascar-cup-homestead-results-larson-wins-championship/",
+              "published_at": "2026-11-08T23:31:11Z"
+            }
+          ]
+        }
+      ],
+      "artwork": {
+        "path": "artwork/2026-11-08.svg",
+        "format": "svg",
+        "alt": "Editorial illustration of Homestead-Miami Speedway on a sunny afternoon. Two crew leaders in headsets raise their arms on top of a tall coral-and-navy pit box. Beyond them, race cars circle in single file behind a glowing yellow pace car under caution, with a white No. 5 car highlighted mid-pack. Yellow radio waves arc from the pit-box antenna to that car, representing Kyle Larson clinching his third Cup Series title. Palm trees and grandstands line the far side.",
+        "method": "code-generated SVG (graphic-poster kit, src/art/daily/)",
+        "revision": "r4"
+      },
+      "backfill": {
+        "is_backfill": true,
+        "reason": "Missed: no run produced the Nov. 8 entry (no run started for that date before Nov. 10). Recovered as a backfill on the Nov. 10 overnight run using sources published on Nov. 8."
+      }
+    },
+    {
       "date": "2026-11-07",
       "published_at": "2026-11-08T02:16:40.834595Z",
       "status": "published",

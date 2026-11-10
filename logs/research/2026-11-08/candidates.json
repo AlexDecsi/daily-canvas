@@ -1,0 +1,706 @@
+{
+  "date": "2026-11-08",
+  "fetched_at": "2026-11-10T05:25:10.991751Z",
+  "items_considered": 48,
+  "candidates": [
+    {
+      "headline": "Why haven\u2019t we banned highway billboards in Massachusetts? (Like Maine and Vermont.)",
+      "score": 32,
+      "signals": {
+        "us_outlets": 1,
+        "intl_outlets": 0,
+        "front_pages": 1,
+        "boston_local": [
+          "maine",
+          "massachusetts",
+          "vermont"
+        ]
+      },
+      "independent_outlets": [
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-08T11:00:00Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Why haven\u2019t we banned highway billboards in Massachusetts? (Like Maine and Vermont.)",
+          "url": "https://www.bostonglobe.com/2026/11/08/metro/billboards-ban-ads-massachusetts/",
+          "published_at": "2026-11-08T11:00:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Suffield Academy headmaster Charles Cahn resigns amid IRS investigation",
+      "score": 32,
+      "signals": {
+        "us_outlets": 1,
+        "intl_outlets": 0,
+        "front_pages": 1,
+        "boston_local": [
+          "connecticut"
+        ]
+      },
+      "independent_outlets": [
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-08T20:10:41Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Suffield Academy headmaster Charles Cahn resigns amid IRS investigation",
+          "url": "https://www.bostonglobe.com/2026/11/08/metro/suffield-academy-headmaster-resigns-irs-probe/",
+          "published_at": "2026-11-08T20:10:41Z"
+        }
+      ]
+    },
+    {
+      "headline": "Man found dead in Mill River in Rowley, DA says",
+      "score": 32,
+      "signals": {
+        "us_outlets": 1,
+        "intl_outlets": 0,
+        "front_pages": 1,
+        "boston_local": [
+          "massachusetts"
+        ]
+      },
+      "independent_outlets": [
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-08T23:28:48Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Man found dead in Mill River in Rowley, DA says",
+          "url": "https://www.bostonglobe.com/2026/11/08/metro/man-dead-in-rowley-river/",
+          "published_at": "2026-11-08T23:28:48Z"
+        }
+      ]
+    },
+    {
+      "headline": "Eisenkot, Netanyahu Rival and Opposition Leader, Tapped to Try to Form Government",
+      "score": 17,
+      "signals": {
+        "us_outlets": 1,
+        "intl_outlets": 1,
+        "front_pages": 0,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-08T09:41:56Z",
+      "reports": [
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Eisenkot, Netanyahu Rival and Opposition Leader, Tapped to Try to Form Government",
+          "url": "https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html",
+          "published_at": "2026-11-08T09:41:56Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Israel\u2019s president picks Yashar leader Gadi Eisenkot to form government",
+          "url": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
+          "published_at": "2026-11-08T14:26:14Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Gadi Eisenkot reaches out to Netanyahu allies as he strives to form government",
+          "url": "https://www.theguardian.com/world/2026/nov/08/gadi-eisenkot-netanyahu-allies-form-israel-government",
+          "published_at": "2026-11-08T17:53:59Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Who Is Gadi Eisenkot, Israel\u2019s Opposition Leader?",
+          "url": "https://www.nytimes.com/2026/11/08/world/middleeast/israel-eisenkot-netanyahu-what-to-know.html",
+          "published_at": "2026-11-08T21:48:22Z"
+        }
+      ]
+    },
+    {
+      "headline": "Georgia Gov.-elect Bottoms: 'It's safe to say that we are a blue state'",
+      "score": 17,
+      "signals": {
+        "us_outlets": 1,
+        "intl_outlets": 0,
+        "front_pages": 1,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News"
+      ],
+      "first_seen": "2026-11-08T18:06:32Z",
+      "reports": [
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Georgia Gov.-elect Bottoms: 'It's safe to say that we are a blue state'",
+          "url": "https://abcnews.com/Politics/safe-blue-state-georgia-gov-elect-bottoms-after/story?id=137952244",
+          "published_at": "2026-11-08T18:06:32Z"
+        }
+      ]
+    },
+    {
+      "headline": "WATCH: NASA recruiting next generation of astronauts",
+      "score": 17,
+      "signals": {
+        "us_outlets": 1,
+        "intl_outlets": 0,
+        "front_pages": 1,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News"
+      ],
+      "first_seen": "2026-11-09T03:03:14Z",
+      "reports": [
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "WATCH: NASA recruiting next generation of astronauts",
+          "url": "https://abcnews.com/video/137962656/",
+          "published_at": "2026-11-09T03:03:14Z"
+        }
+      ]
+    },
+    {
+      "headline": "Pope\u2019s visit to Argentina sets up showdown with \u2018hyper-capitalist\u2019 Milei",
+      "score": 16,
+      "signals": {
+        "us_outlets": 1,
+        "intl_outlets": 1,
+        "front_pages": 0,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-08T09:00:35Z",
+      "reports": [
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Pope\u2019s visit to Argentina sets up showdown with \u2018hyper-capitalist\u2019 Milei",
+          "url": "https://www.theguardian.com/world/2026/nov/08/popes-visit-to-argentina-sets-up-showdown-with-hyper-capitalist-milei",
+          "published_at": "2026-11-08T09:00:35Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "In Argentina, Pope Leo Tells President Milei Economy Must Serve the Needy",
+          "url": "https://www.nytimes.com/2026/11/08/world/americas/pope-leo-argentina-milei.html",
+          "published_at": "2026-11-08T23:36:32Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Pope Leo delivers stinging rebuke of Milei\u2019s austerity measures during Argentina visit",
+          "url": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity",
+          "published_at": "2026-11-09T02:11:25Z"
+        }
+      ]
+    },
+    {
+      "headline": "Nvidia CEO Jensen Huang admits affair, board to launch investigation",
+      "score": 16,
+      "signals": {
+        "us_outlets": 1,
+        "intl_outlets": 1,
+        "front_pages": 0,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Axios",
+        "The Guardian"
+      ],
+      "first_seen": "2026-11-08T20:14:05Z",
+      "reports": [
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Nvidia CEO Jensen Huang admits affair, board to launch investigation",
+          "url": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-admits-affair-board-to-launch-investigation",
+          "published_at": "2026-11-08T20:14:05Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump backs Nvidia's Huang amid affair, spy investigation",
+          "url": "https://www.axios.com/2026/11/09/trump-jensen-huang-nvidia",
+          "published_at": "2026-11-09T00:00:35Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
+          "url": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
+          "published_at": "2026-11-09T00:25:28Z"
+        }
+      ]
+    },
+    {
+      "headline": "Giant Roadside Attractions Face Mounting Costs and an Uncertain Future",
+      "score": 11,
+      "signals": {
+        "us_outlets": 1,
+        "intl_outlets": 0,
+        "front_pages": 0,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-08T05:01:11Z",
+      "reports": [
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Giant Roadside Attractions Face Mounting Costs and an Uncertain Future",
+          "url": "https://www.nytimes.com/2026/11/08/world/canada/roadside-attractions-giant-dinosaur.html",
+          "published_at": "2026-11-08T05:01:11Z"
+        }
+      ]
+    },
+    {
+      "headline": "South Africa\u2019s Politics May Never Be the Same Again",
+      "score": 11,
+      "signals": {
+        "us_outlets": 1,
+        "intl_outlets": 0,
+        "front_pages": 0,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-08T05:01:24Z",
+      "reports": [
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "South Africa\u2019s Politics May Never Be the Same Again",
+          "url": "https://www.nytimes.com/2026/11/08/world/africa/south-africa-election-african-national-congress.html",
+          "published_at": "2026-11-08T05:01:24Z"
+        }
+      ]
+    },
+    {
+      "headline": "King Charles Was Umbrella-Less but in His Element on Caribbean Tour",
+      "score": 11,
+      "signals": {
+        "us_outlets": 1,
+        "intl_outlets": 0,
+        "front_pages": 0,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-08T05:55:55Z",
+      "reports": [
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "King Charles Was Umbrella-Less but in His Element on Caribbean Tour",
+          "url": "https://www.nytimes.com/2026/11/07/world/europe/king-charles-chogm-umbrella-rain-diplomacy.html",
+          "published_at": "2026-11-08T05:55:55Z"
+        }
+      ]
+    },
+    {
+      "headline": "A Guide to COP31 Climate Talks in Antalya, Turkey",
+      "score": 11,
+      "signals": {
+        "us_outlets": 1,
+        "intl_outlets": 0,
+        "front_pages": 0,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-08T10:01:51Z",
+      "reports": [
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "A Guide to COP31 Climate Talks in Antalya, Turkey",
+          "url": "https://www.nytimes.com/2026/11/08/climate/what-is-cop31-climate.html",
+          "published_at": "2026-11-08T10:01:51Z"
+        }
+      ]
+    },
+    {
+      "headline": "House poised to impeach Pete Hegseth after GOP midterm defeat",
+      "score": 11,
+      "signals": {
+        "us_outlets": 1,
+        "intl_outlets": 0,
+        "front_pages": 0,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Axios"
+      ],
+      "first_seen": "2026-11-08T12:45:05Z",
+      "reports": [
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "House poised to impeach Pete Hegseth after GOP midterm defeat",
+          "url": "https://www.axios.com/2026/11/08/pete-hegseth-impeachment-house-republicans-massie",
+          "published_at": "2026-11-08T12:45:05Z"
+        }
+      ]
+    },
+    {
+      "headline": "Samoan Chef Brings Flavors of Home to New Zealand\u2019s Fine-Dining Scene",
+      "score": 11,
+      "signals": {
+        "us_outlets": 1,
+        "intl_outlets": 0,
+        "front_pages": 0,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-08T13:14:10Z",
+      "reports": [
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Samoan Chef Brings Flavors of Home to New Zealand\u2019s Fine-Dining Scene",
+          "url": "https://www.nytimes.com/2026/11/08/world/asia/onesemo-new-zealand-chef-samoa.html",
+          "published_at": "2026-11-08T13:14:10Z"
+        }
+      ]
+    },
+    {
+      "headline": "Behind the Curtain: Texas is the #1 story of America",
+      "score": 11,
+      "signals": {
+        "us_outlets": 1,
+        "intl_outlets": 0,
+        "front_pages": 0,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Axios"
+      ],
+      "first_seen": "2026-11-08T14:18:01Z",
+      "reports": [
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Behind the Curtain: Texas is the #1 story of America",
+          "url": "https://www.axios.com/2026/11/08/behind-the-curtain-texas-democrats-2026",
+          "published_at": "2026-11-08T14:18:01Z"
+        }
+      ]
+    },
+    {
+      "headline": "A \u2018Chaotic Race\u2019 for the World\u2019s Top Diplomat",
+      "score": 11,
+      "signals": {
+        "us_outlets": 1,
+        "intl_outlets": 0,
+        "front_pages": 0,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-08T14:33:49Z",
+      "reports": [
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "A \u2018Chaotic Race\u2019 for the World\u2019s Top Diplomat",
+          "url": "https://www.nytimes.com/2026/11/07/world/americas/un-secretary-general-pick.html",
+          "published_at": "2026-11-08T14:33:49Z"
+        }
+      ]
+    },
+    {
+      "headline": "Inside the Nightclub Sheltering Haitians From Violent Gangs",
+      "score": 11,
+      "signals": {
+        "us_outlets": 1,
+        "intl_outlets": 0,
+        "front_pages": 0,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-08T14:51:18Z",
+      "reports": [
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Inside the Nightclub Sheltering Haitians From Violent Gangs",
+          "url": "https://www.nytimes.com/video/world/americas/100000011168848/haiti-nightclub-shelter-gang-violence.html",
+          "published_at": "2026-11-08T14:51:18Z"
+        }
+      ]
+    },
+    {
+      "headline": "How Hinojosa\u2019s win in Texas could bite Beshear",
+      "score": 11,
+      "signals": {
+        "us_outlets": 1,
+        "intl_outlets": 0,
+        "front_pages": 0,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Politico"
+      ],
+      "first_seen": "2026-11-08T15:00:00Z",
+      "reports": [
+        {
+          "publisher": "Politico",
+          "group": "politico",
+          "kind": "news",
+          "wire": false,
+          "title": "How Hinojosa\u2019s win in Texas could bite Beshear",
+          "url": "https://www.politico.com/news/2026/11/08/texas-hinojosa-beshear-2028-01155434",
+          "published_at": "2026-11-08T15:00:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Democratic thrashing redraws the map of state power",
+      "score": 11,
+      "signals": {
+        "us_outlets": 1,
+        "intl_outlets": 0,
+        "front_pages": 0,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Politico"
+      ],
+      "first_seen": "2026-11-08T15:00:00Z",
+      "reports": [
+        {
+          "publisher": "Politico",
+          "group": "politico",
+          "kind": "news",
+          "wire": false,
+          "title": "Democratic thrashing redraws the map of state power",
+          "url": "https://www.politico.com/news/2026/11/08/democratic-thrashing-redraws-the-map-of-state-power-01154607",
+          "published_at": "2026-11-08T15:00:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Saudi Aramco Tower Damaged as Yemen\u2019s Houthis Attack Riyadh",
+      "score": 11,
+      "signals": {
+        "us_outlets": 1,
+        "intl_outlets": 0,
+        "front_pages": 0,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-08T16:52:42Z",
+      "reports": [
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Saudi Aramco Tower Damaged as Yemen\u2019s Houthis Attack Riyadh",
+          "url": "https://www.nytimes.com/2026/11/08/world/middleeast/saudi-aramco-tower-riyadh-hit.html",
+          "published_at": "2026-11-08T16:52:42Z"
+        }
+      ]
+    },
+    {
+      "headline": "Trump's AG won't rule out prosecuting Democrats who threaten to investigate",
+      "score": 11,
+      "signals": {
+        "us_outlets": 1,
+        "intl_outlets": 0,
+        "front_pages": 0,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Axios"
+      ],
+      "first_seen": "2026-11-08T17:07:33Z",
+      "reports": [
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump's AG won't rule out prosecuting Democrats who threaten to investigate",
+          "url": "https://www.axios.com/2026/11/08/todd-blanche-doj-prosecuting-democrats-oversight",
+          "published_at": "2026-11-08T17:07:33Z"
+        }
+      ]
+    },
+    {
+      "headline": "Scoop: Trump asked Netanyahu to move on Gaza peace plan in post-election call",
+      "score": 11,
+      "signals": {
+        "us_outlets": 1,
+        "intl_outlets": 0,
+        "front_pages": 0,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Axios"
+      ],
+      "first_seen": "2026-11-08T17:59:28Z",
+      "reports": [
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Scoop: Trump asked Netanyahu to move on Gaza peace plan in post-election call",
+          "url": "https://www.axios.com/2026/11/08/trump-netanyahu-implement-gaza-peace-plan",
+          "published_at": "2026-11-08T17:59:28Z"
+        }
+      ]
+    },
+    {
+      "headline": "More Than 3,000 Tarantulas Found in Smugglers\u2019 Socks at Peru Airport",
+      "score": 11,
+      "signals": {
+        "us_outlets": 1,
+        "intl_outlets": 0,
+        "front_pages": 0,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-08T18:33:16Z",
+      "reports": [
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "More Than 3,000 Tarantulas Found in Smugglers\u2019 Socks at Peru Airport",
+          "url": "https://www.nytimes.com/2026/11/08/world/americas/tarantulas-spiders-airport-peru.html",
+          "published_at": "2026-11-08T18:33:16Z"
+        }
+      ]
+    },
+    {
+      "headline": "Blanche dismisses Means allegations as GOP's MAHA feud deepens",
+      "score": 11,
+      "signals": {
+        "us_outlets": 1,
+        "intl_outlets": 0,
+        "front_pages": 0,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Axios"
+      ],
+      "first_seen": "2026-11-08T21:12:24Z",
+      "reports": [
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Blanche dismisses Means allegations as GOP's MAHA feud deepens",
+          "url": "https://www.axios.com/2026/11/08/todd-blanche-calley-means-susie-wiles-maha-allegations",
+          "published_at": "2026-11-08T21:12:24Z"
+        }
+      ]
+    },
+    {
+      "headline": "More Than 50 Killed in Yemen in One of the Deadliest 24 Hours of the War",
+      "score": 11,
+      "signals": {
+        "us_outlets": 1,
+        "intl_outlets": 0,
+        "front_pages": 0,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-08T21:45:25Z",
+      "reports": [
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "More Than 50 Killed in Yemen in One of the Deadliest 24 Hours of the War",
+          "url": "https://www.nytimes.com/2026/11/07/world/middleeast/more-than-50-killed-in-yemen.html",
+          "published_at": "2026-11-08T21:45:25Z"
+        }
+      ]
+    }
+  ]
+}

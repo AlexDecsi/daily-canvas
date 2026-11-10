@@ -1,0 +1,67 @@
+{
+  "date": "2026-11-09",
+  "runs": [
+    {
+      "started_at": "2026-11-10T05:02:44.490238Z",
+      "outcome": "backfilled",
+      "steps": [
+        {
+          "at": "2026-11-10T05:02:44.490243Z",
+          "step": "prepare: lock acquired (backfill)"
+        },
+        {
+          "at": "2026-11-10T05:02:52.398656Z",
+          "step": "prepare: ran src/news/feeds.py"
+        },
+        {
+          "at": "2026-11-10T05:02:52.522374Z",
+          "step": "prepare: ran src/news/cluster.py"
+        },
+        {
+          "at": "2026-11-10T05:02:53.176718Z",
+          "step": "prepare: ran src/news/wiki_events.py"
+        },
+        {
+          "at": "2026-11-10T05:24:55.830978Z",
+          "step": "finalize: published to local site"
+        }
+      ],
+      "_new_run": true,
+      "mode": "backfill",
+      "prelaunch": false,
+      "finished_at": "2026-11-10T05:24:55.830819Z",
+      "link_checks": [
+        {
+          "url": "https://www.cbsnews.com/news/pete-hegseth-impeachment-vote-house-thomas-massie/",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/11/09/pete-hegseth-impeachment-articles-massie.html",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.nytimes.com/2026/11/09/us/politics/hegseth-impeachment-massie.html",
+          "ok": true,
+          "note": "HTTP 403 (blocks automated checks; not verifiable here)"
+        },
+        {
+          "url": "https://www.bostonglobe.com/2026/11/09/metro/hegseth-speech-naval-war-college-speech-impeachment/",
+          "ok": true,
+          "note": "HTTP 200"
+        }
+      ],
+      "samples_removed": [],
+      "stories_shown": [
+        "Rep. Thomas Massie files articles of impeachment against Defense Secretary Pete Hegseth"
+      ],
+      "usage": {
+        "article_reads": 3,
+        "web_searches": 1,
+        "render_rounds": 4,
+        "minutes": 30
+      }
+    }
+  ]
+}

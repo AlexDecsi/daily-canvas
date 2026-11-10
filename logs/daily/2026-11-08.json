@@ -1,0 +1,57 @@
+{
+  "date": "2026-11-08",
+  "runs": [
+    {
+      "started_at": "2026-11-10T05:25:02.479665Z",
+      "outcome": "backfilled",
+      "steps": [
+        {
+          "at": "2026-11-10T05:25:02.479669Z",
+          "step": "prepare: lock acquired (backfill)"
+        },
+        {
+          "at": "2026-11-10T05:25:11.005645Z",
+          "step": "prepare: ran src/news/feeds.py"
+        },
+        {
+          "at": "2026-11-10T05:25:11.048035Z",
+          "step": "prepare: ran src/news/cluster.py"
+        },
+        {
+          "at": "2026-11-10T05:25:11.313907Z",
+          "step": "prepare: ran src/news/wiki_events.py"
+        },
+        {
+          "at": "2026-11-10T05:29:43.465589Z",
+          "step": "finalize: published to local site"
+        }
+      ],
+      "_new_run": true,
+      "mode": "backfill",
+      "prelaunch": false,
+      "finished_at": "2026-11-10T05:29:43.465509Z",
+      "link_checks": [
+        {
+          "url": "https://www.nbcsports.com/nascar/news/kyle-larson-wins-third-nascar-cup-championship-and-second-in-a-row",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://heavy.com/sports/nascar/nascar-cup-homestead-results-larson-wins-championship/",
+          "ok": true,
+          "note": "HTTP 200"
+        }
+      ],
+      "samples_removed": [],
+      "stories_shown": [
+        "Kyle Larson clinches his third NASCAR Cup Series championship"
+      ],
+      "usage": {
+        "article_reads": 2,
+        "web_searches": 2,
+        "render_rounds": 4,
+        "minutes": 25
+      }
+    }
+  ]
+}

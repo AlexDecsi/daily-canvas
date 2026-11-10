@@ -1,0 +1,69 @@
+{
+  "date": "2026-11-09",
+  "mode": "live (scheduled run, started just after midnight Boston time on Nov. 10)",
+  "prepared_at": "2026-11-10T05:15:00Z",
+  "candidates_considered": 25,
+  "rationale": "Rep. Thomas Massie forcing a House impeachment vote on Defense Secretary Pete Hegseth ties for the top-ranked cluster (NYT, NPR, CBS, CNBC, the Boston Globe, The Hill, Axios, PBS, Bloomberg, BBC; 6 front pages) and is a concrete, verifiable action. The co-top Nvidia/Jensen Huang story rests on allegations about a suspected spy, a private individual, so it is avoided. Supreme Court border-wall order, California's Prop 40 and the Charlie Kirk trial date rank lower. Hegseth's Naval War College speech in Newport, R.I. (Boston Globe) would make a strong New England contrast, but I found only one source, so it is not drawn. Focal story only.",
+  "stories": [
+    {
+      "role": "focal",
+      "name": "Rep. Thomas Massie files articles of impeachment against Defense Secretary Pete Hegseth",
+      "facts": [
+        "On Monday, Nov. 9, Rep. Thomas Massie (R-Ky.) introduced and read on the House floor a resolution with eight articles of impeachment against Defense Secretary Pete Hegseth, then discussed it at a news conference on Capitol Hill.",
+        "The articles focus mainly on waging the war with Iran without congressional authorization, and also cite the Caribbean boat strikes and the Pentagon's scrutiny of Sen. Mark Kelly.",
+        "Impeachment resolutions are privileged, so House leaders must act (table, refer or vote) within two legislative days. Speaker Mike Johnson opposed it; Democratic leader Hakeem Jeffries supports it; Hegseth called the effort a sham and scheduled a Tuesday news conference."
+      ],
+      "people": [
+        {
+          "name": "Thomas Massie",
+          "public_figure": true,
+          "verified_action": "Read the articles of impeachment on the House floor on Nov. 9 (CBS News, CNBC). Drawn standing at a House floor lectern holding the resolution pages and speaking; slim build, glasses, short grey hair, dark suit; no text."
+        },
+        {
+          "name": "Pete Hegseth",
+          "public_figure": true,
+          "verified_action": "Subject of the resolution; said he was not worried and called it a sham (CBS News, CNBC). Not drawn as a figure."
+        }
+      ],
+      "visual_notes": "Low angle up at Massie at a floor lectern in the House chamber: rows of curved seats, the Speaker's rostrum tiers and the large US flag behind it. The resolution's eight pages lift and spiral up into the skylit ceiling as a symbolic motif (illustration, not a claim). Clerks at the rostrum and a few members seated, neutral. No text, no Hegseth figure, no vote outcome.",
+      "confidence": "high: CBS News and CNBC (both read in full, independent reporting) agree that Massie introduced eight articles on the House floor on Nov. 9 and on the two-legislative-day timing; NYT, NPR, Globe and others carry the same headline.",
+      "sources": [
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "title": "Massie introduces Hegseth impeachment articles, teeing up vote",
+          "url": "https://www.cbsnews.com/news/pete-hegseth-impeachment-vote-house-thomas-massie/",
+          "published_at": "2026-11-10T00:36:12Z",
+          "checked_at": "2026-11-10T05:08:00Z",
+          "checked": "full article"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "title": "Hegseth impeachment articles introduced by Rep. Massie",
+          "url": "https://www.cnbc.com/2026/11/09/pete-hegseth-impeachment-articles-massie.html",
+          "published_at": "2026-11-09T22:41:12Z",
+          "checked_at": "2026-11-10T05:10:00Z",
+          "checked": "full article"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "title": "Thomas Massie Moves to Force Vote on Impeaching Pete Hegseth",
+          "url": "https://www.nytimes.com/2026/11/09/us/politics/hegseth-impeachment-massie.html",
+          "published_at": "2026-11-09T22:35:06Z",
+          "checked": "headline only"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "title": "Pete Hegseth decried 'destructive ideologies' in R.I. on Monday. Back in Washington, some are trying to impeach him.",
+          "url": "https://www.bostonglobe.com/2026/11/09/metro/hegseth-speech-naval-war-college-speech-impeachment/",
+          "published_at": "2026-11-09T23:38:39Z",
+          "checked_at": "2026-11-10T05:06:00Z",
+          "checked": "full article"
+        }
+      ]
+    }
+  ]
+}

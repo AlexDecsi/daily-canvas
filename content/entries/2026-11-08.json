@@ -1,0 +1,44 @@
+{
+  "date": "2026-11-08",
+  "published_at": "2026-11-10T05:29:42.952669Z",
+  "status": "backfilled",
+  "prelaunch": false,
+  "title": "Larson clinches a third NASCAR Cup title",
+  "caption": "Kyle Larson clinched his third NASCAR Cup Series championship at Homestead-Miami Speedway on Nov. 8, locking it up on points at the end of Stage 1, under caution, while crew chief Cliff Daniels and owner Rick Hendrick celebrated atop the pit box. Larson finished 12th; Ryan Blaney won the race. Larson is the first back-to-back champion since Jimmie Johnson.",
+  "stories": [
+    {
+      "name": "Kyle Larson clinches his third NASCAR Cup Series championship",
+      "role": "focal",
+      "facts": [
+        "At the season finale at Homestead-Miami Speedway on Sunday, Nov. 8, Kyle Larson (Hendrick Motorsports, No. 5 Chevrolet) clinched the 2026 Cup Series title by finishing fourth in Stage 1, which ended under caution after Chase Briscoe's engine failure.",
+        "Larson finished the race 12th and won the title by 49 points over Christopher Bell; Ryan Blaney won the race, passing Tyler Reddick on the last lap.",
+        "It is Larson's third Cup title and second in a row, making him the first back-to-back champion since Jimmie Johnson. Crew chief Cliff Daniels and team owner Rick Hendrick celebrated atop the pit box."
+      ],
+      "sources": [
+        {
+          "publisher": "NBC Sports",
+          "title": "Kyle Larson clinches third NASCAR Cup championship and second in a row",
+          "url": "https://www.nbcsports.com/nascar/news/kyle-larson-wins-third-nascar-cup-championship-and-second-in-a-row",
+          "published_at": "2026-11-08T21:17:17Z"
+        },
+        {
+          "publisher": "Heavy Sports",
+          "title": "NASCAR Cup Series Homestead Results: Kyle Larson Wins 2026 Championship",
+          "url": "https://heavy.com/sports/nascar/nascar-cup-homestead-results-larson-wins-championship/",
+          "published_at": "2026-11-08T23:31:11Z"
+        }
+      ]
+    }
+  ],
+  "artwork": {
+    "path": "artwork/2026-11-08.svg",
+    "format": "svg",
+    "alt": "Editorial illustration of Homestead-Miami Speedway on a sunny afternoon. Two crew leaders in headsets raise their arms on top of a tall coral-and-navy pit box. Beyond them, race cars circle in single file behind a glowing yellow pace car under caution, with a white No. 5 car highlighted mid-pack. Yellow radio waves arc from the pit-box antenna to that car, representing Kyle Larson clinching his third Cup Series title. Palm trees and grandstands line the far side.",
+    "method": "code-generated SVG (graphic-poster kit, src/art/daily/)",
+    "revision": "r4"
+  },
+  "backfill": {
+    "is_backfill": true,
+    "reason": "Missed: no run produced the Nov. 8 entry (no run started for that date before Nov. 10). Recovered as a backfill on the Nov. 10 overnight run using sources published on Nov. 8."
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "date": "2026-11-08",
+  "mode": "backfill (made on Nov. 10)",
+  "prepared_at": "2026-11-10T05:45:00Z",
+  "candidates_considered": 25,
+  "rationale": "Backfill for a Sunday with thin feed data (48 items left in the feeds). Kyle Larson clinching his third NASCAR Cup Series title, and the first back-to-back titles since Jimmie Johnson, is a significant US national sports story, reported in full by NBC Sports and Heavy Sports on Nov. 8 and listed in Wikipedia's Nov. 8 current events (AP). The Nvidia board's investigation into Jensen Huang is bigger business news but rests on intelligence allegations about a private individual, so it is avoided. The Hegseth impeachment push was the next day's entry, and the Japan quake, Giza train crash and Gulf strikes fall outside the US-first focus. Focal story only.",
+  "stories": [
+    {
+      "role": "focal",
+      "name": "Kyle Larson clinches his third NASCAR Cup Series championship",
+      "facts": [
+        "At the season finale at Homestead-Miami Speedway on Sunday, Nov. 8, Kyle Larson (Hendrick Motorsports, No. 5 Chevrolet) clinched the 2026 Cup Series title by finishing fourth in Stage 1, which ended under caution after Chase Briscoe's engine failure.",
+        "Larson finished the race 12th and won the title by 49 points over Christopher Bell; Ryan Blaney won the race, passing Tyler Reddick on the last lap.",
+        "It is Larson's third Cup title and second in a row, making him the first back-to-back champion since Jimmie Johnson. Crew chief Cliff Daniels and team owner Rick Hendrick celebrated atop the pit box."
+      ],
+      "people": [
+        {
+          "name": "Kyle Larson",
+          "public_figure": true,
+          "verified_action": "Drove the No. 5 Chevrolet in the Homestead finale and clinched the title in Stage 1; received the news by radio during the caution (NBC Sports, Heavy). Drawn only as his car in the field under caution; livery generic (white with the number 5), not his actual paint scheme."
+        },
+        {
+          "name": "Cliff Daniels",
+          "public_figure": true,
+          "verified_action": "Celebrated atop the pit box and radioed Larson that they had won (NBC Sports, Heavy). Drawn atop the pit box with a headset, arms raised; generic team shirt, no logos."
+        },
+        {
+          "name": "Rick Hendrick",
+          "public_figure": true,
+          "verified_action": "Celebrated atop the pit box and radioed congratulations (NBC Sports). Drawn beside Daniels with white hair, arms raised; generic, no logos."
+        }
+      ],
+      "visual_notes": "High-angle view over a pit box at Homestead-Miami: in the foreground two team figures celebrate on top of the pit box, while beyond them the field circles in a single file behind a yellow pace car under caution, with Larson's No. 5 mid-pack. Radio arcs link the pit box antenna to the car. Palm trees, grandstands and a bright South Florida afternoon sky. No text besides the car number, no trophy, no race-winner depiction.",
+      "confidence": "high: NBC Sports and Heavy Sports (independent, both read in full, both published Nov. 8) agree on the Stage 1 clinch, the 12th-place finish, Blaney's win and the third title; Wikipedia's cutoff-safe Nov. 8 events list (citing AP, which could not be fetched) matches. Larson's car livery is not verified, so it is drawn generically.",
+      "sources": [
+        {
+          "publisher": "NBC Sports",
+          "group": "nbc",
+          "title": "Kyle Larson clinches third NASCAR Cup championship and second in a row",
+          "url": "https://www.nbcsports.com/nascar/news/kyle-larson-wins-third-nascar-cup-championship-and-second-in-a-row",
+          "published_at": "2026-11-08T21:17:17Z",
+          "checked_at": "2026-11-10T05:35:00Z",
+          "checked": "full article; timestamp via article_meta.py"
+        },
+        {
+          "publisher": "Heavy Sports",
+          "group": "heavy",
+          "title": "NASCAR Cup Series Homestead Results: Kyle Larson Wins 2026 Championship",
+          "url": "https://heavy.com/sports/nascar/nascar-cup-homestead-results-larson-wins-championship/",
+          "published_at": "2026-11-08T23:31:11Z",
+          "checked_at": "2026-11-10T05:40:00Z",
+          "checked": "full article; timestamp via article_meta.py"
+        }
+      ]
+    }
+  ]
+}
