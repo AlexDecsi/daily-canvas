@@ -1,0 +1,104 @@
+{
+  "date": "2026-11-10",
+  "mode": "live (scheduled run, ~9:07 p.m. Boston time on Nov. 10)",
+  "prepared_at": "2026-11-11T02:25:00Z",
+  "candidates_considered": 25,
+  "rationale": "House Republicans electing Rep. Jim Jordan as their leader for the next Congress, beating Majority Leader Steve Scalise, is by far the top-ranked cluster (13 US outlets, 10 front pages; NYT, NPR, CBS, CNBC, PBS/AP, the Boston Globe, Axios, The Guardian). The same cluster carries the House tabling Massie's Hegseth impeachment resolution, but yesterday's entry already showed that impeachment effort, so it is not drawn again. Senate Republicans keeping John Thune as leader is the natural companion; it is recorded below as a supporting story but kept out of the picture so the scene stays on one clear moment. The Kennedy family's suit against the Arlington arch and the NFL trade deadline rank lower. The Nvidia/spy story rests on allegations about a private individual and is avoided.",
+  "stories": [
+    {
+      "role": "focal",
+      "name": "House Republicans elect Jim Jordan as their leader for the next Congress",
+      "facts": [
+        "On Tuesday, Nov. 10, House Republicans who will serve in the next Congress chose Rep. Jim Jordan of Ohio, the Judiciary Committee chairman, to lead them in the minority, beating Majority Leader Steve Scalise of Louisiana 106 to 73 in a secret ballot at the Capitol.",
+        "The vote follows the party's midterm losses; Speaker Mike Johnson is stepping down from leadership. Democrats hold their leadership elections next week, with Hakeem Jeffries expected to become speaker.",
+        "After the vote Jordan gave brief remarks, saying House Republicans will fight for American families over the next two years."
+      ],
+      "people": [
+        {
+          "name": "Jim Jordan",
+          "public_figure": true,
+          "verified_action": "Won the House GOP leadership vote 106-73 and then gave brief remarks (CBS News; AP via PBS). Drawn speaking at a cluster of microphones inside the Capitol, in his signature white shirtsleeves and tie with no suit jacket, short brown-grey hair, lean wrestler's build; no text."
+        },
+        {
+          "name": "Steve Scalise",
+          "public_figure": true,
+          "verified_action": "Lost the leadership vote 106-73 (CBS News, CNBC). Not drawn as a figure."
+        }
+      ],
+      "visual_notes": "Over the shoulders of reporters and camera operators (generic, silhouetted) looking at Jordan at the microphones; behind him a tall arched Capitol window frames the lit dome at dusk. A spiral of blank folded ballot slips rises from behind him toward the dome as a symbol of the secret ballot (illustration, not a count). No text, no Scalise figure, no applause or crowd mood beyond press.",
+      "confidence": "high: CBS News and CNBC (independent reporting, both read) and the AP story on PBS (read) agree on the winner, opponent and the 106-73 tally; NYT, NPR, Globe, Axios and Guardian carry the same headline.",
+      "sources": [
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "title": "House GOP elects Jim Jordan as next leader in major shakeup",
+          "url": "https://www.cbsnews.com/news/jim-jordan-house-minority-leader-republicans/",
+          "published_at": "2026-11-10T21:36:06Z",
+          "checked_at": "2026-11-11T02:12:00Z",
+          "checked": "full article"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "title": "Rep. Jim Jordan, Sen. John Thune elected GOP leaders in Congress",
+          "url": "https://www.cnbc.com/2026/11/10/jim-jordan-congress-republicans-midterm.html",
+          "published_at": "2026-11-10T19:55:00Z",
+          "checked_at": "2026-11-11T02:20:00Z",
+          "checked": "full article"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "wire": "AP",
+          "title": "House Republicans pick Ohio Rep. Jim Jordan to lead them in the minority",
+          "url": "https://www.pbs.org/newshour/politics/house-republicans-pick-ohio-rep-jim-jordan-to-lead-them-in-the-minority",
+          "published_at": "2026-11-10T19:52:21Z",
+          "checked_at": "2026-11-11T02:15:00Z",
+          "checked": "full article"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "title": "Stung by Losses, G.O.P. Chooses Jordan and Thune as Leaders",
+          "url": "https://www.nytimes.com/2026/11/10/us/politics/republican-house-leader-scalise-jordan.html",
+          "published_at": "2026-11-10T23:21:54Z",
+          "checked": "headline only"
+        }
+      ]
+    },
+    {
+      "role": "supporting",
+      "name": "Senate Republicans keep John Thune as their leader",
+      "facts": [
+        "On Nov. 10, Senate Republicans re-elected Sen. John Thune of South Dakota as their leader without opposition, in a closed-door meeting in the Old Senate Chamber, after the party's midterm losses."
+      ],
+      "people": [
+        {
+          "name": "John Thune",
+          "public_figure": true,
+          "verified_action": "Re-elected Senate GOP leader by acclamation (CBS News, CNBC). Not drawn."
+        }
+      ],
+      "confidence": "high: CBS News and CNBC (both read) agree.",
+      "sources": [
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "title": "Thune wins reelection as Senate GOP leader after midterms losses",
+          "url": "https://www.cbsnews.com/news/john-thune-reelected-senate-republican-leader/",
+          "published_at": "2026-11-10T20:46:02Z",
+          "checked_at": "2026-11-11T02:21:00Z",
+          "checked": "full article"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "title": "Rep. Jim Jordan, Sen. John Thune elected GOP leaders in Congress",
+          "url": "https://www.cnbc.com/2026/11/10/jim-jordan-congress-republicans-midterm.html",
+          "published_at": "2026-11-10T19:55:00Z",
+          "checked": "full article"
+        }
+      ]
+    }
+  ]
+}

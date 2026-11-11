@@ -1,0 +1,66 @@
+{
+  "date": "2026-11-10",
+  "runs": [
+    {
+      "started_at": "2026-11-11T02:17:18.527285Z",
+      "outcome": "published",
+      "steps": [
+        {
+          "at": "2026-11-11T02:17:18.527288Z",
+          "step": "prepare: lock acquired (live)"
+        },
+        {
+          "at": "2026-11-11T02:17:31.126183Z",
+          "step": "prepare: ran src/news/feeds.py"
+        },
+        {
+          "at": "2026-11-11T02:17:31.248824Z",
+          "step": "prepare: ran src/news/cluster.py"
+        },
+        {
+          "at": "2026-11-11T03:09:05.167068Z",
+          "step": "finalize: published to local site"
+        }
+      ],
+      "_new_run": true,
+      "mode": "live",
+      "prelaunch": false,
+      "finished_at": "2026-11-11T03:09:05.166765Z",
+      "link_checks": [
+        {
+          "url": "https://www.cbsnews.com/news/jim-jordan-house-minority-leader-republicans/",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/11/10/jim-jordan-congress-republicans-midterm.html",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.pbs.org/newshour/politics/house-republicans-pick-ohio-rep-jim-jordan-to-lead-them-in-the-minority",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.nytimes.com/2026/11/10/us/politics/republican-house-leader-scalise-jordan.html",
+          "ok": true,
+          "note": "HTTP 403 (blocks automated checks; not verifiable here)"
+        }
+      ],
+      "samples_removed": [],
+      "stories_shown": [
+        "House Republicans elect Jim Jordan as their leader for the next Congress"
+      ],
+      "usage": {
+        "article_reads": 8,
+        "web_searches": 0,
+        "render_rounds": 4,
+        "minutes": 32
+      }
+    }
+  ],
+  "notes": [
+    "Pre-push wording fix (before the entry went live): caption changed from 'speaks to reporters' to 'gives brief remarks' to match the sources exactly (CBS/AP say he gave brief remarks; audience not specified)."
+  ]
+}

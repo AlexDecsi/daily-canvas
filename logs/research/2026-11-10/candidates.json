@@ -1,0 +1,2125 @@
+{
+  "date": "2026-11-10",
+  "fetched_at": "2026-11-11T02:17:31.109525Z",
+  "items_considered": 608,
+  "candidates": [
+    {
+      "headline": "House GOP elects Jim Jordan as new leader as the party looks to rebuild from midterms",
+      "score": 206,
+      "signals": {
+        "us_outlets": 13,
+        "intl_outlets": 2,
+        "front_pages": 10,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "Axios",
+        "BBC News",
+        "Bloomberg",
+        "Boston.com",
+        "CBS News",
+        "CNBC",
+        "Fox News",
+        "NBC News",
+        "NPR",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The Guardian",
+        "The Hill",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-10T10:01:00Z",
+      "reports": [
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "House GOP elects Jim Jordan as new leader as the party looks to rebuild from midterms",
+          "url": "https://www.npr.org/2026/11/10/nx-s1-6030988/gop-leadership-election-steve-scalise-jim-jordan",
+          "published_at": "2026-11-10T10:01:00Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "House Republicans pick Ohio Rep. Jim Jordan to lead them in the minority",
+          "url": "https://www.pbs.org/newshour/politics/house-republicans-pick-ohio-rep-jim-jordan-to-lead-them-in-the-minority",
+          "published_at": "2026-11-10T19:52:21Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Thune wins reelection as Senate GOP leader after midterms losses",
+          "url": "https://www.cbsnews.com/news/john-thune-reelected-senate-republican-leader/",
+          "published_at": "2026-11-10T20:46:02Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Jim Jordan wins House GOP minority leader race",
+          "url": "https://www.axios.com/2026/11/10/jim-jordan-house-republicans-leadership-elections-scalise",
+          "published_at": "2026-11-10T20:57:20Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Senate Republicans vote to keep Thune as leader after steep election losses",
+          "url": "https://www.bostonglobe.com/2026/11/10/nation/john-thune-senate-republican-leadership/",
+          "published_at": "2026-11-10T21:04:44Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Senate Republicans vote to keep Thune as leader after election wipeout",
+          "url": "https://www.pbs.org/newshour/politics/senate-republicans-vote-to-keep-thune-as-leader-after-election-wipeout",
+          "published_at": "2026-11-10T21:05:55Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Representative Jim Jordan of Ohio elected to lead House Republicans in the minority",
+          "url": "https://www.bostonglobe.com/2026/11/10/nation/republicans-minority-leader/",
+          "published_at": "2026-11-10T21:08:21Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "House GOP elects Jim Jordan as next leader in major shakeup",
+          "url": "https://www.cbsnews.com/news/jim-jordan-house-minority-leader-republicans/",
+          "published_at": "2026-11-10T21:36:06Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "House Republicans elect Jim Jordan as their next leader",
+          "url": "https://www.npr.org/2026/11/10/nx-s1-6035791/house-republicans-elect-jim-jordan-as-their-next-leader",
+          "published_at": "2026-11-10T21:57:23Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Rep. Jim Jordan, Sen. John Thune elected GOP leaders in Congress",
+          "url": "https://www.cnbc.com/2026/11/10/jim-jordan-congress-republicans-midterm.html",
+          "published_at": "2026-11-10T22:00:40Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Republicans elect Jim Jordan as House minority leader after midterm defeats",
+          "url": "https://www.theguardian.com/us-news/2026/nov/10/jim-jordan-house-republican-leader",
+          "published_at": "2026-11-10T22:42:43Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Who is Jim Jordan? Far-right Trump ideologue to lead diminished Republican ranks",
+          "url": "https://www.theguardian.com/us-news/2026/nov/10/who-is-jim-jordan-house-republicans",
+          "published_at": "2026-11-10T23:12:12Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "House GOP leaders block Massie's Hegseth impeachment push",
+          "url": "https://www.foxnews.com/politics/house-gop-leaders-block-massie-hegseth-impeachment-push",
+          "published_at": "2026-11-10T23:16:18Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Live updates: Hegseth impeachment effort fails; GOP picks Thune, Jordan to lead",
+          "url": "https://thehill.com/homenews/administration/6209586-live-updates-trump-hegseth-impeachment-iran-war-midterms-gop-leadership-elections/",
+          "published_at": "2026-11-10T23:20:03Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Stung by Losses, G.O.P. Chooses Jordan and Thune as Leaders",
+          "url": "https://www.nytimes.com/2026/11/10/us/politics/republican-house-leader-scalise-jordan.html",
+          "published_at": "2026-11-10T23:21:54Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "The Evening: House Republicans Shelve Hegseth Impeachment",
+          "url": "https://www.nytimes.com/2026/11/10/briefing/hegseth-impeachment-inflation.html",
+          "published_at": "2026-11-10T23:26:57Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "House Republicans quash effort to impeach Defense Secretary Hegseth",
+          "url": "https://www.bostonglobe.com/2026/11/10/nation/hegseth-impeachment-response-policy-disagreement-political-spectacle/",
+          "published_at": "2026-11-10T23:27:44Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "House Republicans quash effort to impeach Defense Secretary Hegseth",
+          "url": "https://www.wcvb.com/article/defense-secretary-hegseth-impeachment-house/74393214",
+          "published_at": "2026-11-10T23:30:00Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "House votes to block motion to impeach Secretary of Defense Pete Hegseth",
+          "url": "https://www.nbcnews.com/video/house-votes-to-block-motion-to-impeach-secretary-of-defense-pete-hegseth-273236037919",
+          "published_at": "2026-11-10T23:33:20Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "House votes to effectively end the impeachment effort against Pete Hegseth",
+          "url": "https://www.npr.org/2026/11/10/nx-s1-6036813/house-votes-to-effectively-end-the-impeachment-effort-against-pete-hegseth",
+          "published_at": "2026-11-10T23:43:11Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "House Republicans quash effort to impeach Defense Secretary Hegseth",
+          "url": "https://www.boston.com/news/politics/2026/11/10/house-republicans-quash-effort-to-impeach-defense-secretary-hegseth/",
+          "published_at": "2026-11-10T23:44:59Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Hegseth impeachment effort torpedoed in House",
+          "url": "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
+          "published_at": "2026-11-10T23:46:41Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "A breakdown of the impeachment articles filed against Pete Hegseth",
+          "url": "https://www.pbs.org/newshour/show/a-breakdown-of-the-impeachment-articles-filed-against-pete-hegseth",
+          "published_at": "2026-11-10T23:50:33Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "House rejects Hegseth impeachment as GOP selects Jordan and Thune as leaders",
+          "url": "https://www.pbs.org/newshour/show/house-rejects-hegseth-impeachment-as-gop-selects-jordan-and-thune-as-leaders",
+          "published_at": "2026-11-10T23:55:40Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "House Republicans block effort to impeach Pentagon chief Pete Hegseth",
+          "url": "https://www.theguardian.com/us-news/2026/nov/10/pete-hegseth-impeachment-effort",
+          "published_at": "2026-11-10T23:56:11Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "House Takes up Hegseth Impeachment Procedural Vote",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-10/balance-of-power-late-edition-11-10-2026-video",
+          "published_at": "2026-11-10T23:56:23Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Republicans Turn Back Effort to Impeach Hegseth",
+          "url": "https://www.nytimes.com/2026/11/10/us/politics/house-hegseth-impeachment-vote.html",
+          "published_at": "2026-11-11T00:43:15Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "House GOP blocks Hegseth impeachment measure introduced by Massie",
+          "url": "https://www.cbsnews.com/video/house-gop-blocks-hegseth-impeachment-measure-introduced-by-massie/",
+          "published_at": "2026-11-11T00:44:00Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Why did Hegseth face an impeachment push? Inside the 8 articles",
+          "url": "https://www.cbsnews.com/news/pete-hegseth-impeachment-articles/",
+          "published_at": "2026-11-11T00:52:00Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Republicans pick party leadership after midterm election losses",
+          "url": "https://www.wcvb.com/article/republicans-pick-party-leadership-after-midterm-election-losses/74393250",
+          "published_at": "2026-11-11T00:58:00Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "House tables Hegseth impeachment, effectively killing it in current Congress",
+          "url": "https://abcnews.com/US/hegseth-dismisses-impeachment-effort-political-spectacle/story?id=138002466",
+          "published_at": "2026-11-11T01:10:04Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+          "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-11T01:14:40Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Live Updates: GOP picks leaders, blocks Hegseth impeachment",
+          "url": "https://www.cbsnews.com/live-updates/congress-today-senate-house-leadership-elections/",
+          "published_at": "2026-11-11T01:49:10Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "House blocks Massie's effort to impeach Hegseth",
+          "url": "https://www.cbsnews.com/news/massie-hegseth-impeachment/",
+          "published_at": "2026-11-11T01:55:10Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "On the Defense: Takeaways From Hegseth\u2019s Remarks on Articles of Impeachment",
+          "url": "https://www.nytimes.com/2026/11/10/us/politics/hegseth-speech-impeachment-takeaways.html",
+          "published_at": "2026-11-11T01:56:46Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "House halts impeachment effort against Defense Secretary Pete Hegseth",
+          "url": "https://www.wcvb.com/article/house-to-vote-impeachment-effort-against-defense-secretary-pete-hegseth/74392643",
+          "published_at": "2026-11-11T02:01:00Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Pentagon declares \u2018total victory\u2019 after House Republicans block effort to impeach Pete Hegseth \u2013 US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates",
+          "published_at": "2026-11-11T02:04:05Z"
+        }
+      ]
+    },
+    {
+      "headline": "Kennedy Family Seeks to Intervene in Fight to Block Trump Arch",
+      "score": 113,
+      "signals": {
+        "us_outlets": 7,
+        "intl_outlets": 1,
+        "front_pages": 5,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "Bloomberg",
+        "Boston.com",
+        "CBS News",
+        "The Boston Globe",
+        "The Guardian",
+        "The Hill",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-10T23:19:09Z",
+      "reports": [
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Kennedy Family Seeks to Intervene in Fight to Block Trump Arch",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-10/kennedy-family-seeks-to-intervene-in-fight-to-block-trump-arch",
+          "published_at": "2026-11-10T23:19:09Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Kennedys move to block Trump\u2019s arch, saying it would disturb JFK gravesite",
+          "url": "https://www.bostonglobe.com/2026/11/10/nation/kennedy-family-lawsuit-trump-arch/",
+          "published_at": "2026-11-10T23:41:04Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Kennedys Join Suit to Block Trump\u2019s Arch, Saying It Would Mar J.F.K. Gravesite",
+          "url": "https://www.nytimes.com/2026/11/10/us/politics/kennedy-trump-arch-lawsuit.html",
+          "published_at": "2026-11-11T00:11:51Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Kennedy family joins legal battle against Trump arch, saying it will mar JFK and RFK gravesites",
+          "url": "https://www.bostonglobe.com/2026/11/10/nation/kennedy-trump-arch/",
+          "published_at": "2026-11-11T00:32:49Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Kennedy family members ask a judge to block Trump's Arlington memorial arch",
+          "url": "https://abcnews.com/Politics/wireStory/kennedy-family-members-judge-block-trumps-arlington-memorial-138029558",
+          "published_at": "2026-11-11T01:06:31Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Kennedys sue to block Trump\u2019s gilded arch, saying it would \u2018cast shadow\u2019 over JFK grave site",
+          "url": "https://www.theguardian.com/us-news/2026/nov/10/kennedy-family-lawsuit-trump-arch-jfk",
+          "published_at": "2026-11-11T01:09:55Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Kennedy family members join lawsuit to block Trump's arch",
+          "url": "https://www.cbsnews.com/news/kennedy-family-trump-triumphal-arch/",
+          "published_at": "2026-11-11T01:23:00Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Kennedy family joins lawsuit to block Trump\u2019s arch",
+          "url": "https://www.wcvb.com/article/kennedy-family-joins-lawsuit-block-trumps-arch/74393691",
+          "published_at": "2026-11-11T01:51:00Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Kennedy family members join legal fight over Trump\u2019s arch",
+          "url": "https://thehill.com/regulation/court-battles/6212422-kennedy-family-trump-arch-lawsuit/",
+          "published_at": "2026-11-11T01:52:23Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Kennedy family members ask a judge to block Trump\u2019s Arlington memorial arch",
+          "url": "https://www.boston.com/news/politics/2026/11/10/kennedy-family-members-ask-a-judge-to-block-trumps-arlington-memorial-arch/",
+          "published_at": "2026-11-11T02:11:20Z"
+        }
+      ]
+    },
+    {
+      "headline": "Former Pentagon spokesman on articles of impeachment filed against Hegseth",
+      "score": 111,
+      "signals": {
+        "us_outlets": 8,
+        "intl_outlets": 1,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Axios",
+        "Bloomberg",
+        "CBS News",
+        "NBC News",
+        "NPR",
+        "The Boston Globe",
+        "The Guardian",
+        "The Hill",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-10T11:52:24Z",
+      "reports": [
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Former Pentagon spokesman on articles of impeachment filed against Hegseth",
+          "url": "https://www.npr.org/2026/11/10/nx-s1-6035039/former-pentagon-spokesman-on-articles-of-impeachment-filed-against-hegseth",
+          "published_at": "2026-11-10T11:52:24Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Hegseth comes out swinging against Massie impeachment push",
+          "url": "https://www.axios.com/2026/11/10/hegseth-press-conference-massie-impeachment",
+          "published_at": "2026-11-10T13:46:45Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "'It's a farce': Pete Hegseth dismisses impeachment effort against him \u2013 video",
+          "url": "https://www.theguardian.com/us-news/video/2026/nov/10/its-a-farce-pete-hegseth-dismisses-impeachment-effort-against-him-video",
+          "published_at": "2026-11-10T14:44:36Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "The Impeachment Charges Against Defense Secretary Pete Hegseth, Explained",
+          "url": "https://www.nytimes.com/2026/11/10/us/politics/hegseth-impeachment-explainer-massie.html",
+          "published_at": "2026-11-10T15:09:50Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "The eight articles of impeachment against Hegseth, explained",
+          "url": "https://www.bostonglobe.com/2026/11/10/nation/pete-hegseth-impeachment-articles-explained/",
+          "published_at": "2026-11-10T18:52:56Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Republican-led House rejects Hegseth impeachment effort",
+          "url": "https://www.nbcnews.com/politics/congress/republican-led-house-rejects-hegseth-impeachment-effort-rcna608534",
+          "published_at": "2026-11-10T23:03:10Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "House Republicans Thwart Massie\u2019s Effort to Impeach Hegseth",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-10/house-republicans-thwart-massie-s-effort-to-impeach-hegseth",
+          "published_at": "2026-11-10T23:03:29Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "House GOP shelves Pete Hegseth impeachment articles",
+          "url": "https://thehill.com/policy/defense/6212136-house-shelves-hegseth-impeachment/",
+          "published_at": "2026-11-10T23:04:49Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "GOP House rejects Hegseth impeachment effort",
+          "url": "https://www.axios.com/2026/11/10/pete-hegseth-impeachment-house-republicans-massie",
+          "published_at": "2026-11-10T23:06:08Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Hegseth decries impeachment effort with vote expected tonight",
+          "url": "https://www.cbsnews.com/news/hegseth-pentagon-briefing-impeachment-iran-war/",
+          "published_at": "2026-11-10T23:14:00Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Hegseth has remained defiant as Congress members deliberate articles of impeachment",
+          "url": "https://www.npr.org/2026/11/10/nx-s1-6035792/hegseth-has-remained-defiant-as-congress-members-deliberate-articles-of-impeachment",
+          "published_at": "2026-11-10T23:43:59Z"
+        }
+      ]
+    },
+    {
+      "headline": "Meghan Markle makes first public appearance since father\u2019s arrest",
+      "score": 106,
+      "signals": {
+        "us_outlets": 6,
+        "intl_outlets": 2,
+        "front_pages": 5,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "CBS News",
+        "Los Angeles Times",
+        "NBC News",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-10T16:10:31Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Meghan Markle makes first public appearance since father\u2019s arrest",
+          "url": "https://www.bostonglobe.com/2026/11/10/world/meghan-markle-brussels-prince-harry/",
+          "published_at": "2026-11-10T16:10:31Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Thomas Markle, Meghan\u2019s father, cut off his ankle monitor, DOJ says",
+          "url": "https://www.nbcnews.com/news/us-news/thomas-markle-father-meghan-cut-ankle-monitor-doj-says-rcna608626",
+          "published_at": "2026-11-10T19:49:33Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Thomas Markle, father of Meghan, cut off his ankle monitor while awaiting hearing, DOJ says",
+          "url": "https://www.pbs.org/newshour/nation/thomas-markle-father-of-meghan-cut-off-his-ankle-monitor-while-awaiting-hearing-doj-says",
+          "published_at": "2026-11-10T20:11:16Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge jails Thomas Markle, father of Meghan, after he cut off his ankle monitor",
+          "url": "https://www.bostonglobe.com/2026/11/10/nation/thomas-markle-cuts-off-ankle-monitor/",
+          "published_at": "2026-11-10T21:53:29Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
+          "url": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-10T22:17:45Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Thomas Markle, Meghan\u2019s father, jailed after cutting off ankle monitor, DoJ says",
+          "url": "https://www.theguardian.com/us-news/2026/nov/10/thomas-markle-ankle-monitor",
+          "published_at": "2026-11-10T22:37:13Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Release of Meghan Markle\u2019s Father Is Revoked After Ankle Monitor Removal",
+          "url": "https://www.nytimes.com/2026/11/10/us/thomas-markle-ankle-monitor-jail.html",
+          "published_at": "2026-11-10T23:19:19Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Meghan Markle Makes First Public Appearance Since Her Father\u2019s Arrest",
+          "url": "https://www.nytimes.com/2026/11/10/world/europe/meghan-markle-brussels-speech-canceled-prince-harry.html",
+          "published_at": "2026-11-10T23:21:31Z"
+        },
+        {
+          "publisher": "Los Angeles Times",
+          "group": "latimes",
+          "kind": "news",
+          "wire": false,
+          "title": "Meghan Markle's father Thomas Markle Sr. cut off his ankle monitor following child porn arrest",
+          "url": "https://www.latimes.com/entertainment-arts/story/2026-11-10/thomas-markle-sr-cut-off-ankle-monitor-child-porn-arrest",
+          "published_at": "2026-11-11T00:29:45Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Meghan Markle's father back in custody after allegedly cutting his ankle monitor",
+          "url": "https://www.cbsnews.com/video/meghan-markles-father-back-in-custody-after-allegedly-cutting-his-ankle-monitor/",
+          "published_at": "2026-11-11T00:57:56Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Meghan Markle's father cut off ankle monitor, prosecutors say",
+          "url": "https://www.cbsnews.com/news/thomas-markle-ordered-psychiatric-exam-meghan-markle-father/",
+          "published_at": "2026-11-11T01:00:01Z"
+        }
+      ]
+    },
+    {
+      "headline": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "score": 93,
+      "signals": {
+        "us_outlets": 5,
+        "intl_outlets": 1,
+        "front_pages": 5,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "CNBC",
+        "Fox News",
+        "NBC News",
+        "The Boston Globe",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-10T08:23:21Z",
+      "reports": [
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+          "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-10T08:23:21Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Nvidia and Jensen Huang face shareholder lawsuit alleging investors were misled about spy affair",
+          "url": "https://www.bostonglobe.com/2026/11/10/business/nvidia-jensen-huang-lawsuit/",
+          "published_at": "2026-11-10T14:51:54Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Jensen Huang's affair with alleged Chinese spy further complicates Nvidia\u2019s China problem",
+          "url": "https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html",
+          "published_at": "2026-11-10T15:04:23Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Nvidia chief told Trump he did not know Chinese woman was suspected spy",
+          "url": "https://www.bostonglobe.com/2026/11/10/business/trump-nvidia-jensen-huang/",
+          "published_at": "2026-11-10T17:38:14Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "What we know \u2014 and what we don\u2019t \u2014 as Nvidia investigates an alleged spy plot involving its CEO",
+          "url": "https://www.bostonglobe.com/2026/11/10/business/nvidia-investigation-jensen-huang-what-to-know/",
+          "published_at": "2026-11-10T18:27:23Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Despite Denial, Trump Was Told on Trip to China About Spying on Nvidia\u2019s Jensen Huang",
+          "url": "https://www.nytimes.com/2026/11/10/us/politics/trump-china-trip-nvidia.html",
+          "published_at": "2026-11-10T19:27:59Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Op-ed: In Nvidia CEO Jensen Huang's alleged China spy scandal, there's plenty of blame to go around",
+          "url": "https://www.cnbc.com/2026/11/10/nvidia-ceo-jensen-huang-china-spy-scandal.html",
+          "published_at": "2026-11-10T19:40:41Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Nvidia hires former acting U.S. attorney to probe Jensen Huang affair",
+          "url": "https://www.nbcnews.com/business/corporations/ex-prosecutor-probe-jensen-huang-chinese-spy-affair-nvidia-rcna608628",
+          "published_at": "2026-11-10T20:51:56Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Who Is Alice Huang, the Woman in the Middle of Nvidia\u2019s Spy Scandal?",
+          "url": "https://www.nytimes.com/2026/11/10/technology/alice-huang-megaspeed-nvidia-jensen-huang.html",
+          "published_at": "2026-11-10T21:12:39Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+          "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-10T21:22:36Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Nvidia sells off for second day in fallout from Jensen Huang\u2019s affair with alleged spy",
+          "url": "https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html",
+          "published_at": "2026-11-10T22:08:25Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+          "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-10T22:52:15Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Nvidia's Huang tries to project 'business as usual' in return to office after affair revelation",
+          "url": "https://www.cnbc.com/2026/11/10/nvidia-jensen-huang-affair-office.html",
+          "published_at": "2026-11-10T23:11:34Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Alleged spy plot targeting CEO Jensen Huang raises questions about Nvidia\u2019s future",
+          "url": "https://www.bostonglobe.com/2026/11/10/business/alleged-spy-plot-ceo-jensen-huang-nvidia-future/",
+          "published_at": "2026-11-11T00:31:22Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "IRGC operative lands on FBI\u2019s Most Wanted Terrorists list over alleged plot to kill former Trump advisor",
+          "url": "https://www.foxnews.com/us/irgc-operative-lands-fbis-most-wanted-terrorists-list-alleged-plot-kill-former-trump-adviser",
+          "published_at": "2026-11-11T00:58:39Z"
+        }
+      ]
+    },
+    {
+      "headline": "Sanders won't back Schumer as Democratic leader",
+      "score": 92,
+      "signals": {
+        "us_outlets": 5,
+        "intl_outlets": 1,
+        "front_pages": 3,
+        "boston_local": [
+          "vermont"
+        ]
+      },
+      "independent_outlets": [
+        "CBS News",
+        "NBC News",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-10T22:00:00Z",
+      "reports": [
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Sanders won't back Schumer as Democratic leader",
+          "url": "https://www.cbsnews.com/news/bernie-sanders-chuck-schumer-democratic-leader-senate/",
+          "published_at": "2026-11-10T22:00:00Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Bernie Sanders says he will not back Schumer for Senate Democratic leader",
+          "url": "https://www.theguardian.com/us-news/2026/nov/10/bernie-sanders-chuck-schumer-senate-democrats",
+          "published_at": "2026-11-10T22:16:32Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "'The time is now for change.' Bernie Sanders won't support Schumer for Senate Democratic leader",
+          "url": "https://www.pbs.org/newshour/politics/the-time-is-now-for-change-bernie-sanders-wont-support-schumer-for-senate-democratic-leader",
+          "published_at": "2026-11-10T22:26:53Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Bernie Sanders won\u2019t support Schumer for Senate Democratic leader, saying it\u2019s time for change",
+          "url": "https://www.bostonglobe.com/2026/11/10/nation/sanders-chuck-schumer-democrat-senate-leader/",
+          "published_at": "2026-11-10T22:29:56Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Bernie Sanders says he won\u2019t support Chuck Schumer for Senate majority leader",
+          "url": "https://www.nbcnews.com/politics/congress/bernie-sanders-wont-support-chuck-schumer-senate-democrats-leader-rcna608633",
+          "published_at": "2026-11-10T23:07:13Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Bernie Sanders Opposes Schumer as Majority Leader",
+          "url": "https://www.nytimes.com/2026/11/10/us/politics/bernie-sanders-chuck-schumer-senate.html",
+          "published_at": "2026-11-11T02:01:55Z"
+        }
+      ]
+    },
+    {
+      "headline": "Key moments from ex-cop's trial in the death of Sandra Birchmore",
+      "score": 87,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 0,
+        "front_pages": 4,
+        "boston_local": [
+          "massachusetts"
+        ]
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "CBS News",
+        "MassLive",
+        "The Boston Globe",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-10T20:31:00Z",
+      "reports": [
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Key moments from ex-cop's trial in the death of Sandra Birchmore",
+          "url": "https://www.cbsnews.com/news/matthew-farwell-trial-sandra-birchmore-key-moments/",
+          "published_at": "2026-11-10T20:31:00Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "After Matthew Farwell\u2019s conviction, could more charges be coming over Sandra Birchmore\u2019s death?",
+          "url": "https://www.masslive.com/news/2026/11/after-matthew-farwells-conviction-could-more-charges-be-coming-over-sandra-birchmores-death.html",
+          "published_at": "2026-11-10T22:33:12Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Norfolk DA acknowledges \u2018criticism\u2019 after Matthew Farwell convicted of killing Sandra Birchmore",
+          "url": "https://www.boston.com/news/crime/2026/11/10/michael-morrissey-norfolk-district-attorney-sandra-birchmore-matthew-farwell/",
+          "published_at": "2026-11-10T23:03:38Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Matthew Farwell convicted of killing Sandra Birchmore, unborn child",
+          "url": "https://www.cbsnews.com/news/matthew-farwell-trial-jury-verdict-sandra-birchmore/",
+          "published_at": "2026-11-10T23:05:16Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "'I think it was stunning': Incoming Norfolk County DA Djuna Perkins reacts to verdict in Sandra Birchmore case",
+          "url": "https://www.wcvb.com/article/djuna-perkins-reacts-to-verdict-in-sandra-birchmore-case/74392773",
+          "published_at": "2026-11-10T23:49:00Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Jury finds Matthew Farwell guilty of killing Sandra Birchmore and her fetus",
+          "url": "https://www.bostonglobe.com/2026/11/10/metro/sandra-birchmore-trial-jury/",
+          "published_at": "2026-11-11T00:46:45Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Matthew Farwell facing mandatory life sentence after Sandra Birchmore murder conviction",
+          "url": "https://www.cbsnews.com/video/matthew-farwell-facing-mandatory-life-sentence-after-sandra-birchmore-murder-conviction/",
+          "published_at": "2026-11-11T00:53:09Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Birchmore case exposed gaps in Norfolk County probe, former AG says",
+          "url": "https://www.wcvb.com/article/martha-coakley-sandra-birchmore-case-exposed-gaps-in-norfolk-county-probe/74393315",
+          "published_at": "2026-11-11T01:26:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "NFL trade deadline: Kirk Cousins returns to Vikings as Raiders hand starting job to Fernando Mendoza",
+      "score": 86,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 1,
+        "front_pages": 3,
+        "boston_local": [
+          "new england",
+          "patriots"
+        ]
+      },
+      "independent_outlets": [
+        "ESPN",
+        "Fox News",
+        "MassLive",
+        "The Boston Globe",
+        "The Guardian"
+      ],
+      "first_seen": "2026-11-10T19:57:37Z",
+      "reports": [
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "NFL trade deadline: Kirk Cousins returns to Vikings as Raiders hand starting job to Fernando Mendoza",
+          "url": "https://www.theguardian.com/sport/2026/nov/10/kirk-cousins-minnesota-vikings-las-vegas-raiders-trade-fernando-mendoza",
+          "published_at": "2026-11-10T19:57:37Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Veteran NFL quarterback Kirk Cousins traded to Super Bowl contender",
+          "url": "https://www.masslive.com/sports/2026/11/veteran-nfl-quarterback-kirk-cousins-traded-to-super-bowl-contender.html",
+          "published_at": "2026-11-10T20:01:09Z"
+        },
+        {
+          "publisher": "ESPN",
+          "group": "espn",
+          "kind": "news",
+          "wire": false,
+          "title": "Cousins to Vikings, Mendoza as Raiders' QB1? Let's size up this deadline trade",
+          "url": "https://www.espn.com/nfl/story/_/id/50444528/kirk-cousin-trade-minnesota-vikings-las-vegas-raiders",
+          "published_at": "2026-11-10T20:47:38Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "NFL trade deadline: Patriots look to have stood pat as deadline passes. Here\u2019s how the day unfolded.",
+          "url": "https://www.bostonglobe.com/2026/11/10/sports/nfl-trade-deadline-live-updates/",
+          "published_at": "2026-11-10T21:07:16Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Patriots stand pat at NFL trade deadline",
+          "url": "https://www.masslive.com/patriots/2026/11/nfl-trade-deadline-passes-without-patriots-bolstering-roster.html",
+          "published_at": "2026-11-10T21:13:14Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "How NFL trade deadline impacted the Patriots, who didn\u2019t make a deal",
+          "url": "https://www.masslive.com/patriots/2026/11/how-nfl-trade-deadline-impacted-the-patriots-who-didnt-make-a-deal.html",
+          "published_at": "2026-11-10T21:39:51Z"
+        },
+        {
+          "publisher": "ESPN",
+          "group": "espn",
+          "kind": "news",
+          "wire": false,
+          "title": "Winners, losers of the NFL trade deadline: Chiefs get a WR, Vikings get a QB, Chargers do ... nothing",
+          "url": "https://www.espn.com/nfl/story/_/id/50443388/2026-nfl-trade-deadline-winners-losers-best-worst-deals",
+          "published_at": "2026-11-10T22:11:44Z"
+        },
+        {
+          "publisher": "ESPN",
+          "group": "espn",
+          "kind": "news",
+          "wire": false,
+          "title": "Grading deadline trades: Did trading for Cousins restart Vikings' Super Bowl hopes?",
+          "url": "https://www.espn.com/nfl/story/_/id/50043542/2026-trade-deadline-grades-latest-best-worst-deals",
+          "published_at": "2026-11-10T22:11:44Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Kirk Cousins is back in Minnesota, and the Vikings' NFC odds are still too long",
+          "url": "https://www.foxnews.com/outkick-betting/kirk-cousins-back-minnesota-vikings-nfc-odds-still-too-long",
+          "published_at": "2026-11-10T22:20:09Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Patriots stay on the sidelines at the NFL trade deadline",
+          "url": "https://www.bostonglobe.com/2026/11/10/sports/patriots-nfl-trade-deadline/",
+          "published_at": "2026-11-10T22:22:08Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "NFL trade deadline 2026: Vikings reunite with Kirk Cousins; Colts stick with Taylor; 49ers get WR Allen \u2013 as it happened",
+          "url": "https://www.theguardian.com/sport/live/2026/nov/10/nfl-trade-deadline-2026-live-updates-deals-rumors-news",
+          "published_at": "2026-11-10T22:39:16Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Colts had Jonathan Taylor and Grover Stewart trade offers but didn't complete deals that eventually got pulled",
+          "url": "https://www.foxnews.com/outkick-sports/colts-jonathan-taylor-grover-stewart-trade-offers-didnt-complete-deals-eventually-pulled",
+          "published_at": "2026-11-10T22:44:54Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "NFL trade deadline winners and losers, including Dianna Russini and Kirk Cousins",
+          "url": "https://www.foxnews.com/outkick-sports/nfl-trade-deadline-winners-losers-dianna-russini-kirk-cousins",
+          "published_at": "2026-11-10T22:51:25Z"
+        },
+        {
+          "publisher": "ESPN",
+          "group": "espn",
+          "kind": "news",
+          "wire": false,
+          "title": "From Toronto to the NFL trade deadline: Vince Carter GIF says it all for Josh Downs",
+          "url": "https://www.espn.com/nfl/story/_/id/50446669/chiefs-josh-downs-trade-reaction-vince-carter-gif",
+          "published_at": "2026-11-10T23:20:28Z"
+        },
+        {
+          "publisher": "ESPN",
+          "group": "espn",
+          "kind": "news",
+          "wire": false,
+          "title": "Vikings reunite with QB Cousins, trade 3rd-round pick to Raiders",
+          "url": "https://www.espn.com/nfl/story/_/id/50444360/sources-vikings-id-qb-kirk-cousins-prime-trade-target",
+          "published_at": "2026-11-11T02:09:20Z"
+        },
+        {
+          "publisher": "ESPN",
+          "group": "espn",
+          "kind": "news",
+          "wire": false,
+          "title": "Mendoza officially named Raiders' QB1: Top pick 'passed every test,' says GM",
+          "url": "https://www.espn.com/nfl/story/_/id/50447756/raiders-name-fernando-mendoza-starting-qb-trading-kirk-cousins",
+          "published_at": "2026-11-11T02:09:20Z"
+        },
+        {
+          "publisher": "ESPN",
+          "group": "espn",
+          "kind": "news",
+          "wire": false,
+          "title": "Niners trade for Colts' Allen to bolster injury-plagued WR room",
+          "url": "https://www.espn.com/nfl/story/_/id/50444457/sources-49ers-acquire-keenan-allen-trade-colts",
+          "published_at": "2026-11-11T02:09:20Z"
+        }
+      ]
+    },
+    {
+      "headline": "Senior U.S. Army soldier arrested in U.K. on suspicion of assisting Russian intelligence",
+      "score": 73,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 1,
+        "front_pages": 4,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "CBS News",
+        "NBC News",
+        "The Boston Globe",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-10T19:29:25Z",
+      "reports": [
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Senior U.S. Army soldier arrested in U.K. on suspicion of assisting Russian intelligence",
+          "url": "https://www.nbcnews.com/world/united-kingdom/us-army-member-arrested-uk-suspicion-working-russian-intelligence-rcna608616",
+          "published_at": "2026-11-10T19:29:25Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "US Army soldier suspected of spying for Russia arrested in UK",
+          "url": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-10T20:20:04Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "US soldier arrested in Britain on suspicion of espionage linked to Russia",
+          "url": "https://www.bostonglobe.com/2026/11/10/world/us-soldier-arrested-britain-espionage-russia/",
+          "published_at": "2026-11-10T20:42:30Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "US Soldier Is Arrested in UK on Suspicion of Spying for Russia",
+          "url": "https://www.nytimes.com/2026/11/10/world/europe/uk-us-army-arrest-espionage-russia.html",
+          "published_at": "2026-11-10T22:24:05Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "U.S. soldier accused of spying linked to Russia arrested in the U.K.",
+          "url": "https://www.cbsnews.com/news/american-soldier-spying-russia-arrest-uk/",
+          "published_at": "2026-11-11T00:50:43Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "U.S. Army officer arrested on suspicion of spying for Russia, authorities say",
+          "url": "https://www.cbsnews.com/video/us-army-officer-arrested-on-suspicion-of-spying-for-russia/",
+          "published_at": "2026-11-11T01:30:39Z"
+        }
+      ]
+    },
+    {
+      "headline": "Man sentenced to life in prison for killing pregnant girlfriend, burying her body in Rehoboth",
+      "score": 65,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 1,
+        "front_pages": 2,
+        "boston_local": [
+          "mass."
+        ]
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "MassLive",
+        "The Boston Globe",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-10T19:52:11Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Man sentenced to life in prison for killing pregnant girlfriend, burying her body in Rehoboth",
+          "url": "https://www.bostonglobe.com/2026/11/10/metro/gregory-groom-rehoboth-life-in-prison/",
+          "published_at": "2026-11-10T19:52:11Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Mass. man pleads guilty to murdering his pregnant girlfriend on his family\u2019s property",
+          "url": "https://www.masslive.com/news/2026/11/rehoboth-man-pleads-guilty-to-murdering-his-pregnant-girlfriend-on-his-familys-property.html",
+          "published_at": "2026-11-10T21:27:07Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Rehoboth man sentenced to life for killing his pregnant girlfriend",
+          "url": "https://www.boston.com/news/local-news/2026/11/10/rehoboth-man-sentenced-to-life-for-killing-his-pregnant-girlfriend/",
+          "published_at": "2026-11-10T23:40:52Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Tech Consultant Is Sentenced to 16 Years to Life in Cash App Founder\u2019s Killing",
+          "url": "https://www.nytimes.com/2026/11/10/us/bob-lee-cash-app-murder-sentencing.html",
+          "published_at": "2026-11-11T00:40:57Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Nima Momeni sentenced to 16 years to life in murder of Cash App founder Bob Lee",
+          "url": "https://www.theguardian.com/us-news/2026/nov/10/bob-lee-cash-app-nima-momeni-sentenced",
+          "published_at": "2026-11-11T01:53:38Z"
+        }
+      ]
+    },
+    {
+      "headline": "3 charged with plotting terror attacks in U.S., Europe",
+      "score": 63,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Axios",
+        "NBC News",
+        "PBS NewsHour",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-10T20:46:53Z",
+      "reports": [
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "3 charged with plotting terror attacks in U.S., Europe",
+          "url": "https://www.axios.com/2026/11/10/doj-charges-terror-plots-europe-us",
+          "published_at": "2026-11-10T20:46:53Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "U.S. charges 3 men with plotting terror attacks, including planned assault on UK airbase",
+          "url": "https://www.pbs.org/newshour/nation/u-s-charges-3-men-with-plotting-terror-attacks-including-planned-assault-on-uk-airbase",
+          "published_at": "2026-11-10T22:11:47Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "News Wrap: U.S. charges 3 with plotting attacks",
+          "url": "https://www.pbs.org/newshour/show/news-wrap-u-s-charges-3-with-plotting-attacks-at-air-base-and-jewish-communities",
+          "published_at": "2026-11-10T23:45:02Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "US charges three men with plotting terror attacks, including planned assault on UK airbase",
+          "url": "https://www.bostonglobe.com/2026/11/10/nation/us-charges-three-men-with-plotting-terror-attacks-including-planned-assault-uk-airbase/",
+          "published_at": "2026-11-11T00:13:02Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "U.S. charges 3 men with plotting multiple terror attacks, including planned attack against U.K. airbase",
+          "url": "https://www.nbcnews.com/world/united-kingdom/us-charges-3-men-plotting-multiple-terrorist-attacks-planned-attack-uk-rcna608647",
+          "published_at": "2026-11-11T01:22:54Z"
+        }
+      ]
+    },
+    {
+      "headline": "Credit card debt climbs to a record $1.29 trillion, New York Fed research finds",
+      "score": 61,
+      "signals": {
+        "us_outlets": 5,
+        "intl_outlets": 0,
+        "front_pages": 1,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Axios",
+        "CBS News",
+        "CNBC",
+        "The Hill",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-10T18:08:40Z",
+      "reports": [
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Credit card debt climbs to a record $1.29 trillion, New York Fed research finds",
+          "url": "https://www.cnbc.com/2026/11/10/credit-card-debt-record.html",
+          "published_at": "2026-11-10T18:08:40Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "24% of Americans with a credit record are behind on their debts",
+          "url": "https://www.cbsnews.com/news/americans-behind-on-debts-analysis/",
+          "published_at": "2026-11-10T20:14:49Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Credit card debt hits record high as Americans struggle with cost-of-living",
+          "url": "https://www.axios.com/2026/11/10/credit-card-debt-record-2026-delinquency-income-gap",
+          "published_at": "2026-11-10T21:07:33Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Credit card debt mounts amid Democrats' push to cap interest rates",
+          "url": "https://thehill.com/business/6212089-democrats-push-interest-caps/",
+          "published_at": "2026-11-10T22:58:30Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Ways to tackle credit card debt",
+          "url": "https://www.wcvb.com/article/ways-to-trim-credit-card-costs-as-interest-rates-stay-high/74388962",
+          "published_at": "2026-11-10T23:50:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "California's Prop 40 'billionaires' tax' measure is rejected, AP projects",
+      "score": 56,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "NPR",
+        "PBS NewsHour",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-10T10:47:19Z",
+      "reports": [
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "California's Prop 40 'billionaires' tax' measure is rejected, AP projects",
+          "url": "https://abcnews.com/Politics/californias-prop-40-billionaires-tax-measure-rejected-ap/story?id=137999519",
+          "published_at": "2026-11-10T10:47:19Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Why did California's billionaire tax fail to surf the blue wave?",
+          "url": "https://www.npr.org/sections/planet-money/2026/11/10/g-s1-152755/why-did-californias-billionaire-tax-fail-to-surf-the-blue-wave",
+          "published_at": "2026-11-10T11:30:00Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "California Voters Reject Prop. 40 Billionaire Tax Measure",
+          "url": "https://www.nytimes.com/2026/11/09/us/california-billionaire-tax-prop-40.html",
+          "published_at": "2026-11-10T14:18:57Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "California voters reject tax on net worth of billionaires",
+          "url": "https://www.pbs.org/newshour/politics/california-voters-reject-tax-on-net-worth-of-billionaires",
+          "published_at": "2026-11-10T18:48:07Z"
+        }
+      ]
+    },
+    {
+      "headline": "What Trump Said in His Letter to Biden in 2021",
+      "score": 56,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Fox News",
+        "MassLive",
+        "The Hill",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-10T17:00:05Z",
+      "reports": [
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "What Trump Said in His Letter to Biden in 2021",
+          "url": "https://www.nytimes.com/2026/11/10/us/politics/biden-trump-letter.html",
+          "published_at": "2026-11-10T17:00:05Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Biden reveals surprising letter from Trump: \u2018Like it was coming from an old friend\u2019",
+          "url": "https://www.masslive.com/politics/2026/11/biden-reveals-surprising-letter-from-trump-like-it-was-coming-from-an-old-friend.html",
+          "published_at": "2026-11-10T20:25:49Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Biden's book reveals 'very generous letter' from Trump during 2021 transition",
+          "url": "https://thehill.com/homenews/administration/6212102-biden-reveals-trump-letter/",
+          "published_at": "2026-11-10T22:31:11Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Biden reveals letter Trump left him at White House that made it seem 'as if there were two Donald Trumps'",
+          "url": "https://www.foxnews.com/media/biden-reveals-letter-trump-left-him-white-house-made-seem-as-were-two-donald-trumps",
+          "published_at": "2026-11-11T01:00:30Z"
+        }
+      ]
+    },
+    {
+      "headline": "Mississippi Senate race leans Democratic; Colom holds narrow lead",
+      "score": 56,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "CBS News",
+        "CNBC",
+        "PBS NewsHour",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-10T21:19:21Z",
+      "reports": [
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Mississippi Senate race leans Democratic; Colom holds narrow lead",
+          "url": "https://www.cbsnews.com/news/mississippi-senate-race-results-2026-midterms/",
+          "published_at": "2026-11-10T21:19:21Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Mississippi Senate: Scott Colom extends tight lead over Hyde-Smith as ballot deadlines hit",
+          "url": "https://www.cnbc.com/2026/11/10/mississippi-senate-scott-colom-hyde-smith.html",
+          "published_at": "2026-11-10T22:01:52Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Mississippi voters reflect on surprising Senate race as count continues",
+          "url": "https://www.pbs.org/newshour/show/mississippi-voters-reflect-on-surprising-senate-race-as-count-continues",
+          "published_at": "2026-11-10T23:35:03Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Ballot Deadlines Pass in Mississippi Senate Race After Considerable Struggles",
+          "url": "https://www.nytimes.com/2026/11/10/us/elections/mississippi-ballots-election-laws.html",
+          "published_at": "2026-11-11T02:05:19Z"
+        }
+      ]
+    },
+    {
+      "headline": "GOP Rep. Mar\u00eda Elvira Salazar wins re-election in Florida after clashing with Trump",
+      "score": 51,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "CBS News",
+        "NBC News",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-10T22:52:46Z",
+      "reports": [
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "GOP Rep. Mar\u00eda Elvira Salazar wins re-election in Florida after clashing with Trump",
+          "url": "https://www.nbcnews.com/politics/2026-election/maria-elvira-salazar-gop-florida-house-election-win-trump-clash-rcna603377",
+          "published_at": "2026-11-10T22:52:46Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Representative Mar\u00eda Elvira Salazar Wins Re-Election in Florida",
+          "url": "https://www.nytimes.com/2026/11/10/us/politics/florida-house-27-salazar-rodriguez.html",
+          "published_at": "2026-11-10T23:24:36Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Incumbent Maria Elvira Salazar wins Florida's District 27 race, CBS News projects",
+          "url": "https://www.cbsnews.com/news/florida-27th-congressional-district-race-winner-results-recount/",
+          "published_at": "2026-11-11T01:59:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Texas man accused of cruise ship murder had argued with woman in their cabin, FBI says",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "The Boston Globe",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-10T18:00:04Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Texas man accused of cruise ship murder had argued with woman in their cabin, FBI says",
+          "url": "https://www.bostonglobe.com/2026/11/10/business/texas-cruise-ship-murder/",
+          "published_at": "2026-11-10T18:00:04Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Texas man charged in cruise ship murder had argued with woman in their cabin, FBI says",
+          "url": "https://www.wcvb.com/article/suspect-custody-possible-killing-aboard-cruise-ship-texas/74384932",
+          "published_at": "2026-11-10T22:57:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Boston College \u2018working hard\u2019 to host MIAA football championship games",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "boston",
+          "fenway",
+          "worcester"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-10T19:26:45Z",
+      "reports": [
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Boston College \u2018working hard\u2019 to host MIAA football championship games",
+          "url": "https://www.masslive.com/highschoolsports/2026/11/boston-college-working-hard-to-host-miaa-football-championship-games.html",
+          "published_at": "2026-11-10T19:26:45Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Boston College likely to host at least some MIAA football Super Bowl games",
+          "url": "https://www.bostonglobe.com/2026/11/10/sports/miaa-football-super-bowls-2026-location/",
+          "published_at": "2026-11-10T20:04:03Z"
+        }
+      ]
+    },
+    {
+      "headline": "Potential nor\u2019easter: Here\u2019s what the latest models say on expected snow, windswept rain for New England",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "boston",
+          "massachusetts",
+          "new england"
+        ]
+      },
+      "independent_outlets": [
+        "The Boston Globe",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-10T22:08:25Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Potential nor\u2019easter: Here\u2019s what the latest models say on expected snow, windswept rain for New England",
+          "url": "https://www.bostonglobe.com/2026/11/09/metro/noreaster-snow-boston-new-england/",
+          "published_at": "2026-11-10T22:08:25Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Weather Alert: Late-week storm bringing rain, chance of snow to New England",
+          "url": "https://www.wcvb.com/article/wintry-weather-rain-snow-massachusetts-new-england-forecast-nov2026/74388627",
+          "published_at": "2026-11-11T00:30:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "The Nvidia Affair",
+      "score": 47,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "CBS News",
+        "NBC News",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-10T05:43:35Z",
+      "reports": [
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "The Nvidia Affair",
+          "url": "https://www.nytimes.com/2026/11/09/world/nvidia-affair-jensen-huang-russell-brand.html",
+          "published_at": "2026-11-10T05:43:35Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Nvidia names outside council for investigation into CEO\u2019s affair",
+          "url": "https://www.nbcnews.com/nightly-news/video/nvidia-names-outside-council-for-investigation-into-ceo-s-affair-273239621784",
+          "published_at": "2026-11-10T23:58:37Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Nvidia shares plummet again amid CEO Jensen Huang's affair with alleged Chinese spy",
+          "url": "https://www.cbsnews.com/video/nvidia-shares-plummet-again-amid-ceo-jensen-huangs-affair-with-alleged-chinese-spy/",
+          "published_at": "2026-11-11T01:01:17Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Nvidia's trillion-dollar bind: Can it afford to lose Jensen Huang?",
+          "url": "https://www.cbsnews.com/news/jensen-huang-affair-nvidia-ceo-dilemma/",
+          "published_at": "2026-11-11T01:02:52Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Nvidia stocks fall for second straight day after CEO's affair with alleged Chinese spy",
+          "url": "https://www.cbsnews.com/video/nvidia-stocks-fall-for-second-straight-day-after-ceos-affair-with-alleged-chinese-spy/",
+          "published_at": "2026-11-11T01:54:52Z"
+        }
+      ]
+    },
+    {
+      "headline": "Supreme Court lifts pause on border construction in Big Bend, Texas",
+      "score": 45,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "Bloomberg",
+        "PBS NewsHour"
+      ],
+      "first_seen": "2026-11-10T14:39:12Z",
+      "reports": [
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Supreme Court lifts pause on border construction in Big Bend, Texas",
+          "url": "https://abcnews.com/Politics/supreme-court-lifts-pause-border-construction-big-bend/story?id=137988610",
+          "published_at": "2026-11-10T14:39:12Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Big Take: Democrats Now Control the Future of the Supreme Court",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-10/big-take-democrats-now-control-the-future-of-the-supreme-court",
+          "published_at": "2026-11-10T22:02:58Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Farewell to the electoral college? Democrats now control enough states to elevate the popular vote",
+          "url": "https://www.pbs.org/newshour/politics/farewell-to-the-electoral-college-democrats-now-control-enough-states-to-elevate-the-popular-vote",
+          "published_at": "2026-11-10T23:28:51Z"
+        }
+      ]
+    },
+    {
+      "headline": "Elevated inflation keeps pressure on Fed to raise rates",
+      "score": 40,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 1,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "CBS News",
+        "CNBC",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-10T16:32:18Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Elevated inflation keeps pressure on Fed to raise rates",
+          "url": "https://www.bostonglobe.com/2026/11/10/business/inflation-october-economy/",
+          "published_at": "2026-11-10T16:32:18Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Hotter-than-expected inflation raises chances of Fed rate hike",
+          "url": "https://www.cbsnews.com/news/october-cpi-report-elevated-inflation/",
+          "published_at": "2026-11-10T18:56:00Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "10-year Treasury yield races back to 5% as inflation data, Waller comments drive rate hike expectations",
+          "url": "https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html",
+          "published_at": "2026-11-10T21:06:07Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "GE Vernova sellers have it all wrong \u2014 plus, why Fed rate hike odds are soaring",
+          "url": "https://www.cnbc.com/investingclub/2026/11/10/ge-vernova-sellers-have-it-all-wrong-plus-why-fed-rate-hike-odds-are-soaring.html",
+          "published_at": "2026-11-10T21:36:13Z"
+        }
+      ]
+    },
+    {
+      "headline": "Trump Administration Moves to Further Limit SNAP Eligibility, Affecting Millions",
+      "score": 39,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 1,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "CNBC",
+        "The Boston Globe",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-10T13:51:51Z",
+      "reports": [
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump Administration Moves to Further Limit SNAP Eligibility, Affecting Millions",
+          "url": "https://www.nytimes.com/2026/11/10/us/snap-eligibility-food-stamps-trump.html",
+          "published_at": "2026-11-10T13:51:51Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump administration moves to cut food stamps for 6.3 million people",
+          "url": "https://www.cnbc.com/2026/11/10/trump-administration-moves-to-cut-food-stamps-for-6point3-million-people.html",
+          "published_at": "2026-11-10T17:27:51Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump administration moves to further limit SNAP eligibility, affecting millions",
+          "url": "https://www.bostonglobe.com/2026/11/10/nation/trump-administration-moves-further-limit-snap-eligibility-affecting-millions/",
+          "published_at": "2026-11-10T21:52:31Z"
+        }
+      ]
+    },
+    {
+      "headline": "Russia-Ukraine talks \u2018very productive,\u2019 says US\u2019s Rubio \u2013 as it happened",
+      "score": 38,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 1,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "CBS News",
+        "The Boston Globe",
+        "The Guardian"
+      ],
+      "first_seen": "2026-11-10T17:05:05Z",
+      "reports": [
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Russia-Ukraine talks \u2018very productive,\u2019 says US\u2019s Rubio \u2013 as it happened",
+          "url": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates",
+          "published_at": "2026-11-10T17:05:05Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Russia and Ukraine hold nearly 4 hours of US-mediated talks in Abu Dhabi",
+          "url": "https://www.bostonglobe.com/2026/11/10/world/russia-ukraine-hold-nearly-4-hours-us-mediated-talks-abu-dhabi/",
+          "published_at": "2026-11-10T21:23:16Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "First day of Russia-Ukraine-U.S. peace talks were constructive, Zelenskyy says",
+          "url": "https://www.cbsnews.com/video/russia-and-ukraine-engage-in-peace-talks-in-abu-dhabi-with-us-help/",
+          "published_at": "2026-11-11T02:04:04Z"
+        }
+      ]
+    },
+    {
+      "headline": "Stacy Keach, Actor Who Embodied Hamlet and Mike Hammer, Dies at 85",
+      "score": 35,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "The Boston Globe",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-11T01:08:18Z",
+      "reports": [
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Stacy Keach, Actor Who Embodied Hamlet and Mike Hammer, Dies at 85",
+          "url": "https://www.nytimes.com/2026/11/10/arts/stacy-keach-dead.html",
+          "published_at": "2026-11-11T01:08:18Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Stacy Keach, star of stage and \u2018Mike Hammer\u2019 series, dies at 85",
+          "url": "https://www.bostonglobe.com/2026/11/10/nation/stacy-keach-actor-dies/",
+          "published_at": "2026-11-11T01:27:25Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Stacy Keach, star of stage and \u2018Mike Hammer\u2019 series, dies at 85",
+          "url": "https://www.boston.com/culture/entertainment/2026/11/10/stacy-keach-star-of-stage-and-mike-hammer-series-dies-at-85/",
+          "published_at": "2026-11-11T02:05:13Z"
+        }
+      ]
+    }
+  ]
+}

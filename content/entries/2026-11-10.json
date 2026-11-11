@@ -1,0 +1,56 @@
+{
+  "date": "2026-11-10",
+  "published_at": "2026-11-11T03:09:04.586580Z",
+  "status": "published",
+  "prelaunch": false,
+  "title": "House Republicans elect Jim Jordan as their leader",
+  "caption": "Rep. Jim Jordan of Ohio gives brief remarks after House Republicans chose him to lead them in the next Congress, beating Majority Leader Steve Scalise 106 to 73 in a secret ballot on Nov. 10. The party moves into the minority after its midterm losses, with Speaker Mike Johnson stepping down from leadership. The swirl of blank ballots around the Capitol dome is symbolic.",
+  "stories": [
+    {
+      "name": "House Republicans elect Jim Jordan as their leader for the next Congress",
+      "role": "focal",
+      "facts": [
+        "On Tuesday, Nov. 10, House Republicans who will serve in the next Congress chose Rep. Jim Jordan of Ohio, the Judiciary Committee chairman, to lead them in the minority, beating Majority Leader Steve Scalise of Louisiana 106 to 73 in a secret ballot at the Capitol.",
+        "The vote follows the party's midterm losses; Speaker Mike Johnson is stepping down from leadership. Democrats hold their leadership elections next week, with Hakeem Jeffries expected to become speaker.",
+        "After the vote Jordan gave brief remarks, saying House Republicans will fight for American families over the next two years."
+      ],
+      "sources": [
+        {
+          "publisher": "CBS News",
+          "title": "House GOP elects Jim Jordan as next leader in major shakeup",
+          "url": "https://www.cbsnews.com/news/jim-jordan-house-minority-leader-republicans/",
+          "published_at": "2026-11-10T21:36:06Z"
+        },
+        {
+          "publisher": "CNBC",
+          "title": "Rep. Jim Jordan, Sen. John Thune elected GOP leaders in Congress",
+          "url": "https://www.cnbc.com/2026/11/10/jim-jordan-congress-republicans-midterm.html",
+          "published_at": "2026-11-10T19:55:00Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "title": "House Republicans pick Ohio Rep. Jim Jordan to lead them in the minority",
+          "url": "https://www.pbs.org/newshour/politics/house-republicans-pick-ohio-rep-jim-jordan-to-lead-them-in-the-minority",
+          "published_at": "2026-11-10T19:52:21Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "title": "Stung by Losses, G.O.P. Chooses Jordan and Thune as Leaders",
+          "url": "https://www.nytimes.com/2026/11/10/us/politics/republican-house-leader-scalise-jordan.html",
+          "published_at": "2026-11-10T23:21:54Z"
+        }
+      ]
+    }
+  ],
+  "artwork": {
+    "path": "artwork/2026-11-10.svg",
+    "format": "svg",
+    "alt": "Editorial illustration: Jim Jordan, in a white shirt and blue tie with no jacket, speaks into a cluster of reporters' microphones while reporters raise phones, a camera operator films and a boom microphone hangs overhead. Behind him, against a teal and coral dusk, a ribbon of blank folded ballot slips coils up around a glowing Capitol dome, symbolising the secret ballot in which House Republicans elected him their leader.",
+    "method": "code-generated SVG (graphic-poster kit, src/art/daily/)",
+    "revision": "r4"
+  },
+  "backfill": {
+    "is_backfill": false,
+    "reason": null
+  }
+}
