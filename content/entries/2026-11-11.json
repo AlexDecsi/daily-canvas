@@ -1,0 +1,56 @@
+{
+  "date": "2026-11-11",
+  "published_at": "2026-11-12T02:16:36.843109Z",
+  "status": "published",
+  "prelaunch": false,
+  "title": "Colom wins Mississippi's Senate race after a long count",
+  "caption": "Democrat Scott Colom, a district attorney, was projected Wednesday to have defeated Sen. Cindy Hyde-Smith after officials spent days processing absentee and affidavit ballots; Hyde-Smith conceded by video that evening. Colom will be Mississippi's first Black U.S. senator since Reconstruction, and the result flips a deep-red seat. The magnolia, Mississippi's state flower, is symbolic.",
+  "stories": [
+    {
+      "name": "Democrat Scott Colom defeats Sen. Cindy Hyde-Smith in Mississippi",
+      "role": "focal",
+      "facts": [
+        "On Wednesday, Nov. 11, the AP, NBC News and CBS News projected that Democrat Scott Colom, a 43-year-old district attorney, had defeated Republican Sen. Cindy Hyde-Smith in Mississippi's U.S. Senate race.",
+        "The race was extremely close after Election Day; local officials spent several days processing absentee and affidavit ballots before the call, and Colom's narrow lead grew as counting went on.",
+        "Hyde-Smith conceded Wednesday evening in a video message, congratulating Colom. He will be Mississippi's first Black U.S. senator since Reconstruction."
+      ],
+      "sources": [
+        {
+          "publisher": "NBC News",
+          "title": "Democrat Scott Colom wins Mississippi Senate seat, breaking GOP's grip on the state",
+          "url": "https://www.nbcnews.com/politics/2026-election/scott-colom-mississippi-senate-election-win-democrat-hyde-smith-rcna605729",
+          "published_at": "2026-11-11T22:59:31Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "title": "Scott Colom wins Senate election in Mississippi",
+          "url": "https://www.pbs.org/newshour/politics/scott-colom-wins-senate-election-in-mississippi",
+          "published_at": "2026-11-11T23:01:15Z"
+        },
+        {
+          "publisher": "CBS News",
+          "title": "Democrat Scott Colom wins Mississippi Senate race in upset",
+          "url": "https://www.cbsnews.com/news/mississippi-2026-senate-scott-colom-cindy-hyde-smith/",
+          "published_at": "2026-11-12T00:19:03Z"
+        },
+        {
+          "publisher": "NPR",
+          "title": "Democrat Scott Colom wins Mississippi Senate race",
+          "url": "https://www.npr.org/2026/11/11/g-s1-151688/mississippi-senate-race-scott-colom",
+          "published_at": "2026-11-11T23:04:51Z"
+        }
+      ]
+    }
+  ],
+  "artwork": {
+    "path": "artwork/2026-11-11.svg",
+    "format": "svg",
+    "alt": "Editorial illustration. At night, election workers at a long green-covered table under desk lamps hold up and sort ballot envelopes, with trays of envelopes in front of them, while a worker in the foreground carries in another tray. Behind them, the Mississippi State Capitol, with its dome, lantern and gilded eagle, glows in front of a giant cream magnolia blossom that sends out rays of light. It represents the days-long count in Mississippi's Senate race, won by Democrat Scott Colom.",
+    "method": "code-generated SVG (graphic-poster kit, src/art/daily/)",
+    "revision": "r3"
+  },
+  "backfill": {
+    "is_backfill": false,
+    "reason": null
+  }
+}

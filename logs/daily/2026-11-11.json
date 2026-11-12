@@ -1,0 +1,63 @@
+{
+  "date": "2026-11-11",
+  "runs": [
+    {
+      "started_at": "2026-11-12T02:12:28.729026Z",
+      "outcome": "published",
+      "steps": [
+        {
+          "at": "2026-11-12T02:12:28.729030Z",
+          "step": "prepare: lock acquired (live)"
+        },
+        {
+          "at": "2026-11-12T02:12:33.933857Z",
+          "step": "prepare: ran src/news/feeds.py"
+        },
+        {
+          "at": "2026-11-12T02:12:34.056414Z",
+          "step": "prepare: ran src/news/cluster.py"
+        },
+        {
+          "at": "2026-11-12T02:16:37.820965Z",
+          "step": "finalize: published to local site"
+        }
+      ],
+      "_new_run": true,
+      "mode": "live",
+      "prelaunch": false,
+      "finished_at": "2026-11-12T02:16:37.820786Z",
+      "link_checks": [
+        {
+          "url": "https://www.nbcnews.com/politics/2026-election/scott-colom-mississippi-senate-election-win-democrat-hyde-smith-rcna605729",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.pbs.org/newshour/politics/scott-colom-wins-senate-election-in-mississippi",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.cbsnews.com/news/mississippi-2026-senate-scott-colom-cindy-hyde-smith/",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.npr.org/2026/11/11/g-s1-151688/mississippi-senate-race-scott-colom",
+          "ok": true,
+          "note": "HTTP 200"
+        }
+      ],
+      "samples_removed": [],
+      "stories_shown": [
+        "Democrat Scott Colom defeats Sen. Cindy Hyde-Smith in Mississippi"
+      ],
+      "usage": {
+        "article_reads": 6,
+        "web_searches": 0,
+        "render_rounds": 3,
+        "minutes": 22
+      }
+    }
+  ]
+}

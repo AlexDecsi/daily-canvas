@@ -1,0 +1,70 @@
+{
+  "date": "2026-11-11",
+  "mode": "live (scheduled run, ~9:07 p.m. Boston time on Nov. 11)",
+  "prepared_at": "2026-11-12T02:25:00Z",
+  "candidates_considered": 25,
+  "rationale": "Democrat Scott Colom's defeat of Sen. Cindy Hyde-Smith in Mississippi, called Wednesday after days of counting absentee and affidavit ballots, is the broadest-covered event of the day (28 reports across NBC, CBS, AP/PBS, NPR, NYT, Politico, Axios, Fox, ABC, the Globe and the Guardian) and a historic flip of a deep-red seat. The Nvidia/Jensen Huang story ranks higher on raw count but rests on allegations involving a private individual, so it is avoided, as on Nov. 10. The sinking of the SS United States as a Florida reef, the Brooklyn building collapse and the Hegseth reprimand at the Tomb of the Unknown Soldier rank lower and would not fit one coherent scene, so only the focal story is drawn.",
+  "stories": [
+    {
+      "role": "focal",
+      "name": "Democrat Scott Colom defeats Sen. Cindy Hyde-Smith in Mississippi",
+      "facts": [
+        "On Wednesday, Nov. 11, the AP, NBC News and CBS News projected that Democrat Scott Colom, a 43-year-old district attorney, had defeated Republican Sen. Cindy Hyde-Smith in Mississippi's U.S. Senate race.",
+        "The race was extremely close after Election Day; local officials spent several days processing absentee and affidavit ballots before the call, and Colom's narrow lead grew as counting went on.",
+        "Hyde-Smith conceded Wednesday evening in a video message, congratulating Colom. He will be Mississippi's first Black U.S. senator since Reconstruction."
+      ],
+      "people": [
+        {
+          "name": "Scott Colom",
+          "public_figure": true,
+          "verified_action": "Projected winner of the Senate race (AP via PBS, NBC News, CBS News). Not drawn as a figure: his victory event had not been reported in detail when the brief was written."
+        },
+        {
+          "name": "Cindy Hyde-Smith",
+          "public_figure": true,
+          "verified_action": "Conceded in a video message on Wednesday evening (NBC News, CBS News). Not drawn."
+        }
+      ],
+      "visual_notes": "Generic, unidentifiable county election workers at a long lamplit table sorting and checking ballot envelopes (the reported days of processing absentee and affidavit ballots). Behind them, the Mississippi State Capitol in Jackson (Beaux-Arts limestone, central dome with lantern and gilded eagle, columned portico, flanking wings) as a poster backdrop for the state, with a huge magnolia blossom (the state flower) opening like a sunrise behind the dome: illustrative symbolism, no text, no vote counts, no candidates, no crowd or celebration.",
+      "confidence": "high: NBC News, CBS News and the AP story on PBS (all read in full) agree on the winner, the concession and the slow ballot count. Exact margins and historical comparisons differ slightly between outlets, so none are drawn or stated.",
+      "sources": [
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "title": "Democrat Scott Colom wins Mississippi Senate seat, breaking GOP's grip on the state",
+          "url": "https://www.nbcnews.com/politics/2026-election/scott-colom-mississippi-senate-election-win-democrat-hyde-smith-rcna605729",
+          "published_at": "2026-11-11T22:59:31Z",
+          "checked_at": "2026-11-12T02:15:00Z",
+          "checked": "full article"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "wire": "AP",
+          "title": "Scott Colom wins Senate election in Mississippi",
+          "url": "https://www.pbs.org/newshour/politics/scott-colom-wins-senate-election-in-mississippi",
+          "published_at": "2026-11-11T23:01:15Z",
+          "checked_at": "2026-11-12T02:16:00Z",
+          "checked": "full article"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "title": "Democrat Scott Colom wins Mississippi Senate race in upset",
+          "url": "https://www.cbsnews.com/news/mississippi-2026-senate-scott-colom-cindy-hyde-smith/",
+          "published_at": "2026-11-12T00:19:03Z",
+          "checked_at": "2026-11-12T02:18:00Z",
+          "checked": "full article"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "title": "Democrat Scott Colom wins Mississippi Senate race",
+          "url": "https://www.npr.org/2026/11/11/g-s1-151688/mississippi-senate-race-scott-colom",
+          "published_at": "2026-11-11T23:04:51Z",
+          "checked": "headline only"
+        }
+      ]
+    }
+  ]
+}

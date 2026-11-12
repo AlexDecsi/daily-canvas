@@ -1,0 +1,2133 @@
+{
+  "date": "2026-11-11",
+  "fetched_at": "2026-11-12T02:12:33.914532Z",
+  "items_considered": 582,
+  "candidates": [
+    {
+      "headline": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+      "score": 168,
+      "signals": {
+        "us_outlets": 11,
+        "intl_outlets": 2,
+        "front_pages": 7,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Axios",
+        "BBC News",
+        "Bloomberg",
+        "Boston.com",
+        "CBS News",
+        "CNBC",
+        "MassLive",
+        "NBC News",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The Guardian",
+        "The Hill",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-11T07:44:24Z",
+      "reports": [
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+          "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-11T07:44:24Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Nvidia short-seller warned of Jensen Huang's ties to suspected spy",
+          "url": "https://www.cbsnews.com/news/nvidia-short-seller-culper-jensen-huang/",
+          "published_at": "2026-11-11T19:12:00Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "How Nvidia CEO Jensen Huang's extramarital affair could cause collateral damage in Washington",
+          "url": "https://www.pbs.org/newshour/world/how-nvidia-ceo-jensen-huangs-extramarital-affair-could-cause-collateral-damage-in-washington",
+          "published_at": "2026-11-11T20:26:20Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump officials clash at White House amid Nvidia CEO\u2019s affair",
+          "url": "https://www.masslive.com/politics/2026/11/trump-officials-clash-amid-nvidia-ceos-affair-with-alleged-spy.html",
+          "published_at": "2026-11-11T20:44:00Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Joe Biden blasts Trump\u2019s \u2018disturbing\u2019 White House renovations: \u2018What the hell\u2019",
+          "url": "https://www.masslive.com/politics/2026/11/joe-biden-blasts-trumps-disturbing-white-house-renovations-what-the-hell.html",
+          "published_at": "2026-11-11T21:00:00Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Jensen Huang affair in D.C.: Resignation calls and moves to tighten Nvidia China exports",
+          "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-congress-resign-ai-chips.html",
+          "published_at": "2026-11-11T22:46:29Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Nvidia Preparing to Oust CEO Jensen Huang: WSJ",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-11/nvidia-preparing-to-oust-ceo-jensen-huang-wsj-video",
+          "published_at": "2026-11-11T22:48:43Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Jensen Huang said to have had relationship with Nvidia executive who reports to him",
+          "url": "https://www.bostonglobe.com/2026/11/11/business/jensen-huang-relationship-nvidia-executive/",
+          "published_at": "2026-11-11T23:15:31Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Nvidia\u2019s Board Is Meeting to Discuss Jensen Huang\u2019s Future",
+          "url": "https://www.nytimes.com/2026/11/11/technology/nvidia-jensen-huang.html",
+          "published_at": "2026-11-11T23:32:14Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "White House threatens Democrats over plans to investigate Trump officials",
+          "url": "https://www.pbs.org/newshour/show/white-house-threatens-democrats-over-plans-to-investigate-trump-officials",
+          "published_at": "2026-11-11T23:45:49Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Nvidia stock tanks after report of second Huang affair",
+          "url": "https://thehill.com/business/6214833-nvidia-ceo-jesen-huang-affair/",
+          "published_at": "2026-11-11T23:48:26Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Nvidia's board preparing to oust CEO Jensen Huang, sources say",
+          "url": "https://www.cbsnews.com/video/nvidias-board-preparing-oust-ceo-jensen-huang-sources-say/",
+          "published_at": "2026-11-11T23:48:52Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Nvidia shares drop after hours amid reports of meeting over CEO Jensen Huang\u2019s future",
+          "url": "https://www.nbcnews.com/business/business-news/nvidia-shares-drop-hours-reports-meeting-ceo-jensen-huangs-future-rcna608906",
+          "published_at": "2026-11-11T23:51:15Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Nvidia sinks after report implicates CEO Jensen Huang in 2nd affair",
+          "url": "https://www.axios.com/2026/11/11/nvidia-jensen-huang-affair-shares",
+          "published_at": "2026-11-11T23:53:10Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Nvidia preparing to fire CEO Jensen Huang after affair with suspected Chinese spy, sources say",
+          "url": "https://www.cbsnews.com/video/nvidia-board-preparing-to-oust-ceo-jensen-huang-amid-affair-with-suspected-chinese-spy-sources-say/",
+          "published_at": "2026-11-11T23:55:00Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Jensen Huang said to have had relationship with Nvidia executive who reports to him",
+          "url": "https://www.boston.com/news/business/2026/11/11/jensen-huang-said-to-have-had-relationship-with-nvidia-executive-who-reports-to-him/",
+          "published_at": "2026-11-12T00:06:21Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Nvidia Preparing to Oust CEO Jensen Huang: WSJ",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-12/balance-of-power-late-edition-11-11-2026-video",
+          "published_at": "2026-11-12T00:10:34Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Nvidia's stock dives as board weighs move to oust Jensen Huang",
+          "url": "https://www.cbsnews.com/news/nvidia-stock-dives-report-board-prepares-oust-jensen-huang/",
+          "published_at": "2026-11-12T00:18:00Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Nvidia prepares to oust Jensen Huang, WSJ reports \u2014 stock sinks",
+          "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html",
+          "published_at": "2026-11-12T00:21:27Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Nvidia's board preparing to oust CEO Jensen Huang, sources say",
+          "url": "https://www.cbsnews.com/news/nvidia-board-ceo-jensen-huang-china/",
+          "published_at": "2026-11-12T00:42:00Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Nvidia\u2019s board is meeting to discuss Jensen Huang\u2019s future",
+          "url": "https://www.bostonglobe.com/2026/11/11/business/nvidia-board-meeting-jensen-huang-future/",
+          "published_at": "2026-11-12T00:46:23Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Nvidia Shares Plummet as Board Is Said to Consider C.E.O.\u2019s Future",
+          "url": "https://www.nytimes.com/2026/11/11/business/nvidia-stock-jensen-huang-ceo.html",
+          "published_at": "2026-11-12T00:53:16Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Cramer's stance on Nvidia's stock amid reports that CEO Jensen Huang may be ousted",
+          "url": "https://www.cnbc.com/investingclub/2026/11/11/jim-cramer-jensen-huang-nvidia-stock-advice.html",
+          "published_at": "2026-11-12T01:14:21Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "White House warns Democrats of \"blatant criminality\" over possible probes into Trump administration",
+          "url": "https://www.cbsnews.com/video/white-house-warns-dems-of-blatant-criminality-over-possible-probes-into-trump-administration/",
+          "published_at": "2026-11-12T01:16:43Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "NYT reports Nvidia CEO had second extramarital relationship",
+          "url": "https://www.nbcnews.com/nightly-news/video/nyt-reports-nvidia-ceo-had-second-extramarital-relationship-273310789756",
+          "published_at": "2026-11-12T01:33:24Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "White House confronts Democrats over planned probes, claiming possible 'criminality'",
+          "url": "https://www.wcvb.com/article/white-house-warns-democrats-planned-probes/74401719",
+          "published_at": "2026-11-12T01:45:00Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Inside Nvidia's ties to Megaspeed, company led by alleged Chinese spy",
+          "url": "https://www.cbsnews.com/video/inside-nvidias-ties-to-megaspeed/",
+          "published_at": "2026-11-12T01:50:53Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "GOP senator feels 'strongly' Jensen Huang should resign at Nvidia",
+          "url": "https://thehill.com/homenews/senate/6215009-senator-cramer-calls-nvidia-ceo-resignation/",
+          "published_at": "2026-11-12T01:57:13Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
+          "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
+          "published_at": "2026-11-12T01:57:34Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Nvidia board reportedly meeting to decide CEO Jensen Huang\u2019s future as chip giant\u2019s share price plunges \u2013 follow live",
+          "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+          "published_at": "2026-11-12T01:59:05Z"
+        }
+      ]
+    },
+    {
+      "headline": "Mississippi Senate: Scott Colom lead over Hyde-Smith pops to more than 4,400 votes",
+      "score": 165,
+      "signals": {
+        "us_outlets": 11,
+        "intl_outlets": 1,
+        "front_pages": 7,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Axios",
+        "CBS News",
+        "CNBC",
+        "Fox News",
+        "NBC News",
+        "NPR",
+        "PBS NewsHour",
+        "Politico",
+        "The Boston Globe",
+        "The Guardian",
+        "The Hill",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-11T19:55:39Z",
+      "reports": [
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Mississippi Senate: Scott Colom lead over Hyde-Smith pops to more than 4,400 votes",
+          "url": "https://www.cnbc.com/2026/11/10/mississippi-senate-scott-colom-hyde-smith.html",
+          "published_at": "2026-11-11T19:55:39Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Mississippi Senate race leans Democratic as Colom's lead grows",
+          "url": "https://www.cbsnews.com/news/mississippi-senate-race-results-2026-midterms/",
+          "published_at": "2026-11-11T22:41:00Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrat Scott Colom wins Mississippi Senate seat, breaking GOP\u2019s grip on the state",
+          "url": "https://www.nbcnews.com/politics/2026-election/scott-colom-mississippi-senate-election-win-democrat-hyde-smith-rcna605729",
+          "published_at": "2026-11-11T22:59:31Z"
+        },
+        {
+          "publisher": "Politico",
+          "group": "politico",
+          "kind": "news",
+          "wire": false,
+          "title": "Mississippi elects Democrat Scott Colom to Senate in massive upset",
+          "url": "https://www.politico.com/news/2026/11/11/scott-colom-wins-mississippi-senate-01161555",
+          "published_at": "2026-11-11T23:01:13Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Scott Colom wins Senate election in Mississippi",
+          "url": "https://www.pbs.org/newshour/politics/scott-colom-wins-senate-election-in-mississippi",
+          "published_at": "2026-11-11T23:01:15Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": true,
+          "title": "Democrat Scott Colom wins Mississippi Senate race",
+          "url": "https://www.npr.org/2026/11/11/g-s1-151688/mississippi-senate-race-scott-colom",
+          "published_at": "2026-11-11T23:04:51Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "5 Things to Know About Democrat Scott Colom, Mississippi\u2019s Next Senator",
+          "url": "https://www.nytimes.com/2026/11/11/us/elections/scott-colom-mississippi-senate-race.html",
+          "published_at": "2026-11-11T23:06:05Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Colom builds on slim lead in Mississippi, as AP calls for Democrat",
+          "url": "https://thehill.com/homenews/campaign/6214689-colom-leads-hyde-smith/",
+          "published_at": "2026-11-11T23:06:39Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrat Scott Colom projected to win Mississippi Senate seat",
+          "url": "https://www.nbcnews.com/video/democrat-scott-colom-projected-to-win-mississippi-senate-seat-273301573841",
+          "published_at": "2026-11-11T23:10:11Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Dems projected to score historic upset in deep-red Mississippi, topple Trump ally Hyde-Smith",
+          "url": "https://www.foxnews.com/politics/dems-projected-score-historic-upset-deep-red-mississippi-topple-trump-ally-hyde-smith",
+          "published_at": "2026-11-11T23:11:32Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrat Scott Colom will defeat incumbent Senator Cindy Hyde-Smith in Mississippi, AP projects",
+          "url": "https://www.bostonglobe.com/2026/11/11/nation/mississippi-senate-scott-colom-hyde-smith/",
+          "published_at": "2026-11-11T23:11:34Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "How Scott Colom won deep-red Mississippi with little help from Democrats",
+          "url": "https://www.theguardian.com/us-news/2026/nov/11/scott-colom-mississippi-democrat-senate-midterms",
+          "published_at": "2026-11-11T23:18:36Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Mississippi Senate stunner: Cindy Hyde-Smith concedes to Democrat Scott Colom",
+          "url": "https://thehill.com/homenews/campaign/6165685-colom-mississippi-senate-ousts-hyde-smith/",
+          "published_at": "2026-11-11T23:26:19Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Scott Colom wins Mississippi Senate election over incumbent Republican Hyde-Smith",
+          "url": "https://www.cnbc.com/2026/11/11/democrat-scott-colom-projected-to-win-mississippi-senate-election-over-incumbent-hyde-smith.html",
+          "published_at": "2026-11-11T23:31:37Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrat Scott Colom wins the closest Senate race in the country",
+          "url": "https://www.npr.org/2026/11/11/nx-s1-6037840/democrat-scott-colom-wins-the-closest-senate-race-in-the-country",
+          "published_at": "2026-11-11T23:33:59Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Scott Colom ousts Cindy Hyde-Smith in historic Mississippi Senate flip",
+          "url": "https://www.axios.com/2026/11/11/mississippi-ms-senate-scott-colom-cindy-hyde-smith",
+          "published_at": "2026-11-11T23:46:31Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "News Wrap: Democrat Scott Colom defeats Mississippi Sen. Cindy Hyde-Smith",
+          "url": "https://www.pbs.org/newshour/show/news-wrap-democrat-scott-colom-defeats-mississippi-sen-cindy-hyde-smith",
+          "published_at": "2026-11-11T23:50:05Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Colom\u2019s Victory Pads Democrats\u2019 Majority in the Senate",
+          "url": "https://www.nytimes.com/2026/11/11/us/elections/colom-mississippi-senate-democrats.html",
+          "published_at": "2026-11-12T00:10:34Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrat Scott Colom unseats Cindy Hyde-Smith in stunning Mississippi Senate win",
+          "url": "https://www.theguardian.com/us-news/2026/nov/11/scott-colom-mississippi-senate-race",
+          "published_at": "2026-11-12T00:11:12Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Hyde-Smith Concedes to Colom: \u2018I Respect the Decision of Mississippi Voters\u2019",
+          "url": "https://www.nytimes.com/2026/11/11/us/elections/hyde-smith-concedes-senate-colom.html",
+          "published_at": "2026-11-12T00:17:58Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrat Scott Colom wins Mississippi Senate race in upset",
+          "url": "https://www.cbsnews.com/news/mississippi-2026-senate-scott-colom-cindy-hyde-smith/",
+          "published_at": "2026-11-12T00:19:03Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Scott Colom Will Be Mississippi\u2019s Third Black Senator. Who Were the First Two?",
+          "url": "https://www.nytimes.com/2026/11/11/us/elections/scott-colom-mississippi-black-senators.html",
+          "published_at": "2026-11-12T00:33:30Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Hyde-Smith Blocked Colom\u2019s Path to the Bench. Now He\u2019s Replacing Her.",
+          "url": "https://www.nytimes.com/2026/11/11/us/elections/hyde-smith-blocked-coloms-path-to-the-bench-now-hes-replacing-her.html",
+          "published_at": "2026-11-12T00:40:04Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "How The Times Covered Mississippi\u2019s Senate Race, Which Unexpectedly Became a Nail-Biter",
+          "url": "https://www.nytimes.com/2026/11/11/insider/mississippi-senate-race-coverage.html",
+          "published_at": "2026-11-12T00:52:07Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Colom\u2019s win fuels Democratic hopes for next year\u2019s race for governor.",
+          "url": "https://www.nytimes.com/live/2026/11/11/us/mississippi-senate-election-midterms/mississippi-2027-governor-campaign",
+          "published_at": "2026-11-12T01:20:05Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": true,
+          "title": "Democrat Colom flips Mississippi Senate seat",
+          "url": "https://abcnews.com/Politics/democrat-colom-mississippis-black-senator-100-years-ap/story?id=137984057",
+          "published_at": "2026-11-12T01:22:13Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Scott Colom, a Democrat, Wins Mississippi Senate Election",
+          "url": "https://www.nytimes.com/2026/11/11/us/elections/mississippi-senate-colom-hyde-smith.html",
+          "published_at": "2026-11-12T01:26:18Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Mississippi Democrats built a coalition to elect a Black senator for the first time since Reconstruction.",
+          "url": "https://www.nytimes.com/live/2026/11/11/us/mississippi-senate-election-midterms/mississippi-democrats-built-a-coalition-to-elect-a-black-senator-for-the-first-time-since-reconstruction",
+          "published_at": "2026-11-12T01:30:04Z"
+        }
+      ]
+    },
+    {
+      "headline": "\u2018Meaningless false dichotomy\u2019: Democrats say they can investigate Trump and also lower costs for Americans",
+      "score": 127,
+      "signals": {
+        "us_outlets": 9,
+        "intl_outlets": 1,
+        "front_pages": 4,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Bloomberg",
+        "CBS News",
+        "CNBC",
+        "Fox News",
+        "Los Angeles Times",
+        "NBC News",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-11T10:45:39Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "\u2018Meaningless false dichotomy\u2019: Democrats say they can investigate Trump and also lower costs for Americans",
+          "url": "https://www.bostonglobe.com/2026/11/11/nation/affordability-corruption-democrats/",
+          "published_at": "2026-11-11T10:45:39Z"
+        },
+        {
+          "publisher": "Los Angeles Times",
+          "group": "latimes",
+          "kind": "news",
+          "wire": false,
+          "title": "White House warns of criminal inquiries into House Democrats who investigate Trump",
+          "url": "https://www.latimes.com/politics/story/2026-11-11/white-house-warns-of-criminal-inquiries-into-house-democrats-who-investigate-trump",
+          "published_at": "2026-11-11T15:55:57Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrat says Trump has \u2018something to hide\u2019 after White House threatens oversight efforts",
+          "url": "https://www.theguardian.com/us-news/2026/nov/11/democrat-investigation-white-house-letter-garcia",
+          "published_at": "2026-11-11T16:54:36Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "White House sends warning to Democrats about investigating the Trump administration",
+          "url": "https://www.pbs.org/newshour/politics/white-house-sends-warning-to-democrats-about-investigating-the-trump-administration",
+          "published_at": "2026-11-11T17:06:10Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "White House Threatens Congress, Saying Aggressive Investigations Could Be Crime",
+          "url": "https://www.nytimes.com/2026/11/11/us/politics/trump-democrats-congress-oversight-committee.html",
+          "published_at": "2026-11-11T18:08:28Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "White House warns congressional Democrats: Investigating us may be a crime",
+          "url": "https://www.nbcnews.com/politics/white-house/white-house-warns-congressional-democrats-investigating-us-may-crime-rcna608752",
+          "published_at": "2026-11-11T18:34:45Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "How Democrats could snarl Trump administration stakes in private sector companies",
+          "url": "https://www.cnbc.com/2026/11/11/trump-company-equity-takes.html",
+          "published_at": "2026-11-11T18:55:39Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Read the letter the White House's top lawyer sent Rep. Garcia over threats to investigate Trump",
+          "url": "https://www.pbs.org/newshour/politics/read-the-letter-the-white-houses-top-lawyer-sent-rep-garcia-over-threats-to-investigate-trump",
+          "published_at": "2026-11-11T19:27:31Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "White House faces unusual obstacle on confirming Trump judges: other Republicans",
+          "url": "https://www.bostonglobe.com/2026/11/11/nation/white-house-judge-obstacle/",
+          "published_at": "2026-11-11T20:27:37Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "White House warns of \"blatant criminality\" in Democratic probes",
+          "url": "https://www.cbsnews.com/news/white-house-counsel-will-scharf-house-oversight-committee-robert-garcia-investigations/",
+          "published_at": "2026-11-11T22:03:00Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "House Democrats Respond to White House Threat Over Coming Probes",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-11/house-democrats-respond-to-trump-investigations-threat-video",
+          "published_at": "2026-11-11T22:15:47Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "White House threatens Congress, saying aggressive investigations could be a crime",
+          "url": "https://www.bostonglobe.com/2026/11/11/nation/white-house-threatens-congress-saying-aggressive-investigations-could-be-crime/",
+          "published_at": "2026-11-11T23:05:05Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Jeffries leaves door open to investigating major Trump ally as Democrats prepare to take power",
+          "url": "https://www.foxnews.com/politics/jeffries-leaves-door-open-investigating-major-trump-ally-democrats-prepare-take-power",
+          "published_at": "2026-11-12T01:00:00Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Republicans Begin Aggressive Lame-Duck Push to Install Trump Judges",
+          "url": "https://www.nytimes.com/2026/11/11/us/trump-federal-judges-senate-republicans.html",
+          "published_at": "2026-11-12T01:27:59Z"
+        }
+      ]
+    },
+    {
+      "headline": "The sinking of the SS United States, once the world's fastest ocean liner",
+      "score": 102,
+      "signals": {
+        "us_outlets": 5,
+        "intl_outlets": 2,
+        "front_pages": 6,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "CBS News",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The Guardian",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-11T14:24:00Z",
+      "reports": [
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "The sinking of the SS United States, once the world's fastest ocean liner",
+          "url": "https://www.cbsnews.com/video/the-sinking-of-the-ss-united-states-the-worlds-fastest-ocean-liner/",
+          "published_at": "2026-11-11T14:24:00Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "This ocean liner was the world\u2019s fastest. It\u2019s being sunk to make the largest artificial reef.",
+          "url": "https://www.bostonglobe.com/2026/11/11/nation/uss-united-states-sinking-watch/",
+          "published_at": "2026-11-11T17:20:01Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "WATCH LIVE: SS United States, once world's fastest ocean liner, sinks to become reef off Florida",
+          "url": "https://www.pbs.org/newshour/nation/watch-live-ss-united-states-once-worlds-fastest-ocean-liner-sinks-to-become-reef-off-florida",
+          "published_at": "2026-11-11T17:54:51Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Recalling the S.S. United States as It Becomes a Florida Reef",
+          "url": "https://www.nytimes.com/2026/11/11/insider/ss-united-states-destin-florida-memories.html",
+          "published_at": "2026-11-11T18:14:57Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Famed ship SS United States to be sunk off coast of Florida",
+          "url": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-11T18:42:27Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "SS United States to be sunk to become the world\u2019s largest artificial reef - watch live",
+          "url": "https://www.theguardian.com/us-news/video/2026/nov/11/ss-united-states-to-be-sunk-to-become-the-worlds-largest-artificial-reef-watch-live",
+          "published_at": "2026-11-11T19:22:06Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "This ocean liner was the world\u2019s fastest. It\u2019s being sunk to make the largest artificial reef.",
+          "url": "https://www.bostonglobe.com/2026/11/11/nation/this-ocean-liner-was-worlds-fastest-its-being-sunk-make-largest-artificial-reef/",
+          "published_at": "2026-11-11T22:44:39Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "SS United States to become world's largest artificial reef",
+          "url": "https://www.cbsnews.com/news/ss-united-states-sinking-ocean-floor-largest-artificial-reef-world-florida-gulf-coast/",
+          "published_at": "2026-11-12T00:04:00Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "The S.S. United States, a Historic Supership, Heads to the Ocean Floor",
+          "url": "https://www.nytimes.com/2026/11/11/climate/ss-united-states-ship-sinking-artificial-reef-florida.html",
+          "published_at": "2026-11-12T00:15:56Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Ocean liner SS United States heads to final destination near Destin, Florida",
+          "url": "https://www.wcvb.com/article/ss-united-states-artificial-reef-florida-panhandle/74402473",
+          "published_at": "2026-11-12T01:37:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "2 dead, at least 12 hurt in New York City building collapse, authorities say",
+      "score": 99,
+      "signals": {
+        "us_outlets": 5,
+        "intl_outlets": 2,
+        "front_pages": 6,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "BBC News",
+        "CBS News",
+        "NBC News",
+        "The Boston Globe",
+        "The Guardian",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-12T00:04:59Z",
+      "reports": [
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "2 dead, at least 12 hurt in New York City building collapse, authorities say",
+          "url": "https://www.nbcnews.com/news/us-news/new-york-brooklyn-building-collapse-rcna608909",
+          "published_at": "2026-11-12T00:04:59Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "New York building collapse kills one person and injures 12",
+          "url": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-12T01:34:58Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "At least 2 dead, multiple injured after building collapses in Brooklyn: Mayor",
+          "url": "https://abcnews.com/US/rescue-operations-underway-after-building-collapses-brooklyn-new/story?id=138059620",
+          "published_at": "2026-11-12T01:48:24Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Brooklyn building collapse kills at least two people and traps others in wreckage",
+          "url": "https://www.theguardian.com/us-news/2026/nov/11/deadly-brooklyn-building-collapse",
+          "published_at": "2026-11-12T01:51:00Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "At least 2 killed, 17 hurt in Brooklyn building collapse",
+          "url": "https://www.cbsnews.com/news/brooklyn-building-collapse-bedford-avenue/",
+          "published_at": "2026-11-12T02:05:39Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Firefighters dig through rubble after NYC building collapse kills 2 and traps people in wreckage",
+          "url": "https://www.bostonglobe.com/2026/11/11/nation/nyc-building-collapse/",
+          "published_at": "2026-11-12T02:06:26Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Firefighters dig through rubble after NYC building collapse kills at least 2, traps others",
+          "url": "https://www.wcvb.com/article/brooklyn-building-collapses/74404444",
+          "published_at": "2026-11-12T02:08:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Pete Hegseth and others reprimanded by guard at the Tomb of the Unknown Soldier",
+      "score": 96,
+      "signals": {
+        "us_outlets": 5,
+        "intl_outlets": 2,
+        "front_pages": 5,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "CBS News",
+        "Fox News",
+        "NBC News",
+        "The Boston Globe",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-11T21:08:51Z",
+      "reports": [
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Pete Hegseth and others reprimanded by guard at the Tomb of the Unknown Soldier",
+          "url": "https://www.nbcnews.com/politics/trump-administration/hegseth-reprimanded-arlington-cemetery-veterans-tomb-unknown-soldier-rcna608869",
+          "published_at": "2026-11-11T21:08:51Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Hegseth and staff reprimanded by guard at Tomb of the Unknown Soldier",
+          "url": "https://www.bostonglobe.com/2026/11/11/nation/hegseth-tomb-of-the-unknown-soldier/",
+          "published_at": "2026-11-11T21:30:50Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Hegseth and guests reprimanded by US Army guard at Tomb of the Unknown Soldier, video shows",
+          "url": "https://www.bostonglobe.com/2026/11/11/nation/pete-hegseth-tomb-unknown-soldier/",
+          "published_at": "2026-11-11T21:37:42Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
+          "url": "https://www.bbc.co.uk/news/videos/ck5y132yq1ymo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-11T21:43:35Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Hegseth and team reprimanded by Arlington national cemetery guard \u2013 video",
+          "url": "https://www.theguardian.com/us-news/video/2026/nov/11/hegseth-and-team-reprimanded-by-arlington-national-cemetery-guard-video",
+          "published_at": "2026-11-11T21:53:22Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Hegseth and team reprimanded by Army guard at solemn war memorial",
+          "url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-11T22:55:55Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Hegseth and aides scolded by guard for laughing at Tomb of the Unknown Soldier",
+          "url": "https://www.theguardian.com/us-news/2026/nov/11/hegseth-scolded-tomb-unknown-soldier",
+          "published_at": "2026-11-11T23:00:21Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Army sentinel sharply reprimands Hegseth's group at Tomb of the Unknown Soldier on Veterans Day",
+          "url": "https://www.foxnews.com/politics/army-sentinel-sharply-reprimands-hegseths-group-tomb-unknown-soldier-veterans-day",
+          "published_at": "2026-11-11T23:11:12Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Hegseth's group asked by soldier to maintain respect at Arlington National Cemetery",
+          "url": "https://www.cbsnews.com/video/hegseths-group-asked-soldier-maintain-respect-arlington-national-cemetery/",
+          "published_at": "2026-11-12T00:52:36Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Soldier Shouts Toward Hegseth to Show \u2018Respect\u2019 at Tomb of the Unknown Soldier",
+          "url": "https://www.nytimes.com/2026/11/11/us/politics/hegseth-tomb-unknown-solider-shout.html",
+          "published_at": "2026-11-12T00:53:14Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Hegseth's group reprimanded for noise at Tomb of Unknown Soldier",
+          "url": "https://www.cbsnews.com/news/hegseth-tomb-of-the-unknown-soldier-arlington-cemetery/",
+          "published_at": "2026-11-12T01:33:58Z"
+        }
+      ]
+    },
+    {
+      "headline": "Former NFL coach Rex Ryan charged after allegedly hitting pedestrians with car in Nashville",
+      "score": 91,
+      "signals": {
+        "us_outlets": 5,
+        "intl_outlets": 1,
+        "front_pages": 5,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "Boston.com",
+        "CBS News",
+        "MassLive",
+        "NBC News",
+        "The Boston Globe",
+        "The Guardian"
+      ],
+      "first_seen": "2026-11-11T17:35:54Z",
+      "reports": [
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Former NFL coach Rex Ryan charged after allegedly hitting pedestrians with car in Nashville",
+          "url": "https://www.theguardian.com/sport/2026/nov/11/rex-ryan-charged-hit-and-run-pedestrians-nashville",
+          "published_at": "2026-11-11T17:35:54Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Former New York Jets coach Rex Ryan charged with running over feet of two pedestrians with truck",
+          "url": "https://www.nbcnews.com/news/us-news/rex-ryan-charged-striking-pedestrians-truck-rcna608813",
+          "published_at": "2026-11-11T18:07:43Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Former NFL coach Rex Ryan turns himself in after alleged Nashville hit-and-run",
+          "url": "https://www.bostonglobe.com/2026/11/11/sports/rex-ryan-nashville-hit-and-run/",
+          "published_at": "2026-11-11T19:37:30Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Rex Ryan surrenders in alleged hit-and-run that injured 2 pedestrians: Police",
+          "url": "https://abcnews.com/US/former-nfl-coach-rex-ryan-surrenders-alleged-hit/story?id=138050103",
+          "published_at": "2026-11-11T20:40:44Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Hit and run in Palmer injures pedestrian; driver charged, police say",
+          "url": "https://www.masslive.com/westernmass/2026/11/hit-and-run-in-palmer-injures-pedestrian-driver-charged-police-say.html",
+          "published_at": "2026-11-11T21:27:12Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Ex-NFL coach Rex Ryan turns himself in after allegedly hitting Nashville pedestrians",
+          "url": "https://www.boston.com/news/crime/2026/11/11/ex-nfl-coach-rex-ryan-turns-himself-in-after-allegedly-hitting-nashville-pedestrians/",
+          "published_at": "2026-11-11T22:42:08Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Ex-NFL coach Rex Ryan surrenders to Nashville police on hit-and-run charges",
+          "url": "https://www.cbsnews.com/video/ex-nfl-coach-rex-ryan-surrenders-nashville-police-hit-and-run-charges/",
+          "published_at": "2026-11-12T00:08:00Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Former NFL QB's wife allegedly attacks him with pliers",
+          "url": "https://www.masslive.com/sports/2026/11/former-nfl-quarterbacks-wife-allegedly-attacks-him-with-pliers.html",
+          "published_at": "2026-11-12T01:48:04Z"
+        }
+      ]
+    },
+    {
+      "headline": "Missing 11-month-old baby rescued after being buried alive in a crate in South Carolina",
+      "score": 91,
+      "signals": {
+        "us_outlets": 5,
+        "intl_outlets": 1,
+        "front_pages": 5,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "Boston.com",
+        "CBS News",
+        "NBC News",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-11T18:10:57Z",
+      "reports": [
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Missing 11-month-old baby rescued after being buried alive in a crate in South Carolina",
+          "url": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-11T18:10:57Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Missing South Carolina infant rescued after being buried alive in a dog crate for 24 hours",
+          "url": "https://www.bostonglobe.com/2026/11/11/nation/missing-south-carolina-baby-buried-alive-dog-crate/",
+          "published_at": "2026-11-11T20:05:19Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Missing South Carolina infant rescued after being buried alive in a dog crate for 24 hours",
+          "url": "https://www.pbs.org/newshour/nation/missing-south-carolina-infant-rescued-after-being-buried-alive-in-a-dog-crate-for-24-hours",
+          "published_at": "2026-11-11T20:59:24Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Missing South Carolina infant rescued after being buried alive in a dog crate for 24 hours",
+          "url": "https://www.bostonglobe.com/2026/11/11/nation/missing-south-carolina-infant-rescued-after-being-buried-alive-dog-crate-24-hours/",
+          "published_at": "2026-11-11T21:59:02Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Baby found buried alive, father charged with attempted murder",
+          "url": "https://www.cbsnews.com/news/baby-found-alive-buried-dog-crate-24-hours-south-carolina/",
+          "published_at": "2026-11-11T22:01:00Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Father of boy who survived being buried alive is charged with attempted murder in South Carolina",
+          "url": "https://www.boston.com/news/crime/2026/11/11/father-of-boy-who-survived-being-buried-alive-is-charged-with-attempted-murder-in-south-carolina/",
+          "published_at": "2026-11-11T22:28:05Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Missing Baby Is Rescued After Being Buried Alive in Dog Crate",
+          "url": "https://www.nytimes.com/2026/11/11/us/baby-buried-alive-south-carolina.html",
+          "published_at": "2026-11-11T23:07:09Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Father charged with attempted murder after baby survives being buried in crate",
+          "url": "https://www.nbcnews.com/news/us-news/father-charged-attempted-murder-baby-survives-buried-crate-rcna608896",
+          "published_at": "2026-11-11T23:36:14Z"
+        }
+      ]
+    },
+    {
+      "headline": "Russia and Ukraine agree to a prisoner exchange as talks end with no big breakthrough",
+      "score": 76,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 2,
+        "front_pages": 4,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "NPR",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-11T13:30:00Z",
+      "reports": [
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Russia and Ukraine agree to a prisoner exchange as talks end with no big breakthrough",
+          "url": "https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks",
+          "published_at": "2026-11-11T13:30:00Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Ukraine talks in Abu Dhabi bring progress on prisoners but not on peace",
+          "url": "https://www.theguardian.com/world/2026/nov/11/ukraine-talks-in-abu-dhabi-bring-progress-on-prisoners-but-not-on-peace",
+          "published_at": "2026-11-11T17:03:43Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Seeking to Broaden Ukraine Talks, U.S. Urges Russia to Include Europe",
+          "url": "https://www.nytimes.com/2026/11/11/world/europe/russia-ukraine-talks-abu-dhabi.html",
+          "published_at": "2026-11-11T17:40:41Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+          "url": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-11T18:04:58Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Russia and Ukraine agree to a large prisoner exchange as talks end with no major breakthrough",
+          "url": "https://www.bostonglobe.com/2026/11/11/world/russia-ukraine-agree-large-prisoner-exchange-talks-end-with-no-major-breakthrough/",
+          "published_at": "2026-11-11T21:35:43Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Russia and Ukraine agree to a large prisoner exchange as talks end with no major breakthrough",
+          "url": "https://www.pbs.org/newshour/world/russia-and-ukraine-agree-to-a-large-prisoner-exchange-as-talks-end-with-no-major-breakthrough",
+          "published_at": "2026-11-11T22:59:17Z"
+        }
+      ]
+    },
+    {
+      "headline": "An Iran-backed trio is accused of plotting attacks on a U.K. base hosting U.S. jets",
+      "score": 73,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 1,
+        "front_pages": 4,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "BBC News",
+        "NPR",
+        "The Boston Globe",
+        "The Hill"
+      ],
+      "first_seen": "2026-11-11T10:02:54Z",
+      "reports": [
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "An Iran-backed trio is accused of plotting attacks on a U.K. base hosting U.S. jets",
+          "url": "https://www.npr.org/2026/11/10/nx-s1-6036786/uk-iran-airbase-russia-spy",
+          "published_at": "2026-11-11T10:02:54Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "House effectively ends Hegseth impeachment. And, 3 men accused of plotting U.K. attacks",
+          "url": "https://www.npr.org/2026/11/11/g-s1-152949/up-first-newsletter-pete-hegseth-jim-jordan-iran-backed-trio-us-bases",
+          "published_at": "2026-11-11T12:21:59Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "House tables Hegseth impeachment, effectively killing it in current Congress",
+          "url": "https://abcnews.com/US/hegseth-dismisses-impeachment-effort-political-spectacle/story?id=138002466",
+          "published_at": "2026-11-11T12:34:27Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+          "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-11T16:59:34Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "It\u2019s not just about Hegseth: How impeachment can rein in the White House",
+          "url": "https://www.bostonglobe.com/2026/11/11/opinion/pete-hegseth-stephen-miller-impeachment/",
+          "published_at": "2026-11-11T18:47:02Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Former Navy JAG who flipped Kentucky House seat: 'Premature' to discuss Hegseth impeachment",
+          "url": "https://thehill.com/the-120/6214824-dembo-hegseth-impeachment-vote/",
+          "published_at": "2026-11-12T00:04:22Z"
+        }
+      ]
+    },
+    {
+      "headline": "US Treasury chief Scott Bessent is reportedly latest Trump official to move to military base",
+      "score": 67,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 2,
+        "front_pages": 4,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "CBS News",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The Guardian"
+      ],
+      "first_seen": "2026-11-11T09:11:30Z",
+      "reports": [
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "US Treasury chief Scott Bessent is reportedly latest Trump official to move to military base",
+          "url": "https://www.theguardian.com/us-news/2026/nov/11/us-treasury-chief-scott-bessent-moves-military-base-iran-threats",
+          "published_at": "2026-11-11T09:11:30Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
+          "url": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-11T16:45:11Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Bessent moves to a military base over safety concerns, an AP source says",
+          "url": "https://www.bostonglobe.com/2026/11/11/nation/scott-bessent-moves-to-military-base/",
+          "published_at": "2026-11-11T17:04:19Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump planning new military assault or tighter sanctions, say Iranian officials",
+          "url": "https://www.theguardian.com/world/2026/nov/11/trump-planning-military-assault-or-tighter-sanctions-iranian-officials",
+          "published_at": "2026-11-11T18:47:57Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "AP report: Bessent moves to a military base over safety concerns",
+          "url": "https://www.pbs.org/newshour/world/ap-report-bessent-moves-to-a-military-base-over-safety-concerns",
+          "published_at": "2026-11-11T19:59:45Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Treasury Secretary Scott Bessent moves into military housing due to Iranian threats",
+          "url": "https://www.cbsnews.com/video/treasury-secretary-scott-bessent-moves-military-housing-iranian-threats/",
+          "published_at": "2026-11-12T01:05:24Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Bessent relocates from home to military base after Iran threats",
+          "url": "https://www.cbsnews.com/news/bessent-relocate-dc-area-home-military-base-iran-threats-to-kill-him/",
+          "published_at": "2026-11-12T01:32:08Z"
+        }
+      ]
+    },
+    {
+      "headline": "ICE officer involved in Maine shooting expressed hatred of immigrants",
+      "score": 66,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": [
+          "maine"
+        ]
+      },
+      "independent_outlets": [
+        "Fox News",
+        "The Boston Globe",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-11T21:01:40Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "ICE officer involved in Maine shooting expressed hatred of immigrants",
+          "url": "https://www.bostonglobe.com/2026/11/11/nation/ice-officer-maine-shooting-immigrant-hatred/",
+          "published_at": "2026-11-11T21:01:40Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Illegal immigrant arrested after dragging, striking ICE officer in Chicago suburb: DHS",
+          "url": "https://www.foxnews.com/us/illegal-immigrant-arrested-after-dragging-striking-ice-officer-chicago-suburb-dhs",
+          "published_at": "2026-11-12T01:01:27Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "ICE Officer Involved in Maine Shooting Expressed Hatred of Immigrants",
+          "url": "https://www.nytimes.com/2026/11/11/us/david-brouillette-ice-maine-shooting-anti-immigrant-hatred.html",
+          "published_at": "2026-11-12T01:09:47Z"
+        }
+      ]
+    },
+    {
+      "headline": "Frankie Muniz hospitalized after crash during practice at Daytona",
+      "score": 62,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ESPN",
+        "Fox News",
+        "NBC News",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-11T22:04:15Z",
+      "reports": [
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Frankie Muniz hospitalized after crash during practice at Daytona",
+          "url": "https://www.nbcnews.com/sports/auto-racing/frankie-muniz-hospitalized-incident-practice-daytona-rcna608882",
+          "published_at": "2026-11-11T22:04:15Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Frankie Muniz rushed to hospital after Daytona practice crash",
+          "url": "https://www.foxnews.com/entertainment/frankie-muniz-rushed-hospital-after-daytona-practice-crash-report",
+          "published_at": "2026-11-11T23:13:46Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Frankie Muniz taken to hospital but \u2018awake and alert\u2019 after crash ahead of Daytona Veterans Day race",
+          "url": "https://www.wcvb.com/article/frankie-muniz-daytona-hospital-crash/74403620",
+          "published_at": "2026-11-12T00:04:00Z"
+        },
+        {
+          "publisher": "ESPN",
+          "group": "espn",
+          "kind": "news",
+          "wire": false,
+          "title": "Actor Frankie Muniz released from hospital, 'little sore' after Daytona crash",
+          "url": "https://www.espn.com/racing/nascar/story/_/id/50456406/actor-frankie-muniz-hospitalized-daytona-crash",
+          "published_at": "2026-11-12T01:19:10Z"
+        }
+      ]
+    },
+    {
+      "headline": "Walpole native Cam Schlittler wins AL Cy Young Award",
+      "score": 60,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "massachusetts",
+          "red sox"
+        ]
+      },
+      "independent_outlets": [
+        "ESPN",
+        "The Boston Globe",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-12T00:26:00Z",
+      "reports": [
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Walpole native Cam Schlittler wins AL Cy Young Award",
+          "url": "https://www.wcvb.com/article/cam-schlittler-american-league-cy-young/74400927",
+          "published_at": "2026-11-12T00:26:00Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Walpole native Cam Schlittler takes home AL Cy Young Award \u2014 unanimously \u2014 after first full MLB season with the Yankees",
+          "url": "https://www.bostonglobe.com/2026/11/11/sports/mlb-cy-young-award/",
+          "published_at": "2026-11-12T00:59:14Z"
+        },
+        {
+          "publisher": "ESPN",
+          "group": "espn",
+          "kind": "news",
+          "wire": false,
+          "title": "MLB Awards Week: Misiorowski, Schlittler are unanimous Cy Young winners",
+          "url": "https://www.espn.com/mlb/story/_/id/50391276/2026-season-awards-mvp-cy-young-al-nl",
+          "published_at": "2026-11-12T01:22:10Z"
+        }
+      ]
+    },
+    {
+      "headline": "House GOP bets on MAGA \"fighter\" Jim Jordan",
+      "score": 56,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "Axios",
+        "CBS News",
+        "NPR"
+      ],
+      "first_seen": "2026-11-11T10:10:06Z",
+      "reports": [
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "House GOP bets on MAGA \"fighter\" Jim Jordan",
+          "url": "https://www.axios.com/2026/11/11/jim-jordan-house-minority-leader-republicans",
+          "published_at": "2026-11-11T10:10:06Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "House Republicans elect Jim Jordan as minority leader for the next Congress",
+          "url": "https://abcnews.com/Politics/house-republicans-elect-jim-jordan-minority-leader-congress/story?id=138016685",
+          "published_at": "2026-11-11T12:41:29Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Who is Jim Jordan, the House Republicans' pick for minority leader?",
+          "url": "https://www.npr.org/2026/11/11/nx-s1-6037439/who-is-jim-jordan-the-house-republicans-pick-for-minority-leader",
+          "published_at": "2026-11-11T21:24:05Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Rep.-elect Chris Rabb, 1 of 6 DSA newcomers to the House, on his plans for Congress",
+          "url": "https://www.cbsnews.com/video/rep-elect-chris-rabb-1-of-6-dsa-newcomers-to-the-house-on-his-plans-for-congress/",
+          "published_at": "2026-11-12T00:20:42Z"
+        }
+      ]
+    },
+    {
+      "headline": "WATCH: President Trump pays tribute to veterans",
+      "score": 51,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "Fox News",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-11T18:04:03Z",
+      "reports": [
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "WATCH: President Trump pays tribute to veterans",
+          "url": "https://abcnews.com/video/138051810/",
+          "published_at": "2026-11-11T18:04:03Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "\u2018Our veterans mean much to us\u2019: West Roxbury senior care home pays tribute to those who served",
+          "url": "https://www.bostonglobe.com/2026/11/11/metro/veterans-honored-at-west-roxbury-german-centre/",
+          "published_at": "2026-11-11T19:01:34Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Tunnel to Towers pays off mortgages for 30 military families in Veterans Day tribute: 'A great sacrifice'",
+          "url": "https://www.foxnews.com/lifestyle/tunnel-towers-pays-mortgages-30-military-families-veterans-day-tribute-great-sacrifice",
+          "published_at": "2026-11-12T01:46:11Z"
+        }
+      ]
+    },
+    {
+      "headline": "After Hegseth Impeachment Vote Fails, Massie Vows More Tough Votes for GOP In His Final Days",
+      "score": 51,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "Fox News",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-11T20:42:33Z",
+      "reports": [
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "After Hegseth Impeachment Vote Fails, Massie Vows More Tough Votes for GOP In His Final Days",
+          "url": "https://www.nytimes.com/2026/11/11/us/politics/massie-trump-difficult-republican-votes.html",
+          "published_at": "2026-11-11T20:42:33Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Several Democrats missed the crucial Hegseth impeachment vote. Many blamed traffic",
+          "url": "https://abcnews.com/Politics/democrats-missed-crucial-hegseth-impeachment-vote-blamed-traffic/story?id=138053963",
+          "published_at": "2026-11-11T21:44:20Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "El-Sayed tells Hegseth to resign after impeachment effort fails: 'Make it easy for everybody'",
+          "url": "https://www.foxnews.com/media/el-sayed-tells-hegseth-resign-after-democrats-derail-impeachment-effort-make-easy-everybody",
+          "published_at": "2026-11-12T01:17:26Z"
+        }
+      ]
+    },
+    {
+      "headline": "Three people allegedly fired at car with pellet gun in Worcester road rage incident, police say",
+      "score": 50,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "boston",
+          "worcester"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-11T18:03:56Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Three people allegedly fired at car with pellet gun in Worcester road rage incident, police say",
+          "url": "https://www.bostonglobe.com/2026/11/11/metro/paxton-worcester-road-rage-shots-fired-investigation/",
+          "published_at": "2026-11-11T18:03:56Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Police arrest Uber driver for allegedly refusing to move his car in downtown Boston, officials say",
+          "url": "https://www.bostonglobe.com/2026/11/11/metro/uber-driver-arrested-blocking-traffic-downtown-boston/",
+          "published_at": "2026-11-11T19:27:47Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Worcester police charge 3 suspects with assault after pellet gun road rage incident",
+          "url": "https://www.masslive.com/centralmass/2026/11/worcester-police-charge-3-suspects-with-assault-after-pellet-gun-road-rage-incident.html",
+          "published_at": "2026-11-11T23:46:27Z"
+        }
+      ]
+    },
+    {
+      "headline": "The first snow of the season is expected Friday in Central and Western Mass. Here\u2019s how much.",
+      "score": 50,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "boston",
+          "mass.",
+          "massachusetts",
+          "new england"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-11T21:29:07Z",
+      "reports": [
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "The first snow of the season is expected Friday in Central and Western Mass. Here\u2019s how much.",
+          "url": "https://www.masslive.com/weather/2026/11/the-first-snow-of-the-season-is-expected-friday-in-central-and-western-mass-heres-how-much.html",
+          "published_at": "2026-11-11T21:29:07Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Nor\u2019easter forecast: Here\u2019s when and where the snow and rain are expected in New England",
+          "url": "https://www.bostonglobe.com/2026/11/09/metro/noreaster-snow-boston-new-england/",
+          "published_at": "2026-11-11T22:19:46Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Nor\u2019easter forecast: Here\u2019s when and where the snow and rain are expected in New England",
+          "url": "https://www.bostonglobe.com/2026/11/11/metro/noreaster-snow-boston-new-england/",
+          "published_at": "2026-11-11T22:52:44Z"
+        }
+      ]
+    },
+    {
+      "headline": "Man arrested at Roxbury gas station allegedly spat at officer, police say",
+      "score": 50,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "boston"
+        ]
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "The Boston Globe",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-12T00:18:38Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Man arrested at Roxbury gas station allegedly spat at officer, police say",
+          "url": "https://www.bostonglobe.com/2026/11/11/metro/alexi-daniel-silva-roxbury-arrest-robbery/",
+          "published_at": "2026-11-12T00:18:38Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Family of man who died after struggle with police sues officers",
+          "url": "https://www.wcvb.com/article/gigliotti-estate-lawsuit-haverhill-police-nov-11-2026/74402601",
+          "published_at": "2026-11-12T00:51:00Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Family of Haverhill man who died in interaction with police sues officers who restrained the man before his death",
+          "url": "https://www.boston.com/news/local-news/2026/11/11/francis-gigliotti-haverhill-police-lawsuit/",
+          "published_at": "2026-11-12T02:02:09Z"
+        }
+      ]
+    },
+    {
+      "headline": "Seething Sutton residents packed a Select Board meeting about the Kraft Group\u2019s data center proposal. They did not hold back.",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "worcester"
+        ]
+      },
+      "independent_outlets": [
+        "NBC News",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-11T14:15:18Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Seething Sutton residents packed a Select Board meeting about the Kraft Group\u2019s data center proposal. They did not hold back.",
+          "url": "https://www.bostonglobe.com/2026/11/11/business/data-center-kraft-sutton-public-meeting/",
+          "published_at": "2026-11-11T14:15:18Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "As U.S. pushes back on data centers, China races to build them and catch up",
+          "url": "https://www.nbcnews.com/video/as-u-s-pushes-back-on-data-centers-china-races-to-build-them-273308229709",
+          "published_at": "2026-11-12T00:52:44Z"
+        }
+      ]
+    },
+    {
+      "headline": "Moscow\u2019s ambassador to the US dies, the Russian Foreign Ministry says",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "The Boston Globe",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-11T18:55:29Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Moscow\u2019s ambassador to the US dies, the Russian Foreign Ministry says",
+          "url": "https://www.bostonglobe.com/2026/11/11/world/alexander-darchiev-russia-ambassador-to-us-dies/",
+          "published_at": "2026-11-11T18:55:29Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Russian ambassador to the US dies 'suddenly' in Moscow",
+          "url": "https://www.wcvb.com/article/moscow-russian-ambassador-to-us-dies-suddenly/74405349",
+          "published_at": "2026-11-11T23:57:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Storm maps detail the cold rain and snow impacts headed our way starting Thursday",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "massachusetts",
+          "new england"
+        ]
+      },
+      "independent_outlets": [
+        "The Boston Globe",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-11T22:18:56Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Storm maps detail the cold rain and snow impacts headed our way starting Thursday",
+          "url": "https://www.bostonglobe.com/2026/11/11/metro/noreaster-snow-rain-forecast-maps-boston/",
+          "published_at": "2026-11-11T22:18:56Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Weather Alert: Incoming storm brings cold rain, snowshowers for some in New England",
+          "url": "https://www.wcvb.com/article/wintry-weather-rain-snow-massachusetts-new-england-forecast-nov2026/74388627",
+          "published_at": "2026-11-12T00:33:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Biden says he wouldn't have run in 2024 if he knew about his cancer",
+      "score": 45,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "PBS NewsHour",
+        "Politico"
+      ],
+      "first_seen": "2026-11-11T15:29:34Z",
+      "reports": [
+        {
+          "publisher": "Politico",
+          "group": "politico",
+          "kind": "news",
+          "wire": false,
+          "title": "Biden says he wouldn't have run in 2024 if he knew about his cancer",
+          "url": "https://www.politico.com/news/2026/11/11/biden-2024-cancer-diagnosis-debate-performance-01160750",
+          "published_at": "2026-11-11T15:29:34Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Biden says he wouldn't have run for a second term in 2024 if he knew he had cancer",
+          "url": "https://abcnews.com/US/wireStory/biden-run-term-2024-knew-cancer-138047956",
+          "published_at": "2026-11-11T20:29:25Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Biden says he wouldn't have run for a second term in 2024 if he knew he had cancer",
+          "url": "https://www.pbs.org/newshour/politics/biden-says-he-wouldnt-have-run-for-a-second-term-in-2024-if-he-knew-he-had-cancer",
+          "published_at": "2026-11-11T22:04:11Z"
+        }
+      ]
+    },
+    {
+      "headline": "Following big Democratic wins, these swing voters are looking for results",
+      "score": 43,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 2,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "Bloomberg",
+        "NPR",
+        "The Guardian"
+      ],
+      "first_seen": "2026-11-11T14:19:42Z",
+      "reports": [
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Following big Democratic wins, these swing voters are looking for results",
+          "url": "https://www.npr.org/2026/11/11/nx-s1-6036790/swing-voters-swing-states-democrats-congress",
+          "published_at": "2026-11-11T14:19:42Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Mississippi Voters Pick Another Senator to Widen Democratic Win",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-11/democrat-colom-wins-mississippi-senate-race-cnn-projects",
+          "published_at": "2026-11-11T22:08:01Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrat Scott Colom to be first Black senator elected in Mississippi since 1874 after narrow win \u2013 US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates",
+          "published_at": "2026-11-12T01:39:21Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Why Democrat Scott Colom\u2019s win in Mississippi Senate race is so significant",
+          "url": "https://www.bbc.co.uk/news/videos/cjy5x42p3qzko?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-12T02:02:37Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+          "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-12T02:09:08Z"
+        }
+      ]
+    }
+  ]
+}
