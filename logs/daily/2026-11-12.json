@@ -1,0 +1,63 @@
+{
+  "date": "2026-11-12",
+  "runs": [
+    {
+      "started_at": "2026-11-13T02:30:30.259666Z",
+      "outcome": "published",
+      "steps": [
+        {
+          "at": "2026-11-13T02:30:30.259669Z",
+          "step": "prepare: lock acquired (live)"
+        },
+        {
+          "at": "2026-11-13T02:30:37.188520Z",
+          "step": "prepare: ran src/news/feeds.py"
+        },
+        {
+          "at": "2026-11-13T02:30:37.396830Z",
+          "step": "prepare: ran src/news/cluster.py"
+        },
+        {
+          "at": "2026-11-13T02:42:25.552257Z",
+          "step": "finalize: published to local site"
+        }
+      ],
+      "_new_run": true,
+      "mode": "live",
+      "prelaunch": false,
+      "finished_at": "2026-11-13T02:42:25.552149Z",
+      "link_checks": [
+        {
+          "url": "https://www.nbcboston.com/news/national-international/nvidia-ceo-jensen-huang-resigns-affair-national-security-concerns/4048272/",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.cbsnews.com/news/nvidia-ceo-jensen-huang-resigns/",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.axios.com/2026/11/12/nvidia-jensen-huang-out",
+          "ok": true,
+          "note": "HTTP 403 (blocks automated checks; not verifiable here)"
+        }
+      ],
+      "samples_removed": [],
+      "stories_shown": [
+        "Jensen Huang resigns as Nvidia CEO"
+      ],
+      "usage": {
+        "article_reads": 5,
+        "web_searches": 0,
+        "render_rounds": 3,
+        "minutes": 22
+      }
+    }
+  ]
+}

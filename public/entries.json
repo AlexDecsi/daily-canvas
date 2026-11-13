@@ -1,6 +1,63 @@
 {
   "entries": [
     {
+      "date": "2026-11-12",
+      "published_at": "2026-11-13T02:42:23.872557Z",
+      "status": "published",
+      "prelaunch": false,
+      "title": "Jensen Huang resigns as Nvidia's chief executive",
+      "caption": "Nvidia announced Thursday that co-founder Jensen Huang had stepped down as CEO and from its board, effective immediately, after 33 years leading the chipmaker; CFO Colette Kress became interim CEO. Shares fell as much as 14% before closing down about 4%. The exit followed days of reports about Huang's personal relationships and related national security questions, which the company says it is investigating.",
+      "stories": [
+        {
+          "name": "Jensen Huang resigns as Nvidia CEO",
+          "role": "focal",
+          "facts": [
+            "On Thursday, Nov. 12, Nvidia announced that co-founder Jensen Huang had stepped down as CEO and from its board, effective immediately, after 33 years leading the chipmaker.",
+            "CFO Colette Kress was named interim CEO while keeping her finance role; Harvey C. Jones became the board's first-ever chair. The board will consider internal and external candidates.",
+            "The exit followed days of reports about Huang's personal relationships and related national security questions, which Nvidia said it was investigating; Huang made no public statement reported.",
+            "Nvidia shares fell as much as 14% early Thursday, then recovered to close down about 4.3%."
+          ],
+          "sources": [
+            {
+              "publisher": "NBC Boston",
+              "title": "Nvidia CEO Jensen Huang resigns after affair raises national security concerns",
+              "url": "https://www.nbcboston.com/news/national-international/nvidia-ceo-jensen-huang-resigns-affair-national-security-concerns/4048272/",
+              "published_at": "2026-11-12T09:13:44Z"
+            },
+            {
+              "publisher": "CBS News",
+              "title": "Nvidia CEO Jensen Huang resigns in wake of affair, spy scandal",
+              "url": "https://www.cbsnews.com/news/nvidia-ceo-jensen-huang-resigns/",
+              "published_at": "2026-11-12T22:28:15Z"
+            },
+            {
+              "publisher": "CNBC",
+              "title": "Nvidia stock closes down over 4% after CEO Jensen Huang announces resignation",
+              "url": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html",
+              "published_at": "2026-11-12T21:17:21Z"
+            },
+            {
+              "publisher": "Axios",
+              "title": "Jensen Huang, an architect of the AI boom, resigns as Nvidia CEO",
+              "url": "https://www.axios.com/2026/11/12/nvidia-jensen-huang-out",
+              "published_at": "2026-11-12T15:37:35Z"
+            }
+          ]
+        }
+      ],
+      "artwork": {
+        "path": "artwork/2026-11-12.svg",
+        "format": "svg",
+        "alt": "Seen from rows of empty seats in a dark auditorium, a single spotlight falls on a bare stool on an empty stage, with a black leather jacket hung over its back. Behind it a giant glowing green computer chip fills the stage screen, circuit traces radiating outward, and a red share-price line plunges and then climbs part of the way back. It represents Jensen Huang's resignation as Nvidia CEO and the day's drop in the company's stock.",
+        "method": "code-generated SVG (graphic-poster kit, src/art/daily/)",
+        "revision": "r3"
+      },
+      "backfill": {
+        "is_backfill": false,
+        "reason": null
+      }
+    },
+    {
       "date": "2026-11-11",
       "published_at": "2026-11-12T02:16:36.843109Z",
       "status": "published",

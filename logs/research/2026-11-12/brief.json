@@ -1,0 +1,66 @@
+{
+  "date": "2026-11-12",
+  "mode": "live (scheduled run, ~9:07 p.m. Boston time on Nov. 12)",
+  "prepared_at": "2026-11-13T02:45:00Z",
+  "candidates_considered": 25,
+  "rationale": "Jensen Huang's resignation as Nvidia CEO is the day's dominant story (40+ reports across AP, CBS, CNBC, NBC, NYT, Axios, Bloomberg, PBS, NPR, the Globe, the BBC and the Guardian) and, unlike the allegations avoided on Nov. 10-11, it is now a confirmed corporate event: the board announced his immediate departure, named an interim CEO and a first-ever chair, and the stock swung sharply. Only the confirmed events are drawn; the affair and espionage allegations and the private individuals involved are left out of the picture. Yesterday's entry already covered the Mississippi Senate race; the Brooklyn building collapse and Hegseth's medal for the Tomb guard rank lower and would not fit one scene.",
+  "stories": [
+    {
+      "role": "focal",
+      "name": "Jensen Huang resigns as Nvidia CEO",
+      "facts": [
+        "On Thursday, Nov. 12, Nvidia announced that co-founder Jensen Huang had stepped down as CEO and from its board, effective immediately, after 33 years leading the chipmaker.",
+        "CFO Colette Kress was named interim CEO while keeping her finance role; Harvey C. Jones became the board's first-ever chair. The board will consider internal and external candidates.",
+        "The exit followed days of reports about Huang's personal relationships and related national security questions, which Nvidia said it was investigating; Huang made no public statement reported.",
+        "Nvidia shares fell as much as 14% early Thursday, then recovered to close down about 4.3%."
+      ],
+      "people": [
+        {
+          "name": "Jensen Huang",
+          "public_figure": true,
+          "verified_action": "Resigned as CEO and board member, effective immediately, per Nvidia's announcement (AP via NBC Boston, CBS News, CNBC). Not drawn as a figure: no public appearance was reported. Represented only by an empty, spotlit stage and his widely documented signature black leather jacket left on a stool."
+        }
+      ],
+      "visual_notes": "An empty keynote stage seen from low in the dark audience: a single spotlight falls on an empty stool with a black leather jacket draped over it (illustrative symbolism for the departed CEO). Behind, a giant glowing green graphics chip on the stage screen radiates circuit traces like a sunrise; across it, a red share-price line plunges steeply and recovers part of the way (the 14% intraday fall and ~4% close), with no numbers or logos. Foreground: rows of empty seat backs. No people, no text, no allegations depicted.",
+      "confidence": "high: AP (via NBC Boston), CBS News and CNBC, all read in full, agree on the resignation, the interim CEO, the new chair and the share-price moves. The allegations are attributed and disputed, so none are drawn or stated as fact.",
+      "sources": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "wire": "AP",
+          "title": "Nvidia CEO Jensen Huang resigns after affair raises national security concerns",
+          "url": "https://www.nbcboston.com/news/national-international/nvidia-ceo-jensen-huang-resigns-affair-national-security-concerns/4048272/",
+          "published_at": "2026-11-12T09:13:44Z",
+          "checked_at": "2026-11-13T02:30:00Z",
+          "checked": "full article"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "title": "Nvidia CEO Jensen Huang resigns in wake of affair, spy scandal",
+          "url": "https://www.cbsnews.com/news/nvidia-ceo-jensen-huang-resigns/",
+          "published_at": "2026-11-12T22:28:15Z",
+          "checked_at": "2026-11-13T02:33:00Z",
+          "checked": "full article"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "title": "Nvidia stock closes down over 4% after CEO Jensen Huang announces resignation",
+          "url": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html",
+          "published_at": "2026-11-12T21:17:21Z",
+          "checked_at": "2026-11-13T02:34:00Z",
+          "checked": "full article"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "title": "Jensen Huang, an architect of the AI boom, resigns as Nvidia CEO",
+          "url": "https://www.axios.com/2026/11/12/nvidia-jensen-huang-out",
+          "published_at": "2026-11-12T15:37:35Z",
+          "checked": "headline only (403 on fetch)"
+        }
+      ]
+    }
+  ]
+}

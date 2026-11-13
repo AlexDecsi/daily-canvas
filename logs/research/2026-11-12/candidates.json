@@ -1,0 +1,2125 @@
+{
+  "date": "2026-11-12",
+  "fetched_at": "2026-11-13T02:30:37.165128Z",
+  "items_considered": 622,
+  "candidates": [
+    {
+      "headline": "Thursday briefing: What we do (and don\u2019t) know about Alice Huang and the Nvidia affair",
+      "score": 174,
+      "signals": {
+        "us_outlets": 11,
+        "intl_outlets": 2,
+        "front_pages": 8,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "Axios",
+        "BBC News",
+        "Bloomberg",
+        "CBS News",
+        "CNBC",
+        "NBC Boston",
+        "NBC News",
+        "NPR",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The Guardian",
+        "The Hill",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-12T06:43:31Z",
+      "reports": [
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Thursday briefing: What we do (and don\u2019t) know about Alice Huang and the Nvidia affair",
+          "url": "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair",
+          "published_at": "2026-11-12T06:43:31Z"
+        },
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Nvidia CEO Jensen Huang resigns after affair raises national security concerns",
+          "url": "https://www.nbcboston.com/news/national-international/nvidia-ceo-jensen-huang-resigns-affair-national-security-concerns/4048272/",
+          "published_at": "2026-11-12T09:13:44Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "What we know as Nvidia CEO Jensen Huang resigns over affair allegations",
+          "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-12T15:26:39Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Jensen Huang, an architect of the AI boom, resigns as Nvidia CEO",
+          "url": "https://www.axios.com/2026/11/12/nvidia-jensen-huang-out",
+          "published_at": "2026-11-12T15:37:35Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump recommends Tim Cook for Nvidia CEO after Jensen Huang resigns",
+          "url": "https://www.nbcnews.com/video/trump-recommends-tim-cook-for-nvidia-ceo-after-jensen-huang-resigns-273344581767",
+          "published_at": "2026-11-12T16:32:41Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Jensen Huang joins a growing club: CEOs brought down by affairs",
+          "url": "https://www.bostonglobe.com/2026/11/12/business/jensen-huang-ceo-affairs/",
+          "published_at": "2026-11-12T18:46:26Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Jensen Huang has resigned, what's next for Nvidia?",
+          "url": "https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-12T19:33:37Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Jensen Huang's Nvidia exit casts shadow over Wall Street\u2019s $500 billion AI financing bet",
+          "url": "https://www.cnbc.com/2026/11/12/nvidia-ceo-exit-ai-financing.html",
+          "published_at": "2026-11-12T19:33:50Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Who will replace Jensen Huang? Here's our early thoughts on the search for Nvidia's next CEO",
+          "url": "https://www.cnbc.com/investingclub/2026/11/12/jensen-huang-ceo-replacement-jim-cramer.html",
+          "published_at": "2026-11-12T20:00:42Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Jensen Huang is out and Nvidia stock is down\u2014what market pros say about buying dips",
+          "url": "https://www.cnbc.com/make-it/2026/11/12/nvidia-what-market-pros-say-about-buying-dips.html",
+          "published_at": "2026-11-12T20:01:29Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Jensen Huang's implosion at Nvidia leaves trail of collateral damage",
+          "url": "https://www.axios.com/2026/11/12/jensen-huang-nvidia-ceo-ai-resignation",
+          "published_at": "2026-11-12T20:02:25Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Jensen Huang built the company that powers AI. Now Nvidia must find a way forward without him.",
+          "url": "https://www.bostonglobe.com/2026/11/12/business/nvidia-jensen-huang-artificial-intelligence/",
+          "published_at": "2026-11-12T20:06:56Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Republicans push for Jensen Huang's testimony following Nvidia CEO's resignation",
+          "url": "https://abcnews.com/Politics/republicans-renew-push-jensen-huangs-testimony-nvidia-ceos/story?id=138083749",
+          "published_at": "2026-11-12T20:07:55Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Jensen Huang's exit from Nvidia raises critical questions about the future of AI",
+          "url": "https://www.cnbc.com/2026/11/12/jensen-huangs-exit-from-nvidia-raises-questions-about-future-of-ai.html",
+          "published_at": "2026-11-12T20:32:21Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Huang's exit rocks Nvidia and creates openings for rival firms",
+          "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-resigns-competitors/",
+          "published_at": "2026-11-12T20:38:00Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "The rise and fall of former Nvidia CEO Jensen Huang",
+          "url": "https://www.nbcnews.com/now/video/the-rise-and-fall-of-former-nvidia-ceo-jensen-huang-273361477672",
+          "published_at": "2026-11-12T20:40:44Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Nvidia stock closes down over 4% after CEO Jensen Huang announces resignation",
+          "url": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html",
+          "published_at": "2026-11-12T21:17:21Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Who will succeed Jensen Huang at Nvidia? Analysts weigh in.",
+          "url": "https://www.cbsnews.com/news/jensen-huang-next-nvidia-ceo-candidates/",
+          "published_at": "2026-11-12T21:44:33Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Nvidia\u2019s Huang Ousted by Board",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-12/bloomberg-businessweek-daily-11-12-2026-video",
+          "published_at": "2026-11-12T21:48:31Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Nvidia sheds almost $500 billion in value as Jensen Huang resigns",
+          "url": "https://www.cbsnews.com/news/nvidia-stock-nvda-ceo-jensen-huang/",
+          "published_at": "2026-11-12T22:03:31Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Without Jensen Huang, Nvidia's organizational structure isn't 'built to last,' management expert says",
+          "url": "https://www.cnbc.com/make-it/2026/11/12/nvidia-jensen-huang-management-structure.html",
+          "published_at": "2026-11-12T22:06:08Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "WATCH: 'More questions than answers' about Nvidia's Huang, Jeffries says in news conference",
+          "url": "https://www.pbs.org/newshour/politics/watch-more-questions-than-answers-about-nvidias-huang-jeffries-says-in-news-conference",
+          "published_at": "2026-11-12T22:14:06Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Nvidia CEO Jensen Huang resigns in wake of affair, spy scandal",
+          "url": "https://www.cbsnews.com/news/nvidia-ceo-jensen-huang-resigns/",
+          "published_at": "2026-11-12T22:28:15Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "What we know after Jensen Huang's resignation as Nvidia's CEO",
+          "url": "https://www.pbs.org/newshour/nation/what-we-know-after-jensen-huangs-resignation-as-nvidias-ceo",
+          "published_at": "2026-11-12T22:37:44Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "The Jensen Huang Scandal & How to Spot a Honey Trap | Straight up with Kelly and Vlad",
+          "url": "https://www.cbsnews.com/video/jensen-huang-scandal-how-to-spot-honey-trap-straight-up-kelly-vlad/",
+          "published_at": "2026-11-12T22:38:00Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "What's a Honey Trap? The spy tactic that helped topple Jensen Huang",
+          "url": "https://www.npr.org/2026/11/12/nx-s1-6039266/jensen-huang-china-honey-trap-nvidia-spies-sex-alice-huang",
+          "published_at": "2026-11-12T22:45:40Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Alice Huang tied to Nvidia\u2019s biggest Chinese competitor",
+          "url": "https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html",
+          "published_at": "2026-11-12T22:47:28Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "What we know about Jensen Huang's resignation so far",
+          "url": "https://www.cbsnews.com/video/what-we-know-about-jensen-huangs-resignation-so-far/",
+          "published_at": "2026-11-12T22:52:00Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "5 takeaways from Nvidia\u2019s Jensen Huang scandal",
+          "url": "https://thehill.com/homenews/analysis/6217604-nvidias-jensen-huang-resigned/",
+          "published_at": "2026-11-12T22:59:47Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "11 names to watch in the Jensen Huang succession search",
+          "url": "https://www.axios.com/2026/11/12/nvidia-next-ceo-jensen-huang-predictions",
+          "published_at": "2026-11-12T23:06:30Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Congress isn't letting Nvidia's Huang off the hook",
+          "url": "https://thehill.com/newsletters/technology/6217664-congress-isnt-letting-nvidias-huang-off-the-hook/",
+          "published_at": "2026-11-12T23:12:17Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Cramer says Jensen Huang betrayed Nvidia shareholders. How to pick up the pieces",
+          "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-exit-cramer.html",
+          "published_at": "2026-11-12T23:14:56Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "I Wrote Jensen Huang\u2019s Biography. Here\u2019s What Led to His Downfall.",
+          "url": "https://www.nytimes.com/2026/11/12/opinion/jensen-huang-nvidia.html",
+          "published_at": "2026-11-12T23:26:55Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+          "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-12T23:34:05Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump calls for former Apple leader Tim Cook to replace Jensen Huang as Nvidia CEO",
+          "url": "https://www.cbsnews.com/video/trump-calls-for-tim-cook-to-replace-jensen-huang-as-nvidia-ceo/",
+          "published_at": "2026-11-12T23:41:00Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "What Huang's resignation mean for chipmakers, AI and U.S. national security",
+          "url": "https://www.pbs.org/newshour/show/what-huangs-resignation-mean-for-chipmakers-ai-and-u-s-national-security",
+          "published_at": "2026-11-12T23:55:39Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Who could replace the departed Jensen Huang as Nvidia CEO?",
+          "url": "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-nvidia-ceo-replacement",
+          "published_at": "2026-11-13T00:03:57Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump Had Urged Nvidia\u2019s Jensen Huang to Fight for His Job",
+          "url": "https://www.nytimes.com/2026/11/12/us/politics/trump-jensen-huang-nvidia.html",
+          "published_at": "2026-11-13T00:25:08Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Examining Jensen Huang's swift and stunning fall from grace at Nvidia",
+          "url": "https://www.cbsnews.com/video/examining-jensen-huangs-swift-stunning-fall-from-grace-nvidia/",
+          "published_at": "2026-11-13T01:44:56Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "What could happen to AI development and chip production as Huang resigns from Nvidia",
+          "url": "https://www.cbsnews.com/video/what-could-happen-to-ai-development-and-chip-production-as-huang-resigns-from-nvidia/",
+          "published_at": "2026-11-13T01:52:57Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Nvidia live updates: Trump calls Huang saga a 'horrible thing' and 'so sad to see'",
+          "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html",
+          "published_at": "2026-11-13T01:58:16Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Nvidia\u2019s Jensen Huang expected to testify before Congress amid calls for crackdown on China chip exports \u2013 live",
+          "url": "https://www.theguardian.com/technology/live/2026/nov/13/nvidia-jensen-huang-to-testify-before-congress-live-latest-updates",
+          "published_at": "2026-11-13T02:14:37Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "How could the Nvidia CEO\u2019s affair threaten US national security?",
+          "url": "https://www.bbc.co.uk/news/videos/cm7526d2qeg4o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-13T02:15:59Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Stock futures rise after market dips amid Nvidia woes: Live updates",
+          "url": "https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html",
+          "published_at": "2026-11-13T02:29:27Z"
+        }
+      ]
+    },
+    {
+      "headline": "Democrat Scott Colom wins Mississippi Senate race, breaking the GOP's grip on the state",
+      "score": 170,
+      "signals": {
+        "us_outlets": 10,
+        "intl_outlets": 2,
+        "front_pages": 9,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "Axios",
+        "BBC News",
+        "CBS News",
+        "Fox News",
+        "NBC Boston",
+        "NPR",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The Guardian",
+        "The Hill",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-12T09:13:44Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrat Scott Colom wins Mississippi Senate race, breaking the GOP's grip on the state",
+          "url": "https://www.nbcboston.com/elections/scott-colom-cindy-hyde-smith-mississippi-senate-race/4044544/",
+          "published_at": "2026-11-12T09:13:44Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Rep. Bennie Thompson discusses the U.S. Senate race Democrat win in Mississippi",
+          "url": "https://www.npr.org/2026/11/12/nx-s1-6037852/rep-bennie-thompson-discusses-the-u-s-senate-race-democrat-win-in-mississippi",
+          "published_at": "2026-11-12T09:34:45Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "How Scott Colom defied the odds to go from DA to Mississippi's Democratic U.S. senator",
+          "url": "https://www.npr.org/2026/11/12/nx-s1-6037438/scott-colom-defied-the-odds-mississippi-democratic-senator",
+          "published_at": "2026-11-12T10:00:00Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "From Emmett Till to Robert Johnson, the Delta powered Scott Colom's historic Senate bid",
+          "url": "https://www.axios.com/2026/11/12/scott-colom-mississippi-delta-civil-rights-till",
+          "published_at": "2026-11-12T10:40:53Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Colom wins Mississippi Senate race. And, White House warns Dems over future probes",
+          "url": "https://www.npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia",
+          "published_at": "2026-11-12T12:15:48Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
+          "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-12T12:56:55Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Before Scott Colom, these two men were the last black US senators from Mississippi",
+          "url": "https://www.bbc.co.uk/news/articles/cmde1y19g19do?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-12T14:12:55Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "In Mississippi, Scott Colom Supporters Celebrate Historic Senate Win",
+          "url": "https://www.nytimes.com/2026/11/12/us/elections/mississippi-colom-senate-race-black-voters.html",
+          "published_at": "2026-11-12T14:14:45Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": true,
+          "title": "Democrat Colom flips Mississippi Senate seat",
+          "url": "https://abcnews.com/Politics/democrat-colom-mississippis-black-senator-100-years-ap/story?id=137984057",
+          "published_at": "2026-11-12T14:36:06Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Mississippi makes history with Democrat Scott Colom\u2019s Senate win - The Latest",
+          "url": "https://www.theguardian.com/news/video/2026/nov/12/mississippi-makes-history-with-democrat-scott-coloms-senate-win-the-latest",
+          "published_at": "2026-11-12T19:00:53Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Scott Colom's win in Mississippi puts political change to the test",
+          "url": "https://www.axios.com/2026/11/12/scott-colom-mississippi-senate-black-representation",
+          "published_at": "2026-11-12T20:47:56Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Black voters view Scott Colom\u2019s historic Senate win through lens of Mississippi\u2019s racial legacy",
+          "url": "https://www.bostonglobe.com/2026/11/12/nation/black-voters-view-scott-coloms-historic-senate-win-through-lens-mississippis-racial-legacy/",
+          "published_at": "2026-11-12T21:27:34Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Colom\u2019s historic Senate win could reshape Mississippi\u2019s political future: Analysis",
+          "url": "https://abcnews.com/Politics/coloms-historic-senate-win-reshape-mississippis-political-future/story?id=138082817",
+          "published_at": "2026-11-12T21:52:06Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrat Cindy Holscher wins Kansas governor's race, extending party's hold on governor's mansion",
+          "url": "https://www.foxnews.com/politics/democrat-cindy-holscher-wins-kansas-governors-race-extending-partys-hold-governors-mansion",
+          "published_at": "2026-11-12T23:06:47Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "White House warns of \"blatant criminality\" in Democratic probes",
+          "url": "https://www.cbsnews.com/news/white-house-counsel-will-scharf-house-oversight-committee-robert-garcia-investigations/",
+          "published_at": "2026-11-12T23:09:18Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Cindy Holscher wins election for Kansas governor, extending Democrats' wave of victories",
+          "url": "https://www.pbs.org/newshour/politics/cindy-holscher-wins-election-for-kansas-governor-extending-democrats-wave-of-victories",
+          "published_at": "2026-11-12T23:15:50Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Holscher Wins Kansas Governor Race, Retaining Seat for Democrats",
+          "url": "https://www.nytimes.com/2026/11/12/us/kansas-governor-democrat-holscher-wins.html",
+          "published_at": "2026-11-12T23:16:10Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Cindy Holscher wins in Kansas, holding governor's office for Democrats",
+          "url": "https://www.npr.org/2026/11/12/g-s1-151239/kansas-governor-midterms-holscher-masterson",
+          "published_at": "2026-11-12T23:36:19Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Scott Colom's historic victory marks 'new moment' for Black voters, Bryan Stevenson says",
+          "url": "https://www.pbs.org/newshour/show/scott-coloms-historic-victory-marks-new-moment-for-black-voters-bryan-stevenson-says",
+          "published_at": "2026-11-12T23:38:26Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "How Scott Colom won his longshot bid to flip Mississippi's Senate seat",
+          "url": "https://www.pbs.org/newshour/show/how-scott-colom-won-his-longshot-bid-to-flip-mississippis-senate-seat",
+          "published_at": "2026-11-12T23:40:52Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Jasmine Crockett on Scott Colom's Senate win: \"Mississippi has been overlooked\"",
+          "url": "https://www.cbsnews.com/video/jasmine-crockett-on-scott-coloms-senate-win-mississippi-has-been-overlooked/",
+          "published_at": "2026-11-12T23:59:27Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump on Colom's Mississippi Senate win: 'I give him a lot of credit'",
+          "url": "https://thehill.com/homenews/campaign/6217818-trump-praises-colom-mississippi-victory/",
+          "published_at": "2026-11-13T01:06:58Z"
+        }
+      ]
+    },
+    {
+      "headline": "How search-and-rescue works when a building collapses, and how a team trains for it",
+      "score": 128,
+      "signals": {
+        "us_outlets": 7,
+        "intl_outlets": 2,
+        "front_pages": 7,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "BBC News",
+        "CBS News",
+        "NBC Boston",
+        "NBC News",
+        "NPR",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-12T09:13:44Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "How search-and-rescue works when a building collapses, and how a team trains for it",
+          "url": "https://www.nbcboston.com/news/local/mass-task-force-1-building-collapse-training/4048651/",
+          "published_at": "2026-11-12T09:13:44Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Rescue ends in Brooklyn after 8 die in building collapse",
+          "url": "https://www.bostonglobe.com/2026/11/12/nation/brooklyn-building-collapse/",
+          "published_at": "2026-11-12T17:29:47Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Casualties continue to rise after Brooklyn building collapses",
+          "url": "https://www.npr.org/sections/the-picture-show/2026/11/12/g-s1-153229/brooklyn-building-collapse-photos",
+          "published_at": "2026-11-12T18:15:00Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "'How does a building just fall?' Neighbours grieve after deadly Brooklyn building collapse",
+          "url": "https://www.bbc.co.uk/news/articles/cm4gn5qddqqxo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-12T18:36:15Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "What we know about Brooklyn building collapse that killed eight people",
+          "url": "https://www.bbc.co.uk/news/articles/cm20v66jq611o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-12T19:09:25Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Hunt for clues in deadly Brooklyn building collapse will take time",
+          "url": "https://www.bostonglobe.com/2026/11/11/nation/nyc-building-collapse/",
+          "published_at": "2026-11-12T20:58:08Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Brooklyn building collapse kills at least two children and six adults, injuring 18",
+          "url": "https://www.theguardian.com/us-news/2026/nov/12/brooklyn-building-collapse-nyc",
+          "published_at": "2026-11-12T21:59:21Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "New York building collapse kills 8, including 2 children",
+          "url": "https://www.pbs.org/newshour/show/new-york-building-collapse-kills-8-including-2-children",
+          "published_at": "2026-11-12T23:50:06Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "First video of Brooklyn building collapse",
+          "url": "https://www.nbcnews.com/nightly-news/video/first-video-of-brooklyn-building-collapse-273385029565",
+          "published_at": "2026-11-12T23:58:33Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Video shows moment of Brooklyn building's collapse that killed at least 8",
+          "url": "https://www.cbsnews.com/video/video-shows-moment-brooklyn-buildings-collapse-killed-at-least-8/",
+          "published_at": "2026-11-13T00:15:00Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Rescue Ends in Brooklyn After 8 Die in Building Collapse",
+          "url": "https://www.nytimes.com/2026/11/12/us/brooklyn-building-collapse-deaths.html",
+          "published_at": "2026-11-13T01:11:13Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "What to Know About the Deadly Building Collapse in Brooklyn",
+          "url": "https://www.nytimes.com/2026/11/12/nyregion/building-collapse-brooklyn-deaths-flatbush-nyc.html",
+          "published_at": "2026-11-13T01:23:00Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "8 dead, including 2 children, after building collapses in Brooklyn",
+          "url": "https://abcnews.com/US/rescue-operations-underway-after-building-collapses-brooklyn-new/story?id=138059620",
+          "published_at": "2026-11-13T01:48:18Z"
+        }
+      ]
+    },
+    {
+      "headline": "Pete Hegseth and others reprimanded by guard at the Tomb of the Unknown Soldier",
+      "score": 128,
+      "signals": {
+        "us_outlets": 7,
+        "intl_outlets": 2,
+        "front_pages": 7,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "BBC News",
+        "Bloomberg",
+        "CBS News",
+        "NBC Boston",
+        "PBS NewsHour",
+        "The Guardian",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-12T09:13:44Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Pete Hegseth and others reprimanded by guard at the Tomb of the Unknown Soldier",
+          "url": "https://www.nbcboston.com/news/national-international/pete-hegseth-reprimanded-guard-tomb-unknown-soldier/4047901/",
+          "published_at": "2026-11-12T09:13:44Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Pete Hegseth awards medal to soldier who reprimanded him near Tomb of the Unknown Soldier",
+          "url": "https://www.theguardian.com/us-news/2026/nov/12/pete-hegseth-medal-soldier-reprimand",
+          "published_at": "2026-11-12T18:08:31Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Hegseth presents award to soldier who scolded him and his aides at Tomb of the Unknown Soldier",
+          "url": "https://www.pbs.org/newshour/world/hegseth-presents-award-to-soldier-who-scolded-him-and-his-aides-at-tomb-of-the-unknown-soldier",
+          "published_at": "2026-11-12T18:35:44Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Soldier who admonished Hegseth group at Arlington Cemetery awarded a medal",
+          "url": "https://abcnews.com/Politics/soldier-admonished-hegseth-group-arlington-cemetery-awarded-medal/story?id=138084221",
+          "published_at": "2026-11-12T18:40:28Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
+          "url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-12T18:47:35Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Hegseth Awards Soldier Who Admonished His Party on Veterans Day",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-12/hegseth-awards-soldier-who-admonished-his-party-on-veterans-day",
+          "published_at": "2026-11-12T21:19:51Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Pete Hegseth, a Soldier\u2019s Scolding and a Lesson at the Tomb of Unknowns",
+          "url": "https://www.nytimes.com/2026/11/12/us/politics/pete-hegseth-warrior-image.html",
+          "published_at": "2026-11-12T21:31:33Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Video shows Hegseth and staff reprimanded by guard at Tomb of the Unknown Soldier",
+          "url": "https://www.wcvb.com/article/pete-hegseth-tomb-of-the-unknown-soldier-reprimand/74410923",
+          "published_at": "2026-11-12T23:48:00Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Hegseth awards medal to soldier who reprimanded his group at Arlington National Cemetery",
+          "url": "https://www.cbsnews.com/video/hegseth-awards-medal-soldier-reprimanded-group-arlington-national-cemetery/",
+          "published_at": "2026-11-13T00:33:38Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Hegseth awards medal to soldier who reprimanded group near tomb",
+          "url": "https://www.cbsnews.com/news/hegseth-medal-reprimand-tomb-of-the-unknown-soldier/",
+          "published_at": "2026-11-13T01:04:50Z"
+        }
+      ]
+    },
+    {
+      "headline": "Sen. Chris Van Hollen says he will challenge Sen. Chuck Schumer for majority leader",
+      "score": 113,
+      "signals": {
+        "us_outlets": 7,
+        "intl_outlets": 1,
+        "front_pages": 5,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Axios",
+        "Bloomberg",
+        "CBS News",
+        "NBC Boston",
+        "NBC News",
+        "The Boston Globe",
+        "The Guardian",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-12T09:13:44Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Sen. Chris Van Hollen says he will challenge Sen. Chuck Schumer for majority leader",
+          "url": "https://www.nbcboston.com/news/politics/chris-van-hollen-challenge-chuck-schumer-majority-leader/4048745/",
+          "published_at": "2026-11-12T09:13:44Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Sen. Chris Van Hollen says he will challenge Sen. Chuck Schumer for majority leader",
+          "url": "https://www.nbcnews.com/politics/congress/sen-chris-van-hollen-says-will-challenge-sen-chuck-schumer-majority-le-rcna609100",
+          "published_at": "2026-11-13T02:03:11Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Chris Van Hollen Set to Challenge Chuck Schumer for Senate Majority Leader",
+          "url": "https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html",
+          "published_at": "2026-11-13T02:05:05Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Chris Van Hollen to challenge Schumer for Senate majority leader",
+          "url": "https://www.axios.com/2026/11/13/schumer-van-hollen-senate-majority-leader",
+          "published_at": "2026-11-13T02:06:00Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Van Hollen Challenges Schumer for Senate Leader in New Congress",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-13/van-hollen-challenges-schumer-for-senate-leader-in-new-congress",
+          "published_at": "2026-11-13T02:12:31Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Van Hollen to challenge Schumer for Senate Democratic leader, saying voters \u2018called for change\u2019",
+          "url": "https://www.wcvb.com/article/van-hollen-challenge-schumer-senate-democratic-leader/74417808",
+          "published_at": "2026-11-13T02:13:00Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Chris Van Hollen to challenge Chuck Schumer for Senate majority leader",
+          "url": "https://www.theguardian.com/us-news/2026/nov/12/chris-van-hollen-chuck-schumer-senate-majority-leader",
+          "published_at": "2026-11-13T02:15:20Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Van Hollen to challenge Schumer for Senate Democratic leader, saying voters \u2018called for change\u2019",
+          "url": "https://www.bostonglobe.com/2026/11/12/nation/van-hollen-chuck-schumer-democratic-leader/",
+          "published_at": "2026-11-13T02:21:30Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Van Hollen will challenge Schumer for Senate majority leader",
+          "url": "https://www.cbsnews.com/news/chris-van-hollen-challenge-chuck-schumer-senate-majority-leader-democrat/",
+          "published_at": "2026-11-13T02:24:23Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Van Hollen to challenge Schumer for Senate Democratic leader, saying voters \u2018called for change\u2019",
+          "url": "https://www.bostonglobe.com/2026/11/12/nation/van-hollen-chuck-schumer-democratic-leader-2/",
+          "published_at": "2026-11-13T02:27:24Z"
+        }
+      ]
+    },
+    {
+      "headline": "Witkoff and Kushner arrive in Moscow to meet with Putin, discuss Ukraine peace talks",
+      "score": 110,
+      "signals": {
+        "us_outlets": 6,
+        "intl_outlets": 2,
+        "front_pages": 6,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "BBC News",
+        "CBS News",
+        "NPR",
+        "The Boston Globe",
+        "The Guardian",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-12T14:39:31Z",
+      "reports": [
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Witkoff and Kushner arrive in Moscow to meet with Putin, discuss Ukraine peace talks",
+          "url": "https://abcnews.com/International/witkoff-kushner-arrive-moscow-meet-putin-discuss-ukraine/story?id=138070892",
+          "published_at": "2026-11-12T14:39:31Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi",
+          "url": "https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks",
+          "published_at": "2026-11-12T15:26:34Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "In Moscow, Witkoff and Kushner ask Putin to include Europe in peace talks",
+          "url": "https://www.bostonglobe.com/2026/11/12/world/moscow-witkoff-kushner-ask-putin-include-europe-peace-talks/",
+          "published_at": "2026-11-12T21:00:00Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Putin takes hard line in US talks as Ukraine says Starlink disrupted again",
+          "url": "https://www.theguardian.com/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink",
+          "published_at": "2026-11-12T22:26:37Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "In Moscow, Witkoff and Kushner Ask Putin to Include Europe in Peace Talks",
+          "url": "https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html",
+          "published_at": "2026-11-12T23:15:18Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "US envoys meet with Putin in Moscow on Ukraine talks, then head for Dublin to see Zelenskyy",
+          "url": "https://www.wcvb.com/article/trump-envoys-putin-moscow-ukraine-peace-talks/74408946",
+          "published_at": "2026-11-12T23:42:00Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Zelenskyy says Ukraine's Starshield use limited again amid meeting with U.S. envoys",
+          "url": "https://www.cbsnews.com/video/zelenskyy-says-ukraines-starshield-defense-system-limited-again/",
+          "published_at": "2026-11-13T01:37:54Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+          "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-13T02:01:35Z"
+        }
+      ]
+    },
+    {
+      "headline": "Trump directs Vance to shift focus from Iran war to U.S. \u2018corruption and crime'",
+      "score": 107,
+      "signals": {
+        "us_outlets": 7,
+        "intl_outlets": 1,
+        "front_pages": 4,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Axios",
+        "Boston.com",
+        "CBS News",
+        "CNBC",
+        "Los Angeles Times",
+        "NBC Boston",
+        "NBC News",
+        "The Boston Globe",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-12T09:13:44Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump directs Vance to shift focus from Iran war to U.S. \u2018corruption and crime'",
+          "url": "https://www.nbcboston.com/news/politics/donald-trump-jd-vance-iran-war-us-corruption-crime/4048640/",
+          "published_at": "2026-11-12T09:13:44Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump orders Vance to focus on \"corruption\" in Democrat-run areas, not Iran",
+          "url": "https://www.axios.com/2026/11/12/trump-vance-focus-democrat-cities-iran",
+          "published_at": "2026-11-12T13:54:59Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump says no deal needed on Iran war and orders Vance to focus on domestic issues",
+          "url": "https://www.theguardian.com/us-news/2026/nov/12/trump-jd-vance-iran-war",
+          "published_at": "2026-11-12T19:01:16Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump Says He\u2019s Pulling Vance Off Iran Talks to Focus on Fraud Campaign",
+          "url": "https://www.nytimes.com/2026/11/12/us/politics/trump-vance-iran-fraud.html",
+          "published_at": "2026-11-12T19:38:36Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump says \u2018we don\u2019t need a deal with Iran\u2019",
+          "url": "https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html",
+          "published_at": "2026-11-12T20:34:31Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump says the U.S. doesn\u2019t \u2018need\u2019 a deal with Iran",
+          "url": "https://www.nbcnews.com/politics/donald-trump/us-doesnt-need-peace-deal-iran-vance-corruption-trump-rcna609027",
+          "published_at": "2026-11-12T20:36:27Z"
+        },
+        {
+          "publisher": "Los Angeles Times",
+          "group": "latimes",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump pulls Vance from Iran talks, saying 'we don't need a deal'",
+          "url": "https://www.latimes.com/politics/story/2026-11-12/trump-pulls-vance-from-iran-talks-saying-we-dont-need-deal",
+          "published_at": "2026-11-12T20:59:11Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump bluntly tells JD Vance to shift focus from Iran to targeting \u2018corruption and crime\u2019 at home",
+          "url": "https://www.boston.com/news/politics/2026/11/12/trump-bluntly-tells-jd-vance-to-shift-focus-from-iran-to-targeting-corruption-and-crime-at-home/",
+          "published_at": "2026-11-12T21:48:33Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump bluntly tells JD Vance to shift focus from Iran to targeting \u2018corruption and crime\u2019 at home",
+          "url": "https://www.bostonglobe.com/2026/11/12/nation/trump-bluntly-tells-jd-vance-shift-focus-iran-targeting-corruption-crime-home/",
+          "published_at": "2026-11-12T22:58:32Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump says Vance should focus solely on domestic corruption",
+          "url": "https://www.cbsnews.com/video/trump-says-vance-should-focus-solely-on-domestic-corruption/",
+          "published_at": "2026-11-13T01:04:34Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump defends Iran war with familiar lies and deflects blame for midterm losses \u2013 US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
+          "published_at": "2026-11-13T01:35:48Z"
+        }
+      ]
+    },
+    {
+      "headline": "Is Microsoft Outlook down? Company investigates error reports from users",
+      "score": 89,
+      "signals": {
+        "us_outlets": 5,
+        "intl_outlets": 1,
+        "front_pages": 5,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "NBC Boston",
+        "NPR",
+        "The Guardian",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-12T09:13:44Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Is Microsoft Outlook down? Company investigates error reports from users",
+          "url": "https://www.nbcboston.com/news/national-international/is-microsoft-outlook-down-company-investigates-error-reports-from-users/4048468/",
+          "published_at": "2026-11-12T09:13:44Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Microsoft confirms Outlook outage affecting users worldwide",
+          "url": "https://www.wcvb.com/article/microsoft-outlook-outage-2026/74414319",
+          "published_at": "2026-11-13T01:14:00Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Microsoft begins restoring services as global outage affects Outlook and Teams",
+          "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+          "published_at": "2026-11-13T01:19:53Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Is Outlook down? Widespread outage hits Microsoft email and other apps",
+          "url": "https://www.npr.org/2026/11/12/nx-s1-6039343/is-outlook-down-widespread-outage-hits-microsoft-email-and-other-apps",
+          "published_at": "2026-11-13T01:26:24Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Outlook, Teams and More Microsoft Programs Disrupted by Outage",
+          "url": "https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html",
+          "published_at": "2026-11-13T01:48:06Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Microsoft Outlook outage stretches on for hours",
+          "url": "https://abcnews.com/US/outlook-down-microsoft-outage-reported-mail/story?id=138088203",
+          "published_at": "2026-11-13T02:16:45Z"
+        }
+      ]
+    },
+    {
+      "headline": "Needham police actively searching for missing teen",
+      "score": 83,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 0,
+        "front_pages": 4,
+        "boston_local": [
+          "cape cod",
+          "massachusetts"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "NBC Boston",
+        "The Boston Globe",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-12T09:13:44Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Needham police actively searching for missing teen",
+          "url": "https://www.nbcboston.com/news/local/missing-teen-needham-massachusetts/4048335/",
+          "published_at": "2026-11-12T09:13:44Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Police launch intensive search for missing 18-year-old Needham man",
+          "url": "https://www.bostonglobe.com/2026/11/12/metro/cole-davison-police-search-needham/",
+          "published_at": "2026-11-12T18:34:31Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Police searching for missing girl, 15, last seen in Plymouth",
+          "url": "https://www.wcvb.com/article/police-searching-for-missing-girl-15-last-seen-in-plymouth/74417103",
+          "published_at": "2026-11-12T23:45:00Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Police end weeklong search for missing Cape Cod woman, but vow to keep investigating",
+          "url": "https://www.masslive.com/capecod/2026/11/police-end-weeklong-search-for-missing-cape-cod-woman-continue-investigation-into-her-disappearance.html",
+          "published_at": "2026-11-13T00:47:39Z"
+        }
+      ]
+    },
+    {
+      "headline": "Nor'easter takes aim at New England. Who gets snow and who gets rain?",
+      "score": 68,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": [
+          "mass.",
+          "massachusetts",
+          "new england"
+        ]
+      },
+      "independent_outlets": [
+        "NBC Boston",
+        "The Boston Globe",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-12T09:13:44Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Nor'easter takes aim at New England. Who gets snow and who gets rain?",
+          "url": "https://www.nbcboston.com/news/local/boston-weather-new-england-snow-noreaster/4048149/",
+          "published_at": "2026-11-12T09:13:44Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Storm maps detail where cold rain and snow are expected across New England",
+          "url": "https://www.bostonglobe.com/2026/11/11/metro/noreaster-snow-rain-forecast-maps-boston/",
+          "published_at": "2026-11-12T22:20:33Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Nor\u2019easter targets New England with blustery, rainy weather, high-elevation snow",
+          "url": "https://www.bostonglobe.com/2026/11/09/metro/noreaster-snow-boston-new-england/",
+          "published_at": "2026-11-12T23:06:38Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Storm bringing cold, windswept rain for Mass., snowflakes for some",
+          "url": "https://www.wcvb.com/article/rain-snow-massachusetts-new-england-forecast-nov-13-2026/74410928",
+          "published_at": "2026-11-13T00:29:00Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Forecast maps, charts: What to expect from storm bringing snow, rain",
+          "url": "https://www.wcvb.com/article/snow-rain-storm-maps-weather-massachusetts-new-england-nov-2026/74400192",
+          "published_at": "2026-11-13T00:31:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "WATCH: Pope Leo returns to Peru for historic visit",
+      "score": 68,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 0,
+        "front_pages": 4,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "CBS News",
+        "PBS NewsHour",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-12T15:27:55Z",
+      "reports": [
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "WATCH: Pope Leo returns to Peru for historic visit",
+          "url": "https://abcnews.com/video/138074243/",
+          "published_at": "2026-11-12T15:27:55Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "After his emotional return, Pope denounces \u2018machismo\u2019 in Peru and demands women be protected",
+          "url": "https://www.bostonglobe.com/2026/11/12/world/after-his-emotional-return-pope-denounces-machismo-peru-demands-women-be-protected/",
+          "published_at": "2026-11-12T21:34:30Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "After emotional return, Pope Leo denounces 'machismo' in Peru and demands respect for women",
+          "url": "https://www.pbs.org/newshour/world/after-emotional-return-pope-leo-denounces-machismo-in-peru-and-demands-respect-for-women",
+          "published_at": "2026-11-12T22:06:20Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Pope Leo calls on followers to \"value women\" and \"respect girls\"",
+          "url": "https://www.cbsnews.com/video/pope-leo-calls-followers-value-women-respect-girls/",
+          "published_at": "2026-11-13T00:35:20Z"
+        }
+      ]
+    },
+    {
+      "headline": "Is Outlook down? Widespread outage hits Microsoft apps",
+      "score": 63,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "CNBC",
+        "MassLive",
+        "NBC News",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-12T22:06:55Z",
+      "reports": [
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Is Outlook down? Widespread outage hits Microsoft apps",
+          "url": "https://www.boston.com/news/business/2026/11/12/is-outlook-down-widespread-outage-hits-microsoft-apps/",
+          "published_at": "2026-11-12T22:06:55Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Widespread Microsoft outage takes down Outlook and other 365 services",
+          "url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+          "published_at": "2026-11-12T22:24:12Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Widespread outage of Microsoft apps used by hundreds of millions",
+          "url": "https://www.nbcnews.com/nightly-news/video/widespread-outage-of-microsoft-apps-used-by-hundreds-of-millions-273386053592",
+          "published_at": "2026-11-13T00:01:28Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Is Outlook down? Widespread outage hits Microsoft apps.",
+          "url": "https://www.bostonglobe.com/2026/11/12/business/microsoft-outlook-outage/",
+          "published_at": "2026-11-13T00:24:41Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Microsoft 365 outage disrupts MassLive HS scores coverage",
+          "url": "https://www.masslive.com/highschoolsports/2026/11/nationwide-microsoft-365-outage-has-affected-masslives-ability-to-receive-scores-and-stats.html",
+          "published_at": "2026-11-13T00:48:44Z"
+        }
+      ]
+    },
+    {
+      "headline": "More men should get a common blood test for prostate cancer, new guidelines say",
+      "score": 52,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "CBS News",
+        "NBC News",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-12T12:00:00Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "More men should get a common blood test for prostate cancer, new guidelines say",
+          "url": "https://www.bostonglobe.com/2026/11/12/metro/prostate-cancer-screening-guidelines-blood-test/",
+          "published_at": "2026-11-12T12:00:00Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "What men should know about new prostate cancer screening guidelines",
+          "url": "https://www.cbsnews.com/news/prostate-cancer-screening-guidelines/",
+          "published_at": "2026-11-12T22:13:00Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "New prostate cancer screening guidelines",
+          "url": "https://www.nbcnews.com/nightly-news/video/new-prostate-cancer-screening-guidelines-273385541871",
+          "published_at": "2026-11-13T00:13:17Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Men 50-69 should get screened for prostate cancer every 2 years, American Cancer Society says",
+          "url": "https://www.cbsnews.com/video/men-50-69-should-get-screened-for-prostate-cancer-every-2-years-american-cancer-society-says/",
+          "published_at": "2026-11-13T01:50:44Z"
+        }
+      ]
+    },
+    {
+      "headline": "ICE reports record immigration arrests, deportations since Trump White House return",
+      "score": 51,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "CBS News",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-12T16:05:54Z",
+      "reports": [
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "ICE reports record immigration arrests, deportations since Trump White House return",
+          "url": "https://abcnews.com/Politics/wireStory/ice-reports-record-high-immigration-arrests-deportations-trumps-138083036",
+          "published_at": "2026-11-12T16:05:54Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "ICE reports record-high immigration arrests and deportations since Trump\u2019s return to White House",
+          "url": "https://www.bostonglobe.com/2026/11/12/nation/trump-immigration-arrests-deportations-record-high/",
+          "published_at": "2026-11-12T20:09:59Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Legal expert on White House warning to Democrats over possible Trump investigations",
+          "url": "https://www.cbsnews.com/video/legal-expert-weighs-in-on-white-house-warning-to-dems-over-possible-trump-investigations/",
+          "published_at": "2026-11-13T02:01:47Z"
+        }
+      ]
+    },
+    {
+      "headline": "Witnesses describe the D.C. shooting that left 1 dead, 4 injured",
+      "score": 51,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "CBS News",
+        "NPR",
+        "PBS NewsHour"
+      ],
+      "first_seen": "2026-11-12T16:12:53Z",
+      "reports": [
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Witnesses describe the D.C. shooting that left 1 dead, 4 injured",
+          "url": "https://www.npr.org/2026/11/12/nx-s1-6038860/dc-logan-circle-shooting",
+          "published_at": "2026-11-12T16:12:53Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "News Wrap: 1 killed and 4 injured in D.C. shooting",
+          "url": "https://www.pbs.org/newshour/show/news-wrap-1-killed-and-4-injured-in-d-c-shooting",
+          "published_at": "2026-11-12T23:45:02Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "1 killed, 4 injured in shooting in D.C.; suspect is dead",
+          "url": "https://www.cbsnews.com/news/washington-dc-shooting-gym-vida/",
+          "published_at": "2026-11-13T01:00:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Democrat Cindy Holscher defeats Republican Ty Masterson in Kansas governor\u2019s race",
+      "score": 51,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "NBC News",
+        "NPR",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-12T22:46:39Z",
+      "reports": [
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrat Cindy Holscher defeats Republican Ty Masterson in Kansas governor\u2019s race",
+          "url": "https://www.nbcnews.com/politics/2026-election/kansas-governor-cindy-holscher-democrat-election-win-masterson-rcna603370",
+          "published_at": "2026-11-12T22:46:39Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Cindy Holscher wins in Kansas, holding governor's office for Democrats",
+          "url": "https://www.npr.org/2026/11/12/g-s1-151187/holscher-kansas-masterson-governor-midterms",
+          "published_at": "2026-11-12T22:52:49Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrat Cindy Holscher is Kansas\u2019 next governor, AP projects, extending her party\u2019s wave of victories",
+          "url": "https://www.bostonglobe.com/2026/11/12/elections/kansas-governor-democrat-cindy-holscher/",
+          "published_at": "2026-11-12T22:58:58Z"
+        }
+      ]
+    },
+    {
+      "headline": "Brigham nurses reach tentative contract deal, averting open-ended strike",
+      "score": 50,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "NBC Boston",
+        "WBUR"
+      ],
+      "first_seen": "2026-11-12T05:52:05Z",
+      "reports": [
+        {
+          "publisher": "WBUR",
+          "group": "wbur",
+          "kind": "news",
+          "wire": false,
+          "title": "Brigham nurses reach tentative contract deal, averting open-ended strike",
+          "url": "https://www.wbur.org/upnext/2026/11/12/brigham-nurses-tentative-contract-open-ended-strike",
+          "published_at": "2026-11-12T05:52:05Z"
+        },
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Strike averted: Brigham and Women's nurses reach tentative deal with hospital",
+          "url": "https://www.nbcboston.com/news/local/brigham-nurses-strike-bwh-mna-tentative-deal/4048185/",
+          "published_at": "2026-11-12T09:13:44Z"
+        },
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Deal reached to avoid Brigham and Women's nurse strike, union says",
+          "url": "https://www.nbcboston.com/news/local/brigham-and-womens-nurses-strike-patient-care/4047655/",
+          "published_at": "2026-11-12T09:13:44Z"
+        }
+      ]
+    },
+    {
+      "headline": "Suspect arrested in L.A. months after deadly East Boston shooting",
+      "score": 50,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "boston"
+        ]
+      },
+      "independent_outlets": [
+        "NBC Boston",
+        "NBC News",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-12T09:13:44Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Suspect arrested in L.A. months after deadly East Boston shooting",
+          "url": "https://www.nbcboston.com/news/local/east-boston-murder-suspect-marshals-arrest-la/4048716/",
+          "published_at": "2026-11-12T09:13:44Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Suspect in deadly DC shooting was in legal battle with apartment management",
+          "url": "https://www.wcvb.com/article/dc-shooting-suspect-legal-battle-apartment-management/74416800",
+          "published_at": "2026-11-12T23:50:00Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Suspect in Washington, D.C., gym shooting was doctor in legal feud with condo board",
+          "url": "https://www.nbcnews.com/news/us-news/suspect-washington-dc-gym-shooting-was-doctor-legal-feud-condo-board-rcna609089",
+          "published_at": "2026-11-13T00:31:57Z"
+        }
+      ]
+    },
+    {
+      "headline": "Jaylen Brown's snub, Jayson Tatum's response and more from C's-Sixers",
+      "score": 50,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "celtics"
+        ]
+      },
+      "independent_outlets": [
+        "NBC Boston",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-12T09:13:44Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Jaylen Brown's snub, Jayson Tatum's response and more from C's-Sixers",
+          "url": "https://www.nbcboston.com/nba/boston-celtics/jaylen-browns-snub-jayson-tatums-response-and-more-from-cs-sixers/4047720/",
+          "published_at": "2026-11-12T09:13:44Z"
+        },
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Jaylen Brown and Sixers have \u2018humbling' night in loss to Celtics",
+          "url": "https://www.nbcboston.com/nba/sixers-vs-celtics-jaylen-brown-jayson-tatum-joel-embiid-sixers-offense-nba/4047651/",
+          "published_at": "2026-11-12T09:13:44Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Time will tell if the chill between Jayson Tatum and Jaylen Brown thaws out",
+          "url": "https://www.bostonglobe.com/2026/11/12/sports/celtics-jayson-tatum-jaylen-brown-nba-basketball/",
+          "published_at": "2026-11-13T00:08:29Z"
+        }
+      ]
+    },
+    {
+      "headline": "Local scoreboard: Hopedale girls soccer trounces Gateway in playoff match",
+      "score": 50,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-12T20:02:14Z",
+      "reports": [
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Local scoreboard: Hopedale girls soccer trounces Gateway in playoff match",
+          "url": "https://www.masslive.com/westfieldnews/2026/11/local-scoreboard-hopedale-girls-soccer-trounces-gateway-in-playoff-match.html",
+          "published_at": "2026-11-12T20:02:14Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Local scoreboard: Southwick girls soccer falls to Wahconah in Round of 32",
+          "url": "https://www.masslive.com/westfieldnews/2026/11/local-scoreboard-southwick-girls-soccer-falls-to-wahconah-in-round-of-32.html",
+          "published_at": "2026-11-12T20:02:21Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Thursday\u2019s girls\u2019 soccer playoff roundup: Needham erupts in second half to reach another D1 quarterfinal",
+          "url": "https://www.bostonglobe.com/2026/11/12/sports/miaa-girls-soccer-playoffs-scores-recaps/",
+          "published_at": "2026-11-13T02:27:25Z"
+        }
+      ]
+    },
+    {
+      "headline": "Ex-officer convicted in Sandra Birchmore's death to seek new trial",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "NBC Boston"
+      ],
+      "first_seen": "2026-11-12T09:13:44Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Ex-officer convicted in Sandra Birchmore's death to seek new trial",
+          "url": "https://www.nbcboston.com/news/local/matthew-farwell-new-trial-motion-sandra-birchmore/4048545/",
+          "published_at": "2026-11-12T09:13:44Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Convicted of killing Sandra Birchmore, Matthew Farwell now planning new trial bid",
+          "url": "https://www.masslive.com/news/2026/11/matthew-farwell-planning-to-seek-new-trial-after-convictions-in-sandra-birchmore-killing.html",
+          "published_at": "2026-11-12T21:33:04Z"
+        }
+      ]
+    },
+    {
+      "headline": "The redesigned Kowloon in Saugus plans a drive-thru window: Report",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "NBC Boston",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-12T09:13:44Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "The redesigned Kowloon in Saugus plans a drive-thru window: Report",
+          "url": "https://www.nbcboston.com/news/local/saugus-ma-restaurant-drive-thru/4048439/",
+          "published_at": "2026-11-12T09:13:44Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Kowloon owners win approval to add drive-thru to restaurant redesign",
+          "url": "https://www.bostonglobe.com/2026/11/12/lifestyle/kowloon-adds-drive-thru-to-restaurant-redesign/",
+          "published_at": "2026-11-12T16:44:54Z"
+        }
+      ]
+    },
+    {
+      "headline": "Luxury car flees police stop, crashes in Quincy; driver runs off via train tracks",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "NBC Boston",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-12T09:13:44Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Luxury car flees police stop, crashes in Quincy; driver runs off via train tracks",
+          "url": "https://www.nbcboston.com/news/local/quincy-mass-maserati-crash-police-search/4048449/",
+          "published_at": "2026-11-12T09:13:44Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Man flees Quincy traffic stop, crashes luxury car, and runs onto train tracks; search for suspect continues",
+          "url": "https://www.bostonglobe.com/2026/11/12/metro/red-line-delay-police-emergency/",
+          "published_at": "2026-11-12T21:27:23Z"
+        }
+      ]
+    },
+    {
+      "headline": "Aggressive coyote attacks man doing yard work in Kingston",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "NBC Boston",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-12T09:13:44Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Aggressive coyote attacks man doing yard work in Kingston",
+          "url": "https://www.nbcboston.com/news/local/kingston-ma-coyote-attack-warning/4048186/",
+          "published_at": "2026-11-12T09:13:44Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Coyote bites man doing yard work during daylight attack in Kingston, police say",
+          "url": "https://www.bostonglobe.com/2026/11/12/metro/kingston-coyote-attack-aggressive/",
+          "published_at": "2026-11-12T21:30:31Z"
+        }
+      ]
+    },
+    {
+      "headline": "Morgan Wallen is coming to Gillette Stadium for 2 shows in 2027",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "NBC Boston"
+      ],
+      "first_seen": "2026-11-12T09:13:44Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Morgan Wallen is coming to Gillette Stadium for 2 shows in 2027",
+          "url": "https://www.nbcboston.com/news/local/morgan-wallen-is-coming-to-gillette-stadium-for-2-shows-in-2027/4048280/",
+          "published_at": "2026-11-12T09:13:44Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Morgan Wallen's announces 'Last Time I Checked Tour' for summer 2027",
+          "url": "https://www.masslive.com/live-entertainment/2026/11/morgan-wallen-announces-2027-stadium-tour-tickets-presale-dates-full-schedule.html",
+          "published_at": "2026-11-12T19:45:38Z"
+        }
+      ]
+    }
+  ]
+}
