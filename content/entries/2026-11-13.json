@@ -1,0 +1,58 @@
+{
+  "date": "2026-11-13",
+  "published_at": "2026-11-14T02:17:45.980516Z",
+  "status": "published",
+  "prelaunch": false,
+  "title": "The FAA halts departures nationwide; planes wait at Logan",
+  "caption": "On Friday afternoon the FAA stopped departing flights at airports across the U.S., citing communications and radar problems at air traffic control centers. At Boston Logan, departures were held while some transatlantic flights left case by case. Homeland Security said there was no sign of an attack; the cause is under investigation. The stop was lifted that evening, after a little over four hours.",
+  "stories": [
+    {
+      "name": "FAA halts departures nationwide",
+      "role": "focal",
+      "facts": [
+        "On Friday afternoon, Nov. 13, the FAA ordered a nationwide ground stop of departing flights at U.S. airports, citing 'extraordinary circumstances' and safety, after communications and radar problems affecting air traffic control centers.",
+        "Flights already in the air continued; hundreds were diverted or returned to their departure airports, and thousands of departures were held or cancelled.",
+        "Homeland Security Secretary Markwayne Mullin said there was no indication of an attack and called it a telecommunications outage; the cause remained under investigation.",
+        "The FAA lifted the ground stop Friday evening, a little over four hours later, allowing departures to resume.",
+        "At Boston Logan, departures were held on the ground while some transatlantic flights were allowed to leave case by case; FlightAware showed 92 delays and 17 cancellations just after 5:30 p.m."
+      ],
+      "sources": [
+        {
+          "publisher": "NBC News",
+          "title": "Ground stop lifted hours after stranding thousands of flights across the U.S.",
+          "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+          "published_at": "2026-11-13T21:09:53Z"
+        },
+        {
+          "publisher": "NBC Boston",
+          "title": "How the rare national ground stop has affected flights at Boston's Logan airport",
+          "url": "https://www.nbcboston.com/news/local/boston-logan-airport-faa-ground-stop-flights/4049195/",
+          "published_at": "2026-11-13T09:08:24Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "title": "FAA grounds all flights at U.S. airports due to air traffic control communications problems",
+          "url": "https://www.pbs.org/newshour/nation/faa-grounds-all-flights-at-u-s-airports-due-to-air-traffic-control-communications-problems",
+          "published_at": "2026-11-13T21:41:27Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "title": "Flights grounded at Boston Logan as FAA issues nationwide ground stop",
+          "url": "https://www.boston.com/news/local-news/2026/11/13/flights-halted-at-airports-across-us-including-logan/",
+          "published_at": "2026-11-13T21:47:10Z"
+        }
+      ]
+    }
+  ],
+  "artwork": {
+    "path": "artwork/2026-11-13.svg",
+    "format": "svg",
+    "alt": "Editorial illustration at twilight, seen from inside an airport terminal. Travelers with suitcases stand at a tall window: one points at the planes, a child reaches up, one waits seated on a bag. Outside, three parked jets sit still at their gates. Behind a lit control tower, a giant radar scope rises like a setting sun, its sweep broken into interrupted arcs. One distant jet climbs over the harbor. It represents the FAA's nationwide ground stop on Nov. 13, 2026, as felt at Logan.",
+    "method": "code-generated SVG (graphic-poster kit, src/art/daily/)",
+    "revision": "r4"
+  },
+  "backfill": {
+    "is_backfill": false,
+    "reason": null
+  }
+}

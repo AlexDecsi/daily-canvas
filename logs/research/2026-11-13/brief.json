@@ -1,0 +1,63 @@
+{
+  "date": "2026-11-13",
+  "mode": "live (scheduled run, ~9:07 p.m. Boston time on Nov. 13)",
+  "prepared_at": "2026-11-14T02:25:00Z",
+  "candidates_considered": 25,
+  "rationale": "The FAA's sudden nationwide ground stop of departing flights is the day's top story by a wide margin (15 US outlets, 10 front pages) and it is both a national and a Boston story: departures at Logan were held for hours. The facts are confirmed by original NBC News and NBC10 Boston reporting plus the AP. The cause is still under investigation, so only the confirmed events are drawn (departures halted, planes held on the ground, the stop later lifted); no cause or attack is shown. The New Orleans tanker-riverboat collision ranks second but would not fit the same scene; the Microsoft outage and Nvidia follow-ups rank lower.",
+  "stories": [
+    {
+      "role": "focal",
+      "name": "FAA halts departures nationwide",
+      "facts": [
+        "On Friday afternoon, Nov. 13, the FAA ordered a nationwide ground stop of departing flights at U.S. airports, citing 'extraordinary circumstances' and safety, after communications and radar problems affecting air traffic control centers.",
+        "Flights already in the air continued; hundreds were diverted or returned to their departure airports, and thousands of departures were held or cancelled.",
+        "Homeland Security Secretary Markwayne Mullin said there was no indication of an attack and called it a telecommunications outage; the cause remained under investigation.",
+        "The FAA lifted the ground stop Friday evening, a little over four hours later, allowing departures to resume.",
+        "At Boston Logan, departures were held on the ground while some transatlantic flights were allowed to leave case by case; FlightAware showed 92 delays and 17 cancellations just after 5:30 p.m."
+      ],
+      "people": [],
+      "visual_notes": "Twilight at Logan seen from inside the terminal: silhouetted travelers with luggage stand at a vast window watching a line of parked jets that are not moving; beyond, the control tower stands against an indigo sky where a giant radar-scope disc shows a sweep broken into dashed, interrupted arcs (illustrative symbol of the communications problem). One distant jet climbs over the harbor (transatlantic flights were allowed out). No text, no departure-board words, no airline logos, no named people, no cause depicted.",
+      "confidence": "high: NBC News (original reporting), NBC10 Boston (original local reporting) and the AP (via PBS NewsHour and Boston.com) agree on the nationwide departure halt, the stated communications problem, the DHS statement and the lift that evening. Exact lift time differs slightly (8:15 p.m. per NBC News, 'after 8:30' per NBC10 Boston), so the caption says only 'Friday evening'.",
+      "sources": [
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "title": "Ground stop lifted hours after stranding thousands of flights across the U.S.",
+          "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+          "published_at": "2026-11-13T21:09:53Z",
+          "checked_at": "2026-11-14T02:18:00Z",
+          "checked": "full article"
+        },
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "title": "How the rare national ground stop has affected flights at Boston's Logan airport",
+          "url": "https://www.nbcboston.com/news/local/boston-logan-airport-faa-ground-stop-flights/4049195/",
+          "published_at": "2026-11-13T09:08:24Z",
+          "checked_at": "2026-11-14T02:19:00Z",
+          "checked": "full article"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "wire": "AP",
+          "title": "FAA grounds all flights at U.S. airports due to air traffic control communications problems",
+          "url": "https://www.pbs.org/newshour/nation/faa-grounds-all-flights-at-u-s-airports-due-to-air-traffic-control-communications-problems",
+          "published_at": "2026-11-13T21:41:27Z",
+          "checked_at": "2026-11-14T02:16:00Z",
+          "checked": "full article"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "wire": "AP",
+          "title": "Flights grounded at Boston Logan as FAA issues nationwide ground stop",
+          "url": "https://www.boston.com/news/local-news/2026/11/13/flights-halted-at-airports-across-us-including-logan/",
+          "published_at": "2026-11-13T21:47:10Z",
+          "checked_at": "2026-11-14T02:17:00Z",
+          "checked": "full article"
+        }
+      ]
+    }
+  ]
+}

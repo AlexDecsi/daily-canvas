@@ -1,0 +1,63 @@
+{
+  "date": "2026-11-13",
+  "runs": [
+    {
+      "started_at": "2026-11-14T02:12:49.268412Z",
+      "outcome": "published",
+      "steps": [
+        {
+          "at": "2026-11-14T02:12:49.268416Z",
+          "step": "prepare: lock acquired (live)"
+        },
+        {
+          "at": "2026-11-14T02:13:01.058616Z",
+          "step": "prepare: ran src/news/feeds.py"
+        },
+        {
+          "at": "2026-11-14T02:13:01.191972Z",
+          "step": "prepare: ran src/news/cluster.py"
+        },
+        {
+          "at": "2026-11-14T02:17:46.716985Z",
+          "step": "finalize: published to local site"
+        }
+      ],
+      "_new_run": true,
+      "mode": "live",
+      "prelaunch": false,
+      "finished_at": "2026-11-14T02:17:46.716861Z",
+      "link_checks": [
+        {
+          "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.nbcboston.com/news/local/boston-logan-airport-faa-ground-stop-flights/4049195/",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.pbs.org/newshour/nation/faa-grounds-all-flights-at-u-s-airports-due-to-air-traffic-control-communications-problems",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.boston.com/news/local-news/2026/11/13/flights-halted-at-airports-across-us-including-logan/",
+          "ok": true,
+          "note": "HTTP 200"
+        }
+      ],
+      "samples_removed": [],
+      "stories_shown": [
+        "FAA halts departures nationwide"
+      ],
+      "usage": {
+        "article_reads": 4,
+        "web_searches": 0,
+        "render_rounds": 4,
+        "minutes": 22
+      }
+    }
+  ]
+}
