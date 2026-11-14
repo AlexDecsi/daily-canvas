@@ -59,5 +59,8 @@
         "minutes": 22
       }
     }
+  ],
+  "errors": [
+    "Publish gallery run 43545515783 failed at deploy-pages (no 'github-pages' artifact found; transient GitHub error, same as 2026-11-12). Re-ran once; succeeded; entry verified live in entries.json."
   ]
 }
