@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-14",
+  "mode": "live (scheduled run, ~9:07 p.m. Boston time on Nov. 14)",
+  "prepared_at": "2026-11-15T02:25:00Z",
+  "candidates_considered": 25,
+  "rationale": "The top-scored cluster is follow-up coverage of Friday's FAA ground stop, which was yesterday's entry (2026-11-13); repeating it would add little. Of the fresh Nov. 14 stories, SpaceX catching Starship's upper stage with the launch-tower arms for the first time is covered by 9 outlets including NPR, CBS, CNBC, ABC, NYT and WCVB, and is a genuine historic first in U.S. spaceflight. The New Orleans tanker-riverboat collision (score 125) happened late Friday and is mostly rescue/lawsuit follow-up; the Microsoft outage is largely an international follow-up. Facts are confirmed by two independent original reports (CBS News' William Harwood and CNBC's Lora Kolodny). The booster's loss is a verified part of the story but is not drawn, to keep one clear scene.",
+  "stories": [
+    {
+      "role": "focal",
+      "name": "SpaceX catches Starship's upper stage for the first time",
+      "facts": [
+        "On Saturday, Nov. 14, SpaceX caught the Starship upper stage (Ship 42) with the two mechanical 'chopsticks' arms on the launch tower at its Starbase site on the Texas Gulf Coast, the first time the ship has been recovered from orbit.",
+        "The ship had launched Friday on Starship's 15th test flight and spent about 22 hours in space, orbiting Earth 14 times and releasing 26 Starlink V3 satellites, before returning to the same pad.",
+        "The Super Heavy booster was not recovered: after a guidance problem it was diverted to an offshore splashdown in the Gulf of Mexico and exploded just before reaching the water.",
+        "SpaceX employees at Starbase cheered and applauded the catch; Elon Musk said the booster problem does not change the company's timeline."
+      ],
+      "people": [],
+      "visual_notes": "Low-angle view from the Starbase grounds looking up at the tall lattice launch tower; the stainless-steel ship descends tail-first on its landing-burn flames into the open chopsticks arms. Silhouetted, generic SpaceX employees in the foreground raise arms and clap (reported cheering). Gulf shoreline and dunes in the middle ground; a huge pale sun disc behind the tower as a light shape; faint orbit rings arc across the sky as an illustrative nod to the 14 orbits. Booster not shown. No text, no logos, no recognizable people.",
+      "confidence": "high: CBS News (William Harwood, original) and CNBC (Lora Kolodny, original) agree on the catch, the location, Flight 15, the Friday launch and the booster's loss; NPR, ABC, BBC, NYT and WCVB headlines agree. Exact catch time and lighting were not stated in the articles read, so the sky is kept generic.",
+      "sources": [
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "title": "SpaceX pulls off first Starship recovery from orbit in spectacular fashion",
+          "url": "https://www.cbsnews.com/news/spacex-catch-starship-rocket/",
+          "published_at": "2026-11-14T23:06:59Z",
+          "checked_at": "2026-11-15T02:15:00Z",
+          "checked": "full article"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "title": "SpaceX catches upper stage of Starship rocket in historic first",
+          "url": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html",
+          "published_at": "2026-11-14T23:10:14Z",
+          "checked_at": "2026-11-15T02:16:00Z",
+          "checked": "full article"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "title": "SpaceX successfully catches Starship and makes history",
+          "url": "https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history",
+          "published_at": "2026-11-14T21:42:41Z",
+          "checked_at": "2026-11-15T02:14:00Z",
+          "checked": "headline only (page timed out)"
+        }
+      ]
+    }
+  ]
+}

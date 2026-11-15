@@ -1,0 +1,58 @@
+{
+  "date": "2026-11-14",
+  "runs": [
+    {
+      "started_at": "2026-11-15T02:13:03.861196Z",
+      "outcome": "published",
+      "steps": [
+        {
+          "at": "2026-11-15T02:13:03.861200Z",
+          "step": "prepare: lock acquired (live)"
+        },
+        {
+          "at": "2026-11-15T02:13:10.368041Z",
+          "step": "prepare: ran src/news/feeds.py"
+        },
+        {
+          "at": "2026-11-15T02:13:10.480188Z",
+          "step": "prepare: ran src/news/cluster.py"
+        },
+        {
+          "at": "2026-11-15T02:28:29.583269Z",
+          "step": "finalize: published to local site"
+        }
+      ],
+      "_new_run": true,
+      "mode": "live",
+      "prelaunch": false,
+      "finished_at": "2026-11-15T02:28:29.582970Z",
+      "link_checks": [
+        {
+          "url": "https://www.cbsnews.com/news/spacex-catch-starship-rocket/",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history",
+          "ok": true,
+          "note": "HTTP 200"
+        }
+      ],
+      "samples_removed": [],
+      "stories_shown": [
+        "SpaceX catches Starship's upper stage for the first time"
+      ],
+      "usage": {
+        "article_reads": 5,
+        "web_searches": 1,
+        "render_rounds": 3,
+        "minutes": 22
+      }
+    }
+  ]
+}

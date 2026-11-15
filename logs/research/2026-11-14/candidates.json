@@ -1,0 +1,1816 @@
+{
+  "date": "2026-11-14",
+  "fetched_at": "2026-11-15T02:13:10.347936Z",
+  "items_considered": 499,
+  "candidates": [
+    {
+      "headline": "Hear How Air Traffic Controllers Grappled With the Ground Stoppage Chaos",
+      "score": 196,
+      "signals": {
+        "us_outlets": 12,
+        "intl_outlets": 2,
+        "front_pages": 10,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "BBC News",
+        "CBS News",
+        "CNBC",
+        "ESPN",
+        "MassLive",
+        "NBC News",
+        "NPR",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The Guardian",
+        "The Hill",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-14T05:02:06Z",
+      "reports": [
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Hear How Air Traffic Controllers Grappled With the Ground Stoppage Chaos",
+          "url": "https://www.nytimes.com/2026/11/13/us/ground-stop-air-traffic-control-pilots.html",
+          "published_at": "2026-11-14T05:02:06Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Air travel chaos after national ground stop lifted",
+          "url": "https://www.cbsnews.com/video/air-travel-chaos-after-national-ground-stop-lifted/",
+          "published_at": "2026-11-14T15:31:00Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Disruptions persist as air travel recovers from nationwide ground stop",
+          "url": "https://www.bostonglobe.com/2026/11/14/nation/disruptions-persist-ground-stop/",
+          "published_at": "2026-11-14T15:41:39Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "What to know about Friday\u2019s nationwide ground stop",
+          "url": "https://www.bostonglobe.com/2026/11/14/nation/us-nationwide-ground-stop-what-to-know/",
+          "published_at": "2026-11-14T15:48:50Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Rare nationwide ground stop halts US air traffic \u2013 video",
+          "url": "https://www.theguardian.com/world/video/2026/nov/14/rare-nationwide-ground-stop-halts-us-air-traffic-video",
+          "published_at": "2026-11-14T15:54:44Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Thousands of flights canceled as airlines work to recover from nationwide ground stop",
+          "url": "https://www.pbs.org/newshour/nation/thousands-of-flights-canceled-as-airlines-work-to-recover-from-nationwide-ground-stop",
+          "published_at": "2026-11-14T16:10:40Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "FAA ground stop throws college football into chaos, while the NFL is safe",
+          "url": "https://www.nbcnews.com/sports/college-football/faa-ground-stop-college-football-nfl-nba-nhl-rcna609309",
+          "published_at": "2026-11-14T16:42:41Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "FAA blames Friday's ground stop on 'equipment issue' during telecoms network upgrade",
+          "url": "https://www.npr.org/2026/11/14/nx-s1-6040952/faa-ground-stop-airplane-travel",
+          "published_at": "2026-11-14T16:53:04Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "ESPN\u2019s updated Week 11 programming after FAA ground stop",
+          "url": "https://www.masslive.com/sports/2026/11/espns-updated-week-11-programming-after-faa-ground-stop-causes-sports-delays.html",
+          "published_at": "2026-11-14T17:23:15Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "When will flights be back to normal after nationwide ground stop?",
+          "url": "https://www.wcvb.com/article/faa-ground-stop-when-flight-delays-return-to-normal/74430323",
+          "published_at": "2026-11-14T18:05:00Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "What to know about flights after the U.S. nationwide ground stop",
+          "url": "https://www.pbs.org/newshour/nation/what-to-know-about-flights-after-the-u-s-nationwide-ground-stop",
+          "published_at": "2026-11-14T18:32:01Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Upgrade work blamed for nationwide flight shutdown, Duffy says",
+          "url": "https://www.bostonglobe.com/2026/11/14/nation/upgrade-blamed-ground-stop/",
+          "published_at": "2026-11-14T18:42:55Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Duffy blames national ground stop, travel chaos on aging infrastructure",
+          "url": "https://www.cbsnews.com/video/travel-chaos-lingers-after-national-ground-stop/",
+          "published_at": "2026-11-14T18:52:41Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Mike Johnson: 'We don\u2019t really need any investigation' into FAA ground stop",
+          "url": "https://thehill.com/policy/transportation/6220851-mike-johnson-faa-ground-stop/",
+          "published_at": "2026-11-14T18:56:40Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+          "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-14T19:12:25Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Pilot, former air traffic controller react to national ground stop",
+          "url": "https://www.cbsnews.com/video/pilot-former-air-traffic-controller/",
+          "published_at": "2026-11-14T19:40:00Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "How to get a refund after the massive FAA ground stop",
+          "url": "https://www.cbsnews.com/video/how-to-get-a-refund-amid-air-travel-chaos/",
+          "published_at": "2026-11-14T19:42:53Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Rock bands entertain passengers during FAA ground stop",
+          "url": "https://www.masslive.com/entertainment/2026/11/rock-bands-entertain-fellow-passengers-during-faa-ground-stop.html",
+          "published_at": "2026-11-14T20:12:35Z"
+        },
+        {
+          "publisher": "ESPN",
+          "group": "espn",
+          "kind": "news",
+          "wire": false,
+          "title": "FAA ground stop throws sports world into travel chaos ahead of weekend games",
+          "url": "https://www.espn.com/college-football/story/_/id/50475169/faa-ground-stop-disrupting-travel-college-football-teams",
+          "published_at": "2026-11-14T21:48:37Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Ground stop highlights chronic vulnerabilities in air traffic system",
+          "url": "https://www.bostonglobe.com/2026/11/14/nation/ground-stop-highlights-chronic-vulnerabilities-air-traffic-system/",
+          "published_at": "2026-11-14T22:06:52Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Defense Contractor L3Harris Was Behind Upgrade That Led to Ground Stop",
+          "url": "https://www.nytimes.com/2026/11/14/us/l3harris-ground-stop.html",
+          "published_at": "2026-11-14T22:08:06Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump Kept Out of Sight as F.A.A. Issued Flight Ground Stop",
+          "url": "https://www.nytimes.com/2026/11/14/us/politics/trump-flights-air-traffic-social-media.html",
+          "published_at": "2026-11-14T22:10:42Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Why a problem on the ground can affect flights thousands of miles away among other issues",
+          "url": "https://www.pbs.org/newshour/nation/why-a-problem-on-the-ground-can-affect-flights-thousands-of-miles-away-among-other-issues",
+          "published_at": "2026-11-14T22:35:29Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Logan operations running \u2018pretty smoothly\u2019 Saturday morning after nationwide ground stop",
+          "url": "https://www.bostonglobe.com/2026/11/14/metro/logan-airport-recovery-nationwide/",
+          "published_at": "2026-11-14T22:40:02Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "How telecoms upgrade work sparked US flight chaos",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-14T23:11:27Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Ground Stop Highlights Chronic Vulnerabilities in Air Traffic System",
+          "url": "https://www.nytimes.com/2026/11/14/us/politics/ground-stop-air-traffic-faa.html",
+          "published_at": "2026-11-14T23:14:32Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT\u2019s Duffy",
+          "url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
+          "published_at": "2026-11-14T23:21:21Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "US air travel schedule should recover from ground stop by the end of Sunday, FAA says",
+          "url": "https://www.wcvb.com/article/faa-nationwide-ground-stop-sean-duffy-update/74430639",
+          "published_at": "2026-11-14T23:28:00Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "US air travel should normalize by Sunday after ground stop triggers mass cancellations, FAA says",
+          "url": "https://www.bostonglobe.com/2026/11/14/nation/flight-cancellations-nationwide-airlines-dig-out-ground-stop/",
+          "published_at": "2026-11-14T23:34:52Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Travelers stranded, flights canceled after ground stop. Here's what we know",
+          "url": "https://www.cbsnews.com/news/faa-ground-stop-canceled-flights-travelers-what-we-know/",
+          "published_at": "2026-11-14T23:49:31Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "How travelers can navigate trips as ground stop effects linger, expert says",
+          "url": "https://abcnews.com/US/travelers-navigate-trips-ground-stop-effects-linger-expert/story?id=138141476",
+          "published_at": "2026-11-15T00:42:58Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Why a problem on the ground can affect flights thousands of miles away among other issues",
+          "url": "https://www.bostonglobe.com/2026/11/14/business/ground-stop-affect-flights/",
+          "published_at": "2026-11-15T01:04:46Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "FAA ground stop disrupts college football",
+          "url": "https://www.npr.org/2026/11/14/nx-s1-6041115/faa-ground-stop-college-football-delays",
+          "published_at": "2026-11-15T01:13:59Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "NFL referee faces 112-mile dash on double-duty Sunday after FAA ground stop",
+          "url": "https://www.theguardian.com/sport/2026/nov/14/nfl-referee-two-games-faa-ground-stop-sports-travel-disruption",
+          "published_at": "2026-11-15T01:26:32Z"
+        }
+      ]
+    },
+    {
+      "headline": "Everyone accounted for after tanker collides with a New Orleans riverboat",
+      "score": 125,
+      "signals": {
+        "us_outlets": 7,
+        "intl_outlets": 1,
+        "front_pages": 7,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "CBS News",
+        "CNBC",
+        "Fox News",
+        "NBC Boston",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-14T06:40:07Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Everyone accounted for after tanker collides with a New Orleans riverboat",
+          "url": "https://www.nbcboston.com/news/national-international/rescue-underway-after-an-oil-tanker-collides-with-a-new-orleans-river-boat/4049158/",
+          "published_at": "2026-11-14T06:40:07Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Port of New Orleans sues tanker that hit riverboat cruise for $1 million",
+          "url": "https://www.cbsnews.com/news/port-of-new-orleans-sues-tanker-riverboat-crash/",
+          "published_at": "2026-11-14T17:56:43Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "All passengers and crew on New Orleans cruise ship survive crash with tanker on Mississippi River",
+          "url": "https://www.cnbc.com/2026/11/14/cruise-ship-tanker-crash-new-orleans.html",
+          "published_at": "2026-11-14T18:31:24Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
+          "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-14T19:14:33Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "New Orleans port sues to get control of tanker that crashed into cruise ship on Mississippi River",
+          "url": "https://www.pbs.org/newshour/nation/new-orleans-port-sues-to-get-control-of-tanker-that-crashed-into-cruise-ship-on-mississippi-river",
+          "published_at": "2026-11-14T20:09:17Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+          "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-14T20:23:06Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Creole Queen crew rescues nine after Mississippi cruise ship collision",
+          "url": "https://www.wcvb.com/article/creole-queen-crew-rescue-mississippi-cruise-ship-collision/74431180",
+          "published_at": "2026-11-14T20:31:00Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "At least 100 people pulled from Mississippi River after New Orleans ship crash as lengthy salvage effort looms",
+          "url": "https://www.foxnews.com/us/100-people-pulled-mississippi-river-new-orleans-ship-crash-salvage-effort",
+          "published_at": "2026-11-14T21:13:55Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+          "url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-14T22:27:06Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Passengers rescued after tanker hit river cruise in New Orleans",
+          "url": "https://www.cbsnews.com/news/tanker-cruise-collision-mississippi-river-new-orleans/",
+          "published_at": "2026-11-14T23:05:04Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "New Orleans port sues to get control of tanker that crashed into cruise ship on Mississippi River",
+          "url": "https://www.wcvb.com/article/new-orleans-port-sues-to-get-control-of-tanker-that-crashed-into-cruise-ship-on-mississippi-river/74431219",
+          "published_at": "2026-11-14T23:48:00Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "All passengers and crew on New Orleans cruise ship survive crash with tanker on Mississippi River",
+          "url": "https://www.bostonglobe.com/2026/11/13/nation/new-orleans-tanker-hits-river-cruise-boat/",
+          "published_at": "2026-11-15T01:23:18Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "New Orleans port sues to get control of tanker that crashed into cruise ship on Mississippi River",
+          "url": "https://www.bostonglobe.com/2026/11/14/business/new-orleans-tanker-cruise-ship-crash/",
+          "published_at": "2026-11-15T01:24:59Z"
+        }
+      ]
+    },
+    {
+      "headline": "Microsoft \u2018deeply sorry\u2019 for global outage that could have billion-dollar impact on Australia",
+      "score": 115,
+      "signals": {
+        "us_outlets": 7,
+        "intl_outlets": 2,
+        "front_pages": 5,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "CBS News",
+        "CNBC",
+        "NBC Boston",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The Guardian",
+        "The Hill",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-14T06:19:04Z",
+      "reports": [
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Microsoft \u2018deeply sorry\u2019 for global outage that could have billion-dollar impact on Australia",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/14/microsoft-deeply-sorry-for-global-disruption-that-could-have-billion-dollar-impact-on-australia",
+          "published_at": "2026-11-14T06:19:04Z"
+        },
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Microsoft says services fully restored after hourslong global outage",
+          "url": "https://www.nbcboston.com/news/national-international/microsoft-says-services-fully-restored-after-hourslong-global-outage/4049489/",
+          "published_at": "2026-11-14T06:40:07Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Microsoft says services fully restored after day-long global outage",
+          "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-14T06:42:27Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Microsoft says it \"restored service\" after major worldwide outage",
+          "url": "https://www.cbsnews.com/news/microsoft-battling-major-outage/",
+          "published_at": "2026-11-14T07:32:05Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Microsoft apologizes for massive outage that took down Outlook and other 365 services",
+          "url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+          "published_at": "2026-11-14T08:11:28Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Microsoft says services fully restored after global outage",
+          "url": "https://www.bostonglobe.com/2026/11/14/business/microsoft-says-services-fully-restored-after-hourslong-global-outage/",
+          "published_at": "2026-11-14T09:22:47Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Microsoft\u2019s Global Outage and Fixes: What We Know",
+          "url": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
+          "published_at": "2026-11-14T13:15:55Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Microsoft says services fully restored after global outage",
+          "url": "https://www.pbs.org/newshour/world/microsoft-says-services-fully-restored-after-global-outage",
+          "published_at": "2026-11-14T16:23:56Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Microsoft services fully restored after global disruptions",
+          "url": "https://thehill.com/policy/technology/6220925-microsoft-services-fully-restored-after-global-disruptions/",
+          "published_at": "2026-11-14T21:39:16Z"
+        }
+      ]
+    },
+    {
+      "headline": "SpaceX successfully catches Starship and makes history",
+      "score": 111,
+      "signals": {
+        "us_outlets": 6,
+        "intl_outlets": 2,
+        "front_pages": 6,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "BBC News",
+        "CBS News",
+        "CNBC",
+        "NPR",
+        "The Guardian",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-14T21:42:41Z",
+      "reports": [
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "SpaceX successfully catches Starship and makes history",
+          "url": "https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history",
+          "published_at": "2026-11-14T21:42:41Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+          "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-14T22:09:40Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "SpaceX\u2019s Starship returns from orbit, caught by launch pad arms in dramatic first",
+          "url": "https://abcnews.com/Technology/wireStory/spacexs-starship-returns-orbit-captured-launch-pad-arms-138148467",
+          "published_at": "2026-11-14T22:11:54Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "SpaceX successfully catches top of huge Starship rocket for first time",
+          "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-14T22:15:52Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "SpaceX\u2019s Starship returns to launch pad from orbit in victory for company",
+          "url": "https://www.theguardian.com/science/2026/nov/14/spacex-starship-double-catch",
+          "published_at": "2026-11-14T22:35:06Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "SpaceX pulls off first Starship recovery from orbit in spectacular fashion",
+          "url": "https://www.cbsnews.com/news/spacex-catch-starship-rocket/",
+          "published_at": "2026-11-14T23:06:59Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "SpaceX catches upper stage of Starship rocket in historic first",
+          "url": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html",
+          "published_at": "2026-11-14T23:10:14Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "'Almost magic': SpaceX's Starship Flight 15 makes history",
+          "url": "https://www.wcvb.com/article/starship-flight-15-historic-launch-booster-upper-stage/74431505",
+          "published_at": "2026-11-14T23:35:00Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "SpaceX Makes History With Successful Rocket Catch in Texas",
+          "url": "https://www.nytimes.com/2026/11/14/science/spacex-starship-first-catch.html",
+          "published_at": "2026-11-15T00:36:32Z"
+        }
+      ]
+    },
+    {
+      "headline": "Bomb found at ethanol plant in Peoria, Ill., mayor Says",
+      "score": 101,
+      "signals": {
+        "us_outlets": 6,
+        "intl_outlets": 1,
+        "front_pages": 5,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "CBS News",
+        "NBC News",
+        "NPR",
+        "The Boston Globe",
+        "The Guardian",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-14T07:23:33Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Bomb found at ethanol plant in Peoria, Ill., mayor Says",
+          "url": "https://www.bostonglobe.com/2026/11/14/nation/bomb-ethanol-plant-peoria-illinois-mayor/",
+          "published_at": "2026-11-14T07:23:33Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Evacuation lifted after suspicious device found at an ethanol plant in Peoria, Illinois",
+          "url": "https://www.nbcnews.com/news/us-news/evacuation-order-ethanol-plant-peoria-illinois-suspicious-device-rcna609287",
+          "published_at": "2026-11-14T10:25:02Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Police lift evacuation after bomb found near ethanol plant in central Illinois",
+          "url": "https://www.boston.com/news/national-news/2026/11/14/bomb-found-near-illinois-ethanol-plant-forces-evacuations-as-authorities-investigate/",
+          "published_at": "2026-11-14T16:01:38Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Bomb found near ethanol plant in central Illinois forces evacuations",
+          "url": "https://www.npr.org/2026/11/14/g-s1-153781/bomb-ethanol-plant-peoria-illinois-evacuations",
+          "published_at": "2026-11-14T20:12:34Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Evacuation zone lifted after bomb found at Illinois ethanol plant",
+          "url": "https://www.theguardian.com/us-news/2026/nov/14/peoria-illinois-evacuation-bomb",
+          "published_at": "2026-11-14T20:14:27Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Bomb Found at Ethanol Plant in Peoria, Ill., Mayor Says",
+          "url": "https://www.nytimes.com/2026/11/14/us/bomb-ethanol-plant-peoria-illinois.html",
+          "published_at": "2026-11-14T20:44:43Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Police lift evacuation order after bomb found near ethanol plant in central Illinois",
+          "url": "https://www.wcvb.com/article/peoria-ethanol-plant-bomb-evacuation-lifted/74431436",
+          "published_at": "2026-11-15T00:03:00Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Evacuation lifted after bomb threat near industrial plant in Illinois",
+          "url": "https://www.cbsnews.com/news/peoria-illinois-bomb-threat-evacuation/",
+          "published_at": "2026-11-15T01:28:38Z"
+        }
+      ]
+    },
+    {
+      "headline": "U.S. air travel should normalize by Sunday after ground stop triggers mass cancellations, FAA says",
+      "score": 97,
+      "signals": {
+        "us_outlets": 6,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "boston",
+          "celtics",
+          "logan airport"
+        ]
+      },
+      "independent_outlets": [
+        "Axios",
+        "Boston.com",
+        "CBS News",
+        "MassLive",
+        "NBC Boston",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-14T06:40:07Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "U.S. air travel should normalize by Sunday after ground stop triggers mass cancellations, FAA says",
+          "url": "https://www.nbcboston.com/news/national-international/flights-canceled-airlines-work-dig-out-nationwide-ground-stop/4049495/",
+          "published_at": "2026-11-14T06:40:07Z"
+        },
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Flying out of Logan? Delays continue even after FAA lifts ground stop",
+          "url": "https://www.nbcboston.com/news/local/logan-airport-delays-continue-even-after-faa-lifts-ground-stop/4049505/",
+          "published_at": "2026-11-14T06:40:07Z"
+        },
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "FAA grounds flights nationwide, disrupting NBA, NHL and college football travel for the weekend",
+          "url": "https://www.nbcboston.com/news/sports/faa-grounds-flights-nationwide-disrupt-nba-nhl-college-football-travel/4049472/",
+          "published_at": "2026-11-14T06:40:07Z"
+        },
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "How the rare national ground stop has affected flights at Boston's Logan airport",
+          "url": "https://www.nbcboston.com/news/local/boston-logan-airport-faa-ground-stop-flights/4049195/",
+          "published_at": "2026-11-14T06:40:07Z"
+        },
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "FAA lifts nationwide ground stop issued due to \u2018extraordinary circumstances,' safety concerns",
+          "url": "https://www.nbcboston.com/news/national-international/faa-issues-nationwide-ground-stop-due-to-extraordinary-circumstances-and-safety/4049188/",
+          "published_at": "2026-11-14T06:40:07Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "3,000 flights cancelled as FAA ground stop chaos stretches into 2nd day",
+          "url": "https://www.axios.com/2026/11/14/faa-ground-stop-saturday",
+          "published_at": "2026-11-14T10:28:42Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "What to know about flights after the US nationwide ground stop",
+          "url": "https://www.boston.com/news/national-news/2026/11/14/what-to-know-about-flights-after-the-us-nationwide-ground-stop/",
+          "published_at": "2026-11-14T13:48:58Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "FAA lifts nationwide ground stop that disrupted thousands of flights",
+          "url": "https://www.cbsnews.com/news/faa-issues-nationwide-ground-stop/",
+          "published_at": "2026-11-14T14:43:54Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "What to Know About Friday\u2019s Nationwide Ground Stop",
+          "url": "https://www.nytimes.com/2026/11/13/us/faa-ground-stop-flights-what-to-know.html",
+          "published_at": "2026-11-14T15:04:44Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Cooper Flagg\u2019s Boston return, ground stop impacts NBA game (Celtics Notebook)",
+          "url": "https://www.masslive.com/celtics/2026/11/cooper-flaggs-boston-return-ground-stop-impacts-nba-game-celtics-notebook.html",
+          "published_at": "2026-11-14T17:30:30Z"
+        }
+      ]
+    },
+    {
+      "headline": "Democrat Jonathan Kreiss-Tomkins wins the Alaska governor\u2019s race",
+      "score": 91,
+      "signals": {
+        "us_outlets": 6,
+        "intl_outlets": 1,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "NBC News",
+        "NPR",
+        "PBS NewsHour",
+        "Politico",
+        "The Boston Globe",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-14T05:05:00Z",
+      "reports": [
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrat Jonathan Kreiss-Tomkins wins the Alaska governor\u2019s race",
+          "url": "https://www.nbcnews.com/politics/2026-election/jonathan-kreiss-tomkins-democrat-wins-alaska-governor-race-rcna606558",
+          "published_at": "2026-11-14T05:05:00Z"
+        },
+        {
+          "publisher": "Politico",
+          "group": "politico",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrat Jonathan Kreiss-Tomkins flips Alaska\u2019s gubernatorial seat",
+          "url": "https://www.politico.com/news/2026/11/14/jonathan-kreiss-tomkins-wins-alaska-governor-01166573",
+          "published_at": "2026-11-14T05:07:08Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "A Democrat Wins the Alaska Governor\u2019s Race for the First Time Since 1998",
+          "url": "https://www.nytimes.com/2026/11/14/us/elections/alaska-governor-winner-kreiss-tomkins-jkt.html",
+          "published_at": "2026-11-14T05:08:59Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican",
+          "url": "https://www.npr.org/2026/11/14/g-s1-151719/midterms-alaska-governor-kreiss-tomkins",
+          "published_at": "2026-11-14T05:12:43Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Kreiss-Tomkins becomes first Democrat since 1998 elected governor in Alaska",
+          "url": "https://www.bostonglobe.com/2026/11/14/nation/kreiss-tomkins-democrat-elected-governor-alaska/",
+          "published_at": "2026-11-14T06:06:47Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Jonathan Kreiss-Tomkins becomes first Democrat since 1998 elected governor in Alaska",
+          "url": "https://www.pbs.org/newshour/politics/jonathan-kreiss-tomkins-becomes-first-democrat-since-1998-elected-governor-in-alaska",
+          "published_at": "2026-11-14T16:38:34Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrat wins Alaska governor\u2019s seat for first time in nearly 30 years",
+          "url": "https://www.theguardian.com/us-news/2026/nov/14/alaska-governor-democrat-jonathan-kreiss-tomkins-wins",
+          "published_at": "2026-11-14T16:58:33Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "\u2018Democrat\u2019 in Alaska\u2019s House Race Is Doing Time in a New York Prison",
+          "url": "https://www.nytimes.com/2026/11/14/us/elections/alaska-house-race-felon-eric-hafner.html",
+          "published_at": "2026-11-14T20:10:01Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrat Mary Peltola is likely to win Alaska\u2019s Senate race, as vote counting continues",
+          "url": "https://www.nbcnews.com/politics/2026-election/democrat-mary-peltola-likely-win-alaska-senate-race-rcna608673",
+          "published_at": "2026-11-14T20:52:49Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Why Mary Peltola is on track to win in Alaska, even if ranked choice ballots come into play",
+          "url": "https://www.nbcnews.com/politics/2026-election/mary-peltola-track-win-alaska-even-ranked-choice-ballots-come-play-rcna609299",
+          "published_at": "2026-11-14T21:22:15Z"
+        }
+      ]
+    },
+    {
+      "headline": "Italy fines Meta \u20ac805m over accessing users' photos",
+      "score": 66,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 1,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "BBC News",
+        "CBS News",
+        "CNBC",
+        "The Hill"
+      ],
+      "first_seen": "2026-11-14T18:28:06Z",
+      "reports": [
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Italy fines Meta \u20ac805m over accessing users' photos",
+          "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-14T18:28:06Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Italy fines Meta $880 million over accessing users' photos",
+          "url": "https://www.cbsnews.com/news/italy-fines-meta-880-million-users-photos/",
+          "published_at": "2026-11-14T18:33:08Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Italy fines Meta $887 million over Android users' data access",
+          "url": "https://www.cnbc.com/2026/11/14/italy-fines-meta-887-million-over-android-users-data-access.html",
+          "published_at": "2026-11-14T18:49:11Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Meta fined $887M in Italy over Android gallery photos, videos on Facebook",
+          "url": "https://abcnews.com/Technology/wireStory/meta-fined-887-million-italy-android-gallery-photos-138145127",
+          "published_at": "2026-11-14T19:22:27Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Italy fines Meta $887M for accessing users' photos without specific consent",
+          "url": "https://thehill.com/policy/technology/6220878-meta-italian-privacy-fine-consent/",
+          "published_at": "2026-11-14T20:34:36Z"
+        }
+      ]
+    },
+    {
+      "headline": "Patriots-Lions preview: Pats face existential questions in Munich",
+      "score": 61,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "patriots"
+        ]
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "MassLive",
+        "NBC Boston"
+      ],
+      "first_seen": "2026-11-14T06:40:07Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Patriots-Lions preview: Pats face existential questions in Munich",
+          "url": "https://www.nbcboston.com/news/sports/nfl/new-england-patriots/lions-matchups-preview-week-10-munich/4049129/",
+          "published_at": "2026-11-14T06:40:07Z"
+        },
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Patriots-Lions Week 10 preview: Keys to victory, prediction and more",
+          "url": "https://www.nbcboston.com/news/sports/nfl/new-england-patriots/lions-week-10-preview-keys-victory-prediction/4048561/",
+          "published_at": "2026-11-14T06:40:07Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "A.J. Brown and Rhamondre Stevenson questionable: Patriots vs. Lions updated predictions and odds",
+          "url": "https://www.masslive.com/betting/2026/11/patriots-vs-lions-prediction-draftkings-odds-munich.html",
+          "published_at": "2026-11-14T17:15:00Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Mike Vrabel, Patriots embracing Munich ahead of international matchup vs. Lions",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/11/14/nfl-international-game-germany-patriots-lions/",
+          "published_at": "2026-11-15T01:40:37Z"
+        }
+      ]
+    },
+    {
+      "headline": "Patriots running back depth takes hit after TreVeyon Henderson placed on IR",
+      "score": 54,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 1,
+        "boston_local": [
+          "patriots"
+        ]
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "ESPN",
+        "MassLive"
+      ],
+      "first_seen": "2026-11-14T21:22:14Z",
+      "reports": [
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Patriots running back depth takes hit after TreVeyon Henderson placed on IR",
+          "url": "https://www.masslive.com/patriots/2026/11/patriots-place-treveyon-henderson-on-injured-reserve-after-hospitalization.html",
+          "published_at": "2026-11-14T21:22:14Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Patriots place TreVeyon Henderson on IR, activate pair of players Saturday",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/11/14/nfl-patriots-injury-update-treveyon-henderson-ir/",
+          "published_at": "2026-11-14T21:56:09Z"
+        },
+        {
+          "publisher": "ESPN",
+          "group": "espn",
+          "kind": "news",
+          "wire": false,
+          "title": "Patriots place RB Henderson on IR with still unexplained illness",
+          "url": "https://www.espn.com/nfl/story/_/id/50483113/patriots-place-rb-henderson-ir-unexplained-illness",
+          "published_at": "2026-11-15T00:49:24Z"
+        }
+      ]
+    },
+    {
+      "headline": "Local teams shine at MIAA D-III girls cross country qualifier",
+      "score": 53,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-14T21:30:26Z",
+      "reports": [
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Local teams shine at MIAA D-III girls cross country qualifier",
+          "url": "https://www.masslive.com/highschoolsports/2026/11/hampshire-mount-greylock-girls-cross-country-earn-team-wins-at-miaa-d-iii-qualifier.html",
+          "published_at": "2026-11-14T21:30:26Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Winners from the MIAA Division I Cross Country Divisional Championships",
+          "url": "https://www.masslive.com/highschoolsports/2026/11/see-who-crossed-the-line-1st-and-raised-trophies-at-the-miaa-di-divisional-cross-country-meet.html",
+          "published_at": "2026-11-14T21:32:36Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "MIAA Division III boys cross-country: Three waves of state qualifier results",
+          "url": "https://www.masslive.com/highschoolsports/2026/11/miaa-division-iii-boys-cross-country-top-teams-and-runners-shine-at-state-qualifier.html",
+          "published_at": "2026-11-14T23:40:46Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Six races, six champions: See the top performances at the MIAA Division II cross-country meet",
+          "url": "https://www.masslive.com/highschoolsports/2026/11/miaa-division-2-cross-country-championships-see-who-came-out-on-top.html",
+          "published_at": "2026-11-15T00:47:09Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Boys\u2019 divisional cross-country: Josh Gamel\u2019s powerful finish puts Lincoln-Sudbury atop Division 1B",
+          "url": "https://www.bostonglobe.com/2026/11/14/sports/miaa-boys-cross-country-divisionals/",
+          "published_at": "2026-11-15T01:49:59Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Girls\u2019 divisional cross-country: Lexington states it case with blistering pace in 1A victory",
+          "url": "https://www.bostonglobe.com/2026/11/14/sports/miaa-girls-cross-country-divisionals/",
+          "published_at": "2026-11-15T01:56:12Z"
+        }
+      ]
+    },
+    {
+      "headline": "Alaska voters reject ballot measure seeking to repeal open primaries, ranked voting system",
+      "score": 51,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "NPR",
+        "PBS NewsHour",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-14T06:03:27Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Alaska voters reject ballot measure seeking to repeal open primaries, ranked voting system",
+          "url": "https://www.bostonglobe.com/2026/11/14/nation/alaska-voters-ballot-measure-open-primaries/",
+          "published_at": "2026-11-14T06:03:27Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Alaska voters aren't ditching ranked choice voting, top-four primaries",
+          "url": "https://www.npr.org/2026/11/14/nx-s1-6034952/alaska-results-ranked-choice-voting-nonpartisan-primary",
+          "published_at": "2026-11-14T13:08:05Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Alaska voters reject ballot measure seeking to repeal open primaries and ranked voting system",
+          "url": "https://www.pbs.org/newshour/politics/alaska-voters-reject-ballot-measure-seeking-to-repeal-open-primaries-and-ranked-voting-system",
+          "published_at": "2026-11-14T18:43:07Z"
+        }
+      ]
+    },
+    {
+      "headline": "Watch Portugal vs. Denmark Nations League match streaming live for free today",
+      "score": 50,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-14T16:47:00Z",
+      "reports": [
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Watch Portugal vs. Denmark Nations League match streaming live for free today",
+          "url": "https://www.masslive.com/tv/2026/11/how-to-watch-portugal-vs-denmark-soccer-for-free-today-nations-league-live-stream-tv-channel-odds.html",
+          "published_at": "2026-11-14T16:47:00Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Watch USA vs Haiti soccer live for free today: Nations League channel, time, odds",
+          "url": "https://www.masslive.com/tv/2026/11/where-to-watch-usa-vs-haiti-soccer-streaming-for-free-today-concacaf-nations-league-live-stream-channel-odds.html",
+          "published_at": "2026-11-14T18:46:00Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Christian Pulisic, Folarin Balogun score as US men\u2019s soccer team crushes Haiti in Nations League quarterfinals",
+          "url": "https://www.bostonglobe.com/2026/11/14/sports/usa-haiti-soccer-nations-league-score/",
+          "published_at": "2026-11-15T00:50:23Z"
+        }
+      ]
+    },
+    {
+      "headline": "Six injured, 2 seriously, in overnight crash in Malden",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "NBC Boston",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-14T06:40:07Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Six injured, 2 seriously, in overnight crash in Malden",
+          "url": "https://www.nbcboston.com/news/local/six-injured-2-seriously-in-overnight-crash-in-malden/4049531/",
+          "published_at": "2026-11-14T06:40:07Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Six injured, two seriously, in overnight crash in Malden",
+          "url": "https://www.bostonglobe.com/2026/11/14/metro/malden-overnight-crash/",
+          "published_at": "2026-11-14T17:33:27Z"
+        }
+      ]
+    },
+    {
+      "headline": "NH man killed in early-morning crash on Maine Turnpike",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "maine",
+          "mass."
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "NBC Boston"
+      ],
+      "first_seen": "2026-11-14T06:40:07Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "NH man killed in early-morning crash on Maine Turnpike",
+          "url": "https://www.nbcboston.com/news/local/nh-man-killed-in-early-morning-crash-on-maine-turnpike/4049534/",
+          "published_at": "2026-11-14T06:40:07Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "NH man dies in I-95 crash in Maine involving Mass. driver",
+          "url": "https://www.masslive.com/news/2026/11/mass-driver-involved-in-fatal-crash-on-maine-highway.html",
+          "published_at": "2026-11-14T17:24:58Z"
+        }
+      ]
+    },
+    {
+      "headline": "Sutton shares why it's considering huge Kraft-backed data center proposal",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "NBC Boston",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-14T06:40:07Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Sutton shares why it's considering huge Kraft-backed data center proposal",
+          "url": "https://www.nbcboston.com/news/local/sutton-mass-data-center-update/4049028/",
+          "published_at": "2026-11-14T06:40:07Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "The Krafts face what could be their ugliest fight yet: building one of the country\u2019s largest data centers in Sutton",
+          "url": "https://www.bostonglobe.com/2026/11/14/business/kraft-data-center-sutton/",
+          "published_at": "2026-11-14T23:39:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Football, with side of lederhosen, on Munich menu as Patriots take in Novemberfest with NFL\u2019s German fans",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "patriots"
+        ]
+      },
+      "independent_outlets": [
+        "The Boston Globe",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-14T19:18:04Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Football, with side of lederhosen, on Munich menu as Patriots take in Novemberfest with NFL\u2019s German fans",
+          "url": "https://www.bostonglobe.com/2026/11/14/sports/patriots-munich-german-fans-nfl-lions/",
+          "published_at": "2026-11-14T19:18:04Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "NFL teams with German mascots wooing fans in Munich",
+          "url": "https://www.wcvb.com/article/nfl-teams-with-german-mascots/74431766",
+          "published_at": "2026-11-15T01:45:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Tabbies, calicos, and bengals \u2014 oh my! Hundreds turn out for Somerville cat tour.",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "somerville"
+        ]
+      },
+      "independent_outlets": [
+        "The Boston Globe",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-14T23:00:38Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Tabbies, calicos, and bengals \u2014 oh my! Hundreds turn out for Somerville cat tour.",
+          "url": "https://www.bostonglobe.com/2026/11/14/metro/somerville-cat-tour-draws-hundreds-of-feline-fans/",
+          "published_at": "2026-11-14T23:00:38Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Somerville cat tour draws big crowd",
+          "url": "https://www.wcvb.com/article/cat-lovers-pack-somerville-streets-for-neighborhood-tour/74431100",
+          "published_at": "2026-11-14T23:20:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "U.S. loses measles elimination status",
+      "score": 45,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Axios",
+        "CBS News",
+        "NPR"
+      ],
+      "first_seen": "2026-11-14T11:10:39Z",
+      "reports": [
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "U.S. loses measles elimination status",
+          "url": "https://www.axios.com/2026/11/14/us-loses-measles-elimination-status",
+          "published_at": "2026-11-14T11:10:39Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "U.S. loses measles elimination status as cases surge nationwide",
+          "url": "https://www.cbsnews.com/news/measles-elimination-status-united-states/",
+          "published_at": "2026-11-14T16:42:15Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "US has lost measles elimination status, global health authorities say",
+          "url": "https://www.npr.org/2026/11/14/nx-s1-6041119/us-measles-elimination-status-vaccines-cdc-paho",
+          "published_at": "2026-11-14T22:15:02Z"
+        }
+      ]
+    },
+    {
+      "headline": "What Red Sox signing Jake Bauers means for Willson Contreras",
+      "score": 44,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 1,
+        "boston_local": [
+          "red sox"
+        ]
+      },
+      "independent_outlets": [
+        "ESPN",
+        "NBC Boston"
+      ],
+      "first_seen": "2026-11-14T06:40:07Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "What Red Sox signing Jake Bauers means for Willson Contreras",
+          "url": "https://www.nbcboston.com/mlb/boston-red-sox/jake-bauers-signing-willson-contreras-first-base/4049152/",
+          "published_at": "2026-11-14T06:40:07Z"
+        },
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Red Sox sign first baseman Jake Bauers away from World Series champs: Report",
+          "url": "https://www.nbcboston.com/news/local/red-sox-sign-first-baseman-jake-bauers-away-from-world-series-champs-report/4049059/",
+          "published_at": "2026-11-14T06:40:07Z"
+        },
+        {
+          "publisher": "ESPN",
+          "group": "espn",
+          "kind": "news",
+          "wire": false,
+          "title": "MLB offseason grades: Red Sox land Jake Bauers amid winter's first big moves",
+          "url": "https://www.espn.com/mlb/story/_/id/50473334/2026-27-offseason-free-agency-trade-grades",
+          "published_at": "2026-11-14T17:29:40Z"
+        }
+      ]
+    },
+    {
+      "headline": "Zelenskyy says a new European security framework floated by US could benefit Putin",
+      "score": 35,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "PBS NewsHour",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-14T12:33:36Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Zelenskyy says a new European security framework floated by US could benefit Putin",
+          "url": "https://www.bostonglobe.com/2026/11/14/world/zelenskyy-european-security-framework-us-putin/",
+          "published_at": "2026-11-14T12:33:36Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Zelensky says a new European security framework floated by US could benefit Putin",
+          "url": "https://www.bostonglobe.com/2026/11/14/world/zelensky-says-new-european-security-framework-floated-by-us-could-benefit-putin/",
+          "published_at": "2026-11-14T18:34:13Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Zelenskyy says a new European security framework floated by U.S. could benefit Putin",
+          "url": "https://www.pbs.org/newshour/world/zelenskyy-says-a-new-european-security-framework-floated-by-u-s-could-benefit-putin",
+          "published_at": "2026-11-14T20:23:29Z"
+        }
+      ]
+    },
+    {
+      "headline": "The US flu season is off to a very early start. It\u2019s hitting the South and West now.",
+      "score": 34,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "PBS NewsHour",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-14T05:56:47Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "The US flu season is off to a very early start. It\u2019s hitting the South and West now.",
+          "url": "https://www.bostonglobe.com/2026/11/14/nation/us-flu-season-off-to-early-start/",
+          "published_at": "2026-11-14T05:56:47Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "The U.S. flu season is off to a very early start. It's hitting the South and West now",
+          "url": "https://www.pbs.org/newshour/health/the-u-s-flu-season-is-off-to-a-very-early-start-its-hitting-the-south-and-west-now",
+          "published_at": "2026-11-14T21:02:19Z"
+        }
+      ]
+    },
+    {
+      "headline": "Young father expecting 2nd child is among victims of NYC building collapse, family says",
+      "score": 34,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "CBS News",
+        "NBC Boston"
+      ],
+      "first_seen": "2026-11-14T06:40:07Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Young father expecting 2nd child is among victims of NYC building collapse, family says",
+          "url": "https://www.nbcboston.com/news/national-international/father-expecting-2nd-child-among-victims-brooklyn-building-collapse/4048992/",
+          "published_at": "2026-11-14T06:40:07Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Investigators probe cause of deadly NYC building collapse",
+          "url": "https://www.cbsnews.com/video/investigators-probe-cause-of-deadly-nyc-building-collapse/",
+          "published_at": "2026-11-14T16:10:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "New Polymarket promo code \u201cMASS\u201d renews $25 referral promo in time for Boston College-Notre Dame",
+      "score": 34,
+      "signals": {
+        "us_outlets": 1,
+        "intl_outlets": 0,
+        "front_pages": 1,
+        "boston_local": [
+          "boston"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive"
+      ],
+      "first_seen": "2026-11-14T17:45:00Z",
+      "reports": [
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "New Polymarket promo code \u201cMASS\u201d renews $25 referral promo in time for Boston College-Notre Dame",
+          "url": "https://www.masslive.com/betting/2026/11/new-polymarket-promo-code-mass-renews-25-referral-promo-in-time-for-boston-college-notre-dame.html",
+          "published_at": "2026-11-14T17:45:00Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Saturday Night Football Polymarket promo code \u201cMASS\u201d launches $25 deal for Texas-LSU",
+          "url": "https://www.masslive.com/betting/2026/11/saturday-night-football-polymarket-promo-code-mass-launches-25-deal-for-texas-lsu.html",
+          "published_at": "2026-11-15T00:45:00Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Boston College struggles offensively in lopsided loss to Notre Dame",
+          "url": "https://www.masslive.com/bcsports/2026/11/boston-college-overwhelmed-by-no-3-notre-dame-after-slow-start-in-south-bend.html",
+          "published_at": "2026-11-15T01:22:10Z"
+        }
+      ]
+    },
+    {
+      "headline": "With shifting Iran rhetoric following U.S. elections, Trump leaves Middle East in limbo about path ahead",
+      "score": 34,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "PBS NewsHour",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-14T21:17:42Z",
+      "reports": [
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "With shifting Iran rhetoric following U.S. elections, Trump leaves Middle East in limbo about path ahead",
+          "url": "https://www.pbs.org/newshour/world/with-shifting-iran-rhetoric-following-u-s-elections-trump-leaves-middle-east-in-limbo-about-path-ahead",
+          "published_at": "2026-11-14T21:17:42Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "With shifting Iran rhetoric following US elections, Trump leaves Mideast in limbo about path ahead",
+          "url": "https://www.wcvb.com/article/iran-rhetoric-elections-trump-mideast-limbo/74431136",
+          "published_at": "2026-11-14T22:57:00Z"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-14",
+  "published_at": "2026-11-15T02:28:29.161209Z",
+  "status": "published",
+  "prelaunch": false,
+  "title": "SpaceX catches Starship's upper stage for the first time",
+  "caption": "On Saturday, the mechanical arms of SpaceX's launch tower at Starbase, Texas, caught the Starship upper stage as it returned from about 22 hours in orbit on the rocket's 15th test flight. It was the first time the ship had been recovered this way. The Super Heavy booster was lost offshore after a guidance problem. Recovering both stages is central to SpaceX's plan for a fully reusable rocket.",
+  "stories": [
+    {
+      "name": "SpaceX catches Starship's upper stage for the first time",
+      "role": "focal",
+      "facts": [
+        "On Saturday, Nov. 14, SpaceX caught the Starship upper stage (Ship 42) with the two mechanical 'chopsticks' arms on the launch tower at its Starbase site on the Texas Gulf Coast, the first time the ship has been recovered from orbit.",
+        "The ship had launched Friday on Starship's 15th test flight and spent about 22 hours in space, orbiting Earth 14 times and releasing 26 Starlink V3 satellites, before returning to the same pad.",
+        "The Super Heavy booster was not recovered: after a guidance problem it was diverted to an offshore splashdown in the Gulf of Mexico and exploded just before reaching the water.",
+        "SpaceX employees at Starbase cheered and applauded the catch; Elon Musk said the booster problem does not change the company's timeline."
+      ],
+      "sources": [
+        {
+          "publisher": "CBS News",
+          "title": "SpaceX pulls off first Starship recovery from orbit in spectacular fashion",
+          "url": "https://www.cbsnews.com/news/spacex-catch-starship-rocket/",
+          "published_at": "2026-11-14T23:06:59Z"
+        },
+        {
+          "publisher": "CNBC",
+          "title": "SpaceX catches upper stage of Starship rocket in historic first",
+          "url": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html",
+          "published_at": "2026-11-14T23:10:14Z"
+        },
+        {
+          "publisher": "NPR",
+          "title": "SpaceX successfully catches Starship and makes history",
+          "url": "https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history",
+          "published_at": "2026-11-14T21:42:41Z"
+        }
+      ]
+    }
+  ],
+  "artwork": {
+    "path": "artwork/2026-11-14.svg",
+    "format": "svg",
+    "alt": "Editorial illustration seen from low on the dunes at SpaceX's Starbase site. A tall lattice launch tower's two long arms close around a stainless-steel Starship upper stage as it descends tail-first on short engine flames, steam billowing below. A dotted return path arcs down from the sky, and faint orbit rings circle a huge pale sun behind it. Silhouetted workers in the foreground raise their arms and cheer. It represents SpaceX's first catch of Starship's upper stage on Nov. 14, 2026.",
+    "method": "code-generated SVG (graphic-poster kit, src/art/daily/)",
+    "revision": "r3"
+  },
+  "backfill": {
+    "is_backfill": false,
+    "reason": null
+  }
+}
