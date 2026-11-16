@@ -1,0 +1,58 @@
+{
+  "date": "2026-11-15",
+  "runs": [
+    {
+      "started_at": "2026-11-16T02:14:03.365066Z",
+      "outcome": "published",
+      "steps": [
+        {
+          "at": "2026-11-16T02:14:03.365070Z",
+          "step": "prepare: lock acquired (live)"
+        },
+        {
+          "at": "2026-11-16T02:14:08.644112Z",
+          "step": "prepare: ran src/news/feeds.py"
+        },
+        {
+          "at": "2026-11-16T02:14:08.751774Z",
+          "step": "prepare: ran src/news/cluster.py"
+        },
+        {
+          "at": "2026-11-16T02:32:40.796271Z",
+          "step": "finalize: published to local site"
+        }
+      ],
+      "_new_run": true,
+      "mode": "live",
+      "prelaunch": false,
+      "finished_at": "2026-11-16T02:32:40.796158Z",
+      "link_checks": [
+        {
+          "url": "https://www.pbs.org/newshour/nation/officials-say-a-tankers-steering-failed-before-it-crashed-into-a-cruise-ship-in-new-orleans",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.foxnews.com/us/ntsb-details-warning-whistles-emergency-orders-before-tanker-collision-capsized-new-orleans-riverboat",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.wcvb.com/article/ntsb-tanker-steering-failure-new-orleans-cruise-ship-crash/74434062",
+          "ok": true,
+          "note": "HTTP 200"
+        }
+      ],
+      "samples_removed": [],
+      "stories_shown": [
+        "NTSB: tanker's steering failed before it hit a docked riverboat in New Orleans"
+      ],
+      "usage": {
+        "article_reads": 6,
+        "web_searches": 0,
+        "render_rounds": 3,
+        "minutes": 30
+      }
+    }
+  ]
+}

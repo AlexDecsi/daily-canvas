@@ -1,0 +1,1759 @@
+{
+  "date": "2026-11-15",
+  "fetched_at": "2026-11-16T02:14:08.625195Z",
+  "items_considered": 474,
+  "candidates": [
+    {
+      "headline": "Will nationwide ground stop impact Thanksgiving travel? Here's what experts say",
+      "score": 173,
+      "signals": {
+        "us_outlets": 10,
+        "intl_outlets": 0,
+        "front_pages": 8,
+        "boston_local": [
+          "boston",
+          "celtics",
+          "logan airport",
+          "mass."
+        ]
+      },
+      "independent_outlets": [
+        "ABC News",
+        "CBS News",
+        "CNBC",
+        "NBC Boston",
+        "NBC News",
+        "NPR",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The Hill",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-15T05:16:45Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Will nationwide ground stop impact Thanksgiving travel? Here's what experts say",
+          "url": "https://www.nbcboston.com/news/local/will-nationwide-ground-stop-impact-thanksgiving-travel-heres-what-experts-say/4049827/",
+          "published_at": "2026-11-15T05:16:45Z"
+        },
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "What to know about flights after the U.S. nationwide ground stop",
+          "url": "https://www.nbcboston.com/news/national-international/what-to-know-flights-after-nationwide-ground-stop/4049500/",
+          "published_at": "2026-11-15T05:16:45Z"
+        },
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "U.S. air travel should normalize by Sunday after ground stop triggers mass cancellations, FAA says",
+          "url": "https://www.nbcboston.com/news/national-international/flights-canceled-airlines-work-dig-out-nationwide-ground-stop/4049495/",
+          "published_at": "2026-11-15T05:16:45Z"
+        },
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "FAA grounds flights nationwide, disrupting NBA, NHL and college football travel for the weekend",
+          "url": "https://www.nbcboston.com/news/sports/faa-grounds-flights-nationwide-disrupt-nba-nhl-college-football-travel/4049472/",
+          "published_at": "2026-11-15T05:16:45Z"
+        },
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "\u2018We've got a lot of questions,' Seth Moulton says after nationwide ground stop",
+          "url": "https://www.nbcboston.com/news/politics/weve-got-a-lot-of-questions-seth-moulton-says-after-nationwide-ground-stop/4049463/",
+          "published_at": "2026-11-15T05:16:45Z"
+        },
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Ground stop lifted hours after stranding thousands of flights across the U.S.",
+          "url": "https://www.nbcboston.com/news/national-international/faa-ground-stop-nationwide-us-airports/4049259/",
+          "published_at": "2026-11-15T05:16:45Z"
+        },
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "How the rare national ground stop has affected flights at Boston's Logan airport",
+          "url": "https://www.nbcboston.com/news/local/boston-logan-airport-faa-ground-stop-flights/4049195/",
+          "published_at": "2026-11-15T05:16:45Z"
+        },
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "FAA lifts nationwide ground stop issued due to \u2018extraordinary circumstances,' safety concerns",
+          "url": "https://www.nbcboston.com/news/national-international/faa-issues-nationwide-ground-stop-due-to-extraordinary-circumstances-and-safety/4049188/",
+          "published_at": "2026-11-15T05:16:45Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Transportation secretary says he doesn\u2019t apologize for FAA\u2019s nationwide ground stop",
+          "url": "https://www.nbcnews.com/politics/trump-administration/transportation-secretary-apologize-nationwide-ground-stop-airports-rcna609397",
+          "published_at": "2026-11-15T14:56:29Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "What to know about flights after the US nationwide ground stop",
+          "url": "https://www.bostonglobe.com/2026/11/15/business/ground-stop-what-to-know/",
+          "published_at": "2026-11-15T15:09:12Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Transportation head vows to find 'root cause' of ground stop. Trump breaks his silence on breakdown",
+          "url": "https://www.pbs.org/newshour/politics/trump-breaks-silence-on-nationwide-ground-stop-and-demands-more-money-from-congress",
+          "published_at": "2026-11-15T16:32:43Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump breaks silence about FAA nationwide ground stop, blames Biden administration",
+          "url": "https://www.cnbc.com/2026/11/15/trump-breaks-silence-on-faa-nationwide-ground-stop-blames-biden-.html",
+          "published_at": "2026-11-15T16:56:40Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Sean Duffy Offers New Details on How One Fix Spiraled Into Nationwide Ground Stop",
+          "url": "https://www.nytimes.com/2026/11/15/us/sean-duffy-ground-stop-trump-faa.html",
+          "published_at": "2026-11-15T18:06:21Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "DOT Sec. Duffy ties router in southern Arkansas to issues that led to nationwide ground stop",
+          "url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
+          "published_at": "2026-11-15T18:15:14Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Transportation head vows to find \u2018root cause\u2019 of ground stop. Trump breaks his silence on shut down.",
+          "url": "https://www.bostonglobe.com/2026/11/15/business/ground-stop-root-cause/",
+          "published_at": "2026-11-15T18:44:39Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Koh blames Trump for blocking Biden-era infrastructure, FAA funding",
+          "url": "https://thehill.com/homenews/house/6221559-koh-blames-trump-faa-funding/",
+          "published_at": "2026-11-15T21:36:11Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "What to Know About Continued Flight Disruptions",
+          "url": "https://www.nytimes.com/2026/11/14/us/flight-delays-cancelations-what-to-know.html",
+          "published_at": "2026-11-15T22:03:34Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Flight Delays and Cancellations Persist as System Recovers From Ground Stop",
+          "url": "https://www.nytimes.com/2026/11/15/us/faa-groundstop-flights-status-delays-canceled.html",
+          "published_at": "2026-11-15T22:06:59Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Flights slowly returning to normal after FAA ground stop",
+          "url": "https://www.wcvb.com/article/flights-slowly-returning-to-normal-after-faa-ground-stop/74433638",
+          "published_at": "2026-11-15T23:10:00Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Flight disruptions expected to last into Monday",
+          "url": "https://www.npr.org/2026/11/15/nx-s1-6041683/flight-disruptions-expected-to-last-into-monday",
+          "published_at": "2026-11-16T01:19:28Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "FAA ground stop live updates: Flight cancellations continue into Monday",
+          "url": "https://abcnews.com/US/live-updates/faa-ground-stop-live-updates-hundreds-flights-canceled/?id=138125140",
+          "published_at": "2026-11-16T01:42:00Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Ripple effects of nationwide ground stop still felt at airports: \"Exhausted, frustrated\"",
+          "url": "https://www.cbsnews.com/video/ripple-effects-nationwide-ground-stop-felt-airports-exhausted-frustrated/",
+          "published_at": "2026-11-16T01:45:05Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump officials ask for $50 billion for air traffic control after ground stop",
+          "url": "https://www.cbsnews.com/video/trump-officials-ask-50-billion-air-traffic-control-ground-stop/",
+          "published_at": "2026-11-16T01:48:01Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Flights expected to normalize by tonight after ground stop. Here's what to know",
+          "url": "https://www.cbsnews.com/news/faa-ground-stop-canceled-flights-travelers-what-we-know/",
+          "published_at": "2026-11-16T01:49:12Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "More than 100 flights canceled, nearly 300 delayed at Logan as airlines recover from ground stop",
+          "url": "https://www.bostonglobe.com/2026/11/15/metro/logan-flight-cancellations-and-delays-continue-after-nationwide-ground-stop/",
+          "published_at": "2026-11-16T02:05:30Z"
+        }
+      ]
+    },
+    {
+      "headline": "Officials say a tanker's steering failed before it crashed into a cruise ship in New Orleans",
+      "score": 127,
+      "signals": {
+        "us_outlets": 6,
+        "intl_outlets": 2,
+        "front_pages": 6,
+        "boston_local": [
+          "boston",
+          "celtics"
+        ]
+      },
+      "independent_outlets": [
+        "BBC News",
+        "Boston.com",
+        "Fox News",
+        "NBC Boston",
+        "NPR",
+        "PBS NewsHour",
+        "The Guardian",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-15T05:16:45Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Officials say a tanker's steering failed before it crashed into a cruise ship in New Orleans",
+          "url": "https://www.nbcboston.com/news/national-international/tanker-steering-failed-new-orleans-cruise-ship-crash-officials-say/4049893/",
+          "published_at": "2026-11-15T05:16:45Z"
+        },
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "New Orleans port sues to get control of tanker that crashed into cruise ship on Mississippi River",
+          "url": "https://www.nbcboston.com/news/national-international/new-orleans-port-sues-control-tanker-cruise-ship-crash-mississippi-river/4049596/",
+          "published_at": "2026-11-15T05:16:45Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+          "url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-15T14:33:59Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "New Orleans port sues owners of tanker involved in Mississippi crash",
+          "url": "https://www.npr.org/2026/11/15/nx-s1-6041677/new-orleans-port-sues-miracle-mississippi-cruise-ship",
+          "published_at": "2026-11-15T17:45:27Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
+          "url": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-15T22:57:27Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Officials say a tanker's steering failed before it crashed into a cruise ship in New Orleans",
+          "url": "https://www.pbs.org/newshour/nation/officials-say-a-tankers-steering-failed-before-it-crashed-into-a-cruise-ship-in-new-orleans",
+          "published_at": "2026-11-15T23:02:00Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "US officials recover audio from \u2018Mississippi miracle\u2019 cruise ship and tanker crash",
+          "url": "https://www.theguardian.com/us-news/2026/nov/15/audio-new-orleans-mississippi-river-cruise-tanker-crash",
+          "published_at": "2026-11-15T23:20:59Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Officials say a tanker\u2019s steering failed before it crashed into a cruise ship in New Orleans",
+          "url": "https://www.boston.com/news/national-news/2026/11/15/officials-say-a-tankers-steering-failed-before-it-crashed-into-a-cruise-ship-in-new-orleans/",
+          "published_at": "2026-11-15T23:25:34Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "NTSB details warning whistles and emergency orders before tanker collision capsized New Orleans riverboat",
+          "url": "https://www.foxnews.com/us/ntsb-details-warning-whistles-emergency-orders-before-tanker-collision-capsized-new-orleans-riverboat",
+          "published_at": "2026-11-15T23:26:19Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Steering failure caused tanker to hit cruise ship on the Mississippi River in New Orleans, NTSB says",
+          "url": "https://www.wcvb.com/article/ntsb-tanker-steering-failure-new-orleans-cruise-ship-crash/74434062",
+          "published_at": "2026-11-16T00:12:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Patriots-Lions recap: Drake Maye, A.J. Brown injured in another blowout loss",
+      "score": 118,
+      "signals": {
+        "us_outlets": 6,
+        "intl_outlets": 1,
+        "front_pages": 5,
+        "boston_local": [
+          "boston",
+          "celtics",
+          "new england",
+          "patriots"
+        ]
+      },
+      "independent_outlets": [
+        "ESPN",
+        "Fox News",
+        "MassLive",
+        "NBC Boston",
+        "The Boston Globe",
+        "The Guardian",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-15T05:16:45Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Patriots-Lions recap: Drake Maye, A.J. Brown injured in another blowout loss",
+          "url": "https://www.nbcboston.com/news/sports/nfl/new-england-patriots/lions-live-updates-germany-drake-maye-jared-goff/4049403/",
+          "published_at": "2026-11-15T05:16:45Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Drake Maye injured: Tommy DeVito not the answer",
+          "url": "https://www.masslive.com/patriots/2026/11/drake-maye-leaves-with-ankle-injury-tommy-devito-not-the-answer.html",
+          "published_at": "2026-11-15T17:36:43Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "6 Patriots takeaways as Drake Maye\u2019s injury leads to blowout loss",
+          "url": "https://www.masslive.com/patriots/2026/11/6-patriots-takeaways-as-drake-mayes-ankle-injury-leads-to-blowout-loss-in-munich.html",
+          "published_at": "2026-11-15T17:37:04Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "After Drake Maye injury, the Patriots fell apart and showed no fight, and other observations after a blowout loss",
+          "url": "https://www.bostonglobe.com/2026/11/15/sports/patriots-lions-munich-game-instant-analysis/",
+          "published_at": "2026-11-15T18:09:09Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "In a Patriots season riddled with injuries, the one that matters most is Drake Maye\u2019s",
+          "url": "https://www.bostonglobe.com/2026/11/15/sports/drake-maye-patriots/",
+          "published_at": "2026-11-15T18:09:26Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Drake Maye injury: What Mike Vrabel said about the Patriots QB\u2019s ankle",
+          "url": "https://www.masslive.com/patriots/2026/11/drake-maye-injury-what-mike-vrabel-said-about-the-patriots-qbs-injury.html",
+          "published_at": "2026-11-15T18:25:34Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Patriots Postgame: What is level of concern with Drake Maye, A.J. Brown?",
+          "url": "https://www.masslive.com/patriots/2026/11/patriots-postgame-what-is-level-of-concern-with-drake-maye-aj-brown.html",
+          "published_at": "2026-11-15T18:42:44Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Lions 35, Patriots 10: New England suffers ugly loss in Munich after Drake Maye exits with injury. Here\u2019s how it happened.",
+          "url": "https://www.bostonglobe.com/2026/11/15/sports/patriots-lions-live-updates-munich/",
+          "published_at": "2026-11-15T20:06:22Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Patriots players were stunned by Drake Maye's ankle injury",
+          "url": "https://www.masslive.com/patriots/2026/11/the-brutal-moment-drake-mayes-teammates-realized-he-wasnt-coming-back-in-munich.html",
+          "published_at": "2026-11-15T20:07:00Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "NFL week 10: Cousins\u2019 Vikings comeback crushes Packers, Lions thrash Patriots and more \u2013 as it happened",
+          "url": "https://www.theguardian.com/sport/live/2026/nov/15/nfl-week-10-lions-v-patriots-and-more-live",
+          "published_at": "2026-11-15T21:21:50Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "NFL roundup: Vikings win on Cousins\u2019 return; Hutchinson reportedly ends season celebrating sack",
+          "url": "https://www.theguardian.com/sport/2026/nov/15/nfl-sunday-football-scores",
+          "published_at": "2026-11-15T21:55:13Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Hard reset is Mike Vrabel\u2019s only answer in aftermath of Drake Maye\u2019s injury, and the defense\u2019s collapse",
+          "url": "https://www.bostonglobe.com/2026/11/15/sports/nfl-patriots-germany-drake-maye/",
+          "published_at": "2026-11-15T22:15:20Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "It felt like the game was over long before the clock ran out on Patriots\u2019 loss to Lions",
+          "url": "https://www.bostonglobe.com/2026/11/15/sports/patriots-lions-unconventional-review/",
+          "published_at": "2026-11-15T22:39:24Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Kirk Cousins and the Minnesota Vikings are reunited and it feels so good after win over Green Bay Packers",
+          "url": "https://www.foxnews.com/outkick-sports/kirk-cousins-minnesota-vikings-reunited-feels-good-win-green-bay-packers",
+          "published_at": "2026-11-15T22:56:14Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Drake Maye suffers ankle injury in first quarter, ruled out of game, team says",
+          "url": "https://www.wcvb.com/article/drake-maye-suffers-ankle-injury-in-first-quarter/74432839",
+          "published_at": "2026-11-15T23:11:00Z"
+        },
+        {
+          "publisher": "ESPN",
+          "group": "espn",
+          "kind": "news",
+          "wire": false,
+          "title": "Cousins emotional after win in Vikings return, reflects on 'tough three years'",
+          "url": "https://www.espn.com/nfl/story/_/id/50495965/kirk-cousins-emotional-getting-win-return-vikings",
+          "published_at": "2026-11-16T01:43:03Z"
+        }
+      ]
+    },
+    {
+      "headline": "Two planes collide on taxiway at Miami International Airport",
+      "score": 101,
+      "signals": {
+        "us_outlets": 6,
+        "intl_outlets": 1,
+        "front_pages": 5,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "NBC News",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The Guardian",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-15T06:26:48Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Two planes collide on taxiway at Miami International Airport",
+          "url": "https://www.bostonglobe.com/2026/11/15/nation/2-planes-collide-taxiway-miami-airport/",
+          "published_at": "2026-11-15T06:26:48Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Two planes collide on taxiway at Miami airport one day after national grounding",
+          "url": "https://www.theguardian.com/us-news/2026/nov/15/miami-airport-planes-collide",
+          "published_at": "2026-11-15T15:40:04Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "2 injured after taxiing planes collide at Miami International Airport",
+          "url": "https://www.nbcnews.com/news/us-news/two-injured-taxiing-planes-collide-miami-airport-rcna608962",
+          "published_at": "2026-11-15T16:04:02Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Two Planes Collide on a Taxiway at Miami International Airport",
+          "url": "https://www.nytimes.com/2026/11/15/us/miami-airport-plane-collision-copa-ups.html",
+          "published_at": "2026-11-15T16:29:46Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "'Somebody hit us': Planes collide while taxiing at Miami International Airport, injuring 2",
+          "url": "https://www.wcvb.com/article/miami-international-airport-plane-collision/74432395",
+          "published_at": "2026-11-15T19:34:00Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "UPS plane, Copa Airlines flight collide on taxiway at Miami International Airport",
+          "url": "https://abcnews.com/US/ups-plane-copa-airlines-flight-collide-taxiway-miami/story?id=138152923",
+          "published_at": "2026-11-15T20:07:46Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "2 planes collide on the ground in Miami, only minor injuries reported",
+          "url": "https://www.pbs.org/newshour/nation/2-planes-collide-on-the-ground-in-miami-only-minor-injuries-reported",
+          "published_at": "2026-11-15T22:16:01Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "WATCH: Passenger jet collides with UPS plane on taxiway at Miami International Airport",
+          "url": "https://abcnews.com/video/138162241/",
+          "published_at": "2026-11-16T01:21:08Z"
+        }
+      ]
+    },
+    {
+      "headline": "Trump blasts judge's 2-week halt to his Washington golf project and says administration will appeal",
+      "score": 99,
+      "signals": {
+        "us_outlets": 6,
+        "intl_outlets": 1,
+        "front_pages": 2,
+        "boston_local": [
+          "boston",
+          "celtics"
+        ]
+      },
+      "independent_outlets": [
+        "BBC News",
+        "CBS News",
+        "CNBC",
+        "NBC Boston",
+        "PBS NewsHour",
+        "The Hill",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-15T05:16:45Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump blasts judge's 2-week halt to his Washington golf project and says administration will appeal",
+          "url": "https://www.nbcboston.com/news/national-international/trump-vows-to-appeal-judges-2-week-halt-to-east-potomac-golf-links-project-in-dc/4049816/",
+          "published_at": "2026-11-15T05:16:45Z"
+        },
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge blocks Trump from moving ahead on Washington public golf course redevelopment",
+          "url": "https://www.nbcboston.com/news/national-international/judge-blocks-trump-from-moving-ahead-on-east-potomac-golf-links-redevelopment/4049595/",
+          "published_at": "2026-11-15T05:16:45Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment",
+          "url": "https://www.cnbc.com/2026/11/15/judge-temporarily-blocks-trumps-dc-public-golf-course-redevelopment.html",
+          "published_at": "2026-11-15T13:58:06Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge Blocks Immediate Closure of East Potomac Park for Trump Golf Project",
+          "url": "https://www.nytimes.com/2026/11/14/us/politics/trump-east-potomac-golf-course.html",
+          "published_at": "2026-11-15T15:04:16Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
+          "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-15T15:57:03Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge temporarily blocks Trump from moving ahead on D.C. public golf course redevelopment",
+          "url": "https://www.pbs.org/newshour/politics/judge-temporarily-blocks-trump-from-moving-ahead-on-d-c-public-golf-course-redevelopment",
+          "published_at": "2026-11-15T16:20:54Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge temporarily blocks closing of historic D.C. golf course",
+          "url": "https://www.cbsnews.com/news/judge-blocks-east-potomac-park-dc-closing/",
+          "published_at": "2026-11-15T17:03:40Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump blasts judge's 2-week halt to his Washington golf project and says administration will appeal",
+          "url": "https://www.pbs.org/newshour/politics/trump-blasts-judges-2-week-halt-to-his-washington-golf-project-and-says-administration-will-appeal",
+          "published_at": "2026-11-15T17:39:22Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump says Interior will appeal ruling delaying golf course renovations",
+          "url": "https://thehill.com/homenews/administration/6221569-east-potomac-park-legal-battle/",
+          "published_at": "2026-11-15T20:44:12Z"
+        }
+      ]
+    },
+    {
+      "headline": "Woman shot and killed in Rockland after gun goes off during family dispute",
+      "score": 84,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 0,
+        "front_pages": 4,
+        "boston_local": [
+          "boston",
+          "celtics",
+          "massachusetts"
+        ]
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "MassLive",
+        "NBC Boston",
+        "The Boston Globe",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-15T05:16:45Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Woman shot and killed in Rockland after gun goes off during family dispute",
+          "url": "https://www.nbcboston.com/news/local/woman-shot-rockland-home-gun-goes-off-during-argument/4049675/",
+          "published_at": "2026-11-15T05:16:45Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Woman fatally shot during family dispute at Massachusetts home, DA says",
+          "url": "https://www.masslive.com/news/2026/11/woman-fatally-shot-during-family-dispute-at-rockland-home-da-says.html",
+          "published_at": "2026-11-15T17:04:41Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Rockland police question two men after woman shot, killed during argument at home",
+          "url": "https://www.wcvb.com/article/fatal-shooting-rockland-home/74431903",
+          "published_at": "2026-11-15T22:41:00Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Rockland woman shot and killed when gun goes off during argument between other family members, officials say",
+          "url": "https://www.boston.com/news/crime/2026/11/15/rockland-woman-shot-and-killed-when-gun-goes-off-during-argument-between-other-family-members-officials-say/",
+          "published_at": "2026-11-15T23:33:48Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Woman fatally shot in Rockland home after gun goes off in family dispute",
+          "url": "https://www.bostonglobe.com/2026/11/15/metro/rockland-woman-fatally-shot/",
+          "published_at": "2026-11-16T01:49:53Z"
+        }
+      ]
+    },
+    {
+      "headline": "Bowen Yang returns to \u2018SNL' to play ex-Nvidia CEO Jensen Huang",
+      "score": 75,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 1,
+        "front_pages": 2,
+        "boston_local": [
+          "boston",
+          "celtics"
+        ]
+      },
+      "independent_outlets": [
+        "CBS News",
+        "CNBC",
+        "NBC Boston",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-15T05:16:45Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Bowen Yang returns to \u2018SNL' to play ex-Nvidia CEO Jensen Huang",
+          "url": "https://www.nbcboston.com/entertainment/entertainment-news/bowen-yang-snl-ex-nvidia-ceo-jensen-huang/4049672/",
+          "published_at": "2026-11-15T05:16:45Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "How Jensen Huang\u2019s Secret Led to His Downfall at Nvidia",
+          "url": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html",
+          "published_at": "2026-11-15T12:40:04Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Here's how Jensen Huang's abrupt resignation unfolded at Nvidia",
+          "url": "https://www.cbsnews.com/news/jensen-huang-nvidia-resignation-scandal-timeline/",
+          "published_at": "2026-11-15T14:52:34Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Elon Musk joins 158,000 others calling for Nvidia to bring back Jensen Huang in open letter",
+          "url": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo",
+          "published_at": "2026-11-16T01:01:08Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Tech world's calls for Jensen Huang to return to Nvidia are growing",
+          "url": "https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html",
+          "published_at": "2026-11-16T01:54:56Z"
+        }
+      ]
+    },
+    {
+      "headline": "Iran Targets Bahrain Base But Says Path to US Deal Is Open",
+      "score": 72,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 2,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "Bloomberg",
+        "CNBC",
+        "The Boston Globe",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-15T08:14:04Z",
+      "reports": [
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Iran Targets Bahrain Base But Says Path to US Deal Is Open",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-15/iran-strikes-bahrain-base-repeats-path-to-us-deal-remains-open",
+          "published_at": "2026-11-15T08:14:04Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Iran targets US military base in Bahrain with drone attack",
+          "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-15T13:42:58Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Iran Attacks Bahrain for the Second Time in Days",
+          "url": "https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html",
+          "published_at": "2026-11-15T15:55:09Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Iran launches drone attacks against US military base in Bahrain",
+          "url": "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain",
+          "published_at": "2026-11-15T18:03:56Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Anti-Houthi forces retreat in Yemen as Iran strikes Bahrain in attack on U.S. base",
+          "url": "https://www.cnbc.com/2026/11/15/bahrain-iran-drone-attacks-tehran-us-base.html",
+          "published_at": "2026-11-15T19:11:23Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Saudi-backed forces in Yemen retreat from Red Sea as Houthis advance",
+          "url": "https://www.bostonglobe.com/2026/11/15/world/saudi-backed-forces-yemen-retreat-red-sea-houthis-advance/",
+          "published_at": "2026-11-15T21:09:40Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Saudi-Backed Forces Retreat in Yemen, Leaving Key Strait in Houthi Control",
+          "url": "https://www.nytimes.com/2026/11/15/world/middleeast/saudi-houthis-yemen-red-sea.html",
+          "published_at": "2026-11-15T21:26:19Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Iran attacks Bahrain for the second time in days",
+          "url": "https://www.bostonglobe.com/2026/11/15/world/iran-attacks-bahrain-second-time-days/",
+          "published_at": "2026-11-15T22:44:53Z"
+        }
+      ]
+    },
+    {
+      "headline": "Driver killed in 2-vehicle crash in Berlin, Mass.",
+      "score": 67,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": [
+          "boston",
+          "celtics",
+          "mass.",
+          "massachusetts"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "NBC Boston",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-15T05:16:45Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Driver killed in 2-vehicle crash in Berlin, Mass.",
+          "url": "https://www.nbcboston.com/news/local/person-dies-two-vehicle-crash-central-street-berlin-ma/4049722/",
+          "published_at": "2026-11-15T05:16:45Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Driver killed in 2-car crash in Central Mass. Saturday night",
+          "url": "https://www.masslive.com/centralmass/2026/11/driver-killed-in-2-car-crash-in-central-mass-saturday-night.html",
+          "published_at": "2026-11-15T16:46:57Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Driver escapes injury after car rolls over in Dracut crash",
+          "url": "https://www.wcvb.com/article/driver-escapes-injury-after-car-rolls-over-in-dracut-crash/74433499",
+          "published_at": "2026-11-15T20:09:00Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Driver fatally injured in 2-car crash in Berlin, Mass.",
+          "url": "https://www.wcvb.com/article/driver-fatally-injured-in-2-car-crash-in-berlin-mass/74433723",
+          "published_at": "2026-11-15T21:39:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Small classroom fire at Duxbury Middle School",
+      "score": 66,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": [
+          "boston",
+          "celtics"
+        ]
+      },
+      "independent_outlets": [
+        "Fox News",
+        "NBC Boston",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-15T05:16:45Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Small classroom fire at Duxbury Middle School",
+          "url": "https://www.nbcboston.com/news/local/small-classroom-fire-at-duxbury-middle-school/4049642/",
+          "published_at": "2026-11-15T05:16:45Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Sprinkler system helps stop Saturday night fire at Duxbury High School",
+          "url": "https://www.wcvb.com/article/sprinkler-system-helps-stop-saturday-night-fire-at-duxbury-high-school/74431927",
+          "published_at": "2026-11-15T20:01:00Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "NFL legend's son makes incredible one-handed catch to help high school win championship in Pennsylvania",
+          "url": "https://www.foxnews.com/outkick-sports/nfl-legends-son-makes-incredible-one-handed-catch-help-high-school-win-championship-pennsylvania",
+          "published_at": "2026-11-16T01:18:12Z"
+        }
+      ]
+    },
+    {
+      "headline": "Phil Collins cries, Billy Idol shouts and rappers romp at Rock & Roll Hall of Fame ceremony",
+      "score": 66,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": [
+          "boston",
+          "celtics"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "NBC Boston",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-15T05:16:45Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Phil Collins cries, Billy Idol shouts and rappers romp at Rock & Roll Hall of Fame ceremony",
+          "url": "https://www.nbcboston.com/entertainment/entertainment-news/rock-and-roll-hall-of-fame-phil-collins-billy-idol-rappers/4049620/",
+          "published_at": "2026-11-15T05:16:45Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Phil Collins cries, Billy Idol shouts and rappers romp at Rock & Roll Hall of Fame ceremony",
+          "url": "https://www.bostonglobe.com/2026/11/15/nation/rock-roll-hall-of-fame-ceremony-phil-collins-oprah-vandross/",
+          "published_at": "2026-11-15T10:09:18Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Ailing Rock & Roll Hall of Famer cries during induction",
+          "url": "https://www.masslive.com/entertainment/2026/11/rock-roll-hall-of-famer-walking-with-2-canes-cries-during-induction-amidst-health-issues.html",
+          "published_at": "2026-11-15T16:29:23Z"
+        }
+      ]
+    },
+    {
+      "headline": "Celtics-Mavs recap: Tatum leads the way in rout at TD Garden",
+      "score": 54,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 1,
+        "boston_local": [
+          "boston",
+          "celtics"
+        ]
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "ESPN",
+        "NBC Boston"
+      ],
+      "first_seen": "2026-11-15T05:16:45Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Celtics-Mavs recap: Tatum leads the way in rout at TD Garden",
+          "url": "https://www.nbcboston.com/nba/boston-celtics/live-updates-mavericks-highlights-score-4/4049812/",
+          "published_at": "2026-11-15T05:16:45Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Tatum scores 32, Celtics set franchise history on the way to 131-94 rout of Mavericks",
+          "url": "https://www.boston.com/sports/boston-celtics/2026/11/15/tatum-scores-32-celtics-set-franchise-history-on-the-way-to-131-94-rout-of-mavericks/",
+          "published_at": "2026-11-16T01:40:04Z"
+        },
+        {
+          "publisher": "ESPN",
+          "group": "espn",
+          "kind": "news",
+          "wire": false,
+          "title": "Celtics set franchise mark with 42-9 lead over Mavs after 1 quarter",
+          "url": "https://www.espn.com/nba/story/_/id/50496245/celtics-set-franchise-mark-42-9-lead-mavericks-one-quarter",
+          "published_at": "2026-11-16T01:43:03Z"
+        }
+      ]
+    },
+    {
+      "headline": "Mavericks at Celtics preview: Cooper Flagg and Dallas look to end Boston\u2019s five-game winning streak",
+      "score": 51,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "boston",
+          "celtics",
+          "maine"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-15T13:24:38Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Mavericks at Celtics preview: Cooper Flagg and Dallas look to end Boston\u2019s five-game winning streak",
+          "url": "https://www.bostonglobe.com/2026/11/15/sports/celtics-mavericks-preview-for-november-15-2026/",
+          "published_at": "2026-11-15T13:24:38Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Cooper Flagg vs. Celtics: What \u2018fascinates\u2019 Mavs coach about local star",
+          "url": "https://www.masslive.com/celtics/2026/11/cooper-flagg-vs-celtics-what-fascinates-mavericks-coach-about-local-star.html",
+          "published_at": "2026-11-15T22:49:43Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Maine native Cooper Flagg was little help as the Celtics set a defensive record in routing the Mavericks",
+          "url": "https://www.bostonglobe.com/2026/11/15/sports/celtics-mavericks-cooper-flagg/",
+          "published_at": "2026-11-16T01:16:09Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Jayson Tatum is Celtics \u2018Name to Know\u2019 Player of the Game in win over Mavericks",
+          "url": "https://www.masslive.com/celtics/2026/11/jayson-tatum-is-celtics-name-to-know-player-of-the-game-in-win-over-mavericks.html",
+          "published_at": "2026-11-16T01:36:26Z"
+        }
+      ]
+    },
+    {
+      "headline": "Russell Brand says \u2018I am not guilty\u2019 in statement from prison read by his wife",
+      "score": 51,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Fox News",
+        "MassLive",
+        "NBC News"
+      ],
+      "first_seen": "2026-11-15T22:21:24Z",
+      "reports": [
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Russell Brand says \u2018I am not guilty\u2019 in statement from prison read by his wife",
+          "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/russell-brand-says-not-guilty-statement-prison-read-wife-rcna609472",
+          "published_at": "2026-11-15T22:21:24Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Russell Brand\u2019s wife reacts to his rape conviction",
+          "url": "https://www.masslive.com/entertainment/2026/11/russell-brands-wife-reacts-to-his-rape-conviction-its-painful.html",
+          "published_at": "2026-11-15T23:23:59Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Russell Brand\u2019s wife opens up after comedian\u2019s rape conviction, shares message from imprisoned husband",
+          "url": "https://www.foxnews.com/entertainment/russell-brands-wife-opens-up-after-comedians-rape-conviction-shares-message-from-imprisoned-husband",
+          "published_at": "2026-11-16T01:08:25Z"
+        }
+      ]
+    },
+    {
+      "headline": "North Shore 15-year-old pleads guilty to shooting girlfriend in the head",
+      "score": 50,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-15T18:54:10Z",
+      "reports": [
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "North Shore 15-year-old pleads guilty to shooting girlfriend in the head",
+          "url": "https://www.masslive.com/news/2026/11/salem-15-year-old-pleads-guilty-to-trying-to-kill-girlfriend-by-shooting-her-in-the-head.html",
+          "published_at": "2026-11-15T18:54:10Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "North Shore man found guilty of stalking ex-girlfriend, stabbing her in the chest",
+          "url": "https://www.masslive.com/news/2026/11/lynn-man-found-guilty-of-stalking-ex-girlfriend-for-nearly-2-years-stabbing-her-in-the-chest.html",
+          "published_at": "2026-11-15T21:32:58Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Salem teenager sentenced to 3 years in custody for shooting girlfriend in head, prosecutors say",
+          "url": "https://www.bostonglobe.com/2026/11/13/metro/alexander-muzarol-beverly-shot-girlfriend/",
+          "published_at": "2026-11-15T22:05:09Z"
+        }
+      ]
+    },
+    {
+      "headline": "Could everything be broken? Grounded jets, Microsoft outage, AI chaos make some wonder",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "boston",
+          "celtics"
+        ]
+      },
+      "independent_outlets": [
+        "NBC Boston",
+        "PBS NewsHour"
+      ],
+      "first_seen": "2026-11-15T05:16:45Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Could everything be broken? Grounded jets, Microsoft outage, AI chaos make some wonder",
+          "url": "https://www.nbcboston.com/news/national-international/could-everything-be-broken-grounded-jets-microsoft-outage-ai-chaos-make-some-wonder/4049760/",
+          "published_at": "2026-11-15T05:16:45Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Could everything be broken? Grounded jets, Microsoft outage, AI chaos make some wonder",
+          "url": "https://www.pbs.org/newshour/nation/could-everything-be-broken-grounded-jets-microsoft-outage-ai-chaos-make-some-wonder",
+          "published_at": "2026-11-15T17:05:04Z"
+        }
+      ]
+    },
+    {
+      "headline": "75-year-old woman injured in Rockland crash",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "boston",
+          "celtics"
+        ]
+      },
+      "independent_outlets": [
+        "NBC Boston",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-15T05:16:45Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "75-year-old woman injured in Rockland crash",
+          "url": "https://www.nbcboston.com/news/local/75-year-old-woman-injured-in-rockland-crash/4049584/",
+          "published_at": "2026-11-15T05:16:45Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "After a 75-year-old woman was seriously injured in a Rockland crash, bystanders jumped in to help",
+          "url": "https://www.bostonglobe.com/2026/11/15/metro/rockland-head-on-crash/",
+          "published_at": "2026-11-15T18:37:03Z"
+        }
+      ]
+    },
+    {
+      "headline": "Israel kills a top Hamas commander, Jordan sentences 3 in church attack and other Mideast news",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "The Boston Globe",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-15T12:35:31Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Israel kills a top Hamas commander, Jordan sentences 3 in church attack and other Mideast news",
+          "url": "https://www.bostonglobe.com/2026/11/15/world/israel-kills-hamas-commander-jordan-sentences-3-in-church-attack/",
+          "published_at": "2026-11-15T12:35:31Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Israel kills senior Hamas commander in Gaza 2 months after killing his predecessor",
+          "url": "https://www.wcvb.com/article/israel-kills-senior-hamas-official-gaza/74433602",
+          "published_at": "2026-11-15T21:11:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Live updates: Trump cabinet talks Nvidia, FAA scandals; Van Hollen discusses Senate majority elections",
+      "score": 49,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 1,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "The Boston Globe",
+        "The Guardian",
+        "The Hill",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-15T18:28:06Z",
+      "reports": [
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Live updates: Trump cabinet talks Nvidia, FAA scandals; Van Hollen discusses Senate majority elections",
+          "url": "https://thehill.com/homenews/administration/6221144-live-trump-cabinet-faa-nvidia-alaska/",
+          "published_at": "2026-11-15T18:28:06Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Chris Van Hollen says he has path to win Senate leader over Chuck Schumer",
+          "url": "https://www.theguardian.com/us-news/2026/nov/15/chris-van-hollen-senate-majority-leader",
+          "published_at": "2026-11-15T18:46:49Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Van Hollen says his Senate challenge to Schumer is gaining support",
+          "url": "https://www.bostonglobe.com/2026/11/15/nation/van-hollen-senate-leader-schumer/",
+          "published_at": "2026-11-15T19:16:33Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Chris Van Hollen Says His Majority Leader Challenge to Chuck Schumer Is Gaining Support",
+          "url": "https://www.nytimes.com/2026/11/15/us/politics/van-hollen-schumer-democrats-majority-leader.html",
+          "published_at": "2026-11-15T23:02:15Z"
+        }
+      ]
+    },
+    {
+      "headline": "32 Americans named as Rhodes scholars have variety of interests, from space junk to art history",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "harvard"
+        ]
+      },
+      "independent_outlets": [
+        "The Boston Globe",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-15T20:36:26Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "32 Americans named as Rhodes scholars have variety of interests, from space junk to art history",
+          "url": "https://www.bostonglobe.com/2026/11/15/nation/rhodes-scholars-32-americans-named/",
+          "published_at": "2026-11-15T20:36:26Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "32 Americans named as Rhodes scholars have variety of interests, from space junk to art history",
+          "url": "https://www.wcvb.com/article/2027-rhodes-scholars-americans/74433554",
+          "published_at": "2026-11-15T20:51:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Addie Harrington scores two, pushes Frontier field hockey into D-IV semifinals",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "harvard"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-15T22:48:42Z",
+      "reports": [
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Addie Harrington scores two, pushes Frontier field hockey into D-IV semifinals",
+          "url": "https://www.masslive.com/highschoolsports/2026/11/addie-harrington-scores-two-pushes-frontier-field-hockey-into-d-iv-semifinals.html",
+          "published_at": "2026-11-15T22:48:42Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Harvard field hockey returns to NCAA Division 1 semifinals thanks to 1-0 win over UMass",
+          "url": "https://www.bostonglobe.com/2026/11/15/sports/colleges-field-hockey-harvard-umass-ncaa-tournament/",
+          "published_at": "2026-11-16T01:19:10Z"
+        }
+      ]
+    },
+    {
+      "headline": "Megaspeed says Alice Huang left in 2025 as company conducts internal probe over Nvidia fallout",
+      "score": 48,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 2,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "PBS NewsHour",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-15T16:48:48Z",
+      "reports": [
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Megaspeed says Alice Huang left in 2025 as company conducts internal probe over Nvidia fallout",
+          "url": "https://www.pbs.org/newshour/world/megaspeed-says-alice-huang-left-in-2025-as-company-conducts-internal-probe-over-nvidia-fallout",
+          "published_at": "2026-11-15T16:48:48Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Megaspeed Says Alice Huang Left Company in August 2025",
+          "url": "https://www.nytimes.com/2026/11/15/business/megaspeed-alice-huang-nvidia-china.html",
+          "published_at": "2026-11-16T00:01:34Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Megaspeed, the company linked to the downfall of Nvidia boss, says it\u2019s a \u2018legitimate and lawful business\u2019",
+          "url": "https://www.theguardian.com/technology/2026/nov/16/megaspeed-company-breaks-slience-nvidia-jensen-huang-alice-huang",
+          "published_at": "2026-11-16T01:17:04Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+          "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-16T01:47:57Z"
+        }
+      ]
+    },
+    {
+      "headline": "What Red Sox signing Jake Bauers means for Willson Contreras",
+      "score": 44,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 1,
+        "boston_local": [
+          "boston",
+          "celtics",
+          "red sox"
+        ]
+      },
+      "independent_outlets": [
+        "ESPN",
+        "NBC Boston"
+      ],
+      "first_seen": "2026-11-15T05:16:45Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "What Red Sox signing Jake Bauers means for Willson Contreras",
+          "url": "https://www.nbcboston.com/mlb/boston-red-sox/jake-bauers-signing-willson-contreras-first-base/4049152/",
+          "published_at": "2026-11-15T05:16:45Z"
+        },
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Red Sox sign first baseman Jake Bauers away from World Series champs: Report",
+          "url": "https://www.nbcboston.com/news/local/red-sox-sign-first-baseman-jake-bauers-away-from-world-series-champs-report/4049059/",
+          "published_at": "2026-11-15T05:16:45Z"
+        },
+        {
+          "publisher": "ESPN",
+          "group": "espn",
+          "kind": "news",
+          "wire": false,
+          "title": "Red Sox land Jake Bauers amid winter's first big moves",
+          "url": "https://www.espn.com/mlb/story/_/id/50473334/2026-27-offseason-free-agency-trade-grades",
+          "published_at": "2026-11-15T13:25:17Z"
+        }
+      ]
+    },
+    {
+      "headline": "Pope crosses Peru in finale of trip home to visit flock high in Andes, deep in Amazon",
+      "score": 44,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 1,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "PBS NewsHour",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-15T12:32:34Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Pope crosses Peru in finale of trip home to visit flock high in Andes, deep in Amazon",
+          "url": "https://www.bostonglobe.com/2026/11/15/world/pope-peru-trip-home-flock-high-andes-amazon/",
+          "published_at": "2026-11-15T12:32:34Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Pope Leo rides in helicopter cockpit during Peru trip",
+          "url": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-15T18:38:11Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Pope crosses Peru in the finale of a trip home to visit flock high in Andes and deep in Amazon",
+          "url": "https://www.pbs.org/newshour/world/pope-crosses-peru-in-the-finale-of-a-trip-home-to-visit-flock-high-in-andes-and-deep-in-amazon",
+          "published_at": "2026-11-15T19:57:37Z"
+        }
+      ]
+    },
+    {
+      "headline": "Malden man charged with sister's murder after reporting death as suicide",
+      "score": 43,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 1,
+        "boston_local": [
+          "boston",
+          "celtics"
+        ]
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "NBC Boston"
+      ],
+      "first_seen": "2026-11-15T05:16:45Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Malden man charged with sister's murder after reporting death as suicide",
+          "url": "https://www.nbcboston.com/news/local/malden-man-charged-with-sisters-murder-after-reporting-death-as-suicide/4049268/",
+          "published_at": "2026-11-15T05:16:45Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Malden man charged with murder in his sister\u2019s death at Airbnb",
+          "url": "https://www.boston.com/news/crime/2026/11/15/malden-murder-sister-jean-noel/",
+          "published_at": "2026-11-16T00:49:41Z"
+        }
+      ]
+    }
+  ]
+}

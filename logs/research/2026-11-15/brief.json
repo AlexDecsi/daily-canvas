@@ -1,0 +1,52 @@
+{
+  "date": "2026-11-15",
+  "mode": "live (scheduled run, ~9:07 p.m. Boston time on Nov. 15)",
+  "prepared_at": "2026-11-16T02:30:00Z",
+  "candidates_considered": 25,
+  "rationale": "The top-scored cluster is more follow-up on Friday's FAA ground stop, already the 2026-11-13 entry. The second, the New Orleans tanker-riverboat collision, has a real Nov. 15 development: at a Sunday briefing the NTSB said the tanker's steering failed and held its rudder to starboard two minutes before impact. It is covered by 8+ outlets (AP via PBS/Boston.com, Fox News, WCVB, NPR, BBC, Guardian) and had not yet been illustrated in the gallery. The Patriots' loss in Munich (Boston local) was considered, but a national investigation finding outranks a regular-season loss under the news focus, and the two don't fit one scene. Facts confirmed by the AP report (Hanna and Levy, via PBS) and an independent original Fox News report (Stepheny Price).",
+  "stories": [
+    {
+      "role": "focal",
+      "name": "NTSB: tanker's steering failed before it hit a docked riverboat in New Orleans",
+      "facts": [
+        "On Sunday, Nov. 15, the NTSB said in a preliminary briefing that the tanker Atlantic Asphalt's steering system failed and kept its rudder turned to starboard, sending the ship toward the Mississippi River's east bank in New Orleans.",
+        "The tanker, about 520 feet long and heading upriver near the Crescent City Connection bridge, struck the docked American Cruise Lines riverboat American Heritage about two minutes later, around 12:28 p.m. on Friday, Nov. 13; the riverboat capsized about 22 minutes after the impact.",
+        "Everyone aboard the riverboat (140 passengers and 50 crew) survived; responders evacuated more than 80 people before it overturned and pulled about 100 from the river. 32 people were taken to hospitals, none critically per AP.",
+        "The voyage data recorder captured sounds consistent with the tanker's whistle, warnings, radio calls for help and orders to drop anchors; video showed anchors down. The cause of the steering failure is not yet known, and a preliminary report is expected within 30 days."
+      ],
+      "people": [],
+      "visual_notes": "Low-angle view from the riverboat's dock at midday: the dark tanker's bow looms huge, swinging toward the bank, its anchor chain running down into the brown river and its whistle steam puffing; a white multi-deck riverboat (generic, no name or logo) sits at the dock in the foreground. Crew and passengers in life vests hurry down the gangway onto the dock (reported evacuation before capsizing); a harbor patrol boat and a tug approach. The cantilever trusses of the Crescent City Connection bridge cross the background sky. A curved, dashed wake behind the tanker traces its unintended swing to starboard, an illustrative nod to the stuck rudder. No people in the water, no injuries, no names, no text.",
+      "confidence": "high: AP (via PBS) and Fox News (original) agree on the vessels, location near the Crescent City Connection, the NTSB's stuck-rudder finding, the two-minute and 22-minute timeline, the anchor orders and that all aboard survived. Injury and hospitalization counts differ slightly by time of report, so the art shows none and the caption uses AP's figure. Ship colors and liveries were not described, so both vessels are generic.",
+      "sources": [
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "wire": "AP",
+          "title": "Officials say a tanker's steering failed before it crashed into a cruise ship in New Orleans",
+          "url": "https://www.pbs.org/newshour/nation/officials-say-a-tankers-steering-failed-before-it-crashed-into-a-cruise-ship-in-new-orleans",
+          "published_at": "2026-11-15T23:02:00Z",
+          "checked_at": "2026-11-16T02:18:00Z",
+          "checked": "full article"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "title": "NTSB details warning whistles and emergency orders before tanker collision capsized New Orleans riverboat",
+          "url": "https://www.foxnews.com/us/ntsb-details-warning-whistles-emergency-orders-before-tanker-collision-capsized-new-orleans-riverboat",
+          "published_at": "2026-11-15T23:26:19Z",
+          "checked_at": "2026-11-16T02:22:00Z",
+          "checked": "full article"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "title": "Steering failure caused tanker to hit cruise ship on the Mississippi River in New Orleans",
+          "url": "https://www.wcvb.com/article/ntsb-tanker-steering-failure-new-orleans-cruise-ship-crash/74434062",
+          "published_at": "2026-11-16T00:12:00Z",
+          "checked_at": "2026-11-16T02:20:00Z",
+          "checked": "full article (Hearst, AP contributed)"
+        }
+      ]
+    }
+  ]
+}
