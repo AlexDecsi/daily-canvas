@@ -1,0 +1,52 @@
+{
+  "date": "2026-11-16",
+  "mode": "live (scheduled run, ~9:07 p.m. Boston time on Nov. 16)",
+  "prepared_at": "2026-11-17T02:25:00Z",
+  "candidates_considered": 25,
+  "rationale": "The top-scored cluster is again follow-up on Friday's FAA ground stop (cause traced to a router at an Arkansas radio site, airlines recovering), which was already the 2026-11-13 entry, and the Huang item is a follow-up to the 2026-11-12 entry. The next national story is a fresh Nov. 16 development: the Supreme Court declined to hear the Trump administration's appeal over cancelled University of California research grants, leaving in place rulings that the cuts likely violated the First Amendment. It led on 10 outlets (NBC, CBS, NYT, LA Times, Boston Globe, AP via ABC). It is a significant national ruling on federal research funding, which matters to Boston's universities. Considered and set aside: Lindsay Clancy retrial date (local, but a procedural scheduling step in a tragic case), Pattinson as Bond, and the JPMorgan banking glitch (brief and resolved). None fit one scene with the court ruling, so it stands alone. Facts confirmed by original NBC (Lawrence Hurley) and CBS (Melissa Quinn) reports and the AP (Lindsay Whitehurst, via ABC).",
+  "stories": [
+    {
+      "role": "focal",
+      "name": "Supreme Court declines Trump appeal over cancelled UC research grants",
+      "facts": [
+        "On Monday, Nov. 16, the Supreme Court declined to hear the Trump administration's appeal over its cancellation of research grants to University of California researchers; no justice publicly dissented (AP).",
+        "The order leaves in place a district court ruling (Judge Rita Lin, June 2025) and a Ninth Circuit ruling (May 2026) that the terminations likely violated the First Amendment's bar on viewpoint discrimination.",
+        "The grants at issue came from the National Science Foundation and the National Endowment for the Humanities. Researchers said agencies cut awards through keyword searches for terms such as 'diversity' and 'climate change'.",
+        "UC's lawyers said the administration cut more than $324 million in grants to the system in early 2025; the administration said about $59 million remained on the NSF and NEH grants at issue. The broader lawsuit continues."
+      ],
+      "people": [],
+      "visual_notes": "Low-angle view up the Supreme Court's west steps: the marble Corinthian columns and pediment tower against a deep green evening sky. From between the columns a broad band of warm light falls diagonally down to a cutaway university research lab in the lower right, where generic researchers resume work (one at a microscope, one at a bench with flasks, one at a telescope by a window with a campus clock tower beyond). Blank sheets of paper (no text) drift down along the light beam toward the lab, an obviously symbolic nod to grants left in place. No justices, no officials, no named people, no text or slogans.",
+      "confidence": "high: NBC, CBS and AP agree that the Court declined the appeal, that the lower rulings found a likely First Amendment violation, that the grants were NSF and NEH awards to UC researchers, and on the keyword-search allegation. The $324 million figure is UC's lawyers' count (CBS) / the overall attempted cut (NBC); the caption attributes it carefully or omits it.",
+      "sources": [
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "title": "Supreme Court rejects Trump over academic funding cuts related to DEI",
+          "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-rejects-trump-academic-funding-cuts-dei-rcna608885",
+          "published_at": "2026-11-16T14:52:32Z",
+          "checked_at": "2026-11-17T02:15:00Z",
+          "checked": "full article"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "title": "Supreme Court rejects case on Trump's bid to cut grants related to DEI",
+          "url": "https://www.cbsnews.com/news/supreme-court-trump-dei-research-grants/",
+          "published_at": "2026-11-16T15:55:31Z",
+          "checked_at": "2026-11-17T02:14:00Z",
+          "checked": "full article"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "wire": "AP",
+          "title": "Supreme Court rebuffs Trump administration appeal over DEI funding cuts",
+          "url": "https://abcnews.com/US/wireStory/supreme-court-rebuffs-trump-administration-appeal-dei-funding-138187547",
+          "published_at": "2026-11-16T19:43:08Z",
+          "checked_at": "2026-11-17T02:16:00Z",
+          "checked": "full article"
+        }
+      ]
+    }
+  ]
+}

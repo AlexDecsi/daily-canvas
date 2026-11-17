@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-16",
+  "published_at": "2026-11-17T02:16:31.811226Z",
+  "status": "published",
+  "prelaunch": false,
+  "title": "Supreme Court leaves rulings on UC research grant cuts in place",
+  "caption": "On Monday the Supreme Court declined to hear the Trump administration's appeal over cancelled National Science Foundation and National Endowment for the Humanities grants to University of California researchers, with no justice publicly dissenting. That leaves in place lower-court rulings that the terminations, which researchers said targeted words like \"diversity\" and \"climate change\", likely violated the First Amendment. The broader lawsuit continues.",
+  "stories": [
+    {
+      "name": "Supreme Court declines Trump appeal over cancelled UC research grants",
+      "role": "focal",
+      "facts": [
+        "On Monday, Nov. 16, the Supreme Court declined to hear the Trump administration's appeal over its cancellation of research grants to University of California researchers; no justice publicly dissented (AP).",
+        "The order leaves in place a district court ruling (Judge Rita Lin, June 2025) and a Ninth Circuit ruling (May 2026) that the terminations likely violated the First Amendment's bar on viewpoint discrimination.",
+        "The grants at issue came from the National Science Foundation and the National Endowment for the Humanities. Researchers said agencies cut awards through keyword searches for terms such as 'diversity' and 'climate change'.",
+        "UC's lawyers said the administration cut more than $324 million in grants to the system in early 2025; the administration said about $59 million remained on the NSF and NEH grants at issue. The broader lawsuit continues."
+      ],
+      "sources": [
+        {
+          "publisher": "NBC News",
+          "title": "Supreme Court rejects Trump over academic funding cuts related to DEI",
+          "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-rejects-trump-academic-funding-cuts-dei-rcna608885",
+          "published_at": "2026-11-16T14:52:32Z"
+        },
+        {
+          "publisher": "CBS News",
+          "title": "Supreme Court rejects case on Trump's bid to cut grants related to DEI",
+          "url": "https://www.cbsnews.com/news/supreme-court-trump-dei-research-grants/",
+          "published_at": "2026-11-16T15:55:31Z"
+        },
+        {
+          "publisher": "ABC News",
+          "title": "Supreme Court rebuffs Trump administration appeal over DEI funding cuts",
+          "url": "https://abcnews.com/US/wireStory/supreme-court-rebuffs-trump-administration-appeal-dei-funding-138187547",
+          "published_at": "2026-11-16T19:43:08Z"
+        }
+      ]
+    }
+  ],
+  "artwork": {
+    "path": "artwork/2026-11-16.svg",
+    "format": "svg",
+    "alt": "Illustration: a low-angle view of the U.S. Supreme Court's marble pediment and Corinthian columns against a deep green evening sky, with gold rays fanning out behind. Light pours from the central bay down the steps and into a cutaway university lab, where researchers in white coats work at a microscope, hold up a flask and read a sheet, beneath a window showing a campus clock tower. Blank sheets drift along the beam. It represents the Court declining the administration's appeal over cancelled UC research grants.",
+    "method": "code-generated SVG (graphic-poster kit, src/art/daily/)",
+    "revision": "r3"
+  },
+  "backfill": {
+    "is_backfill": false,
+    "reason": null
+  }
+}

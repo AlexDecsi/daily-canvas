@@ -1,0 +1,1939 @@
+{
+  "date": "2026-11-16",
+  "fetched_at": "2026-11-17T02:12:58.805499Z",
+  "items_considered": 553,
+  "candidates": [
+    {
+      "headline": "What to Know About the Cause of the FAA\u2019s Nationwide Ground Stop",
+      "score": 228,
+      "signals": {
+        "us_outlets": 14,
+        "intl_outlets": 1,
+        "front_pages": 10,
+        "boston_local": [
+          "logan airport"
+        ]
+      },
+      "independent_outlets": [
+        "ABC News",
+        "Axios",
+        "Bloomberg",
+        "Boston.com",
+        "CBS News",
+        "CNBC",
+        "Fox News",
+        "MassLive",
+        "NBC News",
+        "NPR",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The Guardian",
+        "The Hill",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-16T05:25:25Z",
+      "reports": [
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "What to Know About the Cause of the FAA\u2019s Nationwide Ground Stop",
+          "url": "https://www.nytimes.com/2026/11/15/us/router-network-faa-airline-ground-stop.html",
+          "published_at": "2026-11-16T05:25:25Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Officials received years of warnings before FAA ground stop",
+          "url": "https://www.cbsnews.com/news/faa-ground-stop-warnings-records/",
+          "published_at": "2026-11-16T11:00:00Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "FAA ground stop still affecting thousands of flights. And, Trump meets Xi, Putin in Asia",
+          "url": "https://www.npr.org/2026/11/16/g-s1-153841/up-first-newsletter-faa-ground-stop-democratic-leaders-congress-trump-asia-trip",
+          "published_at": "2026-11-16T12:08:14Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "'We slept here': Flight delays linger as airlines recover from ground stop, but schedule improves Monday",
+          "url": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
+          "published_at": "2026-11-16T15:56:39Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "What we know about what caused the FAA's nationwide ground stop",
+          "url": "https://www.axios.com/2026/11/16/faa-flights-ground-stop-router-cause-reasons",
+          "published_at": "2026-11-16T19:30:04Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "More than 100 flights delayed, cancelled at Logan Airport as airlines recover from ground stop",
+          "url": "https://www.boston.com/travel/flights/2026/11/16/more-than-100-flights-delayed-cancelled-at-logan-airport/",
+          "published_at": "2026-11-16T20:24:22Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump\u2019s Asia Trip Will Bring Him to the Table With Xi and Putin: What to Know",
+          "url": "https://www.nytimes.com/2026/11/16/world/asia/trump-asia-china-xi-putin.html",
+          "published_at": "2026-11-16T21:42:52Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump blames ground stop on old tech that had 'heart attack'",
+          "url": "https://abcnews.com/US/trump-blames-ground-stop-tech-heart-attack/story?id=138178659",
+          "published_at": "2026-11-16T21:45:02Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "The FAA ground stop left them stranded, so they bought a car and drove it home",
+          "url": "https://www.nbcnews.com/news/us-news/women-stranded-faa-ground-stop-buy-ford-bronco-27-hour-road-trip-rcna609629",
+          "published_at": "2026-11-16T22:03:18Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "United Airlines experienced widespread outage affecting departing flights Monday evening",
+          "url": "https://www.masslive.com/news/2026/11/united-airlines-experiencing-widespread-system-outage-monday-evening.html",
+          "published_at": "2026-11-16T22:39:09Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Logan recovering after nationwide ground stop disrupts flights",
+          "url": "https://www.wcvb.com/article/boston-logan-returns-to-normal-after-flight-disruptions/74444577",
+          "published_at": "2026-11-16T22:40:00Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "WATCH: Trump blames Biden administration for FAA ground stop & other stories",
+          "url": "https://abcnews.com/video/138191402/",
+          "published_at": "2026-11-16T22:56:23Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "First look at Arkansas radio site possibly linked to FAA national ground stop",
+          "url": "https://www.wcvb.com/article/arkansas-router-faa-radio-site/74444961",
+          "published_at": "2026-11-16T22:59:00Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump Asia trip live updates: Logistical hurdles with a Trump-Kim Jong Un meeting",
+          "url": "https://abcnews.com/Politics/live-updates/trump-asia-trip-2026/?id=138187702",
+          "published_at": "2026-11-16T23:14:22Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "United Airlines says system outage resolved",
+          "url": "https://thehill.com/policy/transportation/6223837-united-airlines-resolves-tech-outage/",
+          "published_at": "2026-11-16T23:18:20Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "United Airlines says new outage resolved",
+          "url": "https://www.cbsnews.com/video/united-airlines-says-new-outage-resolved/",
+          "published_at": "2026-11-16T23:21:41Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "United Airlines says it resolved a technology issue that affected departing flights",
+          "url": "https://www.masslive.com/news/2026/11/united-airlines-says-it-resolved-a-technology-issue-that-affected-departing-flights.html",
+          "published_at": "2026-11-16T23:23:37Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "United Airlines briefly has 'systemwide' disruption to departing flights",
+          "url": "https://abcnews.com/US/united-airlines-briefly-systemwide-disruption-departing-flights/story?id=138191145",
+          "published_at": "2026-11-16T23:26:02Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "United Airlines says \u2018widespread\u2019 system outage resolved",
+          "url": "https://www.theguardian.com/us-news/2026/nov/16/united-airlines-system-outage",
+          "published_at": "2026-11-16T23:26:23Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "United Airlines says it resolved a technology issue that delayed departing flights",
+          "url": "https://www.pbs.org/newshour/nation/united-airlines-says-it-resolved-a-technology-issue-that-delayed-departing-flights",
+          "published_at": "2026-11-16T23:36:10Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "United Airlines resolves \"widespread system outage\" that delayed flights",
+          "url": "https://www.axios.com/2026/11/16/united-airlines-outage-faa",
+          "published_at": "2026-11-16T23:41:45Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "News Wrap: Trump departs for trip to Asia, meetings with Xi and Putin",
+          "url": "https://www.pbs.org/newshour/show/news-wrap-trump-departs-for-trip-to-asia-meetings-with-xi-and-putin",
+          "published_at": "2026-11-16T23:45:40Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump\u2019s Asia trip takes Alaska detour as weather forces refueling stop change",
+          "url": "https://www.foxnews.com/politics/trumps-asia-trip-takes-alaska-detour-weather-forces-refueling-stop-change",
+          "published_at": "2026-11-16T23:48:44Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump administration seeks to deflect responsibility for nationwide ground stop",
+          "url": "https://www.pbs.org/newshour/show/trump-administration-seeks-to-deflect-responsibility-for-nationwide-ground-stop",
+          "published_at": "2026-11-16T23:55:00Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "United Airlines flights resume after \u2018widespread system outage\u2019",
+          "url": "https://www.bostonglobe.com/2026/11/16/nation/united-airlines-resume-outage/",
+          "published_at": "2026-11-16T23:56:45Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "\"Tiger team\" formed to head off another nationwide ground stop",
+          "url": "https://www.cbsnews.com/news/white-house-tiger-team-ground-stop/",
+          "published_at": "2026-11-16T23:58:00Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "United Airlines resolves system outage that affected departing flights",
+          "url": "https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html",
+          "published_at": "2026-11-17T00:00:49Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "United Airlines Says It Has a Widespread System Outage: AP",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-17/balance-of-power-late-edition-11-16-2026-video",
+          "published_at": "2026-11-17T00:25:59Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "United Airlines resolved system outage that delayed many departures",
+          "url": "https://www.cbsnews.com/video/united-airlines-resolved-system-outage-delayed-many-departures/",
+          "published_at": "2026-11-17T00:41:21Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "WATCH: Meet the rental car manager going viral for keeping customers calm during ground stop",
+          "url": "https://abcnews.com/video/138190400/",
+          "published_at": "2026-11-17T00:53:24Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "United Airlines Flights Resume After \u2018Widespread System Outage\u2019",
+          "url": "https://www.nytimes.com/2026/11/16/business/united-airlines-outage-flights.html",
+          "published_at": "2026-11-17T00:59:37Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump heads to Asia for Putin, Xi summit; possible Kim meeting",
+          "url": "https://www.cbsnews.com/news/trump-asia-trip-trilateral-summit-putin-xi/",
+          "published_at": "2026-11-17T01:00:21Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "United Airlines says it resolved a system outage",
+          "url": "https://www.cbsnews.com/news/united-airlines-system-outage-departing-flights/",
+          "published_at": "2026-11-17T01:06:00Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "United Airlines forced to delay departing flights after 1.5-hour-long system outage",
+          "url": "https://www.wcvb.com/article/united-airlines-experiencing-widespread-system-outage-just-days-after-nationwide-ground-stop/74444477",
+          "published_at": "2026-11-17T01:15:00Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Kim Jong Un\u2019s Top Aide Meets Putin as Trump Floats Diplomacy",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-17/kim-jong-un-s-top-aide-meets-putin-as-trump-floats-diplomacy",
+          "published_at": "2026-11-17T01:37:22Z"
+        }
+      ]
+    },
+    {
+      "headline": "Supreme Court rejects Trump over academic funding cuts related to DEI",
+      "score": 146,
+      "signals": {
+        "us_outlets": 10,
+        "intl_outlets": 0,
+        "front_pages": 6,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "Bloomberg",
+        "CBS News",
+        "Fox News",
+        "Los Angeles Times",
+        "NBC News",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-16T14:52:32Z",
+      "reports": [
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Supreme Court rejects Trump over academic funding cuts related to DEI",
+          "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-rejects-trump-academic-funding-cuts-dei-rcna608885",
+          "published_at": "2026-11-16T14:52:32Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Supreme Court rejects challenge to Maryland\u2019s \u2018sensitive places\u2019 gun ban",
+          "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-rejects-challenge-marylands-sensitive-places-gun-ban-rcna608565",
+          "published_at": "2026-11-16T14:54:35Z"
+        },
+        {
+          "publisher": "Los Angeles Times",
+          "group": "latimes",
+          "kind": "news",
+          "wire": false,
+          "title": "Supreme Court hands UC researchers a win over Trump's grant cuts",
+          "url": "https://www.latimes.com/politics/story/2026-11-16/supreme-court-turns-down-trumps-plan-to-cut-off-uc-research-grants-that-promote-dei",
+          "published_at": "2026-11-16T15:22:12Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Supreme Court rejects case on Trump's bid to cut grants related to DEI",
+          "url": "https://www.cbsnews.com/news/supreme-court-trump-dei-research-grants/",
+          "published_at": "2026-11-16T15:55:31Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Supreme Court Rejects Trump Bid to Revive University Research Cuts",
+          "url": "https://www.nytimes.com/2026/11/16/us/politics/supreme-court-trump-university-of-california.html",
+          "published_at": "2026-11-16T19:19:17Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Supreme Court rebuffs Trump administration appeal over DEI funding cuts",
+          "url": "https://www.bostonglobe.com/2026/11/16/nation/trump-dei-cuts-supreme-court/",
+          "published_at": "2026-11-16T19:35:55Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Supreme Court rebuffs Trump administration appeal over DEI funding cuts",
+          "url": "https://abcnews.com/US/wireStory/supreme-court-rebuffs-trump-administration-appeal-dei-funding-138187547",
+          "published_at": "2026-11-16T19:43:08Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "High court rejects challenge to Maryland gun ban in sensitive places",
+          "url": "https://www.cbsnews.com/news/supreme-court-maryland-gun-laws-sensitive-places/",
+          "published_at": "2026-11-16T20:10:03Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump Argues Again That Hush Money Case Belongs in Federal Court",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-16/trump-argues-again-that-hush-money-case-belongs-in-federal-court",
+          "published_at": "2026-11-16T22:25:09Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump admin opens civil rights probes into 15 colleges over DEI grants",
+          "url": "https://www.foxnews.com/media/trump-admin-opens-civil-rights-probes-15-colleges-over-dei-grants",
+          "published_at": "2026-11-17T00:23:40Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump appeals to state and federal courts to erase hush money criminal conviction",
+          "url": "https://www.pbs.org/newshour/politics/trump-appeals-to-state-and-federal-courts-to-erase-hush-money-criminal-conviction",
+          "published_at": "2026-11-17T00:48:19Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "President Trump appeals to state and federal courts to erase hush money conviction",
+          "url": "https://www.wcvb.com/article/donald-trump-new-york-hush-money-conviction-appeal/74445541",
+          "published_at": "2026-11-17T00:55:00Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Supreme Court rejects Trump bid to revive university research cuts",
+          "url": "https://www.bostonglobe.com/2026/11/16/nation/supreme-court-trump-university-research-cuts/",
+          "published_at": "2026-11-17T01:34:38Z"
+        }
+      ]
+    },
+    {
+      "headline": "MAGA figures hope Jensen Huang's spy scandal finally breaks Trump's embrace of Big Tech",
+      "score": 132,
+      "signals": {
+        "us_outlets": 8,
+        "intl_outlets": 2,
+        "front_pages": 6,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "Axios",
+        "BBC News",
+        "CBS News",
+        "CNBC",
+        "Fox News",
+        "NBC News",
+        "PBS NewsHour",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-16T10:00:09Z",
+      "reports": [
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "MAGA figures hope Jensen Huang's spy scandal finally breaks Trump's embrace of Big Tech",
+          "url": "https://www.axios.com/2026/11/16/maga-jensen-huang-chinese-spy-scandal-trump",
+          "published_at": "2026-11-16T10:00:09Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump says he \u2018would not mind\u2019 if Jensen Huang returned to lead Nvidia",
+          "url": "https://www.nbcnews.com/now/video/trump-says-he-would-not-mind-if-jensen-huang-returned-to-lead-nvidia-273579077862",
+          "published_at": "2026-11-16T15:08:46Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump Says He\u2019s Open to Reinstatement of Jensen Huang as Nvidia Chief",
+          "url": "https://www.nytimes.com/2026/11/16/us/politics/trump-jensen-huang-nvidia.html",
+          "published_at": "2026-11-16T17:48:36Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump says he 'would not mind' if Jensen Huang returns to Nvidia \u2013 video",
+          "url": "https://www.theguardian.com/us-news/video/2026/nov/16/trump-would-not-mind-if-jensen-huang-returns-to-nvidia-video",
+          "published_at": "2026-11-16T17:56:12Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump says he \"would not mind\" if Nvidia reinstated Jensen Huang",
+          "url": "https://www.cbsnews.com/news/trump-nvidia-jensen-huang/",
+          "published_at": "2026-11-16T18:25:11Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Nvidia's board of directors opposes restoring Jensen Huang as CEO",
+          "url": "https://www.cbsnews.com/news/jensen-huang-nvidia-ceo-reinstatement-petition/",
+          "published_at": "2026-11-16T18:35:00Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump says he's OK with Jensen Huang returning as Nvidia CEO, sees no national security risk",
+          "url": "https://www.cnbc.com/2026/11/16/trump-lutnick-nvidia-national-security-jensen-huant.html",
+          "published_at": "2026-11-16T18:55:46Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump says he 'would not mind' if Jensen Huang is reinstated as Nvidia CEO",
+          "url": "https://abcnews.com/Business/trump-mind-jensen-huang-reinstated-nvidia-ceo/story?id=138174468",
+          "published_at": "2026-11-16T20:19:14Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "JD Vance says he and Trump still 'don't know' whether Alice Huang was a Chinese spy",
+          "url": "https://www.foxnews.com/media/jd-vance-trump-dont-know-alice-huang-chinese-spy",
+          "published_at": "2026-11-16T22:01:09Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump\u2019s accounts traded up to $97.5 million in Nvidia as Huang gained White House access",
+          "url": "https://www.cnbc.com/2026/11/16/trump-nvidia-stock-trades-jensen-huang.html",
+          "published_at": "2026-11-16T22:37:45Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump backs campaign to reinstate Huang as CEO of Nvidia",
+          "url": "https://www.pbs.org/newshour/politics/trump-backs-campaign-to-reinstate-huang-as-ceo-of-nvidia",
+          "published_at": "2026-11-16T23:25:54Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Madison Huang, Jensen Huang\u2019s Daughter, Became a Powerful Force at Nvidia",
+          "url": "https://www.nytimes.com/2026/11/16/technology/nvidia-jensen-madison-huang.html",
+          "published_at": "2026-11-16T23:29:54Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+          "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-17T01:49:26Z"
+        }
+      ]
+    },
+    {
+      "headline": "Lindsay Clancy to face retrial for the killings of her three children",
+      "score": 121,
+      "signals": {
+        "us_outlets": 6,
+        "intl_outlets": 1,
+        "front_pages": 6,
+        "boston_local": [
+          "massachusetts"
+        ]
+      },
+      "independent_outlets": [
+        "BBC News",
+        "CBS News",
+        "NBC News",
+        "NPR",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-16T15:28:37Z",
+      "reports": [
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Lindsay Clancy to face retrial for the killings of her three children",
+          "url": "https://www.nbcnews.com/video/lindsay-clancy-to-face-retrial-for-the-killings-of-her-three-children-273580613582",
+          "published_at": "2026-11-16T15:28:37Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Lindsay Clancy to face a new trial in spring of 2027 over children's killing",
+          "url": "https://www.npr.org/2026/11/16/nx-s1-5983473/clancy-trial-retrial-murder-charges",
+          "published_at": "2026-11-16T16:28:19Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Lindsay Clancy to face retrial next year for deaths of her three children",
+          "url": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-16T19:30:30Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge sets March date for Lindsay Clancy retrial in the killings of her three children",
+          "url": "https://www.bostonglobe.com/2026/11/16/metro/lindsay-clancy-court-hearing-murder/",
+          "published_at": "2026-11-16T21:52:22Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge Sets Spring Retrial for Lindsay Clancy",
+          "url": "https://www.nytimes.com/2026/11/16/us/lindsay-clancy-trial-hearing.html",
+          "published_at": "2026-11-16T23:12:49Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Lindsay Clancy to be retried on first-degree murder charges in March",
+          "url": "https://www.cbsnews.com/news/lindsay-clancy-hearing/",
+          "published_at": "2026-11-16T23:22:52Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge sets March retrial date for Lindsay Clancy in deaths of her 3 children",
+          "url": "https://www.pbs.org/newshour/nation/judge-sets-march-retrial-date-for-lindsay-clancy-in-deaths-of-her-3-children",
+          "published_at": "2026-11-17T00:23:23Z"
+        }
+      ]
+    },
+    {
+      "headline": "Robert Pattinson named as the newest James Bond",
+      "score": 109,
+      "signals": {
+        "us_outlets": 6,
+        "intl_outlets": 1,
+        "front_pages": 6,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "BBC News",
+        "CBS News",
+        "CNBC",
+        "NBC News",
+        "The Boston Globe",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-16T15:12:56Z",
+      "reports": [
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Robert Pattinson named as the newest James Bond",
+          "url": "https://www.nbcnews.com/pop-culture/movies/robert-pattinson-named-newest-james-bond-rcna607085",
+          "published_at": "2026-11-16T15:12:56Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Robert Pattinson is named the seventh James Bond, taking over the role from Daniel Craig",
+          "url": "https://www.bostonglobe.com/2026/11/16/arts/robert-pattinson-james-bond/",
+          "published_at": "2026-11-16T16:19:11Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Robert Pattinson would have made a better Bond villain",
+          "url": "https://www.bostonglobe.com/2026/11/16/arts/robert-pattinson-james-bond-villain/",
+          "published_at": "2026-11-16T17:11:48Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "When will we see Robert Pattinson as Bond in cinemas?",
+          "url": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-16T17:18:54Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Robert Pattinson cast as next James Bond",
+          "url": "https://www.cnbc.com/2026/11/16/robert-pattinson-james-bond.html",
+          "published_at": "2026-11-16T21:03:36Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Why Robert Pattinson Could Be a Great James Bond",
+          "url": "https://www.nytimes.com/2026/11/16/movies/robert-pattinson-new-bond.html",
+          "published_at": "2026-11-16T22:03:37Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Robert Pattinson Named as the Next James Bond",
+          "url": "https://www.nytimes.com/2026/11/16/movies/james-bond-robert-pattinson.html",
+          "published_at": "2026-11-16T22:10:06Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Robert Pattinson lands coveted James Bond role",
+          "url": "https://www.cbsnews.com/video/robert-pattinson-lands-coveted-james-bond-role/",
+          "published_at": "2026-11-17T00:53:23Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "New James Bond is announced after rampant speculation",
+          "url": "https://www.cbsnews.com/news/james-bond-007-robert-pattinson/",
+          "published_at": "2026-11-17T00:54:37Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Robert Pattinson is the new James Bond. A look back at his other franchises",
+          "url": "https://abcnews.com/GMA/Culture/robert-pattinson-new-james-bond-back-franchises/story?id=138185581",
+          "published_at": "2026-11-17T01:12:12Z"
+        }
+      ]
+    },
+    {
+      "headline": "Technical issue at JPMorgan Chase triggers online delays for major U.S. banks",
+      "score": 101,
+      "signals": {
+        "us_outlets": 6,
+        "intl_outlets": 1,
+        "front_pages": 5,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "CBS News",
+        "CNBC",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The Guardian",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-16T19:32:41Z",
+      "reports": [
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Technical issue at JPMorgan Chase triggers online delays for major U.S. banks",
+          "url": "https://www.pbs.org/newshour/nation/customers-at-major-banks-are-experiencing-issues-accessing-their-accounts",
+          "published_at": "2026-11-16T19:32:41Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "A technical issue at JPMorgan Chase triggers online banking delays across major US banks",
+          "url": "https://www.bostonglobe.com/2026/11/16/business/customers-report-bank-outages-online/",
+          "published_at": "2026-11-16T20:06:02Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Customers report difficulty accessing online services at major US banks",
+          "url": "https://www.theguardian.com/business/2026/nov/16/us-bank-outage-chase-wells-fargo",
+          "published_at": "2026-11-16T22:01:40Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "JPMorgan Chase says temporary software bug is affecting consumer banking",
+          "url": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
+          "published_at": "2026-11-16T22:14:47Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Latest details on U.S. bank issues, delays",
+          "url": "https://www.cbsnews.com/video/latest-details-us-bank-issues-delays/",
+          "published_at": "2026-11-17T00:39:04Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Online banking delays for major banks triggered by technical issue at JPMorgan Chase",
+          "url": "https://www.wcvb.com/article/bank-outages-chase-wells-fargo-bank-of-america/74443090",
+          "published_at": "2026-11-17T01:02:00Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Major U.S. banks report widespread service outages",
+          "url": "https://www.cbsnews.com/news/banks-online-service-outages-jpmorgan-chase-bank-of-america-wells-fargo/",
+          "published_at": "2026-11-17T01:09:38Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Chase Bank Resumes Normal Operations After \u2018Software Bug\u2019 Disrupted Transactions",
+          "url": "https://www.nytimes.com/2026/11/16/us/bank-outages-down.html",
+          "published_at": "2026-11-17T02:02:57Z"
+        }
+      ]
+    },
+    {
+      "headline": "Grammys 2027 nominees: Raye, Rosal\u00eda and women artists dominate major categories",
+      "score": 79,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 1,
+        "front_pages": 5,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "BBC News",
+        "CBS News",
+        "NBC News",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-16T14:05:20Z",
+      "reports": [
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Grammys 2027 nominees: Raye, Rosal\u00eda and women artists dominate major categories",
+          "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/grammys-2027-nominees-female-artists-dominate-rcna608451",
+          "published_at": "2026-11-16T14:05:20Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Raye, Rosal\u00eda and Dolly Parton recognised in Grammy nominations",
+          "url": "https://www.bbc.co.uk/news/articles/cq9vwkggpx73o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-16T14:48:55Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "WATCH: Who are the nominees for the 2027 Grammys?",
+          "url": "https://abcnews.com/video/138173490/",
+          "published_at": "2026-11-16T16:27:53Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "WATCH: Grammy nominees for Album of the Year, Song of the Year",
+          "url": "https://abcnews.com/video/138174739/",
+          "published_at": "2026-11-16T16:32:46Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Noah Kahan, Aerosmith, Raye, Taylor Swift, and more earn 2027 Grammy nominations. See the full list.",
+          "url": "https://www.bostonglobe.com/2026/11/16/arts/2027-grammy-nominees/",
+          "published_at": "2026-11-16T16:51:28Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Raye and Rosal\u00eda lead 2027 Grammy nominations",
+          "url": "https://www.cbsnews.com/video/raye-and-rosala-lead-2027-grammy-nominations/",
+          "published_at": "2026-11-17T01:24:55Z"
+        }
+      ]
+    },
+    {
+      "headline": "Cantwell urges Lutnick to stop AI chip sales to China ahead of Xi meeting",
+      "score": 77,
+      "signals": {
+        "us_outlets": 5,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Bloomberg",
+        "CNBC",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-16T12:13:47Z",
+      "reports": [
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Cantwell urges Lutnick to stop AI chip sales to China ahead of Xi meeting",
+          "url": "https://www.cnbc.com/2026/11/16/cantwell-lutnick-ai-chip-china.html",
+          "published_at": "2026-11-16T12:13:47Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump Administration Moves to Close A.I. Chip Loophole Ahead of China Trip",
+          "url": "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-loophole.html",
+          "published_at": "2026-11-16T21:07:23Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "US Moves to Curb China\u2019s Chip Access",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-16/bloomberg-businessweek-daily-11-16-2026-video",
+          "published_at": "2026-11-16T21:27:51Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump administration moves to block China from indirect access to American AI technology",
+          "url": "https://www.bostonglobe.com/2026/11/16/nation/trump-block-china-indirect-access-american-ai-technology/",
+          "published_at": "2026-11-16T22:13:57Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump Administration Aims to Clamp Down on A.I. Chip Loophole",
+          "url": "https://www.nytimes.com/2026/11/16/briefing/trump-china-ai-loophole.html",
+          "published_at": "2026-11-16T22:27:45Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump administration moves to close AI chip loophole before China trip",
+          "url": "https://www.bostonglobe.com/2026/11/16/nation/trump-administration-moves-close-ai-chip-loophole-before-china-trip/",
+          "published_at": "2026-11-16T23:00:06Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "U.S. works to close loophole that let China access advanced AI chips",
+          "url": "https://www.pbs.org/newshour/show/u-s-works-to-close-loophole-that-let-china-access-advanced-ai-chips",
+          "published_at": "2026-11-16T23:40:37Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump Administration Divide on China Policy Breaks Into Public View",
+          "url": "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-policy.html",
+          "published_at": "2026-11-17T00:51:40Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "China\u2019s $17 Billion Crop Pledge Falters Ahead of Trump-Xi Summit",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-17/china-s-17-billion-crop-pledge-falters-ahead-of-trump-xi-summit",
+          "published_at": "2026-11-17T01:23:43Z"
+        }
+      ]
+    },
+    {
+      "headline": "Doctor speaks on US losing official elimination status for measles",
+      "score": 70,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 0,
+        "front_pages": 4,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "CBS News",
+        "NBC News",
+        "The Boston Globe",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-16T22:54:00Z",
+      "reports": [
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Doctor speaks on US losing official elimination status for measles",
+          "url": "https://www.wcvb.com/article/doctor-speaks-on-us-losing-official-elimination-status-for-measles/74445124",
+          "published_at": "2026-11-16T22:54:00Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "In crushing blow, US is expected to lose once coveted measles elimination status",
+          "url": "https://www.bostonglobe.com/2026/11/16/nation/crushing-blow-us-is-expected-lose-once-coveted-measles-elimination-status/",
+          "published_at": "2026-11-16T23:15:48Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Dr. Deborah Birx on U.S. loss of measles elimination status",
+          "url": "https://www.cbsnews.com/video/dr-deborah-birx-on-us-loss-of-measles-elimination-status/",
+          "published_at": "2026-11-16T23:51:16Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "U.S. loses measles-elimination status, erasing decades of progress",
+          "url": "https://www.nbcnews.com/health/health-news/measles-no-longer-eliminated-us-rcna607920",
+          "published_at": "2026-11-17T00:41:44Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Doctor says U.S. losing measles elimination status is a \"huge public health failure\"",
+          "url": "https://www.cbsnews.com/video/doctor-says-us-losing-measles-elimination-status-huge-public-health-failure/",
+          "published_at": "2026-11-17T00:48:52Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "U.S. loses measles elimination status as cases surge nationwide",
+          "url": "https://www.cbsnews.com/news/measles-elimination-status-united-states/",
+          "published_at": "2026-11-17T00:53:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Visa hurdles, high tuition costs creating a 'perfect storm' for lower international student enrollment",
+      "score": 66,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": [
+          "boston"
+        ]
+      },
+      "independent_outlets": [
+        "The Boston Globe",
+        "WBUR",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-16T05:01:51Z",
+      "reports": [
+        {
+          "publisher": "WBUR",
+          "group": "wbur",
+          "kind": "news",
+          "wire": false,
+          "title": "Visa hurdles, high tuition costs creating a 'perfect storm' for lower international student enrollment",
+          "url": "https://www.wbur.org/news/2026/11/16/visa-hurdles-high-tuition-costs-creating-a-perfect-storm-for-lower-international-student-enrollment",
+          "published_at": "2026-11-16T05:01:51Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Boston judge blocks Trump administration\u2019s limits on international student visas",
+          "url": "https://www.bostonglobe.com/2026/11/16/metro/boston-judge-blocks-trump-administrations-limits-international-student-visas/",
+          "published_at": "2026-11-16T23:34:36Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump blasts judge\u2019s 2-week halt to his Washington golf project and says administration will appeal",
+          "url": "https://www.wcvb.com/article/trump-blasts-judge-golf-project-halt/74445804",
+          "published_at": "2026-11-17T00:58:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Drake Maye\u2019s injury is the final nail in the Patriots\u2019 2026 coffin",
+      "score": 63,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "new england",
+          "patriots"
+        ]
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "ESPN",
+        "The Boston Globe",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-16T16:23:19Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Drake Maye\u2019s injury is the final nail in the Patriots\u2019 2026 coffin",
+          "url": "https://www.bostonglobe.com/2026/11/16/sports/patriots-drake-maye-mike-vrabel/",
+          "published_at": "2026-11-16T16:23:19Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Mike Vrabel said Drake Maye will likely be out after bye following reports of serious leg injury",
+          "url": "https://www.bostonglobe.com/2026/11/16/sports/drake-maye-injury/",
+          "published_at": "2026-11-16T17:12:48Z"
+        },
+        {
+          "publisher": "ESPN",
+          "group": "espn",
+          "kind": "news",
+          "wire": false,
+          "title": "Drake Maye injury: Is the Patriots' season over? Can Tommy DeVito carry the offense?",
+          "url": "https://www.espn.com/nfl/story/_/id/50503981/drake-maye-ankle-injury-patriots-tommy-devito-stats",
+          "published_at": "2026-11-16T22:34:48Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Vrabel won't comment on extent of Maye's injury, but 'wouldn't imagine' him in next game",
+          "url": "https://www.wcvb.com/article/drake-maye-suffers-significant-lower-leg-injury-ankle-nove-ber-6/74438292",
+          "published_at": "2026-11-16T23:53:00Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Which quarterbacks could Patriots turn to after Drake Maye\u2019s injury?",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/11/16/new-england-patriots-nfl-football-quarterbacks-drake-maye-injury-jimmy-garoppolo/",
+          "published_at": "2026-11-17T00:19:06Z"
+        },
+        {
+          "publisher": "ESPN",
+          "group": "espn",
+          "kind": "news",
+          "wire": false,
+          "title": "Sources: Patriots fear QB Maye has broken ankle, could miss rest of season",
+          "url": "https://www.espn.com/nfl/story/_/id/50500352/patriots-qb-drake-maye-leg-miss-extended-sources-say",
+          "published_at": "2026-11-17T02:00:58Z"
+        }
+      ]
+    },
+    {
+      "headline": "US Moves to Curb China\u2019s Remote Access to Nvidia\u2019s AI Chips",
+      "score": 56,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Bloomberg",
+        "CBS News",
+        "NPR",
+        "PBS NewsHour"
+      ],
+      "first_seen": "2026-11-16T13:33:27Z",
+      "reports": [
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "US Moves to Curb China\u2019s Remote Access to Nvidia\u2019s AI Chips",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-16/us-moves-to-limit-remote-access-to-advanced-ai-chips",
+          "published_at": "2026-11-16T13:33:27Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Commerce Department moves to curb remote access to AI chips",
+          "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-commerce-department-limit-remote-access-ai-chips/",
+          "published_at": "2026-11-16T17:30:18Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
+          "url": "https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department",
+          "published_at": "2026-11-16T18:49:26Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump administration moves to block China from indirect access to American AI tech",
+          "url": "https://www.pbs.org/newshour/science/trump-administration-moves-to-block-china-from-indirect-access-to-american-ai-tech",
+          "published_at": "2026-11-16T18:51:20Z"
+        }
+      ]
+    },
+    {
+      "headline": "California sues ChatGPT maker OpenAI over rogue hacking incidents",
+      "score": 56,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "CNBC",
+        "NBC News",
+        "NPR",
+        "The Hill"
+      ],
+      "first_seen": "2026-11-16T18:52:09Z",
+      "reports": [
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "California sues ChatGPT maker OpenAI over rogue hacking incidents",
+          "url": "https://www.nbcnews.com/tech/tech-news/california-sues-chatgpt-maker-openai-rogue-hacking-incidents-rcna609596",
+          "published_at": "2026-11-16T18:52:09Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "California sues OpenAI over hacking risks",
+          "url": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident",
+          "published_at": "2026-11-16T22:06:22Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "California attorney general sues OpenAI over alleged safety failures",
+          "url": "https://thehill.com/homenews/state-watch/6223583-california-sues-openai-huggingface-hack/",
+          "published_at": "2026-11-16T22:09:48Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "California sues OpenAI over Hugging Face, other AI model loss of control",
+          "url": "https://www.cnbc.com/2026/11/16/openai-california-bonta-ai-lawsuit.html",
+          "published_at": "2026-11-16T22:11:09Z"
+        }
+      ]
+    },
+    {
+      "headline": "The 41+ best early Black Friday deals, handpicked by a shopping expert",
+      "score": 51,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Fox News",
+        "MassLive",
+        "NBC News"
+      ],
+      "first_seen": "2026-11-16T14:01:01Z",
+      "reports": [
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "The 41+ best early Black Friday deals, handpicked by a shopping expert",
+          "url": "https://www.nbcnews.com/select/shopping/best-early-black-friday-deals-rcna609512",
+          "published_at": "2026-11-16T14:01:01Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Luxury for less: Shop 40% off Target\u2019s new faux fur pieces during the early Black Friday sale",
+          "url": "https://www.masslive.com/shopping-deals/2026/11/luxury-for-less-shop-40-off-targets-new-faux-fur-pieces-during-the-early-black-friday-sale.html",
+          "published_at": "2026-11-16T21:17:44Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "T-Mobile Black Friday deals: Get an iPhone 18 Pro for $0 upfront and $500 off Google Pixel Watch 5",
+          "url": "https://www.foxnews.com/deals/t-mobile-black-friday-deals",
+          "published_at": "2026-11-16T22:37:23Z"
+        }
+      ]
+    },
+    {
+      "headline": "Poultry in motion: live chickens hurled at Cumberland Farms clerk in Hadley, police say",
+      "score": 50,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "mass.",
+          "massachusetts"
+        ]
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "The Boston Globe",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-16T19:46:29Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Poultry in motion: live chickens hurled at Cumberland Farms clerk in Hadley, police say",
+          "url": "https://www.bostonglobe.com/2026/11/16/metro/live-chickens-thrown-at-clerk-in-mass/",
+          "published_at": "2026-11-16T19:46:29Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Live chickens chucked at Cumberland Farms clerk in Western Mass., police say",
+          "url": "https://www.boston.com/news/off-beat/2026/11/16/chickens-thrown-hadley-cumberland-farms/",
+          "published_at": "2026-11-16T20:21:49Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Live chickens hurled at Cumberland Farms clerk, police say",
+          "url": "https://www.wcvb.com/article/live-chickens-hurled-at-cumberland-farms-clerk-in-hadley-massachusetts-police-say/74439881",
+          "published_at": "2026-11-16T22:42:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Right whale population dropped in 2025 after a few years of growth",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "The Boston Globe",
+        "WBUR"
+      ],
+      "first_seen": "2026-11-16T10:00:25Z",
+      "reports": [
+        {
+          "publisher": "WBUR",
+          "group": "wbur",
+          "kind": "news",
+          "wire": false,
+          "title": "Right whale population dropped in 2025 after a few years of growth",
+          "url": "https://www.wbur.org/news/2026/11/16/engandered-north-atlantic-right-whale-population-drops",
+          "published_at": "2026-11-16T10:00:25Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Rare North Atlantic right whale population drops, alarming scientists",
+          "url": "https://www.bostonglobe.com/2026/11/16/science/endangered-north-atlantic-right-whale/",
+          "published_at": "2026-11-16T11:44:40Z"
+        }
+      ]
+    },
+    {
+      "headline": "Third American aircraft carrier arrives in the Middle East, and other Mideast news",
+      "score": 49,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 1,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The Guardian",
+        "The Hill"
+      ],
+      "first_seen": "2026-11-16T17:03:31Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Third American aircraft carrier arrives in the Middle East, and other Mideast news",
+          "url": "https://www.bostonglobe.com/2026/11/16/nation/third-american-aircraft-arrives-middle-east/",
+          "published_at": "2026-11-16T17:03:31Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Third U.S. aircraft carrier in Middle East as Trump keeps options open in Iran war",
+          "url": "https://www.pbs.org/newshour/world/third-u-s-aircraft-carrier-in-middle-east-as-trump-keeps-options-open-in-iran-war",
+          "published_at": "2026-11-16T19:02:29Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Third US aircraft carrier brings thousands more troops to Middle East",
+          "url": "https://www.theguardian.com/us-news/2026/nov/16/aircraft-middle-east-trump-military",
+          "published_at": "2026-11-16T21:13:02Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "3rd aircraft carrier arrives in Middle East as Trump weighs Iran options",
+          "url": "https://thehill.com/newsletters/defense-national-security/6223863-3rd-aircraft-carrier-arrives-in-middle-east-as-trump-weighs-iran-options/",
+          "published_at": "2026-11-16T23:28:57Z"
+        }
+      ]
+    },
+    {
+      "headline": "From Bob Woodward to Dianna Russini, the danger of getting too close to a source",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "boston",
+          "patriots"
+        ]
+      },
+      "independent_outlets": [
+        "Fox News",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-16T17:12:46Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "From Bob Woodward to Dianna Russini, the danger of getting too close to a source",
+          "url": "https://www.bostonglobe.com/2026/11/16/opinion/bob-woodward-diana-russini-sources/",
+          "published_at": "2026-11-16T17:12:46Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Boston Globe compares Dianna Russini to Bob Woodward amid Vrabel-sourcing scandal",
+          "url": "https://www.foxnews.com/outkick-sports/boston-globe-compares-dianna-russini-bob-woodward-amid-vrabel-sourcing-scandal",
+          "published_at": "2026-11-16T22:36:31Z"
+        }
+      ]
+    },
+    {
+      "headline": "Cornell to examine future of Greek life after report of gang rape at a fraternity house",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "The Boston Globe",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-16T20:04:17Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Cornell to examine future of Greek life after report of gang rape at a fraternity house",
+          "url": "https://www.bostonglobe.com/2026/11/16/nation/cornell-to-review-greek-life-future/",
+          "published_at": "2026-11-16T20:04:17Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Cornell to examine future of Greek life after report of gang rape at a fraternity house",
+          "url": "https://www.wcvb.com/article/cornell-greek-life-review-fraternity-sexual-assault/74445255",
+          "published_at": "2026-11-16T23:38:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Mass. State Police sergeant charged in 2023 Woburn fatal crash resigns",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "mass.",
+          "massachusetts"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-16T20:53:25Z",
+      "reports": [
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Mass. State Police sergeant charged in 2023 Woburn fatal crash resigns",
+          "url": "https://www.masslive.com/news/2026/11/massachusetts-state-police-sergeant-charged-in-2023-woburn-fatal-crash-resigns.html",
+          "published_at": "2026-11-16T20:53:25Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "State Police Sgt. charged in fatal Woburn crash resigns, citing lack of due process during internal investigation",
+          "url": "https://www.bostonglobe.com/2026/11/16/metro/scott-quigley-resigns-from-state-police-amid-fatal-crash-investigation/",
+          "published_at": "2026-11-16T22:02:54Z"
+        }
+      ]
+    },
+    {
+      "headline": "Former Red Sox World Series hero Jon Lester among 14 newcomers on Baseball Hall of Fame ballot",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "red sox"
+        ]
+      },
+      "independent_outlets": [
+        "Fox News",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-16T21:31:56Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Former Red Sox World Series hero Jon Lester among 14 newcomers on Baseball Hall of Fame ballot",
+          "url": "https://www.bostonglobe.com/2026/11/16/sports/jon-lester-hall-of-fame-ballot/",
+          "published_at": "2026-11-16T21:31:56Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Buster Posey headlines 27 names on the 2027 Major League Baseball Hall of Fame ballot",
+          "url": "https://www.foxnews.com/outkick-sports/buster-posey-headlines-27-names-2027-major-league-baseball-hall-fame-ballot",
+          "published_at": "2026-11-16T23:56:36Z"
+        }
+      ]
+    },
+    {
+      "headline": "United Airlines says technology issue resolved after \u2018widespread system outage\u2019",
+      "score": 45,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "Fox News",
+        "NBC News"
+      ],
+      "first_seen": "2026-11-16T22:15:42Z",
+      "reports": [
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "United Airlines says technology issue resolved after \u2018widespread system outage\u2019",
+          "url": "https://www.foxnews.com/us/united-airlines-says-technology-issue-resolved-after-widespread-system-outage",
+          "published_at": "2026-11-16T22:15:42Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "United Airlines says it has resolved a \u2018widespread system outage\u2019",
+          "url": "https://www.nbcnews.com/news/us-news/united-airlines-system-outage-rcna609712",
+          "published_at": "2026-11-16T22:18:45Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "United Airlines says it resolved a technology issue that affected departing flights",
+          "url": "https://www.boston.com/news/transportation/2026/11/16/united-airlines-says-it-has-a-widespread-system-outage-just-days-after-nationwide-ground-stop/",
+          "published_at": "2026-11-16T22:35:42Z"
+        }
+      ]
+    },
+    {
+      "headline": "Epstein's death may not have been suicide, new analysis suggests",
+      "score": 44,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 1,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "CBS News",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-16T18:59:00Z",
+      "reports": [
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Epstein's death may not have been suicide, new analysis suggests",
+          "url": "https://www.cbsnews.com/news/jeffrey-epstein-death-suicide-forensics-expert-analysis/",
+          "published_at": "2026-11-16T18:59:00Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
+          "url": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-16T20:33:57Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Challenging consensus, scientist says photos show Epstein was killed",
+          "url": "https://www.bostonglobe.com/2026/11/16/nation/challenging-consensus-scientist-says-photos-show-epstein-was-killed/",
+          "published_at": "2026-11-16T22:02:17Z"
+        }
+      ]
+    },
+    {
+      "headline": "US attorney targets Warren in latest effort to pressure congressional investigators",
+      "score": 43,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 1,
+        "boston_local": [
+          "mass."
+        ]
+      },
+      "independent_outlets": [
+        "Axios",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-16T15:18:25Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "US attorney targets Warren in latest effort to pressure congressional investigators",
+          "url": "https://www.bostonglobe.com/2026/11/16/nation/elizabeth-warren-trump-prosecutor-warning/",
+          "published_at": "2026-11-16T15:18:25Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "U.S. attorney targets another Democrat over congressional investigtions",
+          "url": "https://www.axios.com/2026/11/16/warren-us-attorney-investigations-threat",
+          "published_at": "2026-11-16T15:33:22Z"
+        }
+      ]
+    },
+    {
+      "headline": "Five European Countries Plan to Deport Migrants to Rwanda",
+      "score": 43,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 2,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "The Boston Globe",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-16T17:36:21Z",
+      "reports": [
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Five European Countries Plan to Deport Migrants to Rwanda",
+          "url": "https://www.nytimes.com/2026/11/16/world/europe/deport-rwanda-asylum-migration.html",
+          "published_at": "2026-11-16T17:36:21Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "5 European countries plan to deport migrants to Rwanda",
+          "url": "https://www.bostonglobe.com/2026/11/16/world/europe-migrants-deport-rwanda/",
+          "published_at": "2026-11-16T22:34:32Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Five European countries plan to deport migrants to Rwanda",
+          "url": "https://www.bostonglobe.com/2026/11/16/world/five-european-countries-plan-deport-migrants-rwanda/",
+          "published_at": "2026-11-16T22:54:05Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Five EU countries announce migrant deportation centre in Rwanda",
+          "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-16T23:20:45Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Five EU states announce plans for immigration \u2018return hubs\u2019 in Rwanda",
+          "url": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
+          "published_at": "2026-11-17T01:10:59Z"
+        }
+      ]
+    }
+  ]
+}
