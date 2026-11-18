@@ -1,0 +1,1871 @@
+{
+  "date": "2026-11-17",
+  "fetched_at": "2026-11-18T02:48:55.293631Z",
+  "items_considered": 653,
+  "candidates": [
+    {
+      "headline": "Trump faces criticism as allies press the White House for answers on tech problems",
+      "score": 212,
+      "signals": {
+        "us_outlets": 13,
+        "intl_outlets": 2,
+        "front_pages": 11,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "Axios",
+        "BBC News",
+        "Boston.com",
+        "CBS News",
+        "CNBC",
+        "Fox News",
+        "MassLive",
+        "NBC Boston",
+        "NBC News",
+        "NPR",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The Guardian",
+        "The Hill",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-17T05:24:11Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump faces criticism as allies press the White House for answers on tech problems",
+          "url": "https://www.nbcboston.com/news/national-international/trump-faces-criticism-allies-press-white-house-for-answers-tech-problems/4051091/",
+          "published_at": "2026-11-17T05:24:11Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump\u2019s accounts traded up to $97.5 million in Nvidia as Huang gained White House access",
+          "url": "https://www.cnbc.com/2026/11/16/trump-nvidia-stock-trades-jensen-huang.html",
+          "published_at": "2026-11-17T10:08:32Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia",
+          "url": "https://www.npr.org/2026/11/17/g-s1-153950/up-first-newsletter-faa-ground-stop-trump-asia-trip-nvidia-lindsay-clancy",
+          "published_at": "2026-11-17T12:20:57Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump Arrives in Asia for Historic Meeting With Xi Jinping and Putin",
+          "url": "https://www.today.com/video/trump-suggests-north-korea-s-kim-jong-un-may-join-asia-meeting-273634885662",
+          "published_at": "2026-11-17T12:21:54Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
+          "url": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-17T20:25:46Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Top Trump ally calls for White House transparency over outages: \u2018What\u2019s happening?\u2019",
+          "url": "https://www.masslive.com/politics/2026/11/top-trump-ally-calls-for-white-house-transparency-over-outages-whats-happening.html",
+          "published_at": "2026-11-17T20:58:00Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Nvidia closes lower ahead of earnings as company reels from Huang resignation",
+          "url": "https://www.cnbc.com/2026/11/17/nvidia-stock-earnings-jensen-huang-resignation.html",
+          "published_at": "2026-11-17T21:05:24Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump arrives in Philippines to kick off Asia trip with economic deals and talks with allies",
+          "url": "https://www.pbs.org/newshour/world/trump-arrives-in-philippines-to-kick-off-asia-trip-with-economic-deals-and-talks-with-allies",
+          "published_at": "2026-11-17T21:23:57Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Nvidia posts strong earnings amid Jensen Huang exit, reported SEC probe",
+          "url": "https://www.axios.com/2026/11/17/nvidia-earnings-jensen-huang-colette-kress",
+          "published_at": "2026-11-17T22:17:00Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Nvidia board does not intend to reinstate Jensen Huang, chairman says",
+          "url": "https://www.nbcnews.com/video/nvidia-board-does-not-intend-to-reinstate-jensen-huang-chairman-says-273677381600",
+          "published_at": "2026-11-17T22:27:39Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": true,
+          "title": "Stocks dip, but Nvidia reports strong earnings",
+          "url": "https://thehill.com/newsletters/business-economy/6226585-stocks-dip-but-nvidia-reports-strong-earnings/",
+          "published_at": "2026-11-17T22:29:43Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Nvidia chair says board does not intend to reinstate Jensen Huang as CEO",
+          "url": "https://www.pbs.org/newshour/nation/nvidia-chair-says-board-does-not-intend-to-reinstate-jensen-huang-as-ceo",
+          "published_at": "2026-11-17T22:31:31Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Jensen Huang says he \"would be honored\" to return as Nvidia CEO",
+          "url": "https://www.cbsnews.com/news/jensen-huang-nvidia-ceo-return-statement/",
+          "published_at": "2026-11-17T22:48:35Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Nvidia chairman says board does not intend to reinstate Jensen Huang as CEO",
+          "url": "https://www.wcvb.com/article/huang-nvidia-house-transcribed-interviews/74453656",
+          "published_at": "2026-11-17T23:13:00Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Nvidia chairman says board does not intend to reinstate Jensen Huang as CEO",
+          "url": "https://www.bostonglobe.com/2026/11/17/business/nvidia-earning-surpass-expecations/",
+          "published_at": "2026-11-17T23:47:37Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Nvidia sees strong growth in first earnings report without Huang",
+          "url": "https://www.cbsnews.com/news/nvidia-earnings-jensen-huang-colette-kress/",
+          "published_at": "2026-11-18T00:25:00Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Nvidia Has No Plans to Bring Back Jensen Huang",
+          "url": "https://www.nytimes.com/2026/11/17/business/nvidia-earnings-jensen-huang.html",
+          "published_at": "2026-11-18T00:47:02Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Nvidia shares strong results in first earnings report after Huang's resignation",
+          "url": "https://www.cbsnews.com/video/nvidia-shares-strong-results-in-first-earnings-report-after-huangs-resignation/",
+          "published_at": "2026-11-18T00:47:47Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "White House pulls Trump\u2019s FDA pick Heidi Overton on eve of Senate panel vote",
+          "url": "https://www.foxnews.com/politics/white-house-pulls-trumps-fda-pick-heidi-overton-eve-senate-panel-vote",
+          "published_at": "2026-11-18T01:04:59Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump's pick Heidi Overton dropped as nominee for FDA commissioner",
+          "url": "https://abcnews.com/Politics/trumps-pick-heidi-overton-dropped-nominee-fda-commissioner/story?id=138232475",
+          "published_at": "2026-11-18T01:07:22Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "White House pulls nomination of Heidi Overton to lead FDA",
+          "url": "https://thehill.com/policy/healthcare/6226487-white-house-withdraws-fda-nomination/",
+          "published_at": "2026-11-18T01:08:53Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "White House pulls FDA nominee Heidi Overton after wavering support from Senate Republicans",
+          "url": "https://www.boston.com/news/politics/2026/11/17/white-house-pulls-fda-nominee-heidi-overton-after-wavering-support-from-senate-republicans/",
+          "published_at": "2026-11-18T01:16:53Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+          "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-18T01:18:18Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "White House withdraws nomination of Heidi Overton to lead FDA",
+          "url": "https://www.theguardian.com/us-news/2026/nov/17/white-house-withdraws-heidi-overton-fda",
+          "published_at": "2026-11-18T01:26:15Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump FDA nominee Heidi Overton struggling to win GOP support",
+          "url": "https://www.cbsnews.com/news/trump-fda-nominee-heidi-overton-confirmation-struggle/",
+          "published_at": "2026-11-18T01:50:00Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Stock futures rise as Nvidia gains on earnings beat and solid outlook: Live updates",
+          "url": "https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html",
+          "published_at": "2026-11-18T01:50:12Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "White House Withdraws Nomination of Heidi Overton to Be F.D.A. Commissioner",
+          "url": "https://www.nytimes.com/2026/11/17/us/overton-fda-nomination-withdrawn.html",
+          "published_at": "2026-11-18T02:09:10Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "White House drops Heidi Overton's nomination for FDA commissioner",
+          "url": "https://www.cbsnews.com/news/white-house-drops-heidi-overton-fda-commissioner/",
+          "published_at": "2026-11-18T02:13:00Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "China\u2019s Xi calls for removing trade and investment barriers ahead of his meeting with Trump and Putin",
+          "url": "https://www.cnbc.com/2026/11/18/china-xi-trade-investment-barriers.html",
+          "published_at": "2026-11-18T02:23:20Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "White House pulls nomination of Heidi Overton to lead Food and Drug Administration \u2013 US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
+          "published_at": "2026-11-18T02:26:19Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump withdraws Heidi Overton as nominee to lead Food and Drug Administration, sources say",
+          "url": "https://www.cnbc.com/2026/11/18/trump-withdraws-heidi-overton-as-nominee-to-lead-fda-sources-say.html",
+          "published_at": "2026-11-18T02:31:29Z"
+        }
+      ]
+    },
+    {
+      "headline": "U.S. loses measles-elimination status, erasing decades of progress",
+      "score": 157,
+      "signals": {
+        "us_outlets": 9,
+        "intl_outlets": 2,
+        "front_pages": 6,
+        "boston_local": [
+          "healey",
+          "massachusetts",
+          "vermont"
+        ]
+      },
+      "independent_outlets": [
+        "BBC News",
+        "CBS News",
+        "CNBC",
+        "Los Angeles Times",
+        "MassLive",
+        "NBC Boston",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The Guardian",
+        "The Hill",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-17T05:24:11Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "U.S. loses measles-elimination status, erasing decades of progress",
+          "url": "https://www.nbcboston.com/news/health/u-s-loses-measles-elimination-status-erasing-decades-of-progress/4050513/",
+          "published_at": "2026-11-17T05:24:11Z"
+        },
+        {
+          "publisher": "Los Angeles Times",
+          "group": "latimes",
+          "kind": "news",
+          "wire": false,
+          "title": "U.S. loses measles elimination status after first eradicating the disease 26 years ago",
+          "url": "https://www.latimes.com/science/story/2026-11-17/u-s-loses-measles-elimination-status",
+          "published_at": "2026-11-17T17:00:41Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "US loses measles-free status as the virus spreads at the highest rate in over 30 years",
+          "url": "https://www.bostonglobe.com/2026/11/17/nation/us-measles-elimination-status/",
+          "published_at": "2026-11-17T17:36:51Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "US loses its measles-free status. Here\u2019s how the Trump administration has responded to outbreaks.",
+          "url": "https://www.bostonglobe.com/2026/11/17/nation/measles-vaccine-trump-rfk-jr/",
+          "published_at": "2026-11-17T18:28:05Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "US loses measles elimination status, major setback for US public health \u2013 video",
+          "url": "https://www.theguardian.com/us-news/video/2026/nov/17/us-loses-measles-elimination-status-major-setback-for-us-public-health-video",
+          "published_at": "2026-11-17T18:50:06Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "U.S. Loses Its Measles Elimination Status, a Historic Setback for American Health",
+          "url": "https://www.nytimes.com/2026/11/17/well/us-measles-elimination-status.html",
+          "published_at": "2026-11-17T20:52:05Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "US loses measles elimination status after 26 years amid record case numbers",
+          "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-17T21:04:00Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "U.S. officially loses measles elimination status: \"What a tragedy\"",
+          "url": "https://www.cbsnews.com/news/measles-elimination-status-united-states/",
+          "published_at": "2026-11-17T21:24:45Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Can the U.S. regain its measles elimination status? Here's what to know",
+          "url": "https://www.pbs.org/newshour/health/can-the-u-s-regain-its-measles-elimination-status-heres-what-to-know",
+          "published_at": "2026-11-17T21:44:07Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "U.S. officially loses measles elimination status amid ongoing outbreaks",
+          "url": "https://www.cnbc.com/2026/11/17/us-measles-elimination-status.html",
+          "published_at": "2026-11-17T22:02:05Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "US loses measles elimination status amid worst outbreak since 1991",
+          "url": "https://www.theguardian.com/us-news/2026/nov/17/us-measles-outbreak-elimination-status",
+          "published_at": "2026-11-17T22:18:53Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "US officially a measles endemic country",
+          "url": "https://thehill.com/newsletters/healthcare/6226673-us-officially-a-measles-endemic-country/",
+          "published_at": "2026-11-17T23:12:13Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrats Assail RFK Jr. After U.S. Loses Measles Elimination Status",
+          "url": "https://www.nytimes.com/2026/11/17/us/politics/rfk-jr-measles-democrats.html",
+          "published_at": "2026-11-17T23:34:37Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Measles Is Officially Back",
+          "url": "https://www.nytimes.com/2026/11/17/briefing/us-measles-surge-nvidia-profit.html",
+          "published_at": "2026-11-17T23:58:23Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "\u2018An embarrassment\u2019 and \u2018a black eye\u2019: US loses its measles elimination status",
+          "url": "https://www.bostonglobe.com/2026/11/17/metro/us-new-england-measles-elimination-status-vaccines/",
+          "published_at": "2026-11-18T00:33:00Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Gov. Healey criticizes Trump admin after U.S. loss of measles elimination status",
+          "url": "https://www.masslive.com/politics/2026/11/gov-healey-criticizes-trump-admin-after-us-loss-of-measles-elimination-status.html",
+          "published_at": "2026-11-18T00:44:25Z"
+        }
+      ]
+    },
+    {
+      "headline": "Did the FAA's new SMART AI system cause the nationwide ground stop? Here's what we know",
+      "score": 124,
+      "signals": {
+        "us_outlets": 9,
+        "intl_outlets": 0,
+        "front_pages": 4,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "Axios",
+        "Bloomberg",
+        "CBS News",
+        "CNBC",
+        "ESPN",
+        "NBC Boston",
+        "The Boston Globe",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-17T05:24:11Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Did the FAA's new SMART AI system cause the nationwide ground stop? Here's what we know",
+          "url": "https://www.nbcboston.com/news/national-international/faas-new-smart-ai-system-nationwide-ground-stop-what-we-know/4050145/",
+          "published_at": "2026-11-17T05:24:11Z"
+        },
+        {
+          "publisher": "ESPN",
+          "group": "espn",
+          "kind": "news",
+          "wire": false,
+          "title": "Inside Purdue's unexpected bus trip to Iowa amid FAA ground stop",
+          "url": "https://www.espn.com/college-football/story/_/id/50504665/purdue-faa-ground-stop-bus-iowa",
+          "published_at": "2026-11-17T16:24:22Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Senate Democrats demand briefings about FAA ground stop amid $50B budget ask",
+          "url": "https://abcnews.com/Politics/senate-democrats-demand-briefings-faa-ground-stop-amid/story?id=138213462",
+          "published_at": "2026-11-17T20:48:47Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "FAA pauses installation of new routers after ground stop",
+          "url": "https://www.cnbc.com/2026/11/17/faa-ground-stop-routers.html",
+          "published_at": "2026-11-17T20:53:24Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "FAA pauses tech upgrade linked to nationwide ground stop",
+          "url": "https://www.axios.com/2026/11/17/faa-air-traffic-control-router-upgrade-ground-stop",
+          "published_at": "2026-11-17T21:16:19Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "FAA temporarily stops router installations connected to air travel stoppage",
+          "url": "https://www.bostonglobe.com/2026/11/17/nation/faa-routers-ground-stop-congress/",
+          "published_at": "2026-11-17T21:41:51Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Duffy pitches Senate GOP on $50 billion for FAA after ground stop",
+          "url": "https://www.cbsnews.com/news/sean-duffy-senate-republicans-faa-ground-stop/",
+          "published_at": "2026-11-17T21:50:00Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Duffy's $50 billion request gets chilly reception from Senate GOP",
+          "url": "https://www.axios.com/2026/11/17/sean-duffy-faa-senate-republicans-50-billion",
+          "published_at": "2026-11-17T21:56:08Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Senator Rand Paul on Chip Exports, AI and FAA Ground Stop",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-17/sen-rand-paul-on-chip-exports-ai-and-faa-ground-stop-video",
+          "published_at": "2026-11-17T23:02:29Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Republicans Recoil as Duffy Outlines $50 Billion Request for Air Traffic Improvements",
+          "url": "https://www.nytimes.com/2026/11/17/us/politics/duffy-hill-ground-stop-faa.html",
+          "published_at": "2026-11-18T00:03:19Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Duffy asks for $50 billion for FAA after ground stop",
+          "url": "https://www.cbsnews.com/video/transportation-secretary-sean-duffy-asks-for-50-billion-for-faa-after-ground-stop/",
+          "published_at": "2026-11-18T00:46:59Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "F.A.A. Shelves Routers Like the One Linked to the Nationwide Ground Stop",
+          "url": "https://www.nytimes.com/2026/11/17/us/faa-routers-ground-stop.html",
+          "published_at": "2026-11-18T01:27:04Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Airline schedules returning to normal after ground stop, FAA says",
+          "url": "https://www.cbsnews.com/news/faa-ground-stop-canceled-flights-travelers-what-we-know/",
+          "published_at": "2026-11-18T02:35:35Z"
+        }
+      ]
+    },
+    {
+      "headline": "What is a \u2018dirty bomb'? Former FBI agents explain amid talk of an Iranian plot",
+      "score": 89,
+      "signals": {
+        "us_outlets": 5,
+        "intl_outlets": 2,
+        "front_pages": 4,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "CBS News",
+        "CNBC",
+        "Los Angeles Times",
+        "NBC Boston",
+        "The Guardian",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-17T05:24:11Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "What is a \u2018dirty bomb'? Former FBI agents explain amid talk of an Iranian plot",
+          "url": "https://www.nbcboston.com/news/local/iran-dirty-bomb-washington-analysis/4051061/",
+          "published_at": "2026-11-17T05:24:11Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump claims US is \u2018looking into\u2019 Iranian bomb plot in Washington despite \u2018no credible threats\u2019",
+          "url": "https://www.theguardian.com/world/2026/nov/17/trump-reported-iranian-plot-dirty-bomb-washington",
+          "published_at": "2026-11-17T16:03:34Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
+          "url": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-17T17:37:04Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump on Iran's reported DC dirty bomb plan: 'We take it very seriously'",
+          "url": "https://www.cnbc.com/2026/11/17/trump-iran-dirty-bomb-washington.html",
+          "published_at": "2026-11-17T17:49:45Z"
+        },
+        {
+          "publisher": "Los Angeles Times",
+          "group": "latimes",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump says report of Iran bomb plot against D.C. is being taken 'very seriously'",
+          "url": "https://www.latimes.com/politics/story/2026-11-17/trump-faces-questions-on-reported-iran-plot-to-attack-d-c-string-of-outages",
+          "published_at": "2026-11-17T20:14:01Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Sources: US intel indicates Iran developing plans to potentially use 'dirty bomb' in Washington",
+          "url": "https://www.wcvb.com/article/sources-us-intel-iran-plans-potentially-dirty-bomb-washington/74451283",
+          "published_at": "2026-11-17T22:55:00Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump says \"we're looking into\" report that Iran may use dirty bomb on D.C.",
+          "url": "https://www.cbsnews.com/video/trump-says-were-looking-report-iran-may-use-dirty-bomb-dc/",
+          "published_at": "2026-11-18T00:23:31Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Pakistani man sentenced to 27.5 years for Iran-backed plot to murder Trump",
+          "url": "https://www.cbsnews.com/video/pakistani-man-sentenced-to-275-years-in-prison-for-conspiring-with-iran-to-murder-trump/",
+          "published_at": "2026-11-18T00:59:58Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Man convicted in Iran-backed plot to kill Trump is sentenced",
+          "url": "https://www.cbsnews.com/news/asif-merchant-sentencing-prison-iran-backed-plot-to-murder-trump/",
+          "published_at": "2026-11-18T01:01:39Z"
+        }
+      ]
+    },
+    {
+      "headline": "Push to reinstate Jensen Huang tests superstar tech CEO accountability",
+      "score": 79,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 2,
+        "front_pages": 4,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Axios",
+        "BBC News",
+        "NPR",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The Guardian"
+      ],
+      "first_seen": "2026-11-17T10:30:08Z",
+      "reports": [
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Push to reinstate Jensen Huang tests superstar tech CEO accountability",
+          "url": "https://www.axios.com/2026/11/17/jensen-huang-nvidia-ceo-accountability-power",
+          "published_at": "2026-11-17T10:30:08Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Jensen Huang says he'd be \"honored\" to return as Nvidia CEO",
+          "url": "https://www.axios.com/2026/11/17/jensen-huang-nvidia-ceo-return-earnings",
+          "published_at": "2026-11-17T17:06:41Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Jensen Huang agrees to face Congress over Nvidia scandal",
+          "url": "https://www.axios.com/2026/11/17/nvidia-jensen-huang-congress-testify-dates",
+          "published_at": "2026-11-17T17:10:46Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Nvidia board says it does not intend to reinstate Jensen Huang as CEO",
+          "url": "https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress",
+          "published_at": "2026-11-17T17:36:31Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Jensen Huang to testify before Congress on \u2018potential breach of national security\u2019",
+          "url": "https://www.theguardian.com/technology/2026/nov/17/jensen-huang-testify-congress-nvidia-affair-spy",
+          "published_at": "2026-11-17T17:58:05Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Ex-Nvidia CEO Jensen Huang signals interest in returning to the company following scandal",
+          "url": "https://www.bostonglobe.com/2026/11/17/business/nvidia-national-security-committee-jensen-huang/",
+          "published_at": "2026-11-17T18:15:28Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
+          "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-17T18:24:21Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Ex-CEO Jensen Huang signals interest in returning to Nvidia after resigning amid scandal",
+          "url": "https://www.pbs.org/newshour/economy/ex-ceo-jensen-huang-signals-interest-in-returning-to-nvidia-after-resigning-amid-scandal",
+          "published_at": "2026-11-17T21:40:17Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+          "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-17T23:02:12Z"
+        }
+      ]
+    },
+    {
+      "headline": "2 Boston officers indicted over February shooting, sources say",
+      "score": 66,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": [
+          "boston"
+        ]
+      },
+      "independent_outlets": [
+        "NBC Boston",
+        "The Boston Globe",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-17T05:24:11Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "2 Boston officers indicted over February shooting, sources say",
+          "url": "https://www.nbcboston.com/news/local/boston-officer-shooting-indictment/4050850/",
+          "published_at": "2026-11-17T05:24:11Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Two Boston police officers charged in February shooting",
+          "url": "https://www.bostonglobe.com/2026/11/17/metro/boston-police-officers-indicted/",
+          "published_at": "2026-11-17T22:16:54Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Sources: Two police officers indicted after Valentine's Day shooting in Dorchester",
+          "url": "https://www.wcvb.com/article/boston-officers-indicted-dorchester-lewis-polanco-nov-17/74454617",
+          "published_at": "2026-11-18T00:03:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Robert Pattinson named new James Bond actor",
+      "score": 66,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "Fox News",
+        "MassLive",
+        "NBC Boston"
+      ],
+      "first_seen": "2026-11-17T05:24:11Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Robert Pattinson named new James Bond actor",
+          "url": "https://www.nbcboston.com/entertainment/entertainment-news/robert-pattinson-james-bond/4050092/",
+          "published_at": "2026-11-17T05:24:11Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "A-list actor open to playing James Bond villain",
+          "url": "https://www.masslive.com/entertainment/2026/11/a-list-actor-open-to-playing-james-bond-villan-opposite-robert-pattinsons-007.html",
+          "published_at": "2026-11-17T20:45:52Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Variety recommends trans actress Hunter Schafer as next Bond girl alongside Robert Pattinson",
+          "url": "https://www.foxnews.com/media/variety-recommends-trans-actress-hunter-schafer-next-bond-girl-alongside-robert-pattinson",
+          "published_at": "2026-11-18T00:42:38Z"
+        }
+      ]
+    },
+    {
+      "headline": "FEMA to test Emergency Alert System nationwide on Tuesday: Timing and what to expect",
+      "score": 66,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "NBC Boston",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-17T05:24:11Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "FEMA to test Emergency Alert System nationwide on Tuesday: Timing and what to expect",
+          "url": "https://www.nbcboston.com/news/national-international/what-is-happening-on-nov-17-what-to-expect-as-fema-prepares-for-nationwide-test/4050171/",
+          "published_at": "2026-11-17T05:24:11Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "There will be an emergency alert system test Tuesday. It is only a test.",
+          "url": "https://www.bostonglobe.com/2026/11/17/nation/emergency-alert-system-test/",
+          "published_at": "2026-11-17T17:59:07Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Did the emergency alert system test happen today? Did it work?",
+          "url": "https://www.masslive.com/news/2026/11/did-the-emergency-alert-system-test-happen-today-did-it-work.html",
+          "published_at": "2026-11-17T21:09:16Z"
+        }
+      ]
+    },
+    {
+      "headline": "Trump administration details request for $50 billion for air traffic improvements",
+      "score": 66,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "PBS NewsHour",
+        "The Boston Globe",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-17T18:18:55Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump administration details request for $50 billion for air traffic improvements",
+          "url": "https://www.bostonglobe.com/2026/11/17/nation/sean-duffy-trump-air-traffic-funding/",
+          "published_at": "2026-11-17T18:18:55Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump administration details its $50 billion request for aviation system improvements",
+          "url": "https://www.pbs.org/newshour/politics/trump-administration-details-its-50-billion-request-for-aviation-system-improvements",
+          "published_at": "2026-11-17T19:27:51Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Why are web systems going down nationwide? Trump administration warns of more outages",
+          "url": "https://www.wcvb.com/article/why-web-systems-going-down-nationwide-more-outages/74457980",
+          "published_at": "2026-11-17T23:46:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Why Patriots should focus on 2027 NFL Draft positioning after Maye injury",
+      "score": 62,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "new england",
+          "patriots"
+        ]
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "ESPN",
+        "NBC Boston",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-17T05:24:11Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Why Patriots should focus on 2027 NFL Draft positioning after Maye injury",
+          "url": "https://www.nbcboston.com/news/local/patriots-s2027-nfl-draft-order-drake-maye-injury/4050370/",
+          "published_at": "2026-11-17T05:24:11Z"
+        },
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Garoppolo? Levis? 5 QB options for Patriots to consider amid Drake Maye's injury",
+          "url": "https://www.nbcboston.com/news/local/garoppolo-levis-5-qb-options-for-patriots-to-consider-amid-drake-mayes-injury/4050134/",
+          "published_at": "2026-11-17T05:24:11Z"
+        },
+        {
+          "publisher": "ESPN",
+          "group": "espn",
+          "kind": "news",
+          "wire": false,
+          "title": "Drake Maye injury: Is the Patriots' season over? Can Tommy DeVito carry the offense?",
+          "url": "https://www.espn.com/nfl/story/_/id/50503981/drake-maye-ankle-injury-patriots-tommy-devito-stats",
+          "published_at": "2026-11-17T17:04:03Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "With Drake Maye sidelined, the Patriots are down a quarterback. What\u2019s the play?",
+          "url": "https://www.bostonglobe.com/2026/11/17/sports/patriots-quarterbacks-tommy-devito/",
+          "published_at": "2026-11-17T18:52:29Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Kevin Byard acknowledges on WEEI that Drake Maye is \u2018probably done\u2019 for season",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/11/17/drake-maye-injury-weei-nfl-football-new-england-patriots-kevin-byard/",
+          "published_at": "2026-11-17T22:39:17Z"
+        }
+      ]
+    },
+    {
+      "headline": "Scoop: White House drops Heidi Overton's FDA nomination",
+      "score": 62,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Axios",
+        "NBC News",
+        "The Boston Globe",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-17T23:56:35Z",
+      "reports": [
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Scoop: White House drops Heidi Overton's FDA nomination",
+          "url": "https://www.axios.com/2026/11/17/heidi-overton-fda-nomination-dropped",
+          "published_at": "2026-11-17T23:56:35Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "White House drops Heidi Overton\u2019s FDA nomination after Republicans raise concerns",
+          "url": "https://www.nbcnews.com/health/health-care/white-house-drops-dr-heidi-overton-fda-nomination-commissioner-rcna609883",
+          "published_at": "2026-11-18T00:44:27Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "White House pulls FDA nominee Heidi Overton after wavering support from Senate Republicans",
+          "url": "https://www.wcvb.com/article/white-house-pulls-fda-nominee-heidi-overton/74459032",
+          "published_at": "2026-11-18T00:55:00Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "White House pulls FDA nominee Heidi Overton after wavering support from Senate Republicans",
+          "url": "https://www.bostonglobe.com/2026/11/17/nation/white-house-pulls-fda-nomination-heidi-overton/",
+          "published_at": "2026-11-18T00:57:36Z"
+        }
+      ]
+    },
+    {
+      "headline": "Mass. sex offender pleads guilty to having 1,000s of child sex abuse images",
+      "score": 59,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 1,
+        "front_pages": 3,
+        "boston_local": [
+          "mass."
+        ]
+      },
+      "independent_outlets": [
+        "BBC News",
+        "Fox News",
+        "MassLive"
+      ],
+      "first_seen": "2026-11-17T21:48:04Z",
+      "reports": [
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Mass. sex offender pleads guilty to having 1,000s of child sex abuse images",
+          "url": "https://www.masslive.com/news/2026/11/mass-sex-offender-pleads-guilty-to-having-1000s-of-child-sex-abuse-images-on-his-phone.html",
+          "published_at": "2026-11-17T21:48:04Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Thomas Markle charged over child sex abuse material in Philippines",
+          "url": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-17T22:44:15Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Meghan Markle\u2019s estranged father hit with child sex abuse material charges in Philippines as US case unfolds",
+          "url": "https://www.foxnews.com/entertainment/meghan-markle-estranged-father-hit-child-sex-abuse-material-charges-philippines-us-case-unfolds",
+          "published_at": "2026-11-17T23:24:14Z"
+        }
+      ]
+    },
+    {
+      "headline": "Carney and Xi Announce Canada-China Trade Pact",
+      "score": 56,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 1,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "PBS NewsHour",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-17T17:19:21Z",
+      "reports": [
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Carney and Xi Announce Canada-China Trade Pact",
+          "url": "https://www.nytimes.com/2026/11/17/world/canada/carney-china-xi-trade-apec.html",
+          "published_at": "2026-11-17T17:19:21Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Carney looks to China as Trump tariffs squeeze Canada's car industry",
+          "url": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-17T18:58:57Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "China and Canada expand tariff relief while relations with the U.S. are strained",
+          "url": "https://www.pbs.org/newshour/world/china-and-canada-expand-tariff-relief-while-relations-with-the-u-s-are-strained",
+          "published_at": "2026-11-17T23:20:17Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "A look at China's technology industry amid AI race with the U.S.",
+          "url": "https://www.pbs.org/newshour/show/a-look-at-chinas-technology-industry-amid-ai-race-with-the-u-s",
+          "published_at": "2026-11-17T23:50:29Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "China and Canada expand tariff relief while Ottawa-Washington relations are strained",
+          "url": "https://www.wcvb.com/article/canada-china-expand-tariff-cuts-trade-relations/74459492",
+          "published_at": "2026-11-18T02:15:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Waymo suspends all driverless freeway rides after California's state ban",
+      "score": 55,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 1,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "NBC Boston",
+        "NBC News",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-17T05:24:11Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Waymo suspends all driverless freeway rides after California's state ban",
+          "url": "https://www.nbcboston.com/news/national-international/california-bans-waymo-vehicles-freeways-imminent-hazard/4051033/",
+          "published_at": "2026-11-17T05:24:11Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Waymo pauses robotaxi rides on U.S. freeways after California ban",
+          "url": "https://www.nbcnews.com/news/us-news/waymo-robotaxis-banned-california-freeways-rcna609917",
+          "published_at": "2026-11-17T23:24:30Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Waymo Pulls Its Driverless Taxis From All U.S. Freeways Temporarily",
+          "url": "https://www.nytimes.com/2026/11/17/us/waymo-ban-california-freeway.html",
+          "published_at": "2026-11-18T00:29:23Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Waymo pulls its self-driving taxis from all US highways temporarily",
+          "url": "https://www.boston.com/news/technology/2026/11/17/waymo-pulls-its-self-driving-taxis-from-all-us-highways-temporarily/",
+          "published_at": "2026-11-18T01:35:02Z"
+        }
+      ]
+    },
+    {
+      "headline": "Early Black Friday deals are here, and I\u2019m tracking the 57+ best ones live: Amazon, Apple, PlayStation and more",
+      "score": 55,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "CBS News",
+        "MassLive",
+        "NBC News"
+      ],
+      "first_seen": "2026-11-17T11:54:25Z",
+      "reports": [
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Early Black Friday deals are here, and I\u2019m tracking the 57+ best ones live: Amazon, Apple, PlayStation and more",
+          "url": "https://www.nbcnews.com/select/shopping/best-early-black-friday-deals-2026-rcna609512",
+          "published_at": "2026-11-17T11:54:25Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Walmart\u2019s Black Friday deal drops $400 Shark FlexStyle hair tool to under $200",
+          "url": "https://www.masslive.com/shopping-deals/2026/11/walmarts-black-friday-deal-drops-400-shark-flexstyle-hair-tool-to-under-200.html",
+          "published_at": "2026-11-17T20:56:50Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Target\u2019s Black Friday ad just leaked online, holiday deals revealed, dates to shop & more",
+          "url": "https://www.masslive.com/shopping-deals/2026/11/targets-black-friday-ad-just-leaked-online-holiday-deals-revealed-dates-to-shop-more.html",
+          "published_at": "2026-11-17T21:47:00Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "HexClad\u2019s biggest Black Friday sale is here with up to 52% off cookware, knives, more",
+          "url": "https://www.masslive.com/shopping-deals/2026/11/hexclads-biggest-black-friday-sale-is-here-with-up-to-52-off-cookware-knives-more.html",
+          "published_at": "2026-11-17T22:16:37Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "When does Neiman Marcus\u2019 Black Friday sale start in 2026?",
+          "url": "https://www.masslive.com/shopping-deals/2026/11/when-does-neiman-marcus-black-friday-sale-start-in-2026.html",
+          "published_at": "2026-11-17T23:49:00Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Many of Amazon's Black Friday and Cyber Monday deals are often deceptive, think tank says",
+          "url": "https://www.cbsnews.com/video/many-amazon-black-friday-and-cyber-monday-deals-deceptive-think-tank-says/",
+          "published_at": "2026-11-18T01:26:07Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Amazon already slashed up to $100 off Apple iPads before Black Friday",
+          "url": "https://www.masslive.com/shopping-deals/2026/11/amazon-already-slashed-up-to-100-off-apple-ipads-before-black-friday.html",
+          "published_at": "2026-11-18T01:30:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Amid ground stop delays, Mullin used a government plane to attend a college football game",
+      "score": 55,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 1,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "The Boston Globe",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-17T20:11:13Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Amid ground stop delays, Mullin used a government plane to attend a college football game",
+          "url": "https://www.bostonglobe.com/2026/11/17/nation/mullin-defends-use-of-government-plane-football-game/",
+          "published_at": "2026-11-17T20:11:13Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Markwayne Mullin defends private-jet trip to football game as millions hit by flight delays",
+          "url": "https://www.theguardian.com/us-news/2026/nov/17/markwayne-mullin-private-jet-football",
+          "published_at": "2026-11-17T20:45:48Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Markwayne Mullin Defends Flight to L.S.U.-Texas Game After Ground Stop",
+          "url": "https://www.nytimes.com/2026/11/17/us/politics/mullin-lsu-football-plane.html",
+          "published_at": "2026-11-17T23:38:01Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Mullin defends taking government plane to LSU-Texas game after ground stop",
+          "url": "https://abcnews.com/Politics/mullin-defends-taking-government-plane-lsu-texas-game/story?id=138227526",
+          "published_at": "2026-11-17T23:40:48Z"
+        }
+      ]
+    },
+    {
+      "headline": "Inside the Chinese 'AI wonderland' where Xi will host Trump",
+      "score": 54,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 1,
+        "front_pages": 1,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "Bloomberg",
+        "CNBC",
+        "Politico",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-17T06:23:51Z",
+      "reports": [
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Inside the Chinese 'AI wonderland' where Xi will host Trump",
+          "url": "https://www.bbc.co.uk/news/videos/ckjwjl6ywgn9o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-17T06:23:51Z"
+        },
+        {
+          "publisher": "Politico",
+          "group": "politico",
+          "kind": "news",
+          "wire": false,
+          "title": "Inside the Trump administration\u2019s divisions over China",
+          "url": "https://www.politico.com/video/2026/11/17/inside-the-trump-administrations-divisions-over-china-2231033",
+          "published_at": "2026-11-17T10:45:00Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Three things to watch as Trump, Xi and Putin meet in China",
+          "url": "https://www.cnbc.com/2026/11/18/apec-trump-xi-putin-shenzhen.html",
+          "published_at": "2026-11-18T01:23:29Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump Plans to Meet Mexico\u2019s Sheinbaum During Stop in China",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-18/trump-plans-to-meet-mexico-s-sheinbaum-during-stop-in-china",
+          "published_at": "2026-11-18T02:34:21Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Live Updates: Trump to Meet Philippine Leader Before Flying to China",
+          "url": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit",
+          "published_at": "2026-11-18T02:39:04Z"
+        }
+      ]
+    },
+    {
+      "headline": "Jake Bauers spent years grinding before his breakout season \u2014 now the Red Sox are banking on 4 more years of the same",
+      "score": 52,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "boston",
+          "red sox"
+        ]
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "MassLive",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-17T22:27:03Z",
+      "reports": [
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Jake Bauers spent years grinding before his breakout season \u2014 now the Red Sox are banking on 4 more years of the same",
+          "url": "https://www.masslive.com/redsox/2026/11/red-sox-jake-bauers-convinced-that-breakout-season-wasnt-a-one-off-this-is-who-jake-is.html",
+          "published_at": "2026-11-17T22:27:03Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Why the Red Sox moved fast to sign Jake Bauers",
+          "url": "https://www.masslive.com/redsox/2026/11/why-jake-bauers-was-red-sox-first-call-one-minute-into-free-agency-and-a-great-target.html",
+          "published_at": "2026-11-17T23:18:18Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Jake Bauers says the city of Boston figured into his decision to sign with the Red Sox",
+          "url": "https://www.boston.com/sports/boston-red-sox/2026/11/17/jake-bauers-says-the-city-of-boston-figured-into-his-decision-to-sign-with-the-red-sox/",
+          "published_at": "2026-11-18T01:51:51Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Red Sox\u2019 interest in Jake Bauers began long before free agency: \u2018Hopefully this doesn\u2019t get out of reach\u2019",
+          "url": "https://www.bostonglobe.com/2026/11/17/sports/jake-bauers-red-sox/",
+          "published_at": "2026-11-18T02:07:40Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Breslow says it\u2019s \u2018hard to envision\u2019 Red Sox adding another impact bat after Jake Bauers",
+          "url": "https://www.boston.com/sports/boston-red-sox/2026/11/17/boston-red-sox-jake-bauers-mlb-baseball-craig-breslow-offseason-target/",
+          "published_at": "2026-11-18T02:21:09Z"
+        }
+      ]
+    },
+    {
+      "headline": "Duffy asked for $50B for air traffic control after ground stop, a marked increase",
+      "score": 51,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "NBC News",
+        "PBS NewsHour"
+      ],
+      "first_seen": "2026-11-17T14:08:56Z",
+      "reports": [
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Duffy asked for $50B for air traffic control after ground stop, a marked increase",
+          "url": "https://abcnews.com/Politics/duffy-asked-50b-air-traffic-control-after-ground/story?id=138183456",
+          "published_at": "2026-11-17T14:08:56Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Secretary Duffy calls for air traffic control upgrades after meeting lawmakers",
+          "url": "https://www.nbcnews.com/now/video/secretary-duffy-speaks-after-meeting-with-lawmakers-about-faa-ground-stop-273670213811",
+          "published_at": "2026-11-17T20:31:29Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "What's in Trump's $50 billion air traffic control overhaul plan",
+          "url": "https://www.pbs.org/newshour/show/whats-in-trumps-50-billion-air-traffic-control-overhaul-plan",
+          "published_at": "2026-11-17T23:40:35Z"
+        }
+      ]
+    },
+    {
+      "headline": "Do school phone bans help students learn? So far, gains are \u2018modest'",
+      "score": 50,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "harvard"
+        ]
+      },
+      "independent_outlets": [
+        "NBC Boston",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-17T05:24:11Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Do school phone bans help students learn? So far, gains are \u2018modest'",
+          "url": "https://www.nbcboston.com/news/local/harvard-school-cellphone-ban-study/4050600/",
+          "published_at": "2026-11-17T05:24:11Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Do school phone bans help students learn? So far, gains are \u2018modest.\u2019",
+          "url": "https://www.bostonglobe.com/2026/11/17/metro/school-phone-bans-study/",
+          "published_at": "2026-11-17T16:35:04Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "New evidence shows school phone bans are gradually improving test scores",
+          "url": "https://www.bostonglobe.com/2026/11/17/nation/new-evidence-shows-school-phone-bans-are-gradually-improving-test-scores/",
+          "published_at": "2026-11-17T22:27:51Z"
+        }
+      ]
+    },
+    {
+      "headline": "400 largest U.S. data centers produced more carbon dioxide in a year than Denmark, study finds",
+      "score": 50,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "harvard"
+        ]
+      },
+      "independent_outlets": [
+        "CBS News",
+        "PBS NewsHour"
+      ],
+      "first_seen": "2026-11-17T20:31:08Z",
+      "reports": [
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "400 largest U.S. data centers produced more carbon dioxide in a year than Denmark, study finds",
+          "url": "https://www.pbs.org/newshour/nation/400-largest-u-s-data-centers-produced-more-carbon-dioxide-in-a-year-than-denmark-study-finds",
+          "published_at": "2026-11-17T20:31:08Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Study reveals energy demands and emissions of America's data centers",
+          "url": "https://www.pbs.org/newshour/show/study-reveals-energy-demands-and-emissions-of-americas-data-centers",
+          "published_at": "2026-11-17T23:30:10Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Large-scale data centers using as much power as some states and countries, study warns",
+          "url": "https://www.cbsnews.com/video/some-data-centers-using-as-much-power-as-entire-states-study-warns/",
+          "published_at": "2026-11-18T01:15:26Z"
+        }
+      ]
+    },
+    {
+      "headline": "City councilors urge Governor Healey to pause Blue Hill Avenue transit project over safety concerns",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "boston",
+          "healey",
+          "mbta"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-17T05:00:48Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "City councilors urge Governor Healey to pause Blue Hill Avenue transit project over safety concerns",
+          "url": "https://www.bostonglobe.com/2026/11/16/metro/blue-hill-avenue-transit-plan-roxbury-dorchester-mattapan/",
+          "published_at": "2026-11-17T05:00:48Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Boston city councilors ask Healey to halt divisive street project as city moves forward",
+          "url": "https://www.masslive.com/boston/2026/11/boston-councilors-ask-healey-to-halt-150m-blue-hill-avenue-bus-lane-project.html",
+          "published_at": "2026-11-17T20:59:25Z"
+        }
+      ]
+    },
+    {
+      "headline": "Child injured in New Bedford fire, officials say",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "NBC Boston",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-17T05:24:11Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Child injured in New Bedford fire, officials say",
+          "url": "https://www.nbcboston.com/news/local/new-bedford-fire-rivet-street-building/4051020/",
+          "published_at": "2026-11-17T05:24:11Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "8-year-old girl seriously injured in New Bedford fire",
+          "url": "https://www.wcvb.com/article/smoke-flames-pour-from-new-bedford-building-on-rivet-street/74458139",
+          "published_at": "2026-11-18T02:28:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Truck rolls over, shutting Mass. Pike toward Boston in Allston-Brighton area",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "boston",
+          "mass."
+        ]
+      },
+      "independent_outlets": [
+        "NBC Boston",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-17T05:24:11Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Truck rolls over, shutting Mass. Pike toward Boston in Allston-Brighton area",
+          "url": "https://www.nbcboston.com/news/local/mass-pike-eastbound-shut-down-in-allston-brighton-area-due-to-tractor-trailer-rollover/4050820/",
+          "published_at": "2026-11-17T05:24:11Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Tractor-trailer rollover removed from Mass. Pike eastbound in Allston after hours of traffic delays; all lanes open",
+          "url": "https://www.bostonglobe.com/2026/11/17/metro/mass-pike-rollover-tractor-trailer/",
+          "published_at": "2026-11-17T21:00:45Z"
+        }
+      ]
+    },
+    {
+      "headline": "One dead following multi-vehicle crash that closed street in Mansfield",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "NBC Boston",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-17T05:24:11Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "One dead following multi-vehicle crash that closed street in Mansfield",
+          "url": "https://www.nbcboston.com/news/local/mansfield-mass-car-crash-2/4050380/",
+          "published_at": "2026-11-17T05:24:11Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Man, 75, dead in single-vehicle crash on I-93 in Concord, N.H.",
+          "url": "https://www.bostonglobe.com/2026/11/17/metro/northfield-man-dies-single-vehicle-crash-interstate-93-concord/",
+          "published_at": "2026-11-18T02:42:13Z"
+        }
+      ]
+    }
+  ]
+}

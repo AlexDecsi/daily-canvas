@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-17",
+  "mode": "live (scheduled run, ~9:07 p.m. Boston time on Nov. 17)",
+  "prepared_at": "2026-11-18T02:58:00Z",
+  "candidates_considered": 25,
+  "rationale": "The top-scored cluster is an over-merged mix of separate stories (Trump's Asia trip, Nvidia earnings and the Huang follow-up already covered on 2026-11-12, the Overton FDA nomination withdrawal), so it has no single focal event. The clearest fresh national story is the second cluster: on Nov. 17 the Pan American Health Organization announced the United States has lost its measles-elimination status, 26 years after achieving it. It led on 16 reports across NYT, LA Times, CBS, CNBC, BBC, Guardian, PBS, The Hill and the Boston Globe, with a Massachusetts angle (Gov. Healey's response). It is a historic national public-health setback and affects every reader. Set aside: FAA router pause (follow-up to the 2026-11-13 entry), the reported Iran 'dirty bomb' plot (unconfirmed intelligence claims; officials said no credible threat), the Overton withdrawal, and Pattinson as Bond. None fit one scene with the measles story, so it stands alone. Facts confirmed by two independent original reports (CBS News, Kerry Breen; CNBC, Annika Kim Constantino). Death counts differ between CDC and state tallies, so the caption omits them.",
+  "stories": [
+    {
+      "role": "focal",
+      "name": "U.S. loses measles-elimination status",
+      "facts": [
+        "On Tuesday, Nov. 17, the Pan American Health Organization (PAHO), the WHO's regional office for the Americas, announced that the U.S. has lost the measles-elimination status it had held since 2000 (CNBC, CBS).",
+        "PAHO's commission also found endemic measles transmission reestablished in Mexico and Bolivia (CNBC).",
+        "Elimination is lost when measles spreads continuously within a country for 12 months or more; outbreaks that began in 2025 kept spreading into 2026 (CBS, CNBC).",
+        "The CDC has counted more than 5,400 measles cases in 2026, the most in more than three decades, with cases confirmed in 45 states and Washington, D.C. (CBS, CNBC).",
+        "PAHO says keeping elimination requires vaccination coverage of 95% or more; U.S. kindergarten MMR coverage was 92.4% in the 2025-26 school year (CBS, CNBC).",
+        "CDC Director Dr. Erica Schwartz said the designation is not what protects Americans, vaccination is; HHS Secretary Robert F. Kennedy Jr. said he continues to recommend the MMR vaccine (CBS, CNBC)."
+      ],
+      "people": [],
+      "visual_notes": "Symbolic-literal staging. Over-the-shoulder view inside a pediatric clinic: in the foreground a generic nurse in scrubs prepares a vaccination for a toddler held on a parent's lap (the response officials urged; not a claim about a specific clinic). Behind them, filling the back wall, a huge illuminated U.S. outline map like a public-health briefing screen, speckled with clusters of red dots spreading across it (obviously illustrative, not a data-accurate map). Window light from the side, long shadow, a waiting family in the doorway. No named people, no officials, no text, no numbers, no sick or suffering people.",
+      "confidence": "high: CBS and CNBC (independent original reports) agree on the PAHO announcement on Nov. 17, the 12-month continuous-transmission rule, more than 5,400 cases in 2026 and the 95% threshold. CBS gives 45 states + DC; the 92.4% kindergarten figure is from CNBC citing CDC. Death counts differ (CDC 'at least six' vs. 10 from state reports) and are left out.",
+      "sources": [
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "title": "U.S. officially loses measles elimination status: \"What a tragedy\"",
+          "url": "https://www.cbsnews.com/news/measles-elimination-status-united-states/",
+          "published_at": "2026-11-17T21:24:00Z",
+          "checked_at": "2026-11-18T02:50:00Z",
+          "checked": "full article"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "title": "U.S. officially loses measles elimination status amid ongoing outbreaks",
+          "url": "https://www.cnbc.com/2026/11/17/us-measles-elimination-status.html",
+          "published_at": "2026-11-17T16:09:00Z",
+          "checked_at": "2026-11-18T02:51:00Z",
+          "checked": "full article"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "title": "U.S. Loses Its Measles Elimination Status, a Historic Setback for American Health",
+          "url": "https://www.nytimes.com/2026/11/17/well/us-measles-elimination-status.html",
+          "published_at": "2026-11-17T20:52:00Z",
+          "checked_at": "2026-11-18T02:52:00Z",
+          "checked": "headline only (paywall; not read)"
+        }
+      ]
+    }
+  ]
+}

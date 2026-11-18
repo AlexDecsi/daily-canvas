@@ -1,0 +1,58 @@
+{
+  "date": "2026-11-17",
+  "runs": [
+    {
+      "started_at": "2026-11-18T02:43:28.909292Z",
+      "outcome": "published",
+      "steps": [
+        {
+          "at": "2026-11-18T02:43:28.909295Z",
+          "step": "prepare: lock acquired (live)"
+        },
+        {
+          "at": "2026-11-18T02:48:55.321065Z",
+          "step": "prepare: ran src/news/feeds.py"
+        },
+        {
+          "at": "2026-11-18T02:48:55.457370Z",
+          "step": "prepare: ran src/news/cluster.py"
+        },
+        {
+          "at": "2026-11-18T03:49:32.843034Z",
+          "step": "finalize: published to local site"
+        }
+      ],
+      "_new_run": true,
+      "mode": "live",
+      "prelaunch": false,
+      "finished_at": "2026-11-18T03:49:32.842866Z",
+      "link_checks": [
+        {
+          "url": "https://www.cbsnews.com/news/measles-elimination-status-united-states/",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/11/17/us-measles-elimination-status.html",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.nytimes.com/2026/11/17/well/us-measles-elimination-status.html",
+          "ok": true,
+          "note": "HTTP 403 (blocks automated checks; not verifiable here)"
+        }
+      ],
+      "samples_removed": [],
+      "stories_shown": [
+        "U.S. loses measles-elimination status"
+      ],
+      "usage": {
+        "article_reads": 5,
+        "web_searches": 0,
+        "render_rounds": 4,
+        "minutes": 32
+      }
+    }
+  ]
+}
