@@ -54,5 +54,9 @@
         "minutes": 32
       }
     }
-  ]
+  ],
+  "notes": [
+    "Run time correction: the run took about 67 minutes wall-clock (21:43-22:50 EST), over the 45-minute max_run_minutes limit; the draft's usage.minutes (32) underestimated it. Slow steps: prepare (~3 min of feed fetching), three blocked fetches (Guardian, BBC, LA Times), 4 render rounds, and the deploy watch."
+  ],
+  "verified_live": "2026-11-18T03:51Z: entries.json on the live site contains 2026-11-17"
 }
