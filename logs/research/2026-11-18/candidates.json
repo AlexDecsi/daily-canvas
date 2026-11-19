@@ -1,0 +1,2053 @@
+{
+  "date": "2026-11-18",
+  "fetched_at": "2026-11-19T02:13:28.383596Z",
+  "items_considered": 673,
+  "candidates": [
+    {
+      "headline": "Wondering why your friends are MIA? \u2018Grand Theft Auto VI' might be to blame",
+      "score": 141,
+      "signals": {
+        "us_outlets": 8,
+        "intl_outlets": 0,
+        "front_pages": 6,
+        "boston_local": [
+          "boston",
+          "mass."
+        ]
+      },
+      "independent_outlets": [
+        "CBS News",
+        "ESPN",
+        "Fox News",
+        "MassLive",
+        "NBC Boston",
+        "NBC News",
+        "PBS NewsHour",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-18T09:12:37Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Wondering why your friends are MIA? \u2018Grand Theft Auto VI' might be to blame",
+          "url": "https://www.nbcboston.com/entertainment/entertainment-news/grand-theft-auto-vi-friends-play-plans/4051752/",
+          "published_at": "2026-11-18T09:12:37Z"
+        },
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "The Vice City Heat: Miami's NBA team goes all in on \u2018Grand Theft Auto VI' collab",
+          "url": "https://www.nbcboston.com/nba/vice-city-heat-miami-grand-theft-auto-vi-collab/4051607/",
+          "published_at": "2026-11-18T09:12:37Z"
+        },
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "\u2018Grand Theft Auto VI' arrives with enormous hype and expectations after 13-year wait",
+          "url": "https://www.nbcboston.com/entertainment/entertainment-news/after-a-13-year-wait-grand-theft-auto-vi-arrives-with-enormous-hype-and-expectations/4051341/",
+          "published_at": "2026-11-18T09:12:37Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "After 13 years, \u2018Grand Theft Auto\u2019 is back. Here\u2019s what to know about the new game.",
+          "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/grand-theft-auto-six-release-rockstar-games-what-to-know-rcna609644",
+          "published_at": "2026-11-18T17:00:42Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Gamers, start your engines. Grand Theft Auto 6 is ready to roll.",
+          "url": "https://www.cbsnews.com/news/grand-theft-auto-6-release-date-price-what-to-know/",
+          "published_at": "2026-11-18T17:48:00Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "\u2018Grand Theft Auto 6\u2019 hype is off the charts. Here\u2019s why experts say that is",
+          "url": "https://www.masslive.com/boston/2026/11/why-is-grand-theft-auto-6-hype-so-massive-boston-experts-explain.html",
+          "published_at": "2026-11-18T21:33:19Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Will people skip work and hurt the U.S. economy to play Grand Theft Auto 6?",
+          "url": "https://www.pbs.org/newshour/nation/will-people-skip-work-and-hurt-the-u-s-economy-to-play-grand-theft-auto-6",
+          "published_at": "2026-11-18T21:44:20Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Grand Theft Auto: An American Icon, Born in Britain",
+          "url": "https://www.nytimes.com/2026/11/18/world/europe/grand-theft-auto-america-scotland-global-reaction.html",
+          "published_at": "2026-11-18T22:05:43Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Dozens of Army soldiers sign up for unique reenlistment incentive to play Grand Theft Auto VI",
+          "url": "https://www.foxnews.com/politics/dozens-army-soldiers-sign-up-unique-reenlistment-incentive-play-grand-theft-auto-vi",
+          "published_at": "2026-11-18T22:40:20Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Why Grand Theft Auto VI's release is a major cultural moment",
+          "url": "https://www.pbs.org/newshour/show/why-grand-theft-auto-vis-release-is-a-major-cultural-moment",
+          "published_at": "2026-11-18T23:15:22Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Grand Theft Auto VI midnight release sparks $1 billion in preorders, frenzy in Mass.",
+          "url": "https://www.wcvb.com/article/gta-vi-midnight-release-sparks-1-billion-in-preorders-massachusetts/74468804",
+          "published_at": "2026-11-18T23:19:00Z"
+        },
+        {
+          "publisher": "ESPN",
+          "group": "espn",
+          "kind": "news",
+          "wire": false,
+          "title": "NBA Power Rankings: One wild stat for all 30 teams",
+          "url": "https://www.espn.com/nba/story/_/id/50513109/nba-power-rankings-wild-stats-spurs-lakers",
+          "published_at": "2026-11-19T00:56:17Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Grand Theft Auto 6 sparking widespread PTO requests ahead of midnight release",
+          "url": "https://www.cbsnews.com/video/grand-theft-auto-6-sparking-widespread-pto-requests-ahead-of-midnight-release/",
+          "published_at": "2026-11-19T01:27:23Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Army unit grants 43 soldiers 4-day passes to play GTA 6 as reenlistment incentive",
+          "url": "https://www.cbsnews.com/video/army-battalion-grants-43-soldiers-4-day-passes-to-play-gta-6-as-reenlistment-incentive/",
+          "published_at": "2026-11-19T01:29:10Z"
+        },
+        {
+          "publisher": "ESPN",
+          "group": "espn",
+          "kind": "news",
+          "wire": false,
+          "title": "\ud83d\udd25 Heat unveil 'A Night in Vice City' court ahead of GTA VI release",
+          "url": "https://www.espn.com/nba/story/_/id/50085674/miami-heat-night-vice-city-game",
+          "published_at": "2026-11-19T01:43:49Z"
+        }
+      ]
+    },
+    {
+      "headline": "House Democrats select Jeffries as leader, setting him up as the first Black speaker",
+      "score": 137,
+      "signals": {
+        "us_outlets": 7,
+        "intl_outlets": 2,
+        "front_pages": 6,
+        "boston_local": [
+          "boston"
+        ]
+      },
+      "independent_outlets": [
+        "Axios",
+        "BBC News",
+        "Boston.com",
+        "CNBC",
+        "NBC Boston",
+        "NBC News",
+        "NPR",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-18T09:12:37Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "House Democrats select Jeffries as leader, setting him up as the first Black speaker",
+          "url": "https://www.nbcboston.com/news/politics/democrats-nominate-rep-hakeem-jeffries-paving-way-first-black-speaker/4051353/",
+          "published_at": "2026-11-18T09:12:37Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "House Democrats formally nominate Hakeem Jeffries for speaker",
+          "url": "https://www.axios.com/2026/11/18/jeffries-speaker-house-democrats-nominate-jan-3",
+          "published_at": "2026-11-18T15:32:24Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrats formally nominate Hakeem Jeffries for speaker of the House",
+          "url": "https://www.npr.org/2026/11/18/nx-s1-6043183/hakeem-jeffries-house-democrats-leadership-votes",
+          "published_at": "2026-11-18T15:56:30Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrats Nominate Hakeem Jeffries for Speaker of the House, Making History",
+          "url": "https://www.nytimes.com/2026/11/18/us/politics/hakeem-jeffries-speaker-of-the-house-democrats.html",
+          "published_at": "2026-11-18T16:42:44Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Jeffries says House Democrats will 'fight for an affordable America'",
+          "url": "https://www.nbcnews.com/video/jeffries-speaks-after-democrats-nominate-him-for-speaker-of-the-house-273744965610",
+          "published_at": "2026-11-18T17:18:14Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrats nominate Hakeem Jeffries as first Black House speaker despite progressives\u2019 concerns",
+          "url": "https://www.theguardian.com/us-news/2026/nov/18/hakeem-jeffries-house-speaker-nomination",
+          "published_at": "2026-11-18T17:24:01Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Can progressives push Hakeem Jeffries to the left? | Norman Solomon",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/18/hakeem-jeffries-house-speaker-progressives",
+          "published_at": "2026-11-18T18:13:07Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Jeffries wins Democratic House speaker race, on track to make history in January",
+          "url": "https://www.cnbc.com/2026/11/18/jeffries-house-speaker-congress.html",
+          "published_at": "2026-11-18T18:32:39Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Hakeem Jeffries could become the first Black House speaker after Democratic nomination",
+          "url": "https://www.bostonglobe.com/2026/11/18/nation/democrats-hakeem-jeffries-house-speaker-voting/",
+          "published_at": "2026-11-18T18:38:48Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Why some Democrats wanted Ayanna Pressley over Hakeem Jeffries",
+          "url": "https://www.boston.com/news/local-news/2026/11/18/why-some-democrats-wanted-ayanna-pressley-over-hakeem-jeffries/",
+          "published_at": "2026-11-18T20:36:33Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+          "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-18T21:13:06Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Democratic strategists think Montana House race could hold the secret to future wins",
+          "url": "https://www.npr.org/2026/11/18/nx-s1-6032798-e1/democratic-strategists-think-montana-house-race-could-hold-the-secret-to-future-wins",
+          "published_at": "2026-11-18T21:53:07Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Hakeem Jeffries\u2019 progressive defectors reveal the limits of their power: From the Politics Desk",
+          "url": "https://www.nbcnews.com/politics/politics-news/hakeem-jeffries-defectors-reveal-limits-power-politics-desk-rcna610100",
+          "published_at": "2026-11-18T22:00:00Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrats nominate Jeffries for speaker, prep investigations into Trump's orbit",
+          "url": "https://www.npr.org/2026/11/18/nx-s1-6043185/democrats-nominate-jeffries-for-speaker-prep-investigations-into-trumps-orbit",
+          "published_at": "2026-11-18T22:01:19Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrats nominate Hakeem Jeffries as speaker, making history",
+          "url": "https://www.bostonglobe.com/2026/11/18/nation/democrats-nominate-hakeem-jeffries-speaker-making-history/",
+          "published_at": "2026-11-18T23:22:16Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "News Wrap: Democrats nominate Hakeem Jeffries for Speaker of the House",
+          "url": "https://www.pbs.org/newshour/show/news-wrap-democrats-nominate-hakeem-jeffries-for-speaker-of-the-house",
+          "published_at": "2026-11-18T23:45:27Z"
+        }
+      ]
+    },
+    {
+      "headline": "BBC correspondents discuss historic Trump, Xi and Putin meeting",
+      "score": 136,
+      "signals": {
+        "us_outlets": 9,
+        "intl_outlets": 2,
+        "front_pages": 5,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Axios",
+        "BBC News",
+        "Bloomberg",
+        "CBS News",
+        "Los Angeles Times",
+        "NBC Boston",
+        "NBC News",
+        "NPR",
+        "The Boston Globe",
+        "The Guardian",
+        "The Hill",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-18T08:33:32Z",
+      "reports": [
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "BBC correspondents discuss historic Trump, Xi and Putin meeting",
+          "url": "https://www.bbc.co.uk/news/videos/cqp86k23d84ro?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-18T08:33:32Z"
+        },
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump plans separate talks with Putin alongside 3-way meeting with Xi in China",
+          "url": "https://www.nbcboston.com/news/national-international/donald-trump-china-visit-united-states/4051213/",
+          "published_at": "2026-11-18T09:12:37Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Putin Will Continue Ukraine War Despite Plans to Meet Trump, Intelligence Says",
+          "url": "https://www.nytimes.com/2026/11/18/us/politics/trump-putin-ukraine-war.html",
+          "published_at": "2026-11-18T10:03:56Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump lands in China with key meetings with Xi and Putin on the agenda",
+          "url": "https://www.npr.org/2026/11/18/nx-s1-6045518/trump-china-xi-putin",
+          "published_at": "2026-11-18T10:32:03Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin",
+          "url": "https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-18T10:53:21Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Xi Greets Trump on the Tarmac as He Lands in China for APEC Summit",
+          "url": "https://www.nytimes.com/2026/11/18/world/asia/xi-trump-china-arrival.html",
+          "published_at": "2026-11-18T11:14:00Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Xi Jinping breaks protocol to greet and hug Trump at China airport",
+          "url": "https://www.axios.com/2026/11/18/trump-china-xi-hug-airport",
+          "published_at": "2026-11-18T11:39:28Z"
+        },
+        {
+          "publisher": "Los Angeles Times",
+          "group": "latimes",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump arrives in China for a meeting with historic U.S. adversaries",
+          "url": "https://www.latimes.com/story/2026-11-18/trump-arrives-in-china-for-meeting-with-historic-adversaries",
+          "published_at": "2026-11-18T13:24:23Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+          "url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-18T16:10:44Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump to meet Putin in China amid renewed push to end Ukraine war",
+          "url": "https://www.axios.com/2026/11/18/trump-putin-china-meeting-ukraine",
+          "published_at": "2026-11-18T17:18:24Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "World waits as Trump, Xi and Putin prepare for high-stakes meeting",
+          "url": "https://www.nbcnews.com/world/asia/world-waits-trump-xi-putin-prepare-high-stakes-meeting-rcna609776",
+          "published_at": "2026-11-18T17:22:41Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "The Guardian view on the Trump, Xi and Putin meeting: it may be a first, but it\u2019s not progress | Editorial",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/18/the-guardian-view-on-the-trump-xi-and-putin-meeting-it-may-be-a-first-but-its-not-progress",
+          "published_at": "2026-11-18T18:35:14Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump Arrives in China Focused on Friendship With Xi, Not Nvidia Spy Scandal",
+          "url": "https://www.nytimes.com/2026/11/18/us/politics/trump-xi-shenzhen-spy-scandal.html",
+          "published_at": "2026-11-18T18:52:04Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "What to know about Trump's meeting with Xi in China",
+          "url": "https://www.cbsnews.com/news/trump-xi-meet-china-chips-ai/",
+          "published_at": "2026-11-18T20:23:00Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Putin will continue Ukraine war despite plans to meet Trump, intelligence says",
+          "url": "https://www.bostonglobe.com/2026/11/18/world/putin-will-continue-ukraine-war-despite-plans-meet-trump-intelligence-says/",
+          "published_at": "2026-11-18T21:15:48Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Citi CEO Fraser Stresses China Engagement Before Trump-Xi Talks",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-18/citi-ceo-fraser-stresses-china-engagement-before-trump-xi-talks",
+          "published_at": "2026-11-18T22:26:25Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump arrives in China focused on friendship, not spy scandal",
+          "url": "https://www.bostonglobe.com/2026/11/18/world/trump-arrives-china-focused-friendship-not-spy-scandal/",
+          "published_at": "2026-11-18T22:27:06Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump, Putin and Xi to Meet for the First Time",
+          "url": "https://www.nytimes.com/2026/11/18/briefing/trump-putin-xi-meeting.html",
+          "published_at": "2026-11-18T22:42:26Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Republicans back Trump, Xi, Putin meeting but warn they are 'not our friends'",
+          "url": "https://thehill.com/policy/international/6228985-republican-reactions-china-russia-meetings/",
+          "published_at": "2026-11-18T23:22:50Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump, Xi and Putin Will Sit Down for the First Time. It Won\u2019t Be Like Yalta.",
+          "url": "https://www.nytimes.com/2026/11/18/us/politics/trump-xi-putin-summit-yalta.html",
+          "published_at": "2026-11-18T23:35:48Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Xi, Putin \u2018not our friends\u2019 Republicans warn Trump ahead of trilateral",
+          "url": "https://thehill.com/homenews/6229121-gop-warns-trump-trilateral-summit/",
+          "published_at": "2026-11-19T00:00:59Z"
+        }
+      ]
+    },
+    {
+      "headline": "Anthropic is about to be worth more than $1 trillion. What that means for the rest of us",
+      "score": 125,
+      "signals": {
+        "us_outlets": 8,
+        "intl_outlets": 0,
+        "front_pages": 6,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "Axios",
+        "CBS News",
+        "CNBC",
+        "NBC Boston",
+        "NBC News",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-18T09:12:37Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Anthropic is about to be worth more than $1 trillion. What that means for the rest of us",
+          "url": "https://www.nbcboston.com/news/national-international/anthropic-ipo-worth-one-trillion/4051644/",
+          "published_at": "2026-11-18T09:12:37Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Anthropic is about to be worth more than $1 trillion. What that means for the rest of us.",
+          "url": "https://www.nbcnews.com/business/markets/anthropic-ipo-valuation-ai-boom-rcna610069",
+          "published_at": "2026-11-18T21:13:31Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Anthropic valued at over $1 trillion in historic IPO",
+          "url": "https://www.axios.com/2026/11/18/anthropic-ipo-1-trillion",
+          "published_at": "2026-11-18T22:16:32Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Anthropic reportedly prices its IPO at $83 per share, valuing the AI giant at $1.5 trillion",
+          "url": "https://www.bostonglobe.com/2026/11/18/business/anthropic-prices-ipo-83-share/",
+          "published_at": "2026-11-18T23:15:01Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "How Anthropic's IPO could affect your 401(k) and the AI industry",
+          "url": "https://www.cbsnews.com/video/how-anthropics-ipo-could-affect-your-401k-ai-industry/",
+          "published_at": "2026-11-18T23:50:09Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Anthropic Sells $81.3 Billion in Shares for a Record IPO",
+          "url": "https://www.nytimes.com/2026/11/18/technology/anthropic-ipo-pricing.html",
+          "published_at": "2026-11-19T00:41:26Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Anthropic announces price of $83 per share for IPO",
+          "url": "https://abcnews.com/Business/anthropic-announces-price-83-share-ipo/story?id=138245320",
+          "published_at": "2026-11-19T00:44:55Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Anthropic prices its IPO at $83 per share, valuing the AI giant at $1.5 trillion",
+          "url": "https://www.pbs.org/newshour/economy/anthropic-prices-its-ipo-at-83-per-share-valuing-the-ai-giant-at-1-5-trillion",
+          "published_at": "2026-11-19T00:54:39Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX",
+          "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+          "published_at": "2026-11-19T01:13:20Z"
+        }
+      ]
+    },
+    {
+      "headline": "Rubio Says Cyberattacks Are Not the Cause of Recent Tech Outages",
+      "score": 123,
+      "signals": {
+        "us_outlets": 8,
+        "intl_outlets": 1,
+        "front_pages": 5,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "CBS News",
+        "CNBC",
+        "Los Angeles Times",
+        "MassLive",
+        "The Guardian",
+        "The Hill",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-18T06:46:29Z",
+      "reports": [
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Rubio Says Cyberattacks Are Not the Cause of Recent Tech Outages",
+          "url": "https://www.nytimes.com/2026/11/17/world/asia/tech-outages-cyberattack-hack-rubio.html",
+          "published_at": "2026-11-18T06:46:29Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "\u2018Zero\u2019 evidence that recent cascade of tech outages are linked, says Rubio",
+          "url": "https://www.theguardian.com/us-news/2026/nov/18/zero-evidence-recent-tech-outages-linked-marco-rubio",
+          "published_at": "2026-11-18T14:46:49Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Vance scraps schedule to address tech outages as Trump admin insists incidents aren't linked",
+          "url": "https://www.cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html",
+          "published_at": "2026-11-18T19:17:27Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump administration continues to insist tech outages not cyberattacks",
+          "url": "https://abcnews.com/US/national-intelligence-director-signs-cyberattack-amid-tech-outage/story?id=138229967",
+          "published_at": "2026-11-18T21:39:37Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Anti-Trump TV host flops horribly with bleak tech outage quip: \u2018Wow, we\u2019re really in trouble\u2019",
+          "url": "https://www.masslive.com/politics/2026/11/anti-trump-tv-host-flops-horribly-with-bleak-tech-outage-quip-wow-were-really-in-trouble.html",
+          "published_at": "2026-11-18T21:45:41Z"
+        },
+        {
+          "publisher": "Los Angeles Times",
+          "group": "latimes",
+          "kind": "news",
+          "wire": false,
+          "title": "Newsom arrives in D.C. with an AI plan, as Trump aides struggle to address outages",
+          "url": "https://www.latimes.com/politics/story/2026-11-18/newsom-arrives-in-d-c-with-ai-plan-as-trump-aides-struggle-to-address-outages",
+          "published_at": "2026-11-18T22:34:21Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "'98% confident': Mullin doesn't suspect cyberattacks are behind recent tech outages",
+          "url": "https://www.wcvb.com/article/mullin-doesnt-suspect-cyberattacks-are-behind-recent-tech-outages/74469927",
+          "published_at": "2026-11-18T23:43:00Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Rep. Ramirez says officials' reassurances on recent tech outages are \"difficult to believe\"",
+          "url": "https://www.cbsnews.com/video/rep-ramirez-says-officials-reassurances-difficult-to-believe-amid-string-of-outages/",
+          "published_at": "2026-11-18T23:48:28Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "How AI actually played a role in recent tech outages",
+          "url": "https://thehill.com/newsletters/technology/6229116-how-ai-actually-played-a-role-in-recent-tech-outages/",
+          "published_at": "2026-11-18T23:56:59Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Tim Ryan, Rep. Dan Crenshaw on whether Americans should be worried about widespread tech outages",
+          "url": "https://www.cbsnews.com/video/politicians-discuss-whether-americans-should-be-worried-amid-widespread-tech-outages/",
+          "published_at": "2026-11-19T00:49:21Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Intel officials grilled by lawmakers on recent tech outages",
+          "url": "https://www.cbsnews.com/video/intel-officials-grilled-by-lawmakers-on-recent-tech-outages/",
+          "published_at": "2026-11-19T01:01:00Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Some Americans stocking up on supplies after wave of major tech outages",
+          "url": "https://www.cbsnews.com/video/some-americans-stocking-up-on-supplies-after-wave-of-major-tech-outages/",
+          "published_at": "2026-11-19T01:07:32Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Widespread Tech Outages Put Focus on Trump\u2019s National Security Cuts",
+          "url": "https://www.nytimes.com/2026/11/18/us/politics/tech-outages-trump-national-security.html",
+          "published_at": "2026-11-19T01:16:32Z"
+        }
+      ]
+    },
+    {
+      "headline": "Trump, Xi and Putin have a shared vision of global power \u2013 with no place for Europe | Rafael Behr",
+      "score": 116,
+      "signals": {
+        "us_outlets": 7,
+        "intl_outlets": 1,
+        "front_pages": 3,
+        "boston_local": [
+          "massachusetts"
+        ]
+      },
+      "independent_outlets": [
+        "Bloomberg",
+        "Boston.com",
+        "CBS News",
+        "CNBC",
+        "NBC News",
+        "PBS NewsHour",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-18T06:00:33Z",
+      "reports": [
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump, Xi and Putin have a shared vision of global power \u2013 with no place for Europe | Rafael Behr",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/18/putin-trump-xi-vision-global-power-europe",
+          "published_at": "2026-11-18T06:00:33Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Apec summit as it happened: Xi welcomes Trump on China visit as Putin claims Europe in \u2018humiliating decline\u2019",
+          "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
+          "published_at": "2026-11-18T17:48:24Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "I watched Trump, Xi and Putin gather in China. Here are my top takeaways",
+          "url": "https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html",
+          "published_at": "2026-11-18T19:47:05Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump in China for talks with Xi and Putin: What to expect",
+          "url": "https://www.cbsnews.com/video/what-to-expect-as-trump-in-china-for-talks-with-xi-putin/",
+          "published_at": "2026-11-18T23:28:47Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump lands in China for trade talks and high-stakes summit with Xi and Putin",
+          "url": "https://www.pbs.org/newshour/show/trump-lands-in-china-for-trade-talks-and-high-stakes-summit-with-xi-and-putin",
+          "published_at": "2026-11-18T23:55:44Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Hours Away From Trump, Xi, Putin Summit in China",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-19/balance-of-power-late-edition-11-18-2026-video",
+          "published_at": "2026-11-19T00:02:54Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump, Xi, Putin to Meet for Historic Trilateral: Live updates",
+          "url": "https://www.bloomberg.com/news/live-blog/2026-11-19/trump-xi-putin-trilateral-2026",
+          "published_at": "2026-11-19T00:47:24Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "The Shadow of Yalta Hangs Over Trump\u2019s Summit in China",
+          "url": "https://www.nytimes.com/2026/11/18/world/asia/trump-xi-putin-summit-yalta.html",
+          "published_at": "2026-11-19T00:52:52Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Latest on Trump's summit with Xi, Putin",
+          "url": "https://www.cbsnews.com/video/latest-on-trumps-summit-with-xi-putin/",
+          "published_at": "2026-11-19T00:54:00Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump, Xi and Putin Shake Hands as Leaders Gather in China",
+          "url": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec",
+          "published_at": "2026-11-19T00:57:45Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump Says He Wouldn\u2019t Make Deals With Putin Without Ukraine",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-19/trump-says-he-wouldn-t-make-deals-with-putin-without-ukraine",
+          "published_at": "2026-11-19T01:05:15Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "China Airport Greetings Show How Xi Views Trump, Putin, Takaichi",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-19/china-airport-greetings-show-how-xi-views-trump-putin-takaichi",
+          "published_at": "2026-11-19T01:12:25Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump meets Xi and Putin in China with nuclear arms and two wars on the table",
+          "url": "https://www.boston.com/news/politics/2026/11/18/trump-meets-xi-and-putin-in-china-with-nuclear-arms-and-two-wars-on-the-table/",
+          "published_at": "2026-11-19T01:34:56Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "What to expect from Trump's meeting with Putin and Xi Jinping",
+          "url": "https://www.nbcnews.com/video/what-to-expect-from-trump-s-meeting-with-putin-and-xi-jinping-273779781736",
+          "published_at": "2026-11-19T01:39:13Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump downplays US outages and Nvidia security concerns in remarks before China summit \u2013 live",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
+          "published_at": "2026-11-19T01:43:27Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump Hails \u2018Great\u2019 Ties With Xi, Downplays Nvidia Spy Scandal",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-19/trump-hails-great-ties-with-xi-downplays-nvidia-spy-scandal",
+          "published_at": "2026-11-19T01:44:42Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Xi speaks at APEC summit ahead of rare meeting with Trump and Putin",
+          "url": "https://www.cbsnews.com/news/trump-xi-putin-china-apec-summit/",
+          "published_at": "2026-11-19T02:04:29Z"
+        }
+      ]
+    },
+    {
+      "headline": "Disturbing new details about former Cape Cod rowing coach accused of child rape",
+      "score": 85,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 0,
+        "front_pages": 4,
+        "boston_local": [
+          "cape cod"
+        ]
+      },
+      "independent_outlets": [
+        "ABC News",
+        "MassLive",
+        "NBC Boston",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-18T09:12:37Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Disturbing new details about former Cape Cod rowing coach accused of child rape",
+          "url": "https://www.nbcboston.com/news/local/disturbing-new-details-about-former-cape-cod-rowing-coach-accused-of-child-rape/4051566/",
+          "published_at": "2026-11-18T09:12:37Z"
+        },
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "\u2018Looksmaxxing' influencer Clavicular indicted on Cape Cod rape charges",
+          "url": "https://www.nbcboston.com/news/local/looksmaxxing-influencer-clavicular-indicted-on-cape-cod-rape-charges/4051472/",
+          "published_at": "2026-11-18T09:12:37Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "\u2018Looksmaxxer\u2019 known as Clavicular indicted on two rape charges stemming from 2025 incident on Cape Cod",
+          "url": "https://www.bostonglobe.com/2026/11/18/metro/clavicular-indicted-on-rape-charges-braden-e-peters/",
+          "published_at": "2026-11-18T13:44:29Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "N.Y. man charged with rape of teen he coached on Cape Cod rowing team",
+          "url": "https://www.masslive.com/capecod/2026/11/ny-man-faces-charges-tied-to-sexual-abuse-of-14-year-old-he-coached-on-cape-cod.html",
+          "published_at": "2026-11-18T21:54:50Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Former Cape Cod rowing coach accused of child rape pleads not guilty as details of allegations emerge",
+          "url": "https://www.bostonglobe.com/2026/11/18/metro/guy-monseair-former-cape-cod-rowing-coach-arraignment/",
+          "published_at": "2026-11-18T22:36:57Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "WATCH: 'Looksmaxxing' influencer Clavicular indicted on rape charges",
+          "url": "https://abcnews.com/video/138265776/",
+          "published_at": "2026-11-19T00:48:46Z"
+        }
+      ]
+    },
+    {
+      "headline": "2 Boston officers indicted over Dorchester shooting, suspended by POST Commission",
+      "score": 84,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 0,
+        "front_pages": 4,
+        "boston_local": [
+          "boston"
+        ]
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "MassLive",
+        "NBC Boston",
+        "The Boston Globe",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-18T09:12:37Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "2 Boston officers indicted over Dorchester shooting, suspended by POST Commission",
+          "url": "https://www.nbcboston.com/news/local/boston-police-officers-indictment-dorchester-shooting/4051239/",
+          "published_at": "2026-11-18T09:12:37Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Two Boston police officers charged in February shooting; indictments unsealed",
+          "url": "https://www.bostonglobe.com/2026/11/17/metro/boston-police-officers-indicted/",
+          "published_at": "2026-11-18T22:19:04Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Indictments filed against 2 Boston officers in Valentine's Day shooting",
+          "url": "https://www.wcvb.com/article/boston-officers-indictment-dorchester-lewis-polanco-nov-18/74464323",
+          "published_at": "2026-11-18T23:28:00Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "POST commission suspends certification of Boston officers facing assault charges",
+          "url": "https://www.masslive.com/boston/2026/11/police-oversight-commission-suspends-certification-of-boston-officers-facing-assault-charges.html",
+          "published_at": "2026-11-19T00:27:01Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Two Boston police officers charged with assault in February shooting",
+          "url": "https://www.boston.com/news/crime/2026/11/18/boston-police-department-indictment-assault-jairo-polanco-rudolph-lewis/",
+          "published_at": "2026-11-19T01:06:52Z"
+        }
+      ]
+    },
+    {
+      "headline": "How important are Nvidia and Jensen Huang to the US economy?",
+      "score": 77,
+      "signals": {
+        "us_outlets": 5,
+        "intl_outlets": 2,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "BBC News",
+        "CBS News",
+        "CNBC",
+        "NPR",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-18T06:04:21Z",
+      "reports": [
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "How important are Nvidia and Jensen Huang to the US economy?",
+          "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-18T06:04:21Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang",
+          "url": "https://www.npr.org/2026/11/18/g-s1-154145/up-first-newsletter-mary-peltola-alaska-trump-asia-nvidia-tech-issues-ai",
+          "published_at": "2026-11-18T12:14:28Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "How Mary Peltola Triumphed in Alaska\u2019s Senate Race",
+          "url": "https://www.nytimes.com/2026/11/18/us/politics/peltola-victory-alaska-senate.html",
+          "published_at": "2026-11-18T12:28:52Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Can Nvidia bounce back from Jensen Huang's scandal?",
+          "url": "https://www.cbsnews.com/video/can-nvidia-bounce-back-from-jensen-huangs-scandal/",
+          "published_at": "2026-11-18T14:20:11Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Congressional Republicans push Howard Lutnick, Jensen Huang to testify about Nvidia",
+          "url": "https://abcnews.com/Politics/house-senate-republicans-call-howard-lutnick-jensen-huang/story?id=138111390",
+          "published_at": "2026-11-18T14:56:14Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrats demand answers from Howard Lutnick about Nvidia and his family\u2019s business",
+          "url": "https://www.theguardian.com/us-news/2026/nov/18/howard-lutnick-nvidia-cantor-fitzgerald",
+          "published_at": "2026-11-18T16:48:29Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Nvidia\u2019s Kress faces a divided workforce as some employees push for Huang\u2019s return",
+          "url": "https://www.cnbc.com/2026/11/18/nvidia-kress-jensen-huang-return.html",
+          "published_at": "2026-11-18T18:11:41Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "What Nvidia\u2019s Interim CEO, Colette Kress, Said to Employees After Jensen Huang\u2019s Resignation",
+          "url": "https://www.nytimes.com/2026/11/18/technology/nvidia-jensen-huang-affair-colette-kress.html",
+          "published_at": "2026-11-18T23:10:00Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Nvidia interim CEO Kress tells employees \u2018let\u2019s move forward\u2019 at first all-hands meeting since Jensen Huang exit",
+          "url": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
+          "published_at": "2026-11-18T23:45:50Z"
+        }
+      ]
+    },
+    {
+      "headline": "The 2026 Country Music Association Awards are here with Taylor Swift performing. Here\u2019s how to watch.",
+      "score": 69,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 0,
+        "front_pages": 4,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "Fox News",
+        "MassLive",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-18T20:09:42Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "The 2026 Country Music Association Awards are here with Taylor Swift performing. Here\u2019s how to watch.",
+          "url": "https://www.bostonglobe.com/2026/11/18/arts/country-music-association-awards/",
+          "published_at": "2026-11-18T20:09:42Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Is Taylor Swift performing at the 2026 CMA Awards? What time and how to watch for free",
+          "url": "https://www.masslive.com/tv/2026/11/is-taylor-swift-performing-at-the-2026-cma-awards-what-time-and-how-to-watch-for-free.html",
+          "published_at": "2026-11-18T21:44:43Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "How to watch 2026 CMA Awards for free tonight: Time, channel, Taylor Swift\u2019s performance",
+          "url": "https://www.masslive.com/tv/2026/11/how-to-watch-2026-cma-awards-for-free-tonight-time-channel-taylor-swifts-performance.html",
+          "published_at": "2026-11-18T23:00:00Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "CMA Awards 2026: Taylor Swift, Lainey Wilson and Ella Langley dazzle as stars hit the red carpet",
+          "url": "https://www.foxnews.com/entertainment/cma-awards-2026-taylor-swift-lainey-wilson-ella-langley-dazzle-stars-hit-red-carpet",
+          "published_at": "2026-11-19T00:03:41Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "2026 CMA Awards open with moving Dolly Parton tribute from Lainey Wilson, Vince Gill",
+          "url": "https://abcnews.com/GMA/Culture/cma-awards-2026-dolly-parton-honored-moving-tribute/story?id=138230261",
+          "published_at": "2026-11-19T01:46:30Z"
+        }
+      ]
+    },
+    {
+      "headline": "Sonny Gray leaves Red Sox on 2-year deal with Twins",
+      "score": 68,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": [
+          "boston",
+          "bruins",
+          "red sox"
+        ]
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "MassLive",
+        "NBC Boston",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-18T09:12:37Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Sonny Gray leaves Red Sox on 2-year deal with Twins",
+          "url": "https://www.nbcboston.com/news/sports/sonny-gray-leaves-red-sox-on-2-year-deal-with-twins/4051659/",
+          "published_at": "2026-11-18T09:12:37Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Sonny Gray leaves Red Sox, signs 2-year deal with Twins",
+          "url": "https://www.masslive.com/redsox/2026/11/sonny-gray-leaves-red-sox-signs-55m-deal-with-twins-after-one-year-in-boston.html",
+          "published_at": "2026-11-18T20:57:59Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Righthander Sonny Gray signs with the Twins, officially leaving the Red Sox after one season",
+          "url": "https://www.bostonglobe.com/2026/11/18/sports/sonny-gray-twins-red-sox/",
+          "published_at": "2026-11-18T22:37:03Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Sonny Gray leaves Red Sox, signs with Twins for reported $55 million",
+          "url": "https://www.boston.com/sports/boston-red-sox/2026/11/18/sonny-gray-boston-red-sox-free-agency-minnesota-twins-mlb-baseball/",
+          "published_at": "2026-11-18T23:09:37Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "After his one season in Boston, the Bruins didn\u2019t try to re-sign Viktor Arvidsson, who has started well with the Red Wings",
+          "url": "https://www.bostonglobe.com/2026/11/18/sports/bruins-red-wings-viktor-arvidsson/",
+          "published_at": "2026-11-19T00:05:51Z"
+        }
+      ]
+    },
+    {
+      "headline": "Democrats Claim 56 Senate Seats After Mary Peltola Wins in Alaska",
+      "score": 67,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 1,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Axios",
+        "BBC News",
+        "NBC Boston",
+        "PBS NewsHour",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-18T07:43:35Z",
+      "reports": [
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrats Claim 56 Senate Seats After Mary Peltola Wins in Alaska",
+          "url": "https://www.nytimes.com/2026/11/17/us/politics/alaska-senate-sullivan-peltola.html",
+          "published_at": "2026-11-18T07:43:35Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrats win Alaska after Trump says voters chose wrong Dan Sullivan. What does voting data show?",
+          "url": "https://www.bbc.co.uk/news/articles/cxnv4jlr269eo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-18T08:33:21Z"
+        },
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrat Mary Peltola flips Alaska Senate seat, defeating GOP Sen. Dan Sullivan",
+          "url": "https://www.nbcboston.com/elections/alaska-senate-2026-results/4051149/",
+          "published_at": "2026-11-18T09:12:37Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Alaska Native strongholds push Peltola into Senate history",
+          "url": "https://www.axios.com/2026/11/18/alaska-native-strongholds-peltola-senate-history",
+          "published_at": "2026-11-18T10:10:06Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
+          "url": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-18T10:23:57Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrats flipped 9 U.S. Senate seats \u2014 the most in almost 70 years",
+          "url": "https://www.pbs.org/newshour/politics/democrats-flipped-9-us-senate-seats-the-most-in-almost-70-years",
+          "published_at": "2026-11-18T22:11:08Z"
+        }
+      ]
+    },
+    {
+      "headline": "Investigators make progress in hunt for cause of FAA ground stop",
+      "score": 67,
+      "signals": {
+        "us_outlets": 5,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "CBS News",
+        "CNBC",
+        "PBS NewsHour",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-18T18:13:25Z",
+      "reports": [
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Investigators make progress in hunt for cause of FAA ground stop",
+          "url": "https://www.cnbc.com/2026/11/18/faa-ground-stop-router-investigation.html",
+          "published_at": "2026-11-18T18:13:25Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "FAA contractor struggled to find location of outage during ground stop",
+          "url": "https://www.cbsnews.com/news/ground-stop-l3harris-system-outage/",
+          "published_at": "2026-11-18T18:36:00Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Duffy keeps blaming L3Harris after FAA ground stop, even as cause remains unknown",
+          "url": "https://www.pbs.org/newshour/politics/dot-secretary-sean-duffy-keeps-blaming-l3harris-after-faa-ground-stop-even-as-cause-remains-unknown",
+          "published_at": "2026-11-18T20:50:38Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Ground Stop Came as Duffy Pushed to Rapidly Upgrade Aviation Systems",
+          "url": "https://www.nytimes.com/2026/11/18/us/sean-duffy-ground-stop-faa-trump.html",
+          "published_at": "2026-11-18T23:19:11Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Official said ground stop might have been shorter if L3Harris had spotted the problem sooner",
+          "url": "https://www.wcvb.com/article/faa-ground-stop-l3harris-router-issue/74459612",
+          "published_at": "2026-11-18T23:25:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Jeff Bezos says he was \u2018heavily involved' in picking the new James Bond",
+      "score": 66,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "Fox News",
+        "NBC Boston",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-18T09:12:37Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Jeff Bezos says he was \u2018heavily involved' in picking the new James Bond",
+          "url": "https://www.nbcboston.com/entertainment/entertainment-news/jeff-bezos-james-bond-robert-pattinson-casting-heavily-involved/4051275/",
+          "published_at": "2026-11-18T09:12:37Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Jeff Bezos says the new James Bond wasn\u2019t picked until Friday",
+          "url": "https://www.bostonglobe.com/2026/11/18/arts/jeff-bezos-amazon-james-bond-robert-pattinson/",
+          "published_at": "2026-11-18T17:27:55Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Jeff Bezos says he was 'heavily involved' in picking Robert Pattinson as James Bond",
+          "url": "https://www.foxnews.com/entertainment/jeff-bezos-says-he-heavily-involved-picking-robert-pattinson-james-bond",
+          "published_at": "2026-11-19T01:30:06Z"
+        }
+      ]
+    },
+    {
+      "headline": "Muslims are projected to outnumber Christians by 2035 as the world\u2019s largest religion",
+      "score": 62,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Axios",
+        "Fox News",
+        "PBS NewsHour",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-18T18:23:33Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Muslims are projected to outnumber Christians by 2035 as the world\u2019s largest religion",
+          "url": "https://www.bostonglobe.com/2026/11/18/nation/largest-religion-muslim-christain/",
+          "published_at": "2026-11-18T18:23:33Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Muslims are projected to outnumber Christians by 2035 as the world's largest religion",
+          "url": "https://www.pbs.org/newshour/world/muslims-are-projected-to-outnumber-christians-by-2035-as-the-worlds-largest-religion",
+          "published_at": "2026-11-18T20:25:17Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Islam will overtake Christianity as world's largest religion by 2035: Pew",
+          "url": "https://www.axios.com/2026/11/18/islam-largest-religion-christianity-pew-2035",
+          "published_at": "2026-11-18T20:34:19Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Muslims poised to outnumber Christians globally by 2035 amid demographic shifts",
+          "url": "https://www.foxnews.com/world/muslims-poised-outnumber-christians-globally-2035-amid-demographic-shifts",
+          "published_at": "2026-11-19T00:28:08Z"
+        }
+      ]
+    },
+    {
+      "headline": "Trump faces criticism as allies press the White House for answers on tech problems",
+      "score": 60,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 1,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "NBC Boston",
+        "NPR",
+        "The Boston Globe",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-18T09:12:37Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump faces criticism as allies press the White House for answers on tech problems",
+          "url": "https://www.nbcboston.com/news/national-international/trump-faces-criticism-allies-press-white-house-for-answers-tech-problems/4051091/",
+          "published_at": "2026-11-18T09:12:37Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "House Democrat warns 13 Trump allies to save their records for upcoming investigations",
+          "url": "https://www.npr.org/2026/11/18/g-s1-154147/robert-garcia-house-democrats-investigations-trump-administration",
+          "published_at": "2026-11-18T15:01:32Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrats are preparing to do their jobs. Trump\u2019s allies are threatening them for it.",
+          "url": "https://www.bostonglobe.com/2026/11/18/opinion/congress-investigations-reitz-democrats/",
+          "published_at": "2026-11-18T19:41:46Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump family and allies told to preserve records as Democrats prepare sweeping investigations",
+          "url": "https://www.theguardian.com/us-news/2026/nov/18/robert-garcia-trump-records-investigations",
+          "published_at": "2026-11-18T20:39:21Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "House Democrats Cast Wide Net as They Prepare Trump Investigations",
+          "url": "https://www.nytimes.com/2026/11/18/us/politics/house-democrats-trump-investigation.html",
+          "published_at": "2026-11-18T21:03:47Z"
+        }
+      ]
+    },
+    {
+      "headline": "Bruins at Red Wings preview: Boston hits the road for Original Six matchup",
+      "score": 60,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "boston",
+          "bruins"
+        ]
+      },
+      "independent_outlets": [
+        "ESPN",
+        "MassLive",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-18T17:44:22Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Bruins at Red Wings preview: Boston hits the road for Original Six matchup",
+          "url": "https://www.bostonglobe.com/2026/11/18/sports/bruins-red-wings-preview-november-18-2026/",
+          "published_at": "2026-11-18T17:44:22Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "How to watch the Detroit Red Wings vs. Boston Bruins for free tonight",
+          "url": "https://www.masslive.com/tv/2026/11/how-to-watch-the-detroit-red-wings-vs-boston-bruins-for-free-tonight.html",
+          "published_at": "2026-11-18T21:30:00Z"
+        },
+        {
+          "publisher": "ESPN",
+          "group": "espn",
+          "kind": "news",
+          "wire": false,
+          "title": "NHL Tonight: What to watch in Bruins-Red Wings, Canadiens-Devils, Avalanche-Mammoth",
+          "url": "https://www.espn.com/nhl/story/_/id/50513005/nhl-2026-27-tonight-games-schedule-matchups-stats-top-players-betting",
+          "published_at": "2026-11-18T22:59:14Z"
+        }
+      ]
+    },
+    {
+      "headline": "Elon Musk Feels \u2018Foolish\u2019 for Spending Big on GOP After Rout",
+      "score": 60,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 1,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "Bloomberg",
+        "CNBC",
+        "The Hill",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-18T23:46:53Z",
+      "reports": [
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Elon Musk Feels \u2018Foolish\u2019 for Spending Big on GOP After Rout",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-18/musk-feels-foolish-for-spending-big-on-gop-after-midterms-rout",
+          "published_at": "2026-11-18T23:46:53Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Dealbook Summit 2026 live updates: Musk says he feels \u2018pretty foolish\u2019 for having spent so much on midterms",
+          "url": "https://www.cnbc.com/2026/11/18/dealbook-summit-2026-live-updates.html",
+          "published_at": "2026-11-19T00:35:59Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Musk on midterms spending: 'I feel pretty foolish'",
+          "url": "https://thehill.com/homenews/campaign/6229195-musk-regrets-gop-spending/",
+          "published_at": "2026-11-19T01:11:24Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+          "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-19T01:56:28Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Takeaways From the 2026 DealBook Summit",
+          "url": "https://www.nytimes.com/2026/11/18/business/dealbook/dealbook-summit-musk-altman-ellison.html",
+          "published_at": "2026-11-19T02:05:48Z"
+        }
+      ]
+    },
+    {
+      "headline": "Iran widens Gulf attacks by targeting a US air base in Kuwait and sites in Bahrain",
+      "score": 51,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "CBS News",
+        "PBS NewsHour",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-18T20:21:26Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Iran widens Gulf attacks by targeting a US air base in Kuwait and sites in Bahrain",
+          "url": "https://www.bostonglobe.com/2026/11/18/business/us-iran-gulf-attacks-kuwait/",
+          "published_at": "2026-11-18T20:21:26Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Iran widens Gulf attacks by targeting U.S. air base in Kuwait and sites in Bahrain",
+          "url": "https://www.pbs.org/newshour/world/iran-widens-gulf-attacks-by-targeting-u-s-air-base-in-kuwait-and-sites-in-bahrain",
+          "published_at": "2026-11-19T00:36:03Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Iran ramps up attacks on Gulf countries after U.S. strikes",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
+          "published_at": "2026-11-19T00:46:41Z"
+        }
+      ]
+    },
+    {
+      "headline": "From pop stars to poets to politicians, hundreds gathering for joyful tribute to Gloria Steinem",
+      "score": 51,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "PBS NewsHour",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-18T21:33:29Z",
+      "reports": [
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "From pop stars to poets to politicians, hundreds gathering for joyful tribute to Gloria Steinem",
+          "url": "https://www.pbs.org/newshour/nation/from-pop-stars-to-poets-to-politicians-hundreds-gathering-for-joyful-tribute-to-gloria-steinem",
+          "published_at": "2026-11-18T21:33:29Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "From pop stars to poets to politicians, hundreds gather for joyful tribute to Gloria Steinem",
+          "url": "https://www.wcvb.com/article/gloria-steinem-joyful-memorial-new-york/74471673",
+          "published_at": "2026-11-19T01:25:00Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "At Gloria Steinem Memorial, Michelle Obama, Hillary Clinton and More Big Names Gather",
+          "url": "https://www.nytimes.com/2026/11/18/style/gloria-steinem-memorial-photos.html",
+          "published_at": "2026-11-19T01:34:44Z"
+        }
+      ]
+    },
+    {
+      "headline": "Young girl dies after being pulled from New Bedford house fire",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "NBC Boston",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-18T09:12:37Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Young girl dies after being pulled from New Bedford house fire",
+          "url": "https://www.nbcboston.com/news/local/new-bedford-ma-fire-injury-update/4051238/",
+          "published_at": "2026-11-18T09:12:37Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "\u2018Tragic loss\u2019: 8-year-old girl dies after being pulled from burning home in New Bedford",
+          "url": "https://www.bostonglobe.com/2026/11/18/metro/8-year-old-girl-rescued-from-new-bedford-fire-dies/",
+          "published_at": "2026-11-18T17:21:16Z"
+        }
+      ]
+    },
+    {
+      "headline": "Four things we want to see from Celtics during four-game road trip",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "boston",
+          "celtics"
+        ]
+      },
+      "independent_outlets": [
+        "NBC Boston",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-18T09:12:37Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Four things we want to see from Celtics during four-game road trip",
+          "url": "https://www.nbcboston.com/nba/boston-celtics/four-game-road-trip-what-we-want-to-see/4051516/",
+          "published_at": "2026-11-18T09:12:37Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Celtics at Nuggets preview: Boston kicks off four-game road trip",
+          "url": "https://www.bostonglobe.com/2026/11/18/sports/celtics-nuggets-preview-november-18-2026/",
+          "published_at": "2026-11-18T18:34:10Z"
+        }
+      ]
+    },
+    {
+      "headline": "Maine husband, father who went missing back in 1975 was murdered, police say",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "maine"
+        ]
+      },
+      "independent_outlets": [
+        "NBC Boston",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-18T09:12:37Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Maine husband, father who went missing back in 1975 was murdered, police say",
+          "url": "https://www.nbcboston.com/news/local/maine-husband-father-who-went-missing-back-in-1975-was-murdered-police-say/4051359/",
+          "published_at": "2026-11-18T09:12:37Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Maine father who went missing while deer hunting in 1975 was killed, investigators say",
+          "url": "https://www.bostonglobe.com/2026/11/18/metro/maine-man-missing-fifty-years-homicide/",
+          "published_at": "2026-11-18T20:01:49Z"
+        }
+      ]
+    },
+    {
+      "headline": "Americans will pay more for Thanksgiving dinners this year, Farm Bureau says",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "NBC Boston",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-18T09:12:37Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Americans will pay more for Thanksgiving dinners this year, Farm Bureau says",
+          "url": "https://www.nbcboston.com/news/national-international/thanksgiving-dinner-more-expensive-this-year-survey/4051601/",
+          "published_at": "2026-11-18T09:12:37Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Americans will pay more for Thanksgiving dinners this year, Farm Bureau says",
+          "url": "https://www.bostonglobe.com/2026/11/18/business/thanksgiving-prices-costs/",
+          "published_at": "2026-11-18T16:14:34Z"
+        }
+      ]
+    },
+    {
+      "headline": "With measles spreading, do you need a booster shot?",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "NBC Boston",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-18T09:12:37Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "With measles spreading, do you need a booster shot?",
+          "url": "https://www.nbcboston.com/news/health/measles-spreading-booster-shot/4051537/",
+          "published_at": "2026-11-18T09:12:37Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "With measles spreading, do you need a booster shot?",
+          "url": "https://www.bostonglobe.com/2026/11/18/metro/measles-booster-shot/",
+          "published_at": "2026-11-18T20:46:33Z"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "date": "2026-11-18",
+  "mode": "live (scheduled run, ~9:07 p.m. Boston time on Nov. 18)",
+  "prepared_at": "2026-11-19T02:20:00Z",
+  "candidates_considered": 25,
+  "rationale": "The top-scored cluster (Grand Theft Auto VI's release) is a consumer/culture story with a Boston angle but little real-world consequence. The leading national and world story across 12 independent outlets (NYT, NPR, Axios, CBS, NBC, LA Times, BBC, Guardian, Boston Globe, The Hill, Bloomberg) is Trump's arrival in Shenzhen, China, for the APEC summit, where Xi Jinping greeted him at the airport and Trump shook hands with Putin ahead of the first-ever Trump-Xi-Putin meeting set for Thursday, Nov. 19. It is historic, directly affects the US (chips, AI, Ukraine, nuclear arms) and is the most visual. Set aside: House Democrats nominating Hakeem Jeffries for speaker (strong and historic, but a closed-door caucus vote with little visual action, and it doesn't fit one scene with the summit), Anthropic's record IPO (priced in the evening, and the illustrating agent runs on Anthropic's model, a conflict of interest best avoided as a focal choice), and Rubio's statement on the tech outages (a denial, not an event). The trilateral meeting itself has not happened yet, so it is mentioned as context only and not drawn. Arrival facts: AP (via NBC Boston) and CBS News independently report Xi greeting and embracing Trump at the airport; the dancers with flowers and flags are from AP only, a minor scene detail drawn small. Trump-Putin handshake: AP and NBC News.",
+  "stories": [
+    {
+      "role": "focal",
+      "name": "Xi greets Trump in Shenzhen ahead of first Trump-Xi-Putin meeting",
+      "facts": [
+        "On Wednesday, Nov. 18, Trump arrived in Shenzhen, China, the tech hub hosting the Asia-Pacific Economic Cooperation (APEC) summit (AP, CBS).",
+        "Xi Jinping greeted Trump at the airport at the foot of Air Force One's stairs, and their handshake turned into a hug (AP, CBS).",
+        "AP reported dancers waving flowers and flags at the arrival, and that Xi had not greeted Putin at the airport earlier that day (AP).",
+        "Later on Wednesday at the summit, Trump shook hands with Russian President Vladimir Putin as Xi looked on (AP, NBC News).",
+        "Trump, Xi and Putin are set to meet together on Thursday, Nov. 19, on the APEC sidelines, the first such three-way meeting; a Trump-Xi bilateral is also set for Thursday (AP, CBS, NBC News).",
+        "Expected topics include advanced U.S. chips reaching China, AI, nuclear arms limits and the war in Ukraine (AP, CBS)."
+      ],
+      "people": [
+        {"name": "Donald Trump", "public_figure": true, "verified_action": "Arrives by Air Force One in Shenzhen and embraces Xi Jinping at the foot of the plane's stairs (AP, CBS)."},
+        {"name": "Xi Jinping", "public_figure": true, "verified_action": "Greets Trump on the tarmac at the foot of Air Force One's stairs with a handshake that becomes a hug (AP, CBS)."}
+      ],
+      "visual_notes": "Low-angle tarmac view: the nose, flank and boarding stairs of Air Force One (light-blue and white livery, simplified, no readable lettering) tower over the scene; at the foot of the stairs Trump (tall, swept blond hair, dark suit, long red tie) and Xi (dark side-parted hair, dark suit, broader build) embrace. A huge low sun and a Shenzhen skyline silhouette with the tapering Ping An Finance Center spire behind; small dancers holding flowers and blank flags along the edge; a few silhouetted press with cameras in the foreground. Putin is NOT drawn (his handshake happened elsewhere); the trilateral is not drawn (it hasn't happened). No text, no slogans, no flag designs.",
+      "confidence": "high for the arrival, the airport greeting and embrace (AP and CBS independently), the Trump-Putin handshake (AP and NBC News) and Thursday's planned meetings (AP, CBS, NBC). The dancers with flowers and flags are from AP only, so they are drawn small and generic.",
+      "sources": [
+        {
+          "publisher": "NBC Boston (Associated Press)",
+          "group": "nbc",
+          "wire": "AP",
+          "title": "Trump plans separate talks with Putin alongside 3-way meeting with Xi in China",
+          "url": "https://www.nbcboston.com/news/national-international/donald-trump-china-visit-united-states/4051213/",
+          "published_at": "2026-11-18T09:12:37Z",
+          "checked_at": "2026-11-19T02:05:00Z",
+          "checked": "full article (AP, Josh Boak and Michelle L. Price; updated during the day)"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "title": "What to know about Trump's meeting with Xi in China",
+          "url": "https://www.cbsnews.com/news/trump-xi-meet-china-chips-ai/",
+          "published_at": "2026-11-18T20:23:00Z",
+          "checked_at": "2026-11-19T02:12:00Z",
+          "checked": "full article (Kathryn Watson)"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc-news",
+          "title": "World waits as Trump, Xi and Putin prepare for high-stakes meeting",
+          "url": "https://www.nbcnews.com/world/asia/world-waits-trump-xi-putin-prepare-high-stakes-meeting-rcna609776",
+          "published_at": "2026-11-18T17:22:41Z",
+          "checked_at": "2026-11-19T02:13:00Z",
+          "checked": "full article (Jennifer Jett, Janis Mackey Frayer, Alexander Smith; Shenzhen)"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "title": "Xi Jinping breaks protocol to greet and hug Trump at China airport",
+          "url": "https://www.axios.com/2026/11/18/trump-china-xi-hug-airport",
+          "published_at": "2026-11-18T11:39:28Z",
+          "checked_at": "2026-11-19T02:02:00Z",
+          "checked": "headline only (403 on fetch; not read)"
+        }
+      ]
+    }
+  ]
+}

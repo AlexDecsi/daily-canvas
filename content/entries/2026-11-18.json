@@ -1,0 +1,59 @@
+{
+  "date": "2026-11-18",
+  "published_at": "2026-11-19T02:18:45.944120Z",
+  "status": "published",
+  "prelaunch": false,
+  "title": "Xi greets Trump with a hug in Shenzhen",
+  "caption": "Xi Jinping met Donald Trump at the foot of Air Force One's stairs in Shenzhen, China, on Nov. 18, turning a handshake into a hug as Trump arrived for the APEC summit. Later that day Trump shook hands with Vladimir Putin. The three leaders are set to meet together for the first time on Thursday, with chips, AI, nuclear arms and the war in Ukraine expected to come up.",
+  "stories": [
+    {
+      "name": "Xi greets Trump in Shenzhen ahead of first Trump-Xi-Putin meeting",
+      "role": "focal",
+      "facts": [
+        "On Wednesday, Nov. 18, Trump arrived in Shenzhen, China, the tech hub hosting the Asia-Pacific Economic Cooperation (APEC) summit (AP, CBS).",
+        "Xi Jinping greeted Trump at the airport at the foot of Air Force One's stairs, and their handshake turned into a hug (AP, CBS).",
+        "AP reported dancers waving flowers and flags at the arrival, and that Xi had not greeted Putin at the airport earlier that day (AP).",
+        "Later on Wednesday at the summit, Trump shook hands with Russian President Vladimir Putin as Xi looked on (AP, NBC News).",
+        "Trump, Xi and Putin are set to meet together on Thursday, Nov. 19, on the APEC sidelines, the first such three-way meeting; a Trump-Xi bilateral is also set for Thursday (AP, CBS, NBC News).",
+        "Expected topics include advanced U.S. chips reaching China, AI, nuclear arms limits and the war in Ukraine (AP, CBS)."
+      ],
+      "sources": [
+        {
+          "publisher": "NBC Boston (Associated Press)",
+          "title": "Trump plans separate talks with Putin alongside 3-way meeting with Xi in China",
+          "url": "https://www.nbcboston.com/news/national-international/donald-trump-china-visit-united-states/4051213/",
+          "published_at": "2026-11-18T09:12:37Z"
+        },
+        {
+          "publisher": "CBS News",
+          "title": "What to know about Trump's meeting with Xi in China",
+          "url": "https://www.cbsnews.com/news/trump-xi-meet-china-chips-ai/",
+          "published_at": "2026-11-18T20:23:00Z"
+        },
+        {
+          "publisher": "NBC News",
+          "title": "World waits as Trump, Xi and Putin prepare for high-stakes meeting",
+          "url": "https://www.nbcnews.com/world/asia/world-waits-trump-xi-putin-prepare-high-stakes-meeting-rcna609776",
+          "published_at": "2026-11-18T17:22:41Z"
+        },
+        {
+          "publisher": "Axios",
+          "title": "Xi Jinping breaks protocol to greet and hug Trump at China airport",
+          "url": "https://www.axios.com/2026/11/18/trump-china-xi-hug-airport",
+          "published_at": "2026-11-18T11:39:28Z"
+        }
+      ]
+    }
+  ],
+  "artwork": {
+    "path": "artwork/2026-11-18.svg",
+    "format": "svg",
+    "alt": "Editorial illustration: at the foot of Air Force One's boarding stairs, Donald Trump, with swept blond hair and a red tie, embraces Xi Jinping in a dark suit, silhouetted against a huge low sun with radiating rays. The blue-and-white presidential jet fills the left; Shenzhen's skyline and the Ping An Finance Center line the horizon; small dancers wave flowers and blank flags at right, and silhouetted photographers with flashing cameras frame the foreground. Represents Xi greeting Trump on his arrival for APEC on Nov. 18, 2026.",
+    "method": "code-generated SVG (graphic-poster kit, src/art/daily/)",
+    "revision": "r4"
+  },
+  "backfill": {
+    "is_backfill": false,
+    "reason": null
+  }
+}

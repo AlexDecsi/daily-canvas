@@ -1,0 +1,63 @@
+{
+  "date": "2026-11-18",
+  "runs": [
+    {
+      "started_at": "2026-11-19T02:13:22.893115Z",
+      "outcome": "published",
+      "steps": [
+        {
+          "at": "2026-11-19T02:13:22.893119Z",
+          "step": "prepare: lock acquired (live)"
+        },
+        {
+          "at": "2026-11-19T02:13:28.408525Z",
+          "step": "prepare: ran src/news/feeds.py"
+        },
+        {
+          "at": "2026-11-19T02:13:28.552323Z",
+          "step": "prepare: ran src/news/cluster.py"
+        },
+        {
+          "at": "2026-11-19T02:18:46.721010Z",
+          "step": "finalize: published to local site"
+        }
+      ],
+      "_new_run": true,
+      "mode": "live",
+      "prelaunch": false,
+      "finished_at": "2026-11-19T02:18:46.720838Z",
+      "link_checks": [
+        {
+          "url": "https://www.nbcboston.com/news/national-international/donald-trump-china-visit-united-states/4051213/",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.cbsnews.com/news/trump-xi-meet-china-chips-ai/",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.nbcnews.com/world/asia/world-waits-trump-xi-putin-prepare-high-stakes-meeting-rcna609776",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.axios.com/2026/11/18/trump-china-xi-hug-airport",
+          "ok": true,
+          "note": "HTTP 403 (blocks automated checks; not verifiable here)"
+        }
+      ],
+      "samples_removed": [],
+      "stories_shown": [
+        "Xi greets Trump in Shenzhen ahead of first Trump-Xi-Putin meeting"
+      ],
+      "usage": {
+        "article_reads": 9,
+        "web_searches": 1,
+        "render_rounds": 4,
+        "minutes": 30
+      }
+    }
+  ]
+}
