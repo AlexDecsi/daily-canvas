@@ -1,0 +1,1817 @@
+{
+  "date": "2026-11-19",
+  "fetched_at": "2026-11-20T02:13:11.250570Z",
+  "items_considered": 607,
+  "candidates": [
+    {
+      "headline": "Fiona the famous Ohio hippo receives care after swallowing a hat \u2013 video",
+      "score": 118,
+      "signals": {
+        "us_outlets": 6,
+        "intl_outlets": 2,
+        "front_pages": 7,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "Boston.com",
+        "CBS News",
+        "MassLive",
+        "NBC News",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-19T18:43:51Z",
+      "reports": [
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Fiona the famous Ohio hippo receives care after swallowing a hat \u2013 video",
+          "url": "https://www.theguardian.com/us-news/video/2026/nov/19/fiona-the-famous-ohio-hippo-receives-care-after-swallowing-a-hat-video",
+          "published_at": "2026-11-19T18:43:51Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Cincinnati Zoo says Fiona the hippo has died, more than a week after ingesting a hat",
+          "url": "https://www.pbs.org/newshour/nation/cincinnati-zoo-says-fiona-the-hippo-has-died-more-than-a-week-after-ingesting-a-hat",
+          "published_at": "2026-11-19T21:11:32Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Fiona the world-famous hippo has died after ingesting cap",
+          "url": "https://www.masslive.com/news/2026/11/fiona-the-world-famous-hippo-has-died-crushed-by-this-news.html",
+          "published_at": "2026-11-19T21:11:54Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Fiona the hippo dies after eating a hat that ended up in her habitat, Cincinnati Zoo says",
+          "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/fiona-hippo-dies-cincinnati-zoo-rcna610297",
+          "published_at": "2026-11-19T21:15:25Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Cincinnati Zoo says Fiona the hippo has died, days after ingesting a visitor\u2019s hat",
+          "url": "https://www.boston.com/news/national-news/2026/11/19/cincinnati-zoo-says-fiona-the-hippo-has-died-days-after-ingesting-a-visitors-hat/",
+          "published_at": "2026-11-19T21:25:53Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Fiona the hippo dies after ingesting knitted hat at Cincinnati zoo",
+          "url": "https://www.theguardian.com/world/2026/nov/19/fiona-hippo-cincinnati-zoo-knit-hat",
+          "published_at": "2026-11-19T22:09:55Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Cincinnati Zoo\u2019s famed Fiona the hippo dies days after eating a visitor\u2019s hat",
+          "url": "https://www.bostonglobe.com/2026/11/19/nation/cincinnati-zoos-famed-fiona-hippo-dies-days-after-eating-visitors-hat/",
+          "published_at": "2026-11-19T22:48:01Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Beloved hippo Fiona dies days after swallowing hat",
+          "url": "https://www.cbsnews.com/news/fiona-the-hippo-dies-cincinnati-zoo/",
+          "published_at": "2026-11-19T22:51:00Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "From premature baby to social media star - Famed hippo Fiona dies",
+          "url": "https://www.bbc.co.uk/news/videos/cq39gvj9y7xpo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-19T22:54:03Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
+          "url": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-19T23:40:29Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Celebrity hippo Fiona dies",
+          "url": "https://www.nbcnews.com/nightly-news/video/celebrity-hippo-fiona-dies-273863237943",
+          "published_at": "2026-11-20T00:29:26Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Fiona the Hippo, Star of Cincinnati Zoo and Beyond, Dies After Eating Child\u2019s Hat",
+          "url": "https://www.nytimes.com/2026/11/19/us/fiona-hippo-dead-cincinnati-zoo.html",
+          "published_at": "2026-11-20T01:33:23Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Cincinnati Zoo\u2019s famed Fiona the hippo dies days after eating a visitor\u2019s hat",
+          "url": "https://www.bostonglobe.com/2026/11/19/nation/cincinatti-zoo-fiona-hippo-swallowed-hat/",
+          "published_at": "2026-11-20T01:43:20Z"
+        }
+      ]
+    },
+    {
+      "headline": "Trump, Xi and Putin meet as global alliances hang in the balance",
+      "score": 106,
+      "signals": {
+        "us_outlets": 6,
+        "intl_outlets": 2,
+        "front_pages": 5,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "Bloomberg",
+        "Los Angeles Times",
+        "NBC News",
+        "NPR",
+        "The Boston Globe",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-19T09:44:40Z",
+      "reports": [
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump, Xi and Putin meet as global alliances hang in the balance",
+          "url": "https://www.npr.org/2026/11/18/nx-s1-6040432/trump-xi-and-putin-shenzhen-china-russia-usa",
+          "published_at": "2026-11-19T09:44:40Z"
+        },
+        {
+          "publisher": "Los Angeles Times",
+          "group": "latimes",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump, Putin and Xi meet in an unprecedented summit with few tangible gains",
+          "url": "https://www.latimes.com/politics/story/2026-11-19/making-history-trump-putin-xi-meet-in-unprecedented-china-summit",
+          "published_at": "2026-11-19T10:24:31Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Top House Democrat questions what Trump accomplished in Xi-Putin summit",
+          "url": "https://www.npr.org/2026/11/19/nx-s1-6046487/gregory-meeks-trump-xi-putin-summit",
+          "published_at": "2026-11-19T11:20:37Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Historic Trump-Xi-Putin Summit Fails to Deliver on Substance",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-19/big-trump-xi-putin-power-play-delivers-more-style-than-substance",
+          "published_at": "2026-11-19T14:33:35Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "New page in history? Xi, Trump and Putin summit was more of a footnote",
+          "url": "https://www.theguardian.com/world/2026/nov/19/new-page-in-history-xi-trump-and-putin-summit-was-more-of-a-footnote",
+          "published_at": "2026-11-19T15:35:01Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "At Summit With Xi and Putin, Trump Seeks to Project Power Abroad While Sharing It at Home",
+          "url": "https://www.nytimes.com/2026/11/19/us/politics/trump-summit-power.html",
+          "published_at": "2026-11-19T17:05:18Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "BBC correspondents discuss what Trump, Xi and Putin got out of historic talks",
+          "url": "https://www.bbc.co.uk/news/videos/c63rgnq05pdwo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-19T17:23:29Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Is Europe now in the shadow of a Trump, Putin and Xi alliance? \u2013 podcast",
+          "url": "https://www.theguardian.com/politics/audio/2026/nov/19/is-europe-in-shadow-of-trump-putin-xi-alliance-podcast",
+          "published_at": "2026-11-19T17:23:36Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+          "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-19T17:38:22Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump, Xi, and Putin hold rare three-way talks on nuclear risks but deliver no breakthroughs",
+          "url": "https://www.bostonglobe.com/2026/11/19/nation/trump-xi-putin-meeting/",
+          "published_at": "2026-11-19T17:55:51Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump\u2019s pick to lead watchdog says he\u2019s no \u2018stooge\u2019 as Democrats question his independence",
+          "url": "https://www.bostonglobe.com/2026/11/19/nation/trump-watchdog-nominee-congress/",
+          "published_at": "2026-11-19T20:12:55Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump\u2019s Camaraderie With Xi and Putin Draws Pushback at Home",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-19/trump-s-camaraderie-with-xi-and-putin-draws-pushback-at-home",
+          "published_at": "2026-11-19T20:15:49Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump\u2019s pick to lead agency protecting US elections says Jan. 6 wasn\u2019t an \u2018attack\u2019",
+          "url": "https://www.bostonglobe.com/2026/11/19/nation/cisa-trump-nominee-january-6/",
+          "published_at": "2026-11-19T20:45:08Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump\u2019s pick for agency providing election security says Jan. 6 was not an attack",
+          "url": "https://www.nbcnews.com/politics/trump-administration/trumps-pick-agency-providing-election-security-says-jan-6-was-not-atta-rcna610298",
+          "published_at": "2026-11-19T22:22:43Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump flaunts camaraderie with Xi and Putin but has little to show for it",
+          "url": "https://www.bostonglobe.com/2026/11/19/world/trump-flaunts-camaraderie-with-xi-putin-has-little-show-it/",
+          "published_at": "2026-11-19T22:36:36Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump\u2019s pick to lead election security agency says Jan. 6 was not an \u2018attack\u2019",
+          "url": "https://www.nbcnews.com/video/trump-s-pick-to-lead-election-security-agency-says-jan-6-was-not-an-attack-273860677873",
+          "published_at": "2026-11-19T23:43:34Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump Flaunts Camaraderie With Xi and Putin but Has Little to Show for It",
+          "url": "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin.html",
+          "published_at": "2026-11-20T02:10:56Z"
+        }
+      ]
+    },
+    {
+      "headline": "Anthropic sells $81.3 billion worth of shares in world\u2019s largest IPO",
+      "score": 103,
+      "signals": {
+        "us_outlets": 6,
+        "intl_outlets": 1,
+        "front_pages": 5,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "Bloomberg",
+        "CBS News",
+        "CNBC",
+        "Fox News",
+        "The Boston Globe",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-19T09:00:08Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Anthropic sells $81.3 billion worth of shares in world\u2019s largest IPO",
+          "url": "https://www.bostonglobe.com/2026/11/19/business/anthropic-sells-813-billion-worth-shares-worlds-largest-ipo/",
+          "published_at": "2026-11-19T09:00:08Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Meet Anthropic's 7 co-founders, now worth about $20 billion each",
+          "url": "https://www.cbsnews.com/news/anthropic-ipo-founders-net-worth/",
+          "published_at": "2026-11-19T16:21:00Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Anthropic shares jump in Nasdaq trading debut after record IPO",
+          "url": "https://www.cbsnews.com/news/anthropic-ipo-nasdaq-debut-claude-ai/",
+          "published_at": "2026-11-19T21:18:04Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Anthropic Makes Trading Debut",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-19/bloomberg-businessweek-daily-11-19-2026-video",
+          "published_at": "2026-11-19T22:33:07Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Anthropic\u2019s Value Surges in Public Debut",
+          "url": "https://www.nytimes.com/2026/11/19/briefing/anthropic-public-debut.html",
+          "published_at": "2026-11-19T22:36:06Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Anthropic Debuts on Wall Street as a $2 Trillion Company",
+          "url": "https://www.nytimes.com/2026/11/19/technology/anthropic-2-trillion.html",
+          "published_at": "2026-11-19T22:45:17Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "ASRA Q. NOMANI: Inside the coordinated activist blitz that crashed Anthropic\u2019s historic Nasdaq debut",
+          "url": "https://www.foxnews.com/politics/asra-q-nomani-inside-coordinated-activist-blitz-crashed-anthropic-historic-nasdaq-debut",
+          "published_at": "2026-11-19T22:57:07Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+          "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-19T23:33:51Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "How did Anthropic's stock market debut unfold?",
+          "url": "https://www.bbc.co.uk/news/videos/cwg7l01vg081o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-19T23:52:25Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Anthropic IPO takeaways: ANT debuts with $1.8 trillion market cap in landmark moment for AI",
+          "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
+          "published_at": "2026-11-20T00:04:56Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Market hit by major stock selloff after Anthropic's record-breaking IPO",
+          "url": "https://www.cbsnews.com/video/market-hit-by-major-stock-selloff-after-anthropics-record-breaking-ipo/",
+          "published_at": "2026-11-20T00:49:02Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut",
+          "url": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html",
+          "published_at": "2026-11-20T01:34:19Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Anthropic's 7 co-founders now worth about $20 billion each after record IPO",
+          "url": "https://www.cbsnews.com/video/anthropics-7-co-founders-now-worth-about-20-billion-each-after-record-ipo/",
+          "published_at": "2026-11-20T01:50:44Z"
+        }
+      ]
+    },
+    {
+      "headline": "Trump greets 'my friend' Putin as pair shake hands",
+      "score": 94,
+      "signals": {
+        "us_outlets": 6,
+        "intl_outlets": 2,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "Axios",
+        "BBC News",
+        "Bloomberg",
+        "CBS News",
+        "PBS NewsHour",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-19T08:31:09Z",
+      "reports": [
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump greets 'my friend' Putin as pair shake hands",
+          "url": "https://www.bbc.co.uk/news/videos/c6j9m19llmv3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-19T08:31:09Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "WATCH: Trump calls Putin, Xi his friends after meeting",
+          "url": "https://abcnews.com/video/138294590/",
+          "published_at": "2026-11-19T18:46:56Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Troublesome trio: Trump, Xi and Putin hold historic meeting - The Latest",
+          "url": "https://www.theguardian.com/news/video/2026/nov/19/troublesome-trio-trump-xi-and-putin-hold-historic-meeting-the-latest",
+          "published_at": "2026-11-19T19:37:13Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "3 takeaways from Trump, Xi and Putin's historic summit",
+          "url": "https://www.pbs.org/newshour/world/3-takeaways-from-trump-xi-and-putins-historic-summit",
+          "published_at": "2026-11-19T22:58:31Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "At China summit, Trump calls Putin 'my friend' amid Ukraine war",
+          "url": "https://abcnews.com/International/china-summit-trump-calls-putin-friend-amid-ukraine/story?id=138282642",
+          "published_at": "2026-11-19T23:03:20Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Fmr. Amb. Criticizes Trump-Xi-Putin Summit Optics",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-19/fmr-amb-criticizes-trump-xi-putin-summit-optics-video",
+          "published_at": "2026-11-19T23:38:41Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Inside the historic summit between Trump, Xi and Putin",
+          "url": "https://www.pbs.org/newshour/show/inside-the-historic-summit-between-trump-xi-and-putin",
+          "published_at": "2026-11-19T23:55:57Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump, Xi and Putin Seek to Project Power at Their First Summit",
+          "url": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec",
+          "published_at": "2026-11-20T00:51:01Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump calls Putin his friend at summit, prompting backlash from some world leaders",
+          "url": "https://www.cbsnews.com/video/trump-calls-putin-his-friend-at-summit-prompting-backlash-from-some-world-leaders/",
+          "published_at": "2026-11-20T01:26:05Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Husband of American detained in Russia says case was not mentioned during Trump meeting with Putin",
+          "url": "https://www.cbsnews.com/video/husband-of-american-detained-in-russia-speaks-out/",
+          "published_at": "2026-11-20T01:26:16Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump to speak Friday about summit with Xi and Putin; Zelenskyy meets with U.S. envoys",
+          "url": "https://www.cbsnews.com/video/trump-to-speak-friday-about-summit-with-xi-and-putin/",
+          "published_at": "2026-11-20T01:26:21Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump tells skeptical Europeans: \"Putin wants to end the war\"",
+          "url": "https://www.axios.com/2026/11/20/trump-pushes-putin-ukraine-war-deal",
+          "published_at": "2026-11-20T01:30:59Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": true,
+          "title": "No major agreements from Trump summit with Putin, Xi",
+          "url": "https://www.cbsnews.com/video/no-major-agreements-from-trump-summit-with-putin-xi/",
+          "published_at": "2026-11-20T01:55:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Pete Rose posthumously pardoned by Trump after baseball\u2019s career hits leader was reinstated by MLB",
+      "score": 94,
+      "signals": {
+        "us_outlets": 5,
+        "intl_outlets": 2,
+        "front_pages": 5,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "BBC News",
+        "CBS News",
+        "ESPN",
+        "NBC News",
+        "The Boston Globe",
+        "The Guardian"
+      ],
+      "first_seen": "2026-11-19T21:47:08Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Pete Rose posthumously pardoned by Trump after baseball\u2019s career hits leader was reinstated by MLB",
+          "url": "https://www.bostonglobe.com/2026/11/19/sports/trump-pardons-pete-rose-mlb/",
+          "published_at": "2026-11-19T21:47:08Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump gives posthumous pardon to Pete Rose, all-time MLB hits leader",
+          "url": "https://www.nbcnews.com/politics/donald-trump/posthumously-pardons-pete-rose-mlb-hit-leader-betting-baseball-rcna610308",
+          "published_at": "2026-11-19T21:51:57Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Donald Trump issues posthumous pardon to MLB \u2018superstar and legend\u2019 Pete Rose",
+          "url": "https://www.theguardian.com/sport/2026/nov/19/donald-trump-issues-posthumous-pardon-to-mlb-superstar-and-legend-pete-rose",
+          "published_at": "2026-11-19T22:09:12Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump pardons deceased MLB slugger Pete Rose",
+          "url": "https://www.cbsnews.com/news/pete-rose-pardoned-by-trump/",
+          "published_at": "2026-11-19T22:35:00Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Pete Rose posthumously pardoned by Trump after baseball\u2019s career hits leader was reinstated by MLB",
+          "url": "https://www.bostonglobe.com/2026/11/19/sports/pete-rose-posthumously-pardoned-by-trump-after-baseballs-career-hits-leader-was-reinstated-by-mlb/",
+          "published_at": "2026-11-19T23:03:12Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump posthumously pardons US baseball legend Pete Rose",
+          "url": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-19T23:51:50Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump pardons late baseball great Pete Rose after historic China trip",
+          "url": "https://abcnews.com/Politics/trump-pardons-late-baseball-great-pete-rose-after/story?id=138304528",
+          "published_at": "2026-11-20T00:20:15Z"
+        },
+        {
+          "publisher": "ESPN",
+          "group": "espn",
+          "kind": "news",
+          "wire": false,
+          "title": "'Legend' Pete Rose receives posthumous presidential pardon from Trump",
+          "url": "https://www.espn.com/mlb/story/_/id/50534187/pete-rose-posthumously-pardoned-president-donald-trump",
+          "published_at": "2026-11-20T01:00:15Z"
+        }
+      ]
+    },
+    {
+      "headline": "State\u2019s highest court to hear Lindsay Clancy\u2019s petition to dismiss murder charges for slayings of children",
+      "score": 77,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": [
+          "massachusetts"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "The Boston Globe",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-19T18:30:32Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "State\u2019s highest court to hear Lindsay Clancy\u2019s petition to dismiss murder charges for slayings of children",
+          "url": "https://www.bostonglobe.com/2026/11/19/metro/sjc-hearing-lindsay-clancy/",
+          "published_at": "2026-11-19T18:30:32Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Top Massachusetts Court to Weigh Lindsay Clancy\u2019s Motion to Dismiss",
+          "url": "https://www.nytimes.com/2026/11/19/us/lindsay-clancy-trial-juror-appeal.html",
+          "published_at": "2026-11-19T21:20:41Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Massachusetts' highest court to hear Lindsay Clancy's appeal to throw out murder case",
+          "url": "https://www.wcvb.com/article/massachusetts-highest-court-to-hear-lindsay-clancys-appeal-to-throw-out-murder-case/74477560",
+          "published_at": "2026-11-19T23:53:00Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Lindsay Clancy\u2019s bid to prevent second trial headed to state\u2019s highest court",
+          "url": "https://www.masslive.com/news/2026/11/lindsay-clancys-bid-to-prevent-second-trial-to-be-heard-by-states-highest-court.html",
+          "published_at": "2026-11-20T00:43:49Z"
+        }
+      ]
+    },
+    {
+      "headline": "Half a world from The Hague, Rohingya refugees know nothing of a genocide trial.",
+      "score": 74,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 2,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Axios",
+        "BBC News",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-19T08:39:44Z",
+      "reports": [
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Half a world from The Hague, Rohingya refugees know nothing of a genocide trial.",
+          "url": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/myanmar-icj-genocide-case-rohingya-refugees",
+          "published_at": "2026-11-19T08:39:44Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Myanmar committed genocide against Rohingya minority, world\u2019s top court rules",
+          "url": "https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar",
+          "published_at": "2026-11-19T13:52:10Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "\u2018Everyone struggled for this justice\u2019: tears in court as Rohingya vindicated in Myanmar genocide ruling",
+          "url": "https://www.theguardian.com/global-development/2026/nov/19/everyone-struggled-for-this-justice-tears-in-court-as-rohingya-vindicated-in-myanmar-genocide-ruling",
+          "published_at": "2026-11-19T16:15:52Z"
+        },
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Myanmar becomes first state found responsible for genocide by UN court",
+          "url": "https://www.axios.com/2026/11/19/un-court-myanmar-genocide-ruling-rohingya",
+          "published_at": "2026-11-19T16:21:55Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Myanmar ruling gives new relevance to genocide convention and is \u2018full of messages\u2019 for Israel",
+          "url": "https://www.theguardian.com/law/2026/nov/19/myanmar-ruling-new-relevance-genocide-convention-messages-israel",
+          "published_at": "2026-11-19T17:14:55Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Rohingya genocide: What was said in court and what happens now?",
+          "url": "https://www.bbc.co.uk/news/videos/c60qj10j0ld5o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-19T17:35:05Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "For the first time, UN\u2019s highest court finds a country responsible for genocide: Myanmar",
+          "url": "https://www.bostonglobe.com/2026/11/19/world/myanmar-genocide-united-nations-ruling/",
+          "published_at": "2026-11-19T17:43:08Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+          "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-19T20:07:02Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "For the first time, UN\u2019s highest court finds a country responsible for genocide: Myanmar",
+          "url": "https://www.bostonglobe.com/2026/11/19/world/first-time-uns-highest-court-finds-country-responsible-genocide-myanmar/",
+          "published_at": "2026-11-19T21:11:48Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Myanmar Genocide Ruling Sets Up Court Fight Over Israel and Gaza",
+          "url": "https://www.nytimes.com/2026/11/19/world/asia/icj-myanmar-gaza.html",
+          "published_at": "2026-11-19T21:17:13Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "International Court of Justice finds Myanmar guilty of genocide against Rohingya",
+          "url": "https://www.pbs.org/newshour/show/international-court-of-justice-finds-myanmar-guilty-of-genocide-against-rohingya",
+          "published_at": "2026-11-19T23:35:01Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Myanmar Committed Genocide Against the Rohingya, Top Global Court Finds",
+          "url": "https://www.nytimes.com/2026/11/19/world/europe/myanmar-genocide-icj-decision-.html",
+          "published_at": "2026-11-20T01:37:19Z"
+        }
+      ]
+    },
+    {
+      "headline": "Army warns Iowa of toxic cloud as it prepares to blow up old ammo",
+      "score": 72,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 1,
+        "front_pages": 4,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "CBS News",
+        "The Boston Globe",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-19T18:13:02Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Army warns Iowa of toxic cloud as it prepares to blow up old ammo",
+          "url": "https://www.bostonglobe.com/2026/11/19/nation/army-iowa-explosion-lead/",
+          "published_at": "2026-11-19T18:13:02Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "The Army Warns Iowa of Toxic Cloud as It Prepares to Blow Up Old Ammo",
+          "url": "https://www.nytimes.com/2026/11/19/climate/iowa-ammunition-explosion-lead-dust.html",
+          "published_at": "2026-11-20T00:20:19Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Army delays detonation in Iowa that could send toxic dust into Illinois",
+          "url": "https://www.cbsnews.com/news/army-lead-azide-detonation-iowa-toxic-dust-plume/",
+          "published_at": "2026-11-20T01:08:00Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "US army warns detonation of unstable explosives will create toxic plume",
+          "url": "https://www.bbc.co.uk/news/articles/cmlye2334wlyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-20T01:27:27Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "US Army will delay detonation of bomb-making chemicals in Iowa after public raised concerns",
+          "url": "https://www.wcvb.com/article/middletown-iowa-army-chemical-detonation-lead-dust/74482388",
+          "published_at": "2026-11-20T01:44:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "First pediatric flu death reported in Massachusetts",
+      "score": 66,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": [
+          "mass.",
+          "massachusetts"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "The Boston Globe",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-19T22:58:00Z",
+      "reports": [
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "First pediatric flu death reported in Massachusetts",
+          "url": "https://www.wcvb.com/article/massachusetts-first-pediatric-flu-death-season/74481846",
+          "published_at": "2026-11-19T22:58:00Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Mass. reports first pediatric flu death of the season",
+          "url": "https://www.masslive.com/news/2026/11/massachusetts-reports-first-pediatric-flu-death-of-the-season-as-flu-activity-picks-up-early.html",
+          "published_at": "2026-11-19T23:02:05Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Mass. records first pediatric flu death of the season",
+          "url": "https://www.bostonglobe.com/2026/11/19/metro/massachusetts-flu-deaths-child-influenza-fatality-pediatric/",
+          "published_at": "2026-11-20T00:52:03Z"
+        }
+      ]
+    },
+    {
+      "headline": "A week of White House static",
+      "score": 63,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Fox News",
+        "NBC News",
+        "Politico",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-19T10:45:00Z",
+      "reports": [
+        {
+          "publisher": "Politico",
+          "group": "politico",
+          "kind": "news",
+          "wire": false,
+          "title": "A week of White House static",
+          "url": "https://www.politico.com/video/2026/11/19/a-week-of-white-house-static-2233252",
+          "published_at": "2026-11-19T10:45:00Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "White House national cyber director is leaving the administration",
+          "url": "https://www.nbcnews.com/politics/white-house/national-cyber-director-sean-cairncross-leaving-kirsten-davies-replaci-rcna610329",
+          "published_at": "2026-11-20T00:48:22Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Top White House Cybersecurity Official Steps Down",
+          "url": "https://www.nytimes.com/2026/11/19/us/politics/white-house-cyber-director-departs.html",
+          "published_at": "2026-11-20T00:57:25Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": true,
+          "title": "White House cyber director ousted after US hit by wave of tech outages",
+          "url": "https://www.theguardian.com/us-news/2026/nov/19/white-house-cyber-director-ousted",
+          "published_at": "2026-11-20T01:25:05Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump\u2019s National Cyber Director Sean Cairncross fired amid widespread tech outages",
+          "url": "https://www.foxnews.com/politics/trumps-national-cyber-director-sean-cairncross-fired",
+          "published_at": "2026-11-20T02:00:36Z"
+        }
+      ]
+    },
+    {
+      "headline": "Thomas Markle, Meghan\u2019s father, is competent to face child sex abuse images case, expert says",
+      "score": 63,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 2,
+        "front_pages": 3,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "BBC News",
+        "MassLive",
+        "The Boston Globe",
+        "The Guardian"
+      ],
+      "first_seen": "2026-11-19T21:37:43Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Thomas Markle, Meghan\u2019s father, is competent to face child sex abuse images case, expert says",
+          "url": "https://www.bostonglobe.com/2026/11/19/nation/mental-competency-issue-us-criminal-case-against-meghans-father/",
+          "published_at": "2026-11-19T21:37:43Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Thomas Markle, Meghan\u2019s father, is competent to face child sex abuse images case",
+          "url": "https://www.theguardian.com/us-news/2026/nov/19/thomas-markle-mentally-competent",
+          "published_at": "2026-11-19T22:05:18Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Holyoke man gets 10 years for 2nd conviction for having child sex abuse images",
+          "url": "https://www.masslive.com/westernmass/2026/11/holyoke-man-gets-10-years-for-2nd-conviction-for-having-child-sex-abuse-images.html",
+          "published_at": "2026-11-19T22:12:33Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
+          "url": "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-19T22:48:22Z"
+        }
+      ]
+    },
+    {
+      "headline": "Boston\u2019s iconic Citgo sign lights up again",
+      "score": 60,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "boston",
+          "massachusetts"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "The New York Times",
+        "WBUR"
+      ],
+      "first_seen": "2026-11-19T10:00:12Z",
+      "reports": [
+        {
+          "publisher": "WBUR",
+          "group": "wbur",
+          "kind": "news",
+          "wire": false,
+          "title": "Boston\u2019s iconic Citgo sign lights up again",
+          "url": "https://www.wbur.org/news/2026/11/19/bostons-iconic-citgo-sign-lights-up-again",
+          "published_at": "2026-11-19T10:00:12Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Boston\u2019s Beloved Citgo Sign Returns After Rebuild, 30 Feet Higher",
+          "url": "https://www.nytimes.com/2026/11/19/us/boston-citgo-sign-fenway-park.html",
+          "published_at": "2026-11-19T14:57:07Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Boston's CITGO sign shines again over Kenmore Square",
+          "url": "https://www.masslive.com/boston/2026/11/bostons-citgo-sign-shines-again-atop-kenmore-square-after-repairs.html",
+          "published_at": "2026-11-20T02:01:40Z"
+        }
+      ]
+    },
+    {
+      "headline": "Trump backs Elon Musk in latest MAGA breakup",
+      "score": 57,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Axios",
+        "CBS News",
+        "The Boston Globe",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-19T17:50:40Z",
+      "reports": [
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump backs Elon Musk in latest MAGA breakup",
+          "url": "https://www.axios.com/2026/11/19/trump-elon-musk-not-maga-friend",
+          "published_at": "2026-11-19T17:50:40Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "\u2018I feel pretty foolish\u2019: Elon Musk distances himself from MAGA after spending hundreds of millions of dollars on midterms",
+          "url": "https://www.bostonglobe.com/2026/11/19/nation/elon-musk-trump-maga/",
+          "published_at": "2026-11-19T18:20:14Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Elon Musk Backs Away From MAGA and the Trump Presidency He Shaped",
+          "url": "https://www.nytimes.com/2026/11/19/us/politics/elon-musk-maga-trump.html",
+          "published_at": "2026-11-19T23:45:20Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Elon Musk now says he's \"not MAGA,\" regrets midterm spending",
+          "url": "https://www.cbsnews.com/video/musk-maga-midterm-spending/",
+          "published_at": "2026-11-20T00:58:08Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Musk says he's \"not MAGA,\" feels \"foolish\" about midterm spending",
+          "url": "https://www.cbsnews.com/news/elon-musk-not-maga-midterm-spending-trump/",
+          "published_at": "2026-11-20T00:59:18Z"
+        }
+      ]
+    },
+    {
+      "headline": "Scoop: Trump names Kirsten Davies as new national cyber director",
+      "score": 56,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Axios",
+        "CBS News",
+        "NBC News",
+        "The Hill"
+      ],
+      "first_seen": "2026-11-19T22:12:23Z",
+      "reports": [
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Scoop: Trump names Kirsten Davies as new national cyber director",
+          "url": "https://www.axios.com/2026/11/19/trump-national-cyber-director-sean-cairncross-leaving",
+          "published_at": "2026-11-19T22:12:23Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "White House lets go of national cyber director, names acting replacement",
+          "url": "https://thehill.com/homenews/administration/6231938-sean-cairncross-resigns-cyber-director/",
+          "published_at": "2026-11-19T23:56:47Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "White House national cyber director leaving his post, official says",
+          "url": "https://www.cbsnews.com/news/white-house-national-cyber-director-sean-cairncross-leaving/",
+          "published_at": "2026-11-20T00:11:25Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "National cyber director to leave Trump administration",
+          "url": "https://www.nbcnews.com/nightly-news/video/national-cyber-director-to-leave-trump-administration-273861701758",
+          "published_at": "2026-11-20T00:18:11Z"
+        }
+      ]
+    },
+    {
+      "headline": "Judges have put Trump's arch and golf course on hold, but only for a matter of days",
+      "score": 51,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "CBS News",
+        "NPR",
+        "PBS NewsHour"
+      ],
+      "first_seen": "2026-11-19T19:46:27Z",
+      "reports": [
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Judges have put Trump's arch and golf course on hold, but only for a matter of days",
+          "url": "https://www.npr.org/2026/11/19/nx-s1-6047151/trump-arch-golf-course-judge-orders",
+          "published_at": "2026-11-19T19:46:27Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge issues 14-day extension of order blocking Trump's triumphal arch construction",
+          "url": "https://www.pbs.org/newshour/politics/judge-issues-14-day-extension-of-order-blocking-trumps-triumphal-arch-construction",
+          "published_at": "2026-11-19T22:39:21Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge further delays Trump's plan for D.C. arch",
+          "url": "https://www.cbsnews.com/video/judge-further-delays-trumps-plan-for-dc-arch/",
+          "published_at": "2026-11-20T02:01:46Z"
+        }
+      ]
+    },
+    {
+      "headline": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
+      "score": 50,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 1,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "CBS News",
+        "The Boston Globe",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-19T13:07:35Z",
+      "reports": [
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
+          "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-19T13:07:35Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Putin Vows to Retaliate After Crimea Bridge Attacks",
+          "url": "https://www.nytimes.com/2026/11/18/world/europe/russia-kerch-strait-crimean-bridge.html",
+          "published_at": "2026-11-19T14:09:33Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "After Bridge Attack, Putin Says He Will \u2018Not Be Negotiating\u2019 Ukraine Cease-Fire",
+          "url": "https://www.nytimes.com/2026/11/19/world/europe/putin-shenzhen-crimea-bridge.html",
+          "published_at": "2026-11-19T16:51:57Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Putin says Russia won't negotiate with Ukraine after bridge strike",
+          "url": "https://www.cbsnews.com/news/putin-russia-ukraine-bridge-strike/",
+          "published_at": "2026-11-19T17:22:00Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "After bridge attack, Putin says he will \u2018not be negotiating\u2019 Ukraine cease-fires",
+          "url": "https://www.bostonglobe.com/2026/11/19/world/after-bridge-attack-putin-says-he-will-not-be-negotiating-ukraine-cease-fires/",
+          "published_at": "2026-11-19T22:18:52Z"
+        }
+      ]
+    },
+    {
+      "headline": "Prosecutors denied in effort to revoke \u2018Turtleboy\u2019 blogger\u2019s bail in Karen Read-related case",
+      "score": 50,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "MassLive",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-19T20:25:22Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Prosecutors denied in effort to revoke \u2018Turtleboy\u2019 blogger\u2019s bail in Karen Read-related case",
+          "url": "https://www.bostonglobe.com/2026/11/19/metro/aidan-kearney-turtleboy-bail-revoke/",
+          "published_at": "2026-11-19T20:25:22Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Turtleboy stays out of jail as judge declines to revoke blogger\u2019s bail on witness intimidation charges",
+          "url": "https://www.boston.com/news/crime/2026/11/19/turtleboy-stays-out-of-jail/",
+          "published_at": "2026-11-19T20:27:52Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Judge stops short of jailing 'Turtleboy' blogger but warns he won't tolerate 'mistakes'",
+          "url": "https://www.masslive.com/news/2026/11/judge-warns-turtleboy-blogger-aidan-kearney-no-mistakes-or-face-jail-time.html",
+          "published_at": "2026-11-19T21:20:20Z"
+        }
+      ]
+    },
+    {
+      "headline": "Fast-moving coastal storm to strike right at the start of Thanksgiving week",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "mass.",
+          "massachusetts",
+          "new england"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-19T17:23:15Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Fast-moving coastal storm to strike right at the start of Thanksgiving week",
+          "url": "https://www.bostonglobe.com/2026/11/17/metro/new-england-noreaster-coastal-storm/",
+          "published_at": "2026-11-19T17:23:15Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "A coastal storm could disrupt pre-Thanksgiving travel in Mass. What we know",
+          "url": "https://www.masslive.com/weather/2026/11/a-coastal-storm-could-disrupt-pre-thanksgiving-travel-in-massachusetts-heres-what-we-know.html",
+          "published_at": "2026-11-19T21:23:30Z"
+        }
+      ]
+    },
+    {
+      "headline": "Ravens deactivate Marlon Humphrey after cornerback says Baltimore excels at \u2018making criminals\u2019",
+      "score": 49,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 1,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ESPN",
+        "Fox News",
+        "The Guardian",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-19T18:04:10Z",
+      "reports": [
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Ravens deactivate Marlon Humphrey after cornerback says Baltimore excels at \u2018making criminals\u2019",
+          "url": "https://www.theguardian.com/sport/2026/nov/19/marlon-humphrey-criminals-comment-baltimore-ravens",
+          "published_at": "2026-11-19T18:04:10Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Baltimore DC Anthony Weaver addresses Marlon Humphrey 1-game banishment over city crime remarks",
+          "url": "https://www.foxnews.com/outkick-sports/baltimore-dc-anthony-weaver-addresses-marlon-humphrey-1-game-banishment-city-crime-remarks",
+          "published_at": "2026-11-20T00:15:22Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Ravens to bench star player for making disparaging comments about Baltimore",
+          "url": "https://www.wcvb.com/article/ravens-deactivate-marlon-humphrey-criminals-baltimore/74480670",
+          "published_at": "2026-11-20T00:39:00Z"
+        },
+        {
+          "publisher": "ESPN",
+          "group": "espn",
+          "kind": "news",
+          "wire": false,
+          "title": "Ravens send Humphrey home, say he'll be inactive Sunday for 'criminals' comment",
+          "url": "https://www.espn.com/nfl/story/_/id/50532199/ravens-send-marlon-humphrey-home-say-inactive",
+          "published_at": "2026-11-20T01:00:15Z"
+        }
+      ]
+    },
+    {
+      "headline": "Assistant football coach at Mass. Maritime Academy charged with sexually exploiting underage girls, feds say",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "mass.",
+          "massachusetts"
+        ]
+      },
+      "independent_outlets": [
+        "The Boston Globe",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-20T00:41:47Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Assistant football coach at Mass. Maritime Academy charged with sexually exploiting underage girls, feds say",
+          "url": "https://www.bostonglobe.com/2026/11/19/metro/massachusetts-maritime-academy-assistant-football-coach-child-porn/",
+          "published_at": "2026-11-20T00:41:47Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Massachusetts Maritime coach charged in child exploitation case",
+          "url": "https://www.wcvb.com/article/massachusetts-maritime-coach-child-exploitation-charge/74482734",
+          "published_at": "2026-11-20T01:17:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "China Bars Bloomberg Reporter From Trilateral Talks for Asking a Question",
+      "score": 45,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-19T12:08:19Z",
+      "reports": [
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "China Bars Bloomberg Reporter From Trilateral Talks for Asking a Question",
+          "url": "https://www.nytimes.com/2026/11/19/world/asia/trump-summit-china-media-bloomberg-reporter-nvidia.html",
+          "published_at": "2026-11-19T12:08:19Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "China bars Bloomberg reporter from trilateral meeting after she shouted question at earlier event",
+          "url": "https://www.bostonglobe.com/2026/11/19/world/bloomberg-reporter-blocked-trilateral-meeting-china/",
+          "published_at": "2026-11-19T21:16:37Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Experts assess what was addressed and overlooked at trilateral meeting in China",
+          "url": "https://www.pbs.org/newshour/show/experts-assess-what-was-addressed-and-overlooked-at-trilateral-meeting-in-china",
+          "published_at": "2026-11-19T23:50:53Z"
+        }
+      ]
+    },
+    {
+      "headline": "WATCH: NASA's Voyager 1 now a light-day away after 1977 launch",
+      "score": 45,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "NASA",
+        "PBS NewsHour"
+      ],
+      "first_seen": "2026-11-19T12:38:32Z",
+      "reports": [
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "WATCH: NASA's Voyager 1 now a light-day away after 1977 launch",
+          "url": "https://abcnews.com/video/138265738/",
+          "published_at": "2026-11-19T12:38:32Z"
+        },
+        {
+          "publisher": "NASA",
+          "group": "nasa",
+          "kind": "press",
+          "wire": false,
+          "title": "NASA\u2019s Voyager 1 Makes History Reaching One Light-Day From Earth",
+          "url": "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/",
+          "published_at": "2026-11-19T14:31:15Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "NASA's Voyager 1 calls Earth from more than 16 billion miles, or one light-day, away",
+          "url": "https://www.pbs.org/newshour/science/nasas-voyager-1-calls-earth-from-more-than-16-billion-miles-or-one-light-day-away",
+          "published_at": "2026-11-19T18:51:11Z"
+        }
+      ]
+    },
+    {
+      "headline": "Susan Smith denied parole again 32 years after drowning her two sons",
+      "score": 44,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 1,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "CBS News",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-19T17:23:34Z",
+      "reports": [
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Susan Smith denied parole again 32 years after drowning her two sons",
+          "url": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-19T17:23:34Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Susan Smith is denied parole again 32 years after drowning her sons in a South Carolina lake",
+          "url": "https://www.bostonglobe.com/2026/11/19/nation/susan-smith-parole-hearing/",
+          "published_at": "2026-11-19T17:58:54Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Susan Smith denied parole again, 32 years after drowning sons",
+          "url": "https://www.cbsnews.com/video/susan-smith-denied-parole-again-32-years-after-drowning-sons/",
+          "published_at": "2026-11-20T01:33:27Z"
+        }
+      ]
+    },
+    {
+      "headline": "Iran war powers measure again falls short in Senate",
+      "score": 43,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 1,
+        "front_pages": 1,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "CBS News",
+        "The Guardian",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-19T19:52:23Z",
+      "reports": [
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Iran war powers measure again falls short in Senate",
+          "url": "https://www.cbsnews.com/news/iran-war-powers-vote-senate-republicans/",
+          "published_at": "2026-11-19T19:52:23Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Senate Republicans Block Bid to Rein in Trump on Iran War",
+          "url": "https://www.nytimes.com/2026/11/19/us/politics/senate-iran-war-powers-trump.html",
+          "published_at": "2026-11-19T20:19:12Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Senate Republicans rejects war powers bill to halt fighting in Iran",
+          "url": "https://www.theguardian.com/us-news/2026/nov/19/senate-iran-war-powers-resolution-rejected",
+          "published_at": "2026-11-19T20:24:09Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Iran live updates: Republicans block war powers resolution",
+          "url": "https://abcnews.com/International/live-updates/iran-live-updates-tanker-attacked-strait-hormuz-ukmto/?id=138171071",
+          "published_at": "2026-11-19T20:51:15Z"
+        }
+      ]
+    },
+    {
+      "headline": "California targets Nvidia in China AI chip probe",
+      "score": 43,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 1,
+        "front_pages": 1,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "CNBC",
+        "Los Angeles Times",
+        "The Hill"
+      ],
+      "first_seen": "2026-11-19T23:04:30Z",
+      "reports": [
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "California targets Nvidia in China AI chip probe",
+          "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-19T23:04:30Z"
+        },
+        {
+          "publisher": "Los Angeles Times",
+          "group": "latimes",
+          "kind": "news",
+          "wire": false,
+          "title": "California subpoenas Nvidia as questions about CEO affair, AI chips mount",
+          "url": "https://www.latimes.com/california/story/2026-11-19/california-subpoenas-nvidia-as-questions-about-ceo-affair-ai-chips-mount",
+          "published_at": "2026-11-19T23:04:44Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "California attorney general issues Nvidia subpoena in probe of China chip diversion",
+          "url": "https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html",
+          "published_at": "2026-11-19T23:21:23Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "California attorney general issues subpoena to Nvidia over chip sales to China",
+          "url": "https://thehill.com/homenews/state-watch/6232059-california-bonta-subpoenas-nvidia-ai-chips/",
+          "published_at": "2026-11-20T01:05:38Z"
+        }
+      ]
+    }
+  ]
+}

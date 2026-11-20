@@ -1,0 +1,58 @@
+{
+  "date": "2026-11-19",
+  "runs": [
+    {
+      "started_at": "2026-11-20T02:13:05.305607Z",
+      "outcome": "published",
+      "steps": [
+        {
+          "at": "2026-11-20T02:13:05.305611Z",
+          "step": "prepare: lock acquired (live)"
+        },
+        {
+          "at": "2026-11-20T02:13:11.275890Z",
+          "step": "prepare: ran src/news/feeds.py"
+        },
+        {
+          "at": "2026-11-20T02:13:11.406226Z",
+          "step": "prepare: ran src/news/cluster.py"
+        },
+        {
+          "at": "2026-11-20T02:18:22.763437Z",
+          "step": "finalize: published to local site"
+        }
+      ],
+      "_new_run": true,
+      "mode": "live",
+      "prelaunch": false,
+      "finished_at": "2026-11-20T02:18:22.763298Z",
+      "link_checks": [
+        {
+          "url": "https://www.pbs.org/newshour/world/3-takeaways-from-trump-xi-and-putins-historic-summit",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://abcnews.com/International/china-summit-trump-calls-putin-friend-amid-ukraine/story?id=138282642",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.npr.org/2026/11/18/nx-s1-6040432/trump-xi-and-putin-shenzhen-china-russia-usa",
+          "ok": true,
+          "note": "HTTP 200"
+        }
+      ],
+      "samples_removed": [],
+      "stories_shown": [
+        "Trump, Xi and Putin hold first three-way meeting in Shenzhen"
+      ],
+      "usage": {
+        "article_reads": 7,
+        "web_searches": 1,
+        "render_rounds": 4,
+        "minutes": 22
+      }
+    }
+  ]
+}

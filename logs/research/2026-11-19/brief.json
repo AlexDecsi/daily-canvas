@@ -1,0 +1,57 @@
+{
+  "date": "2026-11-19",
+  "mode": "live (scheduled run, ~9:07 p.m. Boston time on Nov. 19)",
+  "prepared_at": "2026-11-20T02:16:00Z",
+  "candidates_considered": 25,
+  "rationale": "The top-scored cluster (the death of Fiona, the Cincinnati Zoo hippo, after swallowing a visitor's hat) is widely covered but of limited consequence, and detailed animals are a known weak spot of the SVG method. The leading national and world story across 8+ independent outlets (NPR, LA Times, Bloomberg, Guardian, NYT, BBC, Boston Globe, ABC, PBS/AP, CBS) is the first-ever three-way meeting of Trump, Xi Jinping and Vladimir Putin in Shenzhen, which directly affects the US and is historic. It continues yesterday's story (Trump's arrival), so the composition and palette are made clearly different. Set aside: Anthropic's record IPO and Nasdaq debut (major business news, but the illustrating agent runs on Anthropic's model, a conflict of interest best avoided as a focal choice), Trump's posthumous pardon of Pete Rose (strong but less consequential and doesn't fit one scene), and the SJC agreeing to hear Lindsay Clancy's petition (a Massachusetts story about child deaths, procedural and not suited to illustration). Facts on the meeting come from AP (read via PBS NewsHour) and ABC News (Patrick Reevell, not a wire piece), which agree that the three leaders met on the APEC sidelines, produced a joint 'peace' declaration that criticized the International Criminal Court, and that Trump called Putin 'my friend'. ABC photo captions show the three arriving together for the meeting; that is the scene drawn. The order they walked in is not reported, so the arrangement is illustrative. Meeting length differs slightly (AP: over an hour; ABC: about 90 minutes), so the caption avoids a figure.",
+  "stories": [
+    {
+      "role": "focal",
+      "name": "Trump, Xi and Putin hold first three-way meeting in Shenzhen",
+      "facts": [
+        "On Thursday, Nov. 19, Donald Trump, Xi Jinping and Vladimir Putin held their first three-way meeting, in Shenzhen, China, on the sidelines of the APEC summit (AP, ABC News).",
+        "The leaders arrived together for the trilateral meeting (ABC News photo captions).",
+        "The meeting produced a joint 'peace' declaration; it criticized the International Criminal Court and called for strengthening international law (AP, ABC News).",
+        "AP reported the declaration also called for unspecified U.N. reforms, more oil supply and reduced nuclear risks, and did not mention the war in Ukraine; AP called the results more symbolic than substantive (AP).",
+        "Trump called Putin 'my friend' at the summit (AP, ABC News)."
+      ],
+      "people": [
+        {"name": "Donald Trump", "public_figure": true, "verified_action": "Arrives with Xi and Putin for their three-way meeting in Shenzhen (ABC News photo captions; meeting confirmed by AP)."},
+        {"name": "Xi Jinping", "public_figure": true, "verified_action": "Arrives with Trump and Putin for the three-way meeting he hosted in Shenzhen (ABC News photo captions; AP)."},
+        {"name": "Vladimir Putin", "public_figure": true, "verified_action": "Arrives with Xi and Trump for the three-way meeting in Shenzhen (ABC News photo captions; AP)."}
+      ],
+      "visual_notes": "Side-view frieze: the three leaders stride in step toward the meeting along a pale walkway, Xi in the middle as host (order illustrative). Trump: tall, swept blond hair, dark suit, long red tie. Xi: dark side-parted hair, dark suit, broad build. Putin: shorter, slim, thinning light hair, dark suit. Behind them rises a giant, nearly blank sheet with four short ruled blocks (obviously symbolic of the four-point declaration, no readable text). A strong low side light throws three long shadows across the floor. A rope line of silhouetted photographers with flashes at the edge. No flags, no text, no handshake drawn, no venue features claimed.",
+      "confidence": "high: the meeting, the declaration and its ICC criticism, and Trump calling Putin 'my friend' are reported independently by AP and ABC News. The arrival together rests on ABC's photo captions, a visual detail consistent with both reports.",
+      "sources": [
+        {
+          "publisher": "PBS NewsHour (Associated Press)",
+          "group": "pbs",
+          "wire": "AP",
+          "title": "3 takeaways from Trump, Xi and Putin's historic summit",
+          "url": "https://www.pbs.org/newshour/world/3-takeaways-from-trump-xi-and-putins-historic-summit",
+          "published_at": "2026-11-19T22:58:31Z",
+          "checked_at": "2026-11-20T02:05:00Z",
+          "checked": "full article (AP: Elaine Kurtenbach, Kanis Leung, Aamer Madhani; Shenzhen)"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "title": "At China summit, Trump calls Putin 'my friend' amid Ukraine war",
+          "url": "https://abcnews.com/International/china-summit-trump-calls-putin-friend-amid-ukraine/story?id=138282642",
+          "published_at": "2026-11-19T23:03:20Z",
+          "checked_at": "2026-11-20T02:11:00Z",
+          "checked": "full article (Patrick Reevell)"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "title": "Trump, Xi and Putin meet as global alliances hang in the balance",
+          "url": "https://www.npr.org/2026/11/18/nx-s1-6040432/trump-xi-and-putin-shenzhen-china-russia-usa",
+          "published_at": "2026-11-19T09:44:40Z",
+          "checked_at": "2026-11-20T02:06:00Z",
+          "checked": "headline only (fetch timed out; not read)"
+        }
+      ]
+    }
+  ]
+}

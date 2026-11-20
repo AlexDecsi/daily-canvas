@@ -1,0 +1,52 @@
+{
+  "date": "2026-11-19",
+  "published_at": "2026-11-20T02:18:22.022917Z",
+  "status": "published",
+  "prelaunch": false,
+  "title": "Trump, Xi and Putin hold their first three-way meeting",
+  "caption": "Donald Trump, Xi Jinping and Vladimir Putin arrived together for their first-ever three-way meeting, held in Shenzhen, China, on the sidelines of the APEC summit. They issued a joint 'peace' declaration that criticized the International Criminal Court but, AP noted, did not mention the war in Ukraine. Trump called Putin 'my friend'; reporters judged the results more symbolic than substantive.",
+  "stories": [
+    {
+      "name": "Trump, Xi and Putin hold first three-way meeting in Shenzhen",
+      "role": "focal",
+      "facts": [
+        "On Thursday, Nov. 19, Donald Trump, Xi Jinping and Vladimir Putin held their first three-way meeting, in Shenzhen, China, on the sidelines of the APEC summit (AP, ABC News).",
+        "The leaders arrived together for the trilateral meeting (ABC News photo captions).",
+        "The meeting produced a joint 'peace' declaration; it criticized the International Criminal Court and called for strengthening international law (AP, ABC News).",
+        "AP reported the declaration also called for unspecified U.N. reforms, more oil supply and reduced nuclear risks, and did not mention the war in Ukraine; AP called the results more symbolic than substantive (AP).",
+        "Trump called Putin 'my friend' at the summit (AP, ABC News)."
+      ],
+      "sources": [
+        {
+          "publisher": "PBS NewsHour (Associated Press)",
+          "title": "3 takeaways from Trump, Xi and Putin's historic summit",
+          "url": "https://www.pbs.org/newshour/world/3-takeaways-from-trump-xi-and-putins-historic-summit",
+          "published_at": "2026-11-19T22:58:31Z"
+        },
+        {
+          "publisher": "ABC News",
+          "title": "At China summit, Trump calls Putin 'my friend' amid Ukraine war",
+          "url": "https://abcnews.com/International/china-summit-trump-calls-putin-friend-amid-ukraine/story?id=138282642",
+          "published_at": "2026-11-19T23:03:20Z"
+        },
+        {
+          "publisher": "NPR",
+          "title": "Trump, Xi and Putin meet as global alliances hang in the balance",
+          "url": "https://www.npr.org/2026/11/18/nx-s1-6040432/trump-xi-and-putin-shenzhen-china-russia-usa",
+          "published_at": "2026-11-19T09:44:40Z"
+        }
+      ]
+    }
+  ],
+  "artwork": {
+    "path": "artwork/2026-11-19.svg",
+    "format": "svg",
+    "alt": "Editorial illustration: three leaders in dark suits stride side by side toward a bright open doorway: Vladimir Putin, shorter with thinning light hair; Xi Jinping at the centre; and Donald Trump, with swept blond hair and a red tie, smiling. Behind them towers a nearly blank sheet of paper with four short ruled blocks, a symbol of their joint declaration. Long shadows trail across the floor and silhouetted photographers fire flashes. Represents the first Trump-Xi-Putin meeting in Shenzhen on Nov. 19, 2026.",
+    "method": "code-generated SVG (graphic-poster kit, src/art/daily/)",
+    "revision": "r4"
+  },
+  "backfill": {
+    "is_backfill": false,
+    "reason": null
+  }
+}
