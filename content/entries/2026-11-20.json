@@ -1,0 +1,47 @@
+{
+  "date": "2026-11-20",
+  "published_at": "2026-11-21T02:16:18.651999Z",
+  "status": "published",
+  "prelaunch": false,
+  "title": "Palisades Fire verdict",
+  "caption": "A federal jury in Los Angeles convicted Jonathan Rinderknecht on Nov. 20 of starting the fire that grew into the January 2025 Palisades Fire, which killed 12 people. Prosecutors said a blaze he lit on Jan. 1 smoldered underground in roots and flared up on Jan. 7; the defense pointed to fireworks. His first trial ended in a hung jury in June.",
+  "stories": [
+    {
+      "name": "Jury convicts man of starting the fire that became the Palisades Fire",
+      "role": "focal",
+      "facts": [
+        "On Friday, Nov. 20, a federal jury in Los Angeles convicted Jonathan Rinderknecht, 30, on both counts in a retrial: destruction of property by means of fire, and arson (AP, NBC News).",
+        "His first trial ended in a mistrial in June after jurors deadlocked 10-2 in favor of acquittal (AP, NBC News).",
+        "Prosecutors said he lit a brush fire on Jan. 1, 2025 (the Lachman Fire) that smoldered underground in root systems and flared up again on Jan. 7 as the Palisades Fire (AP, NBC News).",
+        "The Palisades Fire killed 12 people; NBC News, citing the LAFD, reported 6,837 structures destroyed and 23,448 acres burned (AP, NBC News).",
+        "The defense argued the scene was open to the public for days and suggested fireworks as a cause; prosecutors said camera images showed no fireworks (AP, NBC News).",
+        "Rinderknecht showed little apparent reaction to the verdict and hugged his attorneys before leaving (AP)."
+      ],
+      "sources": [
+        {
+          "publisher": "PBS NewsHour (Associated Press)",
+          "title": "Federal jury convicts man of starting deadly 2025 Palisades Fire in Los Angeles",
+          "url": "https://www.pbs.org/newshour/nation/federal-jury-convicts-man-of-starting-deadly-2025-palisades-fire-in-los-angeles",
+          "published_at": "2026-11-21T00:01:50Z"
+        },
+        {
+          "publisher": "NBC News",
+          "title": "California man found guilty of starting deadly and devastating Pacific Palisades fire",
+          "url": "https://www.nbcnews.com/news/us-news/pacific-palisades-fire-retrial-jonathan-rinderknecht-rcna610336",
+          "published_at": "2026-11-20T22:51:54Z"
+        }
+      ]
+    }
+  ],
+  "artwork": {
+    "path": "artwork/2026-11-20.svg",
+    "format": "svg",
+    "alt": "Illustration of a wood-panelled courtroom: twelve jurors in the jury box, a judge in a black robe at the bench, and a man in a grey jacket standing under a spotlight between two attorneys. The back wall opens onto a night view of hillside homes above the ocean, where a glowing thread of embers runs underground through roots from a small spark to a wall of flame on the ridge. Represents the Palisades Fire arson verdict.",
+    "method": "code-generated SVG (graphic-poster kit, src/art/daily/)",
+    "revision": "r4"
+  },
+  "backfill": {
+    "is_backfill": false,
+    "reason": null
+  }
+}

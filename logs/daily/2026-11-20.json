@@ -1,0 +1,54 @@
+{
+  "date": "2026-11-20",
+  "runs": [
+    {
+      "started_at": "2026-11-21T02:12:52.658804Z",
+      "outcome": "published",
+      "steps": [
+        {
+          "at": "2026-11-21T02:12:52.658809Z",
+          "step": "prepare: lock acquired (live)"
+        },
+        {
+          "at": "2026-11-21T02:12:59.680618Z",
+          "step": "prepare: ran src/news/feeds.py"
+        },
+        {
+          "at": "2026-11-21T02:12:59.813803Z",
+          "step": "prepare: ran src/news/cluster.py"
+        },
+        {
+          "at": "2026-11-21T02:16:19.190939Z",
+          "step": "finalize: published to local site"
+        }
+      ],
+      "_new_run": true,
+      "mode": "live",
+      "prelaunch": false,
+      "finished_at": "2026-11-21T02:16:19.190658Z",
+      "link_checks": [
+        {
+          "url": "https://www.pbs.org/newshour/nation/federal-jury-convicts-man-of-starting-deadly-2025-palisades-fire-in-los-angeles",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.nbcnews.com/news/us-news/pacific-palisades-fire-retrial-jonathan-rinderknecht-rcna610336",
+          "ok": true,
+          "note": "HTTP 200"
+        }
+      ],
+      "samples_removed": [],
+      "stories_shown": [
+        "Jury convicts man of starting the fire that became the Palisades Fire"
+      ],
+      "usage": {
+        "article_reads": 2,
+        "web_searches": 0,
+        "render_rounds": 4,
+        "minutes": 4,
+        "minutes_note": "Measured from the run clock (prepare 21:12:52 to finalize 21:16:19 EST, ~4 min); the draft first said 22 (an estimate)."
+      }
+    }
+  ]
+}

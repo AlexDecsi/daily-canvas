@@ -1,0 +1,47 @@
+{
+  "date": "2026-11-20",
+  "mode": "live (scheduled run, ~9:07 p.m. Boston time on Nov. 20)",
+  "prepared_at": "2026-11-21T02:25:00Z",
+  "candidates_considered": 25,
+  "rationale": "The top-scored cluster is Trump's threat to bar or heavily tax U.S. companies building data centers abroad (10 US outlets), but it is a statement of intent with no policy yet and would make a third consecutive Trump-centred entry after the Nov. 18 and Nov. 19 Shenzhen pieces. The second cluster, nearly as widely covered (9 US outlets, 8 front pages including the Boston Globe and WCVB), is a concrete, final national outcome: a federal jury in Los Angeles convicted Jonathan Rinderknecht of starting the January 2025 fire that grew into the Palisades Fire, which killed 12 people. It is chosen as the single focal story. Set aside: the Lowell 14-year-old murder charge (a private family tragedy involving a minor, unsuited to illustration), GTA VI's release (lighter), the 3.7% S&P 500 drop (significant but covered by fewer outlets in the feed; does not fit the courtroom scene), and Zohran Mamdani's Achilles injury. Facts come from AP (read via PBS NewsHour, Jaimie Ding) and NBC News (Madeline Morrison and Phil Helsel, not a wire story), which agree on the verdict, the two counts, the June mistrial and the prosecution's holdover-fire theory. The defendant is a private individual and is drawn generic and unrecognizable.",
+  "stories": [
+    {
+      "role": "focal",
+      "name": "Jury convicts man of starting the fire that became the Palisades Fire",
+      "facts": [
+        "On Friday, Nov. 20, a federal jury in Los Angeles convicted Jonathan Rinderknecht, 30, on both counts in a retrial: destruction of property by means of fire, and arson (AP, NBC News).",
+        "His first trial ended in a mistrial in June after jurors deadlocked 10-2 in favor of acquittal (AP, NBC News).",
+        "Prosecutors said he lit a brush fire on Jan. 1, 2025 (the Lachman Fire) that smoldered underground in root systems and flared up again on Jan. 7 as the Palisades Fire (AP, NBC News).",
+        "The Palisades Fire killed 12 people; NBC News, citing the LAFD, reported 6,837 structures destroyed and 23,448 acres burned (AP, NBC News).",
+        "The defense argued the scene was open to the public for days and suggested fireworks as a cause; prosecutors said camera images showed no fireworks (AP, NBC News).",
+        "Rinderknecht showed little apparent reaction to the verdict and hugged his attorneys before leaving (AP)."
+      ],
+      "people": [
+        {"name": "Jonathan Rinderknecht", "public_figure": false, "verified_action": "Stands with his attorneys in federal court as the guilty verdict is delivered; little apparent reaction (AP). Drawn generic and unrecognizable."}
+      ],
+      "visual_notes": "Cross-section idea: the courtroom fills the lower part of the frame; its tall back wall opens onto an illustrative night view of the Pacific Palisades hillside above the ocean. A thin glowing line of embers creeps underground through tangled roots from a small Jan. 1 spark on the left to a wall of flame on the ridge at right, an obviously illustrative telling of the prosecution's holdover-fire account. Twelve jurors (six men, six women per NBC) sit in the jury box; a judge at the bench; the generic defendant stands between two attorneys at the defense table. A warm spotlight from above. No faces for the defendant, no text, no victims, no bodies.",
+      "confidence": "high: the conviction, counts, mistrial history, death toll and the prosecution's holdover theory are reported independently by AP and NBC News. The 12-member jury composition comes from NBC only and is a minor visual detail.",
+      "sources": [
+        {
+          "publisher": "PBS NewsHour (Associated Press)",
+          "group": "pbs",
+          "wire": "AP",
+          "title": "Federal jury convicts man of starting deadly 2025 Palisades Fire in Los Angeles",
+          "url": "https://www.pbs.org/newshour/nation/federal-jury-convicts-man-of-starting-deadly-2025-palisades-fire-in-los-angeles",
+          "published_at": "2026-11-21T00:01:50Z",
+          "checked_at": "2026-11-21T02:20:00Z",
+          "checked": "full article (AP: Jaimie Ding; Los Angeles)"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "title": "California man found guilty of starting deadly and devastating Pacific Palisades fire",
+          "url": "https://www.nbcnews.com/news/us-news/pacific-palisades-fire-retrial-jonathan-rinderknecht-rcna610336",
+          "published_at": "2026-11-20T22:51:54Z",
+          "checked_at": "2026-11-21T02:20:00Z",
+          "checked": "full article (Madeline Morrison, Phil Helsel)"
+        }
+      ]
+    }
+  ]
+}
