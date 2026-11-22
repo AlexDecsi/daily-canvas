@@ -1,0 +1,1524 @@
+{
+  "date": "2026-11-21",
+  "fetched_at": "2026-11-22T02:12:35.070484Z",
+  "items_considered": 412,
+  "candidates": [
+    {
+      "headline": "Trump orders federal contractors to notify White House before giving Congress information",
+      "score": 139,
+      "signals": {
+        "us_outlets": 9,
+        "intl_outlets": 1,
+        "front_pages": 6,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "Bloomberg",
+        "CBS News",
+        "CNBC",
+        "NPR",
+        "PBS NewsHour",
+        "The Guardian",
+        "The Hill",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-21T12:27:11Z",
+      "reports": [
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump orders federal contractors to notify White House before giving Congress information",
+          "url": "https://www.cnbc.com/2026/11/21/trump-orders-federal-contractors-to-notify-white-house-before-giving-congress-information.html",
+          "published_at": "2026-11-21T12:27:11Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump auditions potential successors as Rubio and Vance join him for White House briefing",
+          "url": "https://www.pbs.org/newshour/politics/trump-auditions-potential-successors-as-rubio-and-vance-join-him-for-white-house-briefing",
+          "published_at": "2026-11-21T17:32:04Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Jeffries says Jordan contacted him after Speaker vote, but not Trump or Vance",
+          "url": "https://thehill.com/homenews/house/6235280-jeffries-openness-working-gop/",
+          "published_at": "2026-11-21T18:06:27Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump orders contractors to check with White House over any congressional inquiries",
+          "url": "https://www.theguardian.com/us-news/2026/nov/21/trump-contractors-congress-executive-order",
+          "published_at": "2026-11-21T18:08:30Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump signs executive order on federal workers' responses to Congress",
+          "url": "https://www.cbsnews.com/news/trump-executive-order-federal-contractors-white-house-congress/",
+          "published_at": "2026-11-21T18:33:46Z"
+        },
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump Orders Contractors to Get Signoff for Congress Queries",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-21/trump-orders-contractors-to-get-approval-for-congress-queries",
+          "published_at": "2026-11-21T18:41:20Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump orders federal contractors to check with White House before responding to Congress",
+          "url": "https://www.pbs.org/newshour/politics/trump-orders-federal-contractors-to-check-with-white-house-before-responding-to-congress",
+          "published_at": "2026-11-21T19:29:23Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump orders fed contractors to notify White House of congressional inquiries",
+          "url": "https://abcnews.com/Politics/trump-orders-federal-contractors-coordinate-white-house-congressional/story?id=138344717",
+          "published_at": "2026-11-21T20:36:03Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump orders federal contractors to check with White House before responding to Congress",
+          "url": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress",
+          "published_at": "2026-11-21T22:40:36Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump orders federal contractors to check with White House before responding to Congress",
+          "url": "https://www.wcvb.com/article/white-house-order-federal-contractors-congress/74497986",
+          "published_at": "2026-11-21T23:57:00Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump Moves to Restrict Congressional Oversight of Contractors",
+          "url": "https://www.nytimes.com/2026/11/21/us/politics/trump-congressional-oversight-contractors.html",
+          "published_at": "2026-11-22T01:29:53Z"
+        }
+      ]
+    },
+    {
+      "headline": "FBI's criminal information database hacked, CNN reports",
+      "score": 83,
+      "signals": {
+        "us_outlets": 5,
+        "intl_outlets": 1,
+        "front_pages": 4,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ABC News",
+        "BBC News",
+        "Boston.com",
+        "CNBC",
+        "NBC News",
+        "PBS NewsHour"
+      ],
+      "first_seen": "2026-11-21T11:24:00Z",
+      "reports": [
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "FBI's criminal information database hacked, CNN reports",
+          "url": "https://www.cnbc.com/2026/11/21/fbis-criminal-information-database-hacked-cnn-reports.html",
+          "published_at": "2026-11-21T11:24:00Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "AP source: FBI investigating apparent hack of its key national criminal justice database",
+          "url": "https://www.pbs.org/newshour/politics/ap-source-fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database",
+          "published_at": "2026-11-21T20:55:22Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "FBI investigating apparent hack of its key national criminal justice database, AP source says",
+          "url": "https://www.boston.com/news/crime/2026/11/21/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/",
+          "published_at": "2026-11-21T23:23:48Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "FBI investigates apparent hack of critical crime database",
+          "url": "https://www.nbcnews.com/nightly-news/video/fbi-investigates-apparent-hack-of-critical-crime-database-273966149722",
+          "published_at": "2026-11-21T23:59:47Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "FBI reportedly investigating apparent hack of its criminal database",
+          "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-22T00:10:44Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "FBI's national crime database targeted in hack, Trump says",
+          "url": "https://abcnews.com/US/fbis-national-crime-database-targeted-hack-trump/story?id=138347810",
+          "published_at": "2026-11-22T02:07:30Z"
+        }
+      ]
+    },
+    {
+      "headline": "Trump says he'd work with Dems to cap credit card interest, fees",
+      "score": 73,
+      "signals": {
+        "us_outlets": 5,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Axios",
+        "CBS News",
+        "PBS NewsHour",
+        "The Hill",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-21T16:48:20Z",
+      "reports": [
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump says he'd work with Dems to cap credit card interest, fees",
+          "url": "https://www.axios.com/2026/11/21/trump-credit-cards-rates-warren",
+          "published_at": "2026-11-21T16:48:20Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump vows to work with Democrats to cap credit card interest rates",
+          "url": "https://www.cbsnews.com/news/trump-credit-card-rates-democrats-politics/",
+          "published_at": "2026-11-21T18:27:57Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump wants to work with Democrats on placing 10 percent cap on credit card interest rates",
+          "url": "https://thehill.com/business/6235394-trump-calls-credit-card-cap/",
+          "published_at": "2026-11-21T20:28:45Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump vows to work with Democrats to cap credit card interest rates at 10%",
+          "url": "https://www.wcvb.com/article/trump-vows-work-democrats-cap-credit-card-interest-rates/74498177",
+          "published_at": "2026-11-21T20:33:00Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump vows to work with Democrats to cap credit card interest rates at 10%",
+          "url": "https://www.pbs.org/newshour/politics/trump-vows-to-work-with-democrats-to-cap-credit-card-interest-rates-at-10",
+          "published_at": "2026-11-21T21:20:34Z"
+        }
+      ]
+    },
+    {
+      "headline": "Climate talks in overtime as nations wrestle with response to worsening global warming",
+      "score": 66,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "PBS NewsHour",
+        "The Boston Globe",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-21T12:28:55Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Climate talks in overtime as nations wrestle with response to worsening global warming",
+          "url": "https://www.bostonglobe.com/2026/11/21/world/climate-talks-in-overtime/",
+          "published_at": "2026-11-21T12:28:55Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Climate talks in overtime as nations wrestle with response to worsening global warming",
+          "url": "https://www.pbs.org/newshour/world/climate-talks-in-overtime-as-nations-wrestle-with-response-to-worsening-global-warming",
+          "published_at": "2026-11-21T17:03:39Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Climate talks in overtime as nations wrestle with response to global warming",
+          "url": "https://www.wcvb.com/article/turkey-cop31-climate-talks-fossil-fuels/74498741",
+          "published_at": "2026-11-21T23:47:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Mexico Arrests Sinaloa Drug Kingpin on FBI Most Wanted List",
+      "score": 66,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 1,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "Bloomberg",
+        "CBS News",
+        "CNBC",
+        "NBC News"
+      ],
+      "first_seen": "2026-11-21T15:46:53Z",
+      "reports": [
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "Mexico Arrests Sinaloa Drug Kingpin on FBI Most Wanted List",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-21/mexico-arrests-sinaloa-drug-kingpin-on-fbi-s-most-wanted-list",
+          "published_at": "2026-11-21T15:46:53Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Mexico captures top drug lord 'El Chapo Isidro,' latest in string of arrests",
+          "url": "https://www.cnbc.com/2026/11/21/mexico-drug-lord-el-chapo-isidro.html",
+          "published_at": "2026-11-21T22:09:16Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Violence breaks out in Mexico after capture of drug kingpin wanted by FBI",
+          "url": "https://www.cbsnews.com/news/mexico-drug-kingpin-arrest-fausto-isidro-meza-flores-sinaloa/",
+          "published_at": "2026-11-21T22:30:10Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Deadly raid captures top cartel boss in Mexico",
+          "url": "https://www.nbcnews.com/nightly-news/video/deadly-raid-captures-top-cartel-boss-in-mexico-273965637918",
+          "published_at": "2026-11-21T23:49:07Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+          "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-22T01:25:03Z"
+        }
+      ]
+    },
+    {
+      "headline": "How to watch the Union take on the Revolution in the MLS playoffs live today",
+      "score": 63,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "new england"
+        ]
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "ESPN",
+        "MassLive",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-21T15:47:00Z",
+      "reports": [
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "How to watch the Union take on the Revolution in the MLS playoffs live today",
+          "url": "https://www.masslive.com/tv/2026/11/how-to-watch-the-philadelphia-union-vs-new-england-revolution-mls-playoffs-game-1-live-for-free-today.html",
+          "published_at": "2026-11-21T15:47:00Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Revolution return to MLS playoffs in winning style, start off first-round series with shutout of Union",
+          "url": "https://www.bostonglobe.com/2026/11/21/sports/revolution-union-mls-playoff-game-score/",
+          "published_at": "2026-11-21T21:06:08Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Peyton Miller outshines fellow youngster Cavan Sullivan as the Revolution beat the Union in MLS playoff Game 1",
+          "url": "https://www.bostonglobe.com/2026/11/21/sports/peyton-miller-revolution-union-mls-playoffs/",
+          "published_at": "2026-11-22T01:10:34Z"
+        },
+        {
+          "publisher": "ESPN",
+          "group": "espn",
+          "kind": "news",
+          "wire": false,
+          "title": "Columbus stun Messi, Miami to take Match 1 in MLS playoffs",
+          "url": "https://www.espn.com/soccer/match/_/gameId/401933739/columbus-crew-inter-miami-cf",
+          "published_at": "2026-11-22T01:30:03Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Peyton Miller outshines fellow youngster Cavan Sullivan as the Revolution beat the Union in MLS playoff Game 1",
+          "url": "https://www.boston.com/sports/new-england-revolution/2026/11/21/peyton-miller-revolution-union-playoffs/",
+          "published_at": "2026-11-22T01:40:36Z"
+        },
+        {
+          "publisher": "ESPN",
+          "group": "espn",
+          "kind": "news",
+          "wire": false,
+          "title": "Messi, Miami staring at early playoff exit after Columbus rout in Game 1",
+          "url": "https://www.espn.com/soccer/story/_/id/50556052/inter-miami-columbus-crew-lionel-messi-game-1-mls-playoffs",
+          "published_at": "2026-11-22T01:43:11Z"
+        }
+      ]
+    },
+    {
+      "headline": "Globe Schools Insider: Medfield boys\u2019 and girls\u2019 soccer win titles, football highlights",
+      "score": 57,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "cambridge",
+          "mass.",
+          "massachusetts",
+          "patriots"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-21T10:00:00Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Globe Schools Insider: Medfield boys\u2019 and girls\u2019 soccer win titles, football highlights",
+          "url": "https://www.bostonglobe.com/2026/11/21/sports/globe-schools-insider-medfield-soccer-semifinal-football/",
+          "published_at": "2026-11-21T10:00:00Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Cohasset\u2019s Jesse Rafferty denies Littleton in shootout to deliver Division 4 boys\u2019 soccer title",
+          "url": "https://www.bostonglobe.com/2026/11/21/sports/miaa-division-4-boys-soccer-cohasset-littleton/",
+          "published_at": "2026-11-21T18:37:57Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Keefe Tech pulls away from Franklin Tech to win MVADA Small School title",
+          "url": "https://www.masslive.com/highschoolsports/2026/11/keefe-tech-wins-mvada-small-school-title-in-turnover-filled-shootout.html",
+          "published_at": "2026-11-21T18:58:08Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "It took penalties, but Cohasset reclaimed the D-IV boys soccer state title",
+          "url": "https://www.masslive.com/highschoolsports/2026/11/cohasset-boys-soccer-outlasts-littleton-in-penalties-to-win-d-iv-title.html",
+          "published_at": "2026-11-21T19:15:56Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Avelinn Baxter hammers finish, Pioneer Valley Christian wins first Division 5 girls\u2019 volleyball title",
+          "url": "https://www.bostonglobe.com/2026/11/21/sports/calvary-chapel-pioneer-valley-christian-miaa-girls-volleyball-championship/",
+          "published_at": "2026-11-21T20:30:00Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "PVCA girls volleyball defeats Calvary Chapel, wins first title in school history",
+          "url": "https://www.masslive.com/highschoolsports/2026/11/pvca-girls-volleyball-defeats-calvary-chapel-wins-first-title-in-school-history.html",
+          "published_at": "2026-11-21T20:37:33Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Duxbury repeat as D-II girls soccer champs with dramatic overtime win",
+          "url": "https://www.masslive.com/highschoolsports/2026/11/marianna-stamboulis-scores-overtime-goal-duxbury-clinches-second-straight-d-ii-title.html",
+          "published_at": "2026-11-21T20:48:01Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "East Bridgewater sweeps Cohasset for 2nd straight girls volleyball title",
+          "url": "https://www.masslive.com/highschoolsports/2026/11/east-bridgewater-sweeps-cohasset-wins-second-straight-div-4-state-title.html",
+          "published_at": "2026-11-21T22:20:16Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "With Elizabeth Willis leading the way, East Bridgewater goes back-to-back in Division 4 girls\u2019 volleyball",
+          "url": "https://www.bostonglobe.com/2026/11/21/sports/cohasset-east-bridgewater-miaa-girls-volleyball-championship/",
+          "published_at": "2026-11-21T22:40:07Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Newton South finishes climb with first boys soccer state championship",
+          "url": "https://www.masslive.com/highschoolsports/2026/11/newton-south-shows-resilience-in-winning-1st-boys-soccer-title.html",
+          "published_at": "2026-11-21T22:45:52Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "No. 10 seed Newton South completes astonishing run to first Division 1 boys\u2019 soccer title",
+          "url": "https://www.bostonglobe.com/2026/11/21/sports/newton-south-wellesley-miaa-boys-soccer-championship/",
+          "published_at": "2026-11-21T23:05:29Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Maria Chopas, Concord-Carlisle recover in time to take Division 1 girls\u2019 cross-country title",
+          "url": "https://www.bostonglobe.com/2026/11/21/sports/miaa-girls-cross-country-state-championships/",
+          "published_at": "2026-11-21T23:09:59Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Brookline boys cross country wins fifth-straight MIAA Meet of Champions Division 1 Title",
+          "url": "https://www.masslive.com/highschoolsports/2026/11/brookline-boys-continues-its-dominance-with-5th-straight-division-i-state-title.html",
+          "published_at": "2026-11-21T23:26:11Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Western Mass. claims 2 of 3 girls cross country Meet of Champions titles",
+          "url": "https://www.masslive.com/highschoolsports/2026/11/concord-carlisle-amherst-hampshire-win-at-girls-cross-country-meet-of-champions.html",
+          "published_at": "2026-11-21T23:56:06Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Granby girls soccer makes history, secures D-V state title with win over Hull",
+          "url": "https://www.masslive.com/highschoolsports/2026/11/granby-girls-soccer-captures-first-d-v-state-title-with-narrow-win-over-hull.html",
+          "published_at": "2026-11-22T00:12:21Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Scoring early and late, Granby takes down defending D5 champ Hull to earn its first girls\u2019 soccer crown",
+          "url": "https://www.bostonglobe.com/2026/11/21/sports/hull-granby-miaa-girls-soccer-championship/",
+          "published_at": "2026-11-22T00:15:52Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Weston secures the boys cross country D-II Meet of Champions crown",
+          "url": "https://www.masslive.com/highschoolsports/2026/11/longmeadow-leads-pack-weston-secures-boys-cross-country-d-ii-meet-of-champions-crown.html",
+          "published_at": "2026-11-22T00:31:38Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Brookline boys surprise by edging Cambridge to capture fifth straight Division 1 cross-country team crown",
+          "url": "https://www.bostonglobe.com/2026/11/21/sports/miaa-boys-state-cross-country-championships/",
+          "published_at": "2026-11-22T00:39:26Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Hopedale secures D-III boys cross country Meet of Champions title",
+          "url": "https://www.masslive.com/highschoolsports/2026/11/hopedale-dominates-to-claim-d-iii-boys-cross-country-meet-of-champions-title.html",
+          "published_at": "2026-11-22T00:45:17Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Addison Hansbury's goal lifts Bishop Feehan girls soccer to victory in D-I state championship",
+          "url": "https://www.masslive.com/highschoolsports/2026/11/addison-hansburys-gets-bishop-feehan-over-the-hump-and-claims-d-i-title.html",
+          "published_at": "2026-11-22T01:28:47Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "With a second-half surge, Bishop Feehan wears the Division 1 girls\u2019 soccer crown",
+          "url": "https://www.bostonglobe.com/2026/11/21/sports/bishop-feehan-needham-miaa-girls-soccer-championship/",
+          "published_at": "2026-11-22T01:37:40Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Oliver Ames girls volleyball sweeps Canton, wins second straight D-II state title",
+          "url": "https://www.masslive.com/highschoolsports/2026/11/oliver-ames-girls-volleyball-goes-back-to-back-with-d-ii-state-title-win-over-canton.html",
+          "published_at": "2026-11-22T01:46:10Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Amid a boisterous atmosphere, Oliver Ames goes back-to-back in Division 2 girls\u2019 volleyball",
+          "url": "https://www.bostonglobe.com/2026/11/21/sports/oliver-ames-canton-miaa-girls-volleyball-championship/",
+          "published_at": "2026-11-22T01:48:24Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "MIAA championships live updates: Soccer, field hockey, volleyball, and cross-country titles at stake Saturday",
+          "url": "https://www.bostonglobe.com/2026/11/21/sports/miaa-tournament-live-updates/",
+          "published_at": "2026-11-22T01:52:05Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Hopedale boys soccer comes from behind to capture first-ever Div. 5 title",
+          "url": "https://www.masslive.com/highschoolsports/2026/11/hopedale-boys-soccer-comes-from-behind-to-capture-first-ever-div-5-title.html",
+          "published_at": "2026-11-22T02:00:56Z"
+        }
+      ]
+    },
+    {
+      "headline": "Who Is the Mexican Drug Kingpin Known as El Chapo Isidro?",
+      "score": 56,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 1,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "PBS NewsHour",
+        "The Guardian",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-21T16:30:35Z",
+      "reports": [
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Who Is the Mexican Drug Kingpin Known as El Chapo Isidro?",
+          "url": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-drug-kingpin.html",
+          "published_at": "2026-11-21T16:30:35Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Alleged Mexican drug cartel boss \u2018El Chapo Isidro\u2019 arrested in special forces raid",
+          "url": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
+          "published_at": "2026-11-21T17:46:55Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off a burst of violence in Sinaloa",
+          "url": "https://www.pbs.org/newshour/world/mexico-detains-top-cartel-boss-el-chapo-isidro-setting-off-a-burst-of-violence-in-sinaloa",
+          "published_at": "2026-11-21T19:13:16Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "11 killed in burst of violence in northern Mexico after capture of cartel leader",
+          "url": "https://www.wcvb.com/article/mexico-military-captures-fbi-most-wanted-fugitive/74497077",
+          "published_at": "2026-11-21T19:41:00Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts",
+          "url": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html",
+          "published_at": "2026-11-21T21:12:23Z"
+        }
+      ]
+    },
+    {
+      "headline": "Final data projections released ahead of kickoff for Boston College vs. Syracuse in ACC showdown",
+      "score": 53,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "boston"
+        ]
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "MassLive",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-21T16:15:00Z",
+      "reports": [
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Final data projections released ahead of kickoff for Boston College vs. Syracuse in ACC showdown",
+          "url": "https://www.masslive.com/betting/2026/11/final-data-projections-released-ahead-of-kickoff-for-boston-college-vs-syracuse-in-acc-showdown.html",
+          "published_at": "2026-11-21T16:15:00Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "New Polymarket promo code \u201cMASS\u201d updates $25 referral promo in time for Syracuse-Boston College",
+          "url": "https://www.masslive.com/betting/2026/11/new-polymarket-promo-code-mass-updates-25-referral-promo-in-time-for-syracuse-boston-college.html",
+          "published_at": "2026-11-21T17:45:00Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Boston College football closes out home portion of schedule with an ACC win over Syracuse",
+          "url": "https://www.bostonglobe.com/2026/11/21/sports/boston-college-football-syracuse-game-score/",
+          "published_at": "2026-11-21T23:24:11Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Kalshi upgrades $55 college football promo code \u201cMASSLIVE1\u201d for Saturday night",
+          "url": "https://www.masslive.com/betting/2026/11/kalshi-upgrades-55-college-football-promo-code-masslive1-for-saturday-night.html",
+          "published_at": "2026-11-22T00:45:00Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Saturday Night Football Polymarket promo code \u201cMASS\u201d upgrades $25 deal for SMU-Notre Dame",
+          "url": "https://www.masslive.com/betting/2026/11/saturday-night-football-polymarket-promo-code-mass-upgrades-25-deal-for-smu-notre-dame.html",
+          "published_at": "2026-11-22T00:45:00Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Boston College football closes out home portion of schedule with an ACC win over Syracuse",
+          "url": "https://www.boston.com/sports/college-sports/2026/11/21/boston-college-syracuse-college-football/",
+          "published_at": "2026-11-22T01:59:44Z"
+        }
+      ]
+    },
+    {
+      "headline": "Uxbridge field hockey stays perfect, claims another D-III crown",
+      "score": 53,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-21T18:17:26Z",
+      "reports": [
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Uxbridge field hockey stays perfect, claims another D-III crown",
+          "url": "https://www.masslive.com/highschoolsports/2026/11/uxbridge-field-hockey-defeats-watertown-in-d-iii-championship-wins-sixth-straight-title.html",
+          "published_at": "2026-11-21T18:17:26Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "\u2018How did we get here?\u2019 Uxbridge field hockey pockets its sixth-straight title, second in Division 3",
+          "url": "https://www.bostonglobe.com/2026/11/21/sports/uxbridge-watertown-miaa-division-3-field-hockey/",
+          "published_at": "2026-11-21T20:53:00Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Somerset Berkley field hockey makes a statement with its third-straight Division 3 championship",
+          "url": "https://www.bostonglobe.com/2026/11/21/sports/somerset-berkley-nashoba-miaa-field-hockey-championship/",
+          "published_at": "2026-11-21T23:08:18Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Franklin goes overtime for its first Division 1 field hockey championship",
+          "url": "https://www.bostonglobe.com/2026/11/21/sports/lincoln-sudbury-franklin-miaa-field-hockey-championship/",
+          "published_at": "2026-11-21T23:38:22Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "'Just do what you love': Ryan Crook wins another field hockey state title with Somerset Berkeley",
+          "url": "https://www.masslive.com/highschoolsports/2026/11/somerset-berkley-field-hockey-player-ryan-crook-unbothered-by-backlash.html",
+          "published_at": "2026-11-21T23:48:39Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Penelope Brady's overtime goal earns Franklin field hockey D-I state title",
+          "url": "https://www.masslive.com/highschoolsports/2026/11/franklin-field-hockey-holds-off-lincoln-sudbury-in-overtime-wins-d-i-state-championship.html",
+          "published_at": "2026-11-22T01:31:51Z"
+        }
+      ]
+    },
+    {
+      "headline": "Trump says FBI hack might expose Russia \"hoax\"",
+      "score": 50,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 0,
+        "front_pages": 1,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Axios",
+        "CNBC",
+        "The Hill",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-21T15:55:01Z",
+      "reports": [
+        {
+          "publisher": "Axios",
+          "group": "axios",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump says FBI hack might expose Russia \"hoax\"",
+          "url": "https://www.axios.com/2026/11/21/trump-russia-fbi-hack",
+          "published_at": "2026-11-21T15:55:01Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump says there could be a 'positive spin' from the latest FBI database hack",
+          "url": "https://www.cnbc.com/2026/11/21/trump-fbi-database-hack.html",
+          "published_at": "2026-11-21T16:57:34Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump downplays breach of FBI\u2019s crime database while reviving complaints about agency\u2019s Russia probe",
+          "url": "https://www.wcvb.com/article/fbi-ncic-database-breach-investigation/74497434",
+          "published_at": "2026-11-21T17:58:00Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump on reported FBI hack: 'I always like to put things in a positive spin'",
+          "url": "https://thehill.com/homenews/administration/6235305-trump-fbi-database-breach-comments/",
+          "published_at": "2026-11-21T19:36:46Z"
+        }
+      ]
+    },
+    {
+      "headline": "Thanksgiving flights cost 17% more even as fewer Americans are expected to fly",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-21T14:24:15Z",
+      "reports": [
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Thanksgiving flights cost 17% more even as fewer Americans are expected to fly",
+          "url": "https://www.masslive.com/news/2026/11/fewer-americans-may-fly-this-thanksgiving-so-why-are-tickets-so-expensive.html",
+          "published_at": "2026-11-21T14:24:15Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "High cost of gas, airfare expected to limit Thanksgiving travel",
+          "url": "https://www.wcvb.com/article/gas-airfare-prices-thanksgiving-2026/74497925",
+          "published_at": "2026-11-21T23:07:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Wayland boys soccer upends Oliver Ames in Division II boys soccer state championship",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-21T17:58:56Z",
+      "reports": [
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Wayland boys soccer upends Oliver Ames in Division II boys soccer state championship",
+          "url": "https://www.masslive.com/highschoolsports/2026/11/wayland-boys-soccer-stuns-undefeated-oliver-ames-in-division-ii-final.html",
+          "published_at": "2026-11-21T17:58:56Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Wayland\u2019s magical run has a storybook ending with a Division 2 boys\u2019 soccer championship",
+          "url": "https://www.bostonglobe.com/2026/11/21/sports/miaa-division-2-boys-soccer-oliver-ames-wayland/",
+          "published_at": "2026-11-21T18:07:09Z"
+        }
+      ]
+    },
+    {
+      "headline": "Challenged with a first-set loss, Bellingham girls\u2019 volleyball answers with a Division 3 repeat",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-21T18:10:19Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Challenged with a first-set loss, Bellingham girls\u2019 volleyball answers with a Division 3 repeat",
+          "url": "https://www.bostonglobe.com/2026/11/21/sports/bellingham-lynnfield-miaa-division-3-volleyball/",
+          "published_at": "2026-11-21T18:10:19Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Bellingham girls volleyball rallies back, secures D-III state title",
+          "url": "https://www.masslive.com/highschoolsports/2026/11/bellingham-girls-volleyball-raises-d-iii-state-championship-for-second-straight-year.html",
+          "published_at": "2026-11-21T19:28:52Z"
+        }
+      ]
+    },
+    {
+      "headline": "Crews battling 2-alarm fire at South Boston restaurant",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "boston"
+        ]
+      },
+      "independent_outlets": [
+        "The Boston Globe",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-21T18:24:20Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Crews battling 2-alarm fire at South Boston restaurant",
+          "url": "https://www.bostonglobe.com/2026/11/21/metro/south-boston-fire-bar-volpe/",
+          "published_at": "2026-11-21T18:24:20Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Fire in South Boston bar\u2019s ductwork draws two-alarm response",
+          "url": "https://www.wcvb.com/article/south-boston-bar-duct-fire-two-alarm-response/74498041",
+          "published_at": "2026-11-21T23:18:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Cohasset girls\u2019 soccer finishes undefeated season with D4 championship on Brynn Dwyer\u2019s two tallies",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-21T20:52:49Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Cohasset girls\u2019 soccer finishes undefeated season with D4 championship on Brynn Dwyer\u2019s two tallies",
+          "url": "https://www.bostonglobe.com/2026/11/21/sports/cohasset-douglas-miaa-girls-soccer-championship/",
+          "published_at": "2026-11-21T20:52:49Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Cohasset\u2019s Brynn Dwyer nets two goals to lead the Skippers to Div. 4 title",
+          "url": "https://www.masslive.com/highschoolsports/2026/11/cohassets-brynn-dwyer-nets-two-goals-to-lead-the-skippers-to-div-4-title.html",
+          "published_at": "2026-11-21T21:08:18Z"
+        }
+      ]
+    },
+    {
+      "headline": "Nations at UN talks on AI killer robots agree to more talks but no firm commitment to rein them in",
+      "score": 45,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "CNBC",
+        "NPR",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-21T07:57:55Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Nations at UN talks on AI killer robots agree to more talks but no firm commitment to rein them in",
+          "url": "https://www.bostonglobe.com/2026/11/21/world/ai-killer-robots-un-more-talks/",
+          "published_at": "2026-11-21T07:57:55Z"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Countries agree to U.N. talks aiming to regulate 'killer robots' by 2028",
+          "url": "https://www.cnbc.com/2026/11/21/countries-agree-to-un-talks-aiming-to-regulate-killer-robots-by-2028.html",
+          "published_at": "2026-11-21T08:02:41Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
+          "url": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
+          "published_at": "2026-11-21T14:18:17Z"
+        }
+      ]
+    },
+    {
+      "headline": "Chinese-Born Neuroscientist Is Detained by ICE While Traveling From Conference",
+      "score": 45,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "CBS News",
+        "NBC News",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-21T12:53:05Z",
+      "reports": [
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Chinese-Born Neuroscientist Is Detained by ICE While Traveling From Conference",
+          "url": "https://www.nytimes.com/2026/11/20/science/chinese-scientist-detained-ice-princeton-eva-yi-xie-.html",
+          "published_at": "2026-11-21T12:53:05Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Princeton neuroscientist detained by ICE at D.C. airport after leaving conference",
+          "url": "https://www.nbcnews.com/news/us-news/princeton-neuroscientist-eva-yi-xie-ice-detained-rcna610603",
+          "published_at": "2026-11-21T21:22:17Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Princeton student detained by ICE at Reagan Airport after conference",
+          "url": "https://www.cbsnews.com/news/princeton-student-ice/",
+          "published_at": "2026-11-21T23:54:15Z"
+        }
+      ]
+    },
+    {
+      "headline": "Experts release Celtics vs. Kings prediction as Tatum and Acuff headline latest player props",
+      "score": 43,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 1,
+        "boston_local": [
+          "celtics"
+        ]
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "MassLive"
+      ],
+      "first_seen": "2026-11-21T17:15:00Z",
+      "reports": [
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Experts release Celtics vs. Kings prediction as Tatum and Acuff headline latest player props",
+          "url": "https://www.masslive.com/betting/2026/11/experts-release-celtics-vs-kings-prediction-as-tatum-and-acuff-headline-latest-player-props.html",
+          "published_at": "2026-11-21T17:15:00Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "3 Celtics, including Jayson Tatum, ruled out ahead of matchup with Kings",
+          "url": "https://www.boston.com/sports/boston-celtics/2026/11/21/3-celtics-including-jayson-tatum-ruled-out-ahead-of-matchup-with-kings/",
+          "published_at": "2026-11-22T01:09:59Z"
+        }
+      ]
+    },
+    {
+      "headline": "UCLA QB Dieffenbach carted off after 1st play of OT; Bruins fall in 3OT to U-M",
+      "score": 43,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 1,
+        "boston_local": [
+          "bruins"
+        ]
+      },
+      "independent_outlets": [
+        "ESPN",
+        "Fox News"
+      ],
+      "first_seen": "2026-11-22T01:43:11Z",
+      "reports": [
+        {
+          "publisher": "ESPN",
+          "group": "espn",
+          "kind": "news",
+          "wire": false,
+          "title": "UCLA QB Dieffenbach carted off after 1st play of OT; Bruins fall in 3OT to U-M",
+          "url": "https://www.espn.com/college-football/story/_/id/50556107/ucla-qb-ty-dieffenbach-carted-3ot-loss-michigan",
+          "published_at": "2026-11-22T01:43:11Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "UCLA QB concerns deepen as Ty Dieffenbach is carted off in triple-overtime upset loss to Michigan",
+          "url": "https://www.foxnews.com/outkick-sports/ucla-qb-concerns-deepen-ty-dieffenbach-carted-off-triple-overtime-upset-loss-michigan",
+          "published_at": "2026-11-22T02:00:18Z"
+        }
+      ]
+    },
+    {
+      "headline": "Watch Timbers vs FC Dallas MLS Playoffs Game 1 live today with this streaming deal",
+      "score": 37,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Fox News",
+        "MassLive"
+      ],
+      "first_seen": "2026-11-21T18:46:00Z",
+      "reports": [
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Watch Timbers vs FC Dallas MLS Playoffs Game 1 live today with this streaming deal",
+          "url": "https://www.masslive.com/tv/2026/11/you-can-watch-the-portland-timbers-face-fc-dallas-in-game-1-of-the-mls-playoffs-for-free-today-heres-how.html",
+          "published_at": "2026-11-21T18:46:00Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "How to watch Columbus Crew face Inter Miami in MLS Playoffs Game 1 tonight",
+          "url": "https://www.masslive.com/tv/2026/11/you-can-watch-columbus-crew-face-lionel-messi-and-inter-miami-cf-in-game-1-for-free-tonight-heres-how.html",
+          "published_at": "2026-11-21T20:46:00Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "How to watch the F1 Las Vegas Grand Prix live tonight with this streaming deal",
+          "url": "https://www.masslive.com/tv/2026/11/heres-how-to-watch-the-f1-las-vegas-grand-prix-live-tonight-and-the-black-friday-streaming-deal-you-cant-miss.html",
+          "published_at": "2026-11-21T21:16:00Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Las Vegas Grand Prix Odds: How to Bet on F1 Las Vegas With BetMGM, FanDuel, and More",
+          "url": "https://www.foxnews.com/outkick-betting/las-vegas-grand-prix-odds-how-bet-f1-las-vegas-betmgm-fanduel-more",
+          "published_at": "2026-11-21T22:11:54Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Las Vegas Grand Prix betting guide: How to bet Saturday night's race on the strip",
+          "url": "https://www.foxnews.com/outkick-betting/las-vegas-grand-prix-betting-guide-bet-saturday-nights-race-strip",
+          "published_at": "2026-11-21T23:25:45Z"
+        }
+      ]
+    },
+    {
+      "headline": "Mamdani's plan to close Rikers Island, revamp NYC jails",
+      "score": 34,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "CBS News",
+        "Fox News"
+      ],
+      "first_seen": "2026-11-21T15:53:00Z",
+      "reports": [
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Mamdani's plan to close Rikers Island, revamp NYC jails",
+          "url": "https://www.cbsnews.com/video/mamdanis-plan-to-close-rikers-island-revamp-nyc-jails/",
+          "published_at": "2026-11-21T15:53:00Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "NYC suspect in Chinatown fatal beating had 5 open cases as Mamdani pushes plan to close Rikers",
+          "url": "https://www.foxnews.com/us/nyc-suspect-chinatown-fatal-beating-5-open-cases-mamdani-pushes-plan-close-rikers",
+          "published_at": "2026-11-22T01:10:23Z"
+        }
+      ]
+    },
+    {
+      "headline": "More storms could threaten Thanksgiving week during peak travel time",
+      "score": 34,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "NPR",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-21T16:37:34Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "More storms could threaten Thanksgiving week during peak travel time",
+          "url": "https://www.bostonglobe.com/2026/11/17/metro/thanksgiving-forecast-new-england-boston/",
+          "published_at": "2026-11-21T16:37:34Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Storms expected on both coasts threatens Thanksgiving travel",
+          "url": "https://www.npr.org/2026/11/21/nx-s1-6047508/weather-thanksgiving-storm-elnino",
+          "published_at": "2026-11-21T18:22:46Z"
+        }
+      ]
+    },
+    {
+      "headline": "Titans DE Jaylen Harrell hospitalized after car accident",
+      "score": 34,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "Fox News",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-21T23:16:00Z",
+      "reports": [
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Titans DE Jaylen Harrell hospitalized after car accident",
+          "url": "https://www.wcvb.com/article/titans-aylen-harrell-hospitalized/74498615",
+          "published_at": "2026-11-21T23:16:00Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Titans' Jaylen Harrell allegedly 'assaulted' rideshare driver before Tampa car accident, police say",
+          "url": "https://www.foxnews.com/outkick-sports/titans-jaylen-harrell-allegedly-assaulted-rideshare-driver-tampa-car-accident-police-say",
+          "published_at": "2026-11-22T00:40:10Z"
+        }
+      ]
+    },
+    {
+      "headline": "Quick-hitting coastal storm bringing heavy dose of rain Sunday, with more systems brewing near Thanksgiving",
+      "score": 33,
+      "signals": {
+        "us_outlets": 1,
+        "intl_outlets": 0,
+        "front_pages": 1,
+        "boston_local": [
+          "massachusetts",
+          "new england"
+        ]
+      },
+      "independent_outlets": [
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-21T17:59:59Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Quick-hitting coastal storm bringing heavy dose of rain Sunday, with more systems brewing near Thanksgiving",
+          "url": "https://www.bostonglobe.com/2026/11/17/metro/new-england-noreaster-coastal-storm/",
+          "published_at": "2026-11-21T17:59:59Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "These storm maps show rain timing, expected totals, and strongest winds Sunday into Monday",
+          "url": "https://www.bostonglobe.com/2026/11/21/metro/massachusetts-coastal-storm-rain-wind-maps/",
+          "published_at": "2026-11-21T18:08:54Z"
+        }
+      ]
+    }
+  ]
+}

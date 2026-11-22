@@ -1,6 +1,55 @@
 {
   "entries": [
     {
+      "date": "2026-11-21",
+      "published_at": "2026-11-22T02:16:15.177378Z",
+      "status": "published",
+      "prelaunch": false,
+      "title": "Contractors told to check with the White House first",
+      "caption": "President Trump issued an executive order late Nov. 20 directing federal contractors and subcontractors to consult the White House about inquiries from Congress and withhold communications it deems privileged, or risk losing their contracts. It comes as Democrats, who take control of Congress in January, prepare oversight investigations; leading House Democrats called the order an attack on Congress's oversight power.",
+      "stories": [
+        {
+          "name": "Trump orders federal contractors to check with the White House before answering Congress",
+          "role": "focal",
+          "facts": [
+            "An executive order issued late Friday, Nov. 20, directs federal contractors and subcontractors to consult the administration about congressional inquiries and coordinate 'appropriate responses' with the White House (AP, CNBC).",
+            "Contractors must withhold communications the White House considers privileged (AP, CNBC).",
+            "Companies that do not comply could have existing contracts terminated and be suspended from future federal work (AP, CNBC).",
+            "The order applies to all federal contractors and subcontractors, which AP describes as tens of thousands of businesses (AP).",
+            "It follows a directive this week from White House counsel Will Scharf requiring agencies to get White House approval before officials agree to appear before Congress (AP, CNBC).",
+            "Democrats, who take control of Congress in January, have made federal contracts a top investigative target (AP, CNBC).",
+            "Rep. Robert Garcia called the order an attack on Congress's oversight power; Rep. Jamie Raskin called it unprecedented and unlawful (AP).",
+            "The White House framed the order as protecting executive privilege from congressional overreach (AP, CNBC)."
+          ],
+          "sources": [
+            {
+              "publisher": "PBS NewsHour (Associated Press)",
+              "title": "Trump orders federal contractors to check with White House before responding to Congress",
+              "url": "https://www.pbs.org/newshour/politics/trump-orders-federal-contractors-to-check-with-white-house-before-responding-to-congress",
+              "published_at": "2026-11-21T19:29:23Z"
+            },
+            {
+              "publisher": "CNBC",
+              "title": "Trump orders federal contractors to notify White House before giving Congress information",
+              "url": "https://www.cnbc.com/2026/11/21/trump-orders-federal-contractors-to-notify-white-house-before-giving-congress-information.html",
+              "published_at": "2026-11-21T12:27:11Z"
+            }
+          ]
+        }
+      ],
+      "artwork": {
+        "path": "artwork/2026-11-21.svg",
+        "format": "svg",
+        "alt": "Illustration of Pennsylvania Avenue at night. The floodlit Capitol dome glows at the far end of the avenue, but a towering blank sheet of paper with a red seal, a symbol of the executive order, stands across the road. A line of federal contractors, hard-hat workers in safety vests and office workers carrying folders and boxes, turns aside at the sheet and queues toward the floodlit north portico and gate of the White House. Represents Trump's order requiring contractors to check with the White House before answering Congress.",
+        "method": "code-generated SVG (graphic-poster kit, src/art/daily/)",
+        "revision": "r3"
+      },
+      "backfill": {
+        "is_backfill": false,
+        "reason": null
+      }
+    },
+    {
       "date": "2026-11-20",
       "published_at": "2026-11-21T02:16:18.651999Z",
       "status": "published",

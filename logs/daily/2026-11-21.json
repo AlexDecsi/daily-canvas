@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-21",
+  "runs": [
+    {
+      "started_at": "2026-11-22T02:12:29.576190Z",
+      "outcome": "published",
+      "steps": [
+        {
+          "at": "2026-11-22T02:12:29.576193Z",
+          "step": "prepare: lock acquired (live)"
+        },
+        {
+          "at": "2026-11-22T02:12:35.091382Z",
+          "step": "prepare: ran src/news/feeds.py"
+        },
+        {
+          "at": "2026-11-22T02:12:35.185929Z",
+          "step": "prepare: ran src/news/cluster.py"
+        },
+        {
+          "at": "2026-11-22T02:16:15.690551Z",
+          "step": "finalize: published to local site"
+        }
+      ],
+      "_new_run": true,
+      "mode": "live",
+      "prelaunch": false,
+      "finished_at": "2026-11-22T02:16:15.690238Z",
+      "link_checks": [
+        {
+          "url": "https://www.pbs.org/newshour/politics/trump-orders-federal-contractors-to-check-with-white-house-before-responding-to-congress",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/11/21/trump-orders-federal-contractors-to-notify-white-house-before-giving-congress-information.html",
+          "ok": true,
+          "note": "HTTP 200"
+        }
+      ],
+      "samples_removed": [],
+      "stories_shown": [
+        "Trump orders federal contractors to check with the White House before answering Congress"
+      ],
+      "usage": {
+        "article_reads": 5,
+        "web_searches": 0,
+        "render_rounds": 3,
+        "minutes": 5
+      }
+    }
+  ]
+}

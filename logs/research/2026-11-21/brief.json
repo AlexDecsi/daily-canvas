@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-21",
+  "mode": "live (scheduled run, ~9:07 p.m. Boston time on Nov. 21)",
+  "prepared_at": "2026-11-22T02:14:00Z",
+  "candidates_considered": 25,
+  "rationale": "The top-scored cluster by a wide margin (9 US outlets, 6 front pages including WCVB Boston) is Trump's executive order, issued late Friday and reported through Saturday, directing federal contractors and subcontractors to consult the White House about congressional inquiries and withhold communications the White House considers privileged, on pain of losing contracts. It is chosen as the single focal story: it is a concrete, signed policy with a clear national stake (a looming oversight fight once Democrats take Congress in January). To avoid a fourth straight Trump caricature after Nov. 18-19, the picture shows the order's effect on contractors rather than the president, since no signing ceremony was reported. Set aside: the apparent hack of the FBI's criminal database (second cluster; details still come largely from unnamed sources and would not fit the same scene), Trump's remarks on a credit-card interest cap (statement of intent), the COP climate talks running into overtime, the arrest of a Sinaloa cartel figure in Mexico, and local sports results. Facts come from AP (read via PBS NewsHour, Ali Swenson; The Guardian ran the same AP copy) and CNBC (not marked as a wire story), which agree on the order's terms, the termination/suspension penalty, the Scharf directive to agencies earlier in the week and the January change of control.",
+  "stories": [
+    {
+      "role": "focal",
+      "name": "Trump orders federal contractors to check with the White House before answering Congress",
+      "facts": [
+        "An executive order issued late Friday, Nov. 20, directs federal contractors and subcontractors to consult the administration about congressional inquiries and coordinate 'appropriate responses' with the White House (AP, CNBC).",
+        "Contractors must withhold communications the White House considers privileged (AP, CNBC).",
+        "Companies that do not comply could have existing contracts terminated and be suspended from future federal work (AP, CNBC).",
+        "The order applies to all federal contractors and subcontractors, which AP describes as tens of thousands of businesses (AP).",
+        "It follows a directive this week from White House counsel Will Scharf requiring agencies to get White House approval before officials agree to appear before Congress (AP, CNBC).",
+        "Democrats, who take control of Congress in January, have made federal contracts a top investigative target (AP, CNBC).",
+        "Rep. Robert Garcia called the order an attack on Congress's oversight power; Rep. Jamie Raskin called it unprecedented and unlawful (AP).",
+        "The White House framed the order as protecting executive privilege from congressional overreach (AP, CNBC)."
+      ],
+      "people": [
+        {
+          "name": "Donald Trump",
+          "public_figure": true,
+          "verified_action": "Issued the executive order late Friday, Nov. 20 (AP, CNBC). Not drawn: no signing ceremony was reported."
+        }
+      ],
+      "visual_notes": "Night view along Pennsylvania Avenue: the floodlit Capitol dome glows at the far end, the White House's north portico stands in the left middle ground. A giant blank sheet with a red seal (no text, obviously symbolic of the order) stands across the avenue; a line of generic contractors (hard-hat workers, office staff carrying folders and document boxes) heading toward the Capitol is turned aside and queues back toward the White House gate. Street-lamp light and long shadows. No text, no real faces, no protest, no invented officials.",
+      "confidence": "high: the order's terms, penalty and context are reported by AP and CNBC independently, and the order was covered by 9 US outlets in the feed.",
+      "sources": [
+        {
+          "publisher": "PBS NewsHour (Associated Press)",
+          "group": "pbs",
+          "wire": "AP",
+          "title": "Trump orders federal contractors to check with White House before responding to Congress",
+          "url": "https://www.pbs.org/newshour/politics/trump-orders-federal-contractors-to-check-with-white-house-before-responding-to-congress",
+          "published_at": "2026-11-21T19:29:23Z",
+          "checked_at": "2026-11-22T02:13:00Z",
+          "checked": "full article (AP: Ali Swenson; New York)"
+        },
+        {
+          "publisher": "CNBC",
+          "group": "cnbc",
+          "title": "Trump orders federal contractors to notify White House before giving Congress information",
+          "url": "https://www.cnbc.com/2026/11/21/trump-orders-federal-contractors-to-notify-white-house-before-giving-congress-information.html",
+          "published_at": "2026-11-21T12:27:11Z",
+          "checked_at": "2026-11-22T02:13:00Z",
+          "checked": "full article"
+        }
+      ]
+    }
+  ]
+}
