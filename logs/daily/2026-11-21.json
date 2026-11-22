@@ -46,7 +46,13 @@
         "article_reads": 5,
         "web_searches": 0,
         "render_rounds": 3,
-        "minutes": 5
+        "minutes": 6,
+        "minutes_note": "Measured from the run clock (prepare 21:12 to live verification 21:18 EST)."
+      },
+      "deploy": {
+        "first_attempt": "failed: GitHub Pages 'Get Pages site failed ... Server Error' in actions/configure-pages (run 44975315321, transient GitHub-side error)",
+        "retry": "reran failed job once; succeeded",
+        "verified_live_at": "2026-11-22T02:18:18Z"
       }
     }
   ]
