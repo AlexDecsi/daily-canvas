@@ -59,7 +59,7 @@
         "first_attempt": "failed: actions/deploy-pages 'Fetching artifact metadata failed ... No artifacts named github-pages' (run 45099316141, GitHub-side artifact API error)",
         "retry": "reran failed job (attempt 2) and full workflow (attempt 3); both failed with the same GitHub-side error. Stopped retrying (bounded).",
         "verified_live": false,
-        "next_step": "This log commit's push triggers a fresh 'Publish gallery' run. If 2026-11-22 is still missing from the live entries.json, the next scheduled check should rerun the workflow (gh run rerun) and verify."
+        "next_step": "The log-only push did not trigger a new 'Publish gallery' run (the workflow appears to run only when site files change). 2026-11-22 is NOT live yet. The next check should run: cache/tools/gh/gh run rerun 45099316141 -R AlexDecsi/daily-canvas, then confirm the live entries.json."
       }
     }
   ]
