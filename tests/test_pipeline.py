@@ -83,6 +83,18 @@ class MissedDayTests(unittest.TestCase):
         self.assertFalse(daily.is_published("2026-11-03", self.dir))
 
 
+class LiveSiteTests(unittest.TestCase):
+    def test_entry_missing_from_live_site_is_reported(self):
+        local = ["2026-11-20", "2026-11-21", "2026-11-22"]
+        self.assertEqual(daily.not_live(local, ["2026-11-21", "2026-11-20"]), ["2026-11-22"])
+
+    def test_nothing_reported_when_site_matches(self):
+        self.assertEqual(daily.not_live(["2026-11-21"], ["2026-11-21", "2026-11-20"]), [])
+
+    def test_unreachable_site_skips_the_check(self):
+        self.assertIsNone(daily.live_dates("https://localhost.invalid/entries.json", timeout=2))
+
+
 class EntryTests(unittest.TestCase):
     BRIEF = {"stories": [
         {"role": "focal", "name": "Main", "facts": ["f"],

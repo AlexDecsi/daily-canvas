@@ -6,6 +6,12 @@ This runs unattended on the owner's Mac (Claude desktop scheduled task at ~9:07 
    - cd into the project folder and run `python3 src/pipeline/daily.py due`.
    - If it prints "NOTHING TO DO", stop immediately. Don't read any other files. Final message: "Nothing to do: <the line it printed>".
    - If the only work it lists is commits waiting to be pushed, run `git pull --rebase origin main && git push origin main` and stop.
+   - If it lists entries "not on the live site yet" (the GitHub Pages deploy failed after a push):
+     - run `cache/tools/gh/gh workflow run pages.yml -R AlexDecsi/daily-canvas`
+     - watch it (`gh run list ... --limit 1`, then `gh run watch <id> -R AlexDecsi/daily-canvas`)
+     - confirm the dates appear in https://alexdecsi.github.io/daily-canvas/entries.json
+     - if the deploy still fails, write the error into logs/daily/<date>.json, commit and push it, and stop
+     - if that was the only work listed, stop after this step
    - Otherwise continue.
 1. Read the project files.
    - Read CLAUDE.md, config/editorial-style.md (the approved style and news focus) and ops/daily-run.md (the step-by-step runbook).

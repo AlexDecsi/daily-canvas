@@ -331,3 +331,21 @@ No changes made; nothing scheduled.
 **Effect:**
 - No further changes; v3.1 stands for nightly runs from 2026-10-27.
 - Possible later improvement: more detailed people (faces and hands) in the people kit.
+
+## 2026-11-23: Nov 22 entry wasn't live; Pages deploy fixed; quick check now verifies the live site
+
+**Found while gathering facts for Check-in 2:** the 2026-11-22 entry was committed and pushed, but GitHub Pages never published it. The live site still showed 29 entries with Nov 21 newest.
+
+**What happened:**
+- The nightly run's deploy step failed with "No artifacts named github-pages were found" ("Found 0 artifact(s)").
+- The run retried twice (its limit) and honestly logged "NOT live yet".
+- The 11 p.m. and 8 a.m. backup checks only compared local entries and reported "nothing to do", so nobody acted on the note.
+
+**Fixes:**
+- `.github/workflows/pages.yml`:
+  - upgraded to deploy-pages v5, upload-pages-artifact v5 and configure-pages v6 (this alone still failed)
+  - added the `actions: read` permission; with it, the deploy succeeded
+- Republished: the live site shows 30 entries, newest Nov 22. Verified.
+- `daily.py due` now compares published entries with the live `entries.json` and reports any that are missing; an unreachable site skips the check.
+- The scheduled task prompt (and its copy in `ops/scheduled-task-prompt.md`) re-runs the publish workflow when that happens.
+- 3 new tests; 60 pass.

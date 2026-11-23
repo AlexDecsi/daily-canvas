@@ -10,7 +10,7 @@ This script handles everything around them:
     python3 src/pipeline/daily.py due
         A quick check for the scheduled task: prints NOTHING TO DO (exit 2) when the
         due day is published, no missed days are waiting, no commits are waiting to be
-        pushed and no weekly report is due, so the backup runs (11:07 p.m., 8:07 a.m.) cost almost nothing.
+        pushed, every published entry is on the live site and no weekly report is due, so the backup runs (11:07 p.m., 8:07 a.m.) cost almost nothing.
 
     python3 src/pipeline/daily.py prepare [YYYY-MM-DD]
         (No date: the day that is due: today after 9 p.m. Boston time, else yesterday.)
@@ -181,6 +181,25 @@ def unpushed_commits():
     return int(result.stdout.strip() or 0) if result.returncode == 0 else 0
 
 
+LIVE_ENTRIES_URL = "https://alexdecsi.github.io/daily-canvas/entries.json"
+
+
+def not_live(local_dates, live_dates):
+    """Published entries that exist here but not on the public site, oldest first."""
+    return sorted(set(local_dates) - set(live_dates))
+
+
+def live_dates(url=LIVE_ENTRIES_URL, timeout=15):
+    """Dates on the public site, or None if it can't be reached (then the check is skipped, not failed)."""
+    req = urllib.request.Request(f"{url}?nc={int(datetime.now().timestamp())}",
+                                 headers={"User-Agent": "DailyCanvas/0.1 (live check)", "Cache-Control": "no-cache"})
+    try:
+        with urllib.request.urlopen(req, timeout=timeout) as resp:
+            return [e["date"] for e in json.loads(resp.read()).get("entries", [])]
+    except (urllib.error.URLError, TimeoutError, ValueError, KeyError):
+        return None
+
+
 def cmd_due():
     import weekly  # local import: weekly.py imports this module too
     due = due_day()
@@ -196,8 +215,15 @@ def cmd_due():
     week = weekly.week_due(due)
     if week:
         work.append(f"weekly report {week} is due")
+    local = [path.stem for path in ENTRIES.glob("*.json") if is_published(path.stem)]
+    live = live_dates()
+    if live is not None and not pushes:
+        gaps = not_live(local, live)
+        if gaps:  # pushed but the GitHub Pages deploy failed: the site needs republishing
+            work.append(f"{len(gaps)} published entr{'y' if len(gaps) == 1 else 'ies'} not on the live site yet: {gaps}"
+                        " (re-run the 'Publish gallery' workflow)")
     if not work:
-        print(f"NOTHING TO DO (due day {due} is published; no backlog, pushes or reports waiting)")
+        print(f"NOTHING TO DO (due day {due} is published and live; no backlog, pushes or reports waiting)")
         return 2
     print("WORK: " + "; ".join(work))
     return 0
