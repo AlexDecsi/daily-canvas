@@ -51,7 +51,15 @@
         "article_reads": 3,
         "web_searches": 0,
         "render_rounds": 3,
-        "minutes": 22
+        "minutes": 6,
+        "minutes_note": "Measured from the run clock (prepare 21:13 to deploy attempts ~21:19 EST); the draft first said 22 (an estimate), corrected after publishing."
+      },
+      "deploy": {
+        "pushed": "commit d11a289 pushed to main at ~21:17 EST",
+        "first_attempt": "failed: actions/deploy-pages 'Fetching artifact metadata failed ... No artifacts named github-pages' (run 45099316141, GitHub-side artifact API error)",
+        "retry": "reran failed job (attempt 2) and full workflow (attempt 3); both failed with the same GitHub-side error. Stopped retrying (bounded).",
+        "verified_live": false,
+        "next_step": "This log commit's push triggers a fresh 'Publish gallery' run. If 2026-11-22 is still missing from the live entries.json, the next scheduled check should rerun the workflow (gh run rerun) and verify."
       }
     }
   ]
