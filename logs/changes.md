@@ -347,5 +347,5 @@ No changes made; nothing scheduled.
   - added the `actions: read` permission; with it, the deploy succeeded
 - Republished: the live site shows 30 entries, newest Nov 22. Verified.
 - `daily.py due` now compares published entries with the live `entries.json` and reports any that are missing; an unreachable site skips the check.
-- The scheduled task prompt (and its copy in `ops/scheduled-task-prompt.md`) re-runs the publish workflow when that happens.
+- `ops/scheduled-task-prompt.md` now re-runs the publish workflow when that happens. The live scheduled task was **not** updated: the app's safety check blocked the change, so it needs the owner's approval.
 - 3 new tests; 60 pass.
