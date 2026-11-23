@@ -1,0 +1,54 @@
+{
+  "date": "2026-11-22",
+  "published_at": "2026-11-23T02:16:40.280112Z",
+  "status": "published",
+  "prelaunch": false,
+  "title": "Delta's weight-and-balance outage",
+  "caption": "On Sunday, an outage in Delta's automated system that calculates aircraft weight and balance before takeoff delayed more than 1,600 Delta flights nationwide, most at Atlanta. More than 80 were delayed at Boston Logan. Crews used manual workarounds until the system was restored that afternoon. Delta said it was not a hack. The disruption hit as Thanksgiving travel began.",
+  "stories": [
+    {
+      "name": "Delta outage delays flights nationwide as Thanksgiving travel begins",
+      "role": "focal",
+      "facts": [
+        "On Sunday, Nov. 22, an outage in Delta's automated system that calculates aircraft weight and balance before takeoff caused widespread delays (NBC News, ABC News).",
+        "Delta said more than 1,600 of its flights nationwide were delayed Sunday, most of them at Atlanta's Hartsfield-Jackson airport (ABC News); NBC News, citing FlightAware, counted more than 1,100 delays and 36 cancellations into and out of Atlanta as of 4 p.m. ET.",
+        "The FAA briefly halted Atlanta-bound Delta flights Sunday morning and then let them depart at staggered times, lifting the delay program at 11:26 a.m. ET (NBC News); the FAA said the delays were not related to its own air traffic systems (ABC News).",
+        "Delta used manual workarounds Sunday morning and said the system was restored Sunday afternoon; it said the outage was not a hack (ABC News, NBC News).",
+        "Delta said about 70% of its Sunday delays and cancellations were tied to the automation issue and the rest to weather and air traffic restrictions in the Northeast (NBC News).",
+        "At Boston Logan, more than 80 Delta flights were delayed and a handful canceled as of Sunday evening, per FlightAware (NBC Boston).",
+        "Delta said it was rebooking passengers, covering meals and hotels where needed, and refunding canceled flights for customers who chose not to travel (NBC News, ABC News)."
+      ],
+      "sources": [
+        {
+          "publisher": "NBC News",
+          "title": "Delta restores system after nationwide flight delays as Thanksgiving travel begins",
+          "url": "https://www.nbcnews.com/news/us-news/delta-tech-issues-thanksgiving-travel-rcna610685",
+          "published_at": "2026-11-22T16:38:25Z"
+        },
+        {
+          "publisher": "ABC News",
+          "title": "Equipment outage in Atlanta causes over 1,600 Delta flight delays",
+          "url": "https://abcnews.com/US/equipment-outage-atlanta-causes-1300-delta-flight-delays/story?id=138360900",
+          "published_at": "2026-11-22T21:43:29Z"
+        },
+        {
+          "publisher": "NBC Boston",
+          "title": "Dozens of Boston flights impacted by latest U.S. air travel issue",
+          "url": "https://www.nbcboston.com/news/local/boston-delta-flights-impact-system-issue/4053474/",
+          "published_at": "2026-11-22T07:50:47Z"
+        }
+      ]
+    }
+  ],
+  "artwork": {
+    "path": "artwork/2026-11-22.svg",
+    "format": "svg",
+    "alt": "Graphic poster illustration at sunset, seen from inside an airport terminal. Holiday travelers with rolling suitcases wait by a tall window under a departures board with blank amber and red rows. Outside, an unbranded airliner sits at the jet bridge while ramp workers in orange vests check a clipboard beside a baggage cart, and more jets wait on the taxiway. A huge, symbolic balance beam in the sky tips off-level, with an airliner on one pan and suitcases on the other. It represents Delta's weight-and-balance system outage on Nov. 22.",
+    "method": "code-generated SVG (graphic-poster kit, src/art/daily/)",
+    "revision": "r3"
+  },
+  "backfill": {
+    "is_backfill": false,
+    "reason": null
+  }
+}

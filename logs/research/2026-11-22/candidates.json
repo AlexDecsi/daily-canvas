@@ -1,0 +1,1631 @@
+{
+  "date": "2026-11-22",
+  "fetched_at": "2026-11-23T02:13:07.345208Z",
+  "items_considered": 469,
+  "candidates": [
+    {
+      "headline": "Dozens of Boston flights impacted by latest U.S. air travel issue",
+      "score": 147,
+      "signals": {
+        "us_outlets": 8,
+        "intl_outlets": 0,
+        "front_pages": 7,
+        "boston_local": [
+          "boston",
+          "celtics",
+          "logan airport"
+        ]
+      },
+      "independent_outlets": [
+        "ABC News",
+        "Boston.com",
+        "CBS News",
+        "MassLive",
+        "NBC Boston",
+        "NBC News",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-22T07:50:47Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Dozens of Boston flights impacted by latest U.S. air travel issue",
+          "url": "https://www.nbcboston.com/news/local/boston-delta-flights-impact-system-issue/4053474/",
+          "published_at": "2026-11-22T07:50:47Z"
+        },
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Delta flights to Atlanta impacted by automation issue as holiday travel starts",
+          "url": "https://www.nbcboston.com/news/national-international/delta-flights-to-atlanta-impacted-by-automation-issue-as-holiday-travel-starts/4053414/",
+          "published_at": "2026-11-22T07:50:47Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Delta restores system after nationwide flight delays as Thanksgiving travel begins",
+          "url": "https://www.nbcnews.com/news/us-news/delta-tech-issues-thanksgiving-travel-rcna610685",
+          "published_at": "2026-11-22T16:38:25Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "FAA says all Delta flights at Atlanta are delayed as automated system falters",
+          "url": "https://www.bostonglobe.com/2026/11/22/nation/delta-flights-atlanta-delayed/",
+          "published_at": "2026-11-22T16:41:27Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Delta outage disrupts flights just as Thanksgiving travel rush gets underway",
+          "url": "https://www.masslive.com/news/2026/11/delta-outage-hits-thanksgiving-travel-rush-heres-what-passengers-should-know.html",
+          "published_at": "2026-11-22T16:55:38Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Delta Air Lines flights delayed nationwide on Sunday due to automation system issue",
+          "url": "https://www.masslive.com/news/2026/11/delta-air-lines-flights-delayed-nationwide-on-sunday-due-to-automation-system-issue.html",
+          "published_at": "2026-11-22T18:24:15Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Delta Delays Flights as Thanksgiving Travel Begins, After Automated System Falters",
+          "url": "https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html",
+          "published_at": "2026-11-22T21:14:10Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": false,
+          "title": "Over 1,600 Delta flight delays due to equipment problems",
+          "url": "https://abcnews.com/US/equipment-outage-atlanta-causes-1300-delta-flight-delays/story?id=138360900",
+          "published_at": "2026-11-22T21:43:29Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Delta flights delayed at Logan Airport, Atlanta as airline restores automation",
+          "url": "https://www.wcvb.com/article/delta-flights-delayed-at-logan-airport-and-atlanta-hub-as-airline-restores-automation/74500985",
+          "published_at": "2026-11-22T22:21:00Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Automation system problem at Delta causes flight delays as Americans travel for Thanksgiving",
+          "url": "https://www.pbs.org/newshour/nation/automation-system-problem-at-delta-causes-flight-delays-as-americans-travel-for-thanksgiving",
+          "published_at": "2026-11-22T22:40:06Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Flight from Logan delayed after cat gets loose in the cabin",
+          "url": "https://www.boston.com/news/off-beat/2026/11/22/flight-from-logan-delayed-after-cat-gets-loose-in-the-cabin/",
+          "published_at": "2026-11-22T22:58:47Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Delta tech issue delays hundreds of flights",
+          "url": "https://www.nbcnews.com/nightly-news/video/delta-tech-issue-delays-hundreds-of-flights-273989701668",
+          "published_at": "2026-11-22T23:44:13Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Delta Air Lines automation system problem causes flight delays as Americans travel for Thanksgiving",
+          "url": "https://www.wcvb.com/article/delta-flights-delayed-nov-22/74501480",
+          "published_at": "2026-11-23T00:27:00Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Delta Air Lines says it's resolved network issue, but severe weather could cause more delays",
+          "url": "https://www.cbsnews.com/video/ddelta-air-lines-says-resolved-network-issue-severe-weather-delays/",
+          "published_at": "2026-11-23T01:49:05Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Delta Air Lines hit with delays after baggage network system issue",
+          "url": "https://www.cbsnews.com/news/delta-air-lines-nationwide-delays-amid-baggage-network-system-issue/",
+          "published_at": "2026-11-23T01:50:57Z"
+        }
+      ]
+    },
+    {
+      "headline": "Democrats clinch House majority of at least 258 seats, the largest since 1992",
+      "score": 143,
+      "signals": {
+        "us_outlets": 7,
+        "intl_outlets": 2,
+        "front_pages": 7,
+        "boston_local": [
+          "boston",
+          "celtics"
+        ]
+      },
+      "independent_outlets": [
+        "BBC News",
+        "CBS News",
+        "NBC Boston",
+        "NBC News",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The Guardian",
+        "The Hill",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-22T07:50:47Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrats clinch House majority of at least 258 seats, the largest since 1992",
+          "url": "https://www.nbcboston.com/elections/democrats-clinch-historic-house-majority-1992/4053426/",
+          "published_at": "2026-11-22T07:50:47Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrats clinch a historic House majority of at least 258 seats, the largest since 1992",
+          "url": "https://www.pbs.org/newshour/politics/democrats-clinch-a-historic-house-majority-of-at-least-258-seats-the-largest-since-1992",
+          "published_at": "2026-11-22T18:24:22Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrats capture at least 258 House seats in largest sweep since 1992",
+          "url": "https://www.theguardian.com/us-news/2026/nov/22/house-democrats-historic-sweep",
+          "published_at": "2026-11-22T19:17:56Z"
+        },
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrats win the largest House majority since 1992",
+          "url": "https://www.nbcnews.com/politics/congress/house-democrats-win-largest-house-majority-hubbard-north-carolina-rcna610708",
+          "published_at": "2026-11-22T19:23:17Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrats clinch at least 258 House seats after midterms elections",
+          "url": "https://www.bostonglobe.com/2026/11/22/nation/democrats-house-majority-seats/",
+          "published_at": "2026-11-22T19:43:14Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrats clinch a historic House majority of at least 258 seats, the largest since 1992",
+          "url": "https://www.wcvb.com/article/democrats-house-majority-258-seats/74501795",
+          "published_at": "2026-11-22T20:22:00Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrats secure largest House majority in election in three decades",
+          "url": "https://thehill.com/homenews/house/6236301-democrats-secure-house-majority/",
+          "published_at": "2026-11-22T21:33:52Z"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "kind": "news",
+          "wire": true,
+          "title": "Democrat Chuck Hubbard wins recount, flips North Carolina US House seat",
+          "url": "https://abcnews.com/Politics/democrat-chuck-hubbard-wins-recount-north-carolina-us/story?id=138362634",
+          "published_at": "2026-11-22T21:48:58Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrats reach historic House majority not seen since 1992",
+          "url": "https://www.cbsnews.com/news/democrats-historic-house-majority-since-1992/",
+          "published_at": "2026-11-22T22:13:32Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrat Chuck Hubbard Defeats 11-Term Republican Virginia Foxx in North Carolina",
+          "url": "https://www.nytimes.com/2026/11/22/us/virginia-foxx-chuck-hubbard-north-carolina-house.html",
+          "published_at": "2026-11-22T23:28:41Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrats Clinch 258 House Seats, an Election-Year Record This Century",
+          "url": "https://www.nytimes.com/2026/11/22/us/politics/democrats-midterm-house-majority-record.html",
+          "published_at": "2026-11-22T23:30:08Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+          "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-23T01:23:43Z"
+        }
+      ]
+    },
+    {
+      "headline": "COP31 climate talks break down after angry dispute over fossil fuels",
+      "score": 128,
+      "signals": {
+        "us_outlets": 7,
+        "intl_outlets": 2,
+        "front_pages": 7,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "CBS News",
+        "NBC News",
+        "NPR",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The Guardian",
+        "The New York Times",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-22T13:20:21Z",
+      "reports": [
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "COP31 climate talks break down after angry dispute over fossil fuels",
+          "url": "https://www.nbcnews.com/science/climate-change/cop31-climate-talks-break-angry-dispute-fossil-fuels-rcna610656",
+          "published_at": "2026-11-22T13:20:21Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "UN climate talks break down over bitter disagreements on fossil fuels",
+          "url": "https://www.bostonglobe.com/2026/11/22/world/turkey-un-climate-fossil-fuels-global-warming/",
+          "published_at": "2026-11-22T16:12:43Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Cop31 climate talks break down as key deal rejected",
+          "url": "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected",
+          "published_at": "2026-11-22T16:14:46Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "UN climate talks break down over bitter disagreements on fossil fuels",
+          "url": "https://www.pbs.org/newshour/world/un-climate-talks-break-down-over-bitter-disagreements-on-fossil-fuels",
+          "published_at": "2026-11-22T16:30:17Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "Climate change talks fall apart in final hours over fossil fuels",
+          "url": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment",
+          "published_at": "2026-11-22T16:33:22Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "What's next after no deal at COP31 climate talks?",
+          "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-22T18:57:24Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "'You have let us down': UN climate talks break down without an overarching agreement",
+          "url": "https://www.wcvb.com/article/un-climate-talks-without-overarching-agreement/74500821",
+          "published_at": "2026-11-22T19:21:00Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "The collapse of UN climate talks, over fossil fuels, was years in the making",
+          "url": "https://www.bostonglobe.com/2026/11/22/nation/collapse-un-climate-talks-fossil-fuels/",
+          "published_at": "2026-11-22T20:34:09Z"
+        },
+        {
+          "publisher": "NPR",
+          "group": "npr",
+          "kind": "news",
+          "wire": false,
+          "title": "What it's like at a climate conference as talks collapse",
+          "url": "https://www.npr.org/2026/11/22/nx-s1-6050248/what-its-like-at-a-climate-conference-as-talks-collapse",
+          "published_at": "2026-11-22T22:40:23Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "In their own words: Leaders at UN climate talks discuss why negotiations ended without deal",
+          "url": "https://www.pbs.org/newshour/world/in-their-own-words-leaders-at-un-climate-talks-discuss-why-negotiations-ended-without-deal",
+          "published_at": "2026-11-22T23:00:37Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+          "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-23T00:50:35Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "International climate talks fall apart over fossil fuels",
+          "url": "https://www.cbsnews.com/video/international-climate-talks-fall-apart-over-fossil-fuels/",
+          "published_at": "2026-11-23T01:56:06Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "U.N. climate summit ends without deal after contentious fossil fuel debate",
+          "url": "https://www.cbsnews.com/news/un-cop31-climate-conference-ends-no-agreement-fossil-fuel-debate-standstill/",
+          "published_at": "2026-11-23T01:57:22Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels",
+          "url": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
+          "published_at": "2026-11-23T02:01:42Z"
+        }
+      ]
+    },
+    {
+      "headline": "Court stay prevents U.S. Army from detonating bomb-making chemicals in Iowa",
+      "score": 98,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 2,
+        "front_pages": 5,
+        "boston_local": [
+          "boston",
+          "celtics"
+        ]
+      },
+      "independent_outlets": [
+        "BBC News",
+        "CBS News",
+        "NBC Boston",
+        "PBS NewsHour",
+        "The Guardian",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-22T07:50:47Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Court stay prevents U.S. Army from detonating bomb-making chemicals in Iowa",
+          "url": "https://www.nbcboston.com/news/national-international/court-stay-prevents-us-army-detonation-bomb-making-chemicals-iowa/4053213/",
+          "published_at": "2026-11-22T07:50:47Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
+          "url": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-22T18:29:46Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "U.S. Army plans to invoke emergency provisions to detonate bomb-making chemicals in Iowa",
+          "url": "https://www.pbs.org/newshour/nation/u-s-army-plans-to-invoke-emergency-provisions-to-detonate-bomb-making-chemicals-in-iowa",
+          "published_at": "2026-11-22T20:18:46Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "US army to blow up bomb-making chemicals despite safety concerns",
+          "url": "https://www.theguardian.com/us-news/2026/nov/22/army-blow-up-bomb-making-chemicals-iowa",
+          "published_at": "2026-11-23T00:50:39Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "US Army plans to invoke emergency provisions to detonate bomb-making chemicals in Iowa",
+          "url": "https://www.wcvb.com/article/des-moines-area-army-emergency-bomb-chemical-blast/74502722",
+          "published_at": "2026-11-23T01:00:00Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Army moves forward with plans to detonate 5 tons of toxic materials in Iowa",
+          "url": "https://www.cbsnews.com/video/army-moves-forward-plans-detonate-5-tons-toxic-materials-iowa/",
+          "published_at": "2026-11-23T01:49:34Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Army plans to carry out detonation at Iowa plant despite indefinite pause",
+          "url": "https://www.cbsnews.com/news/us-army-iowa-plant-detonation-court-records/",
+          "published_at": "2026-11-23T01:51:40Z"
+        }
+      ]
+    },
+    {
+      "headline": "Former NFL star, legendary ESPN broadcaster dies at 75",
+      "score": 98,
+      "signals": {
+        "us_outlets": 5,
+        "intl_outlets": 1,
+        "front_pages": 4,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "CBS News",
+        "ESPN",
+        "MassLive",
+        "The Boston Globe",
+        "The Guardian",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-22T15:47:11Z",
+      "reports": [
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Former NFL star, legendary ESPN broadcaster dies at 75",
+          "url": "https://www.masslive.com/sports/2026/11/former-nfl-star-legendary-espn-broadcaster-dies-at-75.html",
+          "published_at": "2026-11-22T15:47:11Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "ESPN mourns \u2018one of the best human beings ever\u2019 after NFL analyst Tom Jackson dies at 75",
+          "url": "https://www.theguardian.com/sport/2026/nov/22/espn-mourns-one-of-the-best-human-beings-ever-after-nfl-analyst-tom-jackson-dies-at-75",
+          "published_at": "2026-11-22T16:09:22Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Tom Jackson, former Broncos star and ESPN \u2018Sunday NFL Countdown\u2019 analyst, dies",
+          "url": "https://www.bostonglobe.com/2026/11/22/sports/tom-jackson-broncos-espn-dies/",
+          "published_at": "2026-11-22T16:54:44Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Denver Broncos star and ESPN Hall of Fame broadcaster dies at 75",
+          "url": "https://www.wcvb.com/article/tom-jackson-broncos-espn-hall-of-fame-dies/74501148",
+          "published_at": "2026-11-22T17:37:00Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Tom Jackson, former Broncos star and sports broadcaster, dies at 75",
+          "url": "https://www.cbsnews.com/news/tom-jackson-former-broncos-star-sports-broadcaster-dies-75/",
+          "published_at": "2026-11-22T17:46:24Z"
+        },
+        {
+          "publisher": "ESPN",
+          "group": "espn",
+          "kind": "news",
+          "wire": false,
+          "title": "Tom Jackson, who formed Hall of Fame ESPN tandem with Chris Berman, dies at 75",
+          "url": "https://www.espn.com/nfl/story/_/id/50561778/tom-jackson-broncos-star-espn-legend-dies-75",
+          "published_at": "2026-11-23T01:28:56Z"
+        }
+      ]
+    },
+    {
+      "headline": "East Libya Says Blast on Russian Ship Likely Due to Attack",
+      "score": 70,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 2,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "BBC News",
+        "Bloomberg",
+        "Fox News",
+        "The Boston Globe",
+        "The Guardian",
+        "The Hill"
+      ],
+      "first_seen": "2026-11-22T14:57:15Z",
+      "reports": [
+        {
+          "publisher": "Bloomberg",
+          "group": "bloomberg",
+          "kind": "news",
+          "wire": false,
+          "title": "East Libya Says Blast on Russian Ship Likely Due to Attack",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-22/eastern-libya-says-blast-on-russian-ship-likely-due-to-attack",
+          "published_at": "2026-11-22T14:57:15Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+          "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-22T20:28:09Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Suspected Ukrainian sea drones hit Russian warship at Benghazi naval base, Libyan officials say",
+          "url": "https://www.bostonglobe.com/2026/11/22/business/suspected-ukrainian-sea-drones-hit-russian-warship-benghazi-naval-base-libyan-officials-say/",
+          "published_at": "2026-11-22T20:29:14Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
+          "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
+          "published_at": "2026-11-22T21:33:44Z"
+        },
+        {
+          "publisher": "The Hill",
+          "group": "thehill",
+          "kind": "news",
+          "wire": false,
+          "title": "Russian ship docked in Libya hit in suspected drone attack",
+          "url": "https://thehill.com/policy/international/6236346-russian-ship-docked-in-libya-hit-in-suspected-drone-attack/",
+          "published_at": "2026-11-22T22:03:52Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Russian warship sinks off Libya as suspected Ukrainian strikes take war beyond Black Sea",
+          "url": "https://www.foxnews.com/world/russian-warship-sinks-libya-suspected-ukrainian-strikes-take-war-beyond-black-sea",
+          "published_at": "2026-11-23T01:30:56Z"
+        }
+      ]
+    },
+    {
+      "headline": "Celtics-Warriors live updates: C's looking to shake off loss in Sacramento",
+      "score": 67,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": [
+          "boston",
+          "celtics"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "NBC Boston",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-22T07:50:47Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Celtics-Warriors live updates: C's looking to shake off loss in Sacramento",
+          "url": "https://www.nbcboston.com/nba/boston-celtics/warriors-live-updates-jayson-tatum/4053511/",
+          "published_at": "2026-11-22T07:50:47Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Looking set for an easy road win, Celtics crumble in third quarter in stunning loss to NBA-worst Kings",
+          "url": "https://www.bostonglobe.com/2026/11/22/sports/nba-celtics-kings-game-score-mike-conley/",
+          "published_at": "2026-11-22T08:40:45Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Celtics at Warriors: Boston looks to rebound after last-second loss",
+          "url": "https://www.bostonglobe.com/2026/11/22/sports/celtics-warriors-preview-november-22/",
+          "published_at": "2026-11-22T17:40:18Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Celtics vs. Warriors predictions: Odds and best bet as Boston tries to snap a three-game skid",
+          "url": "https://www.masslive.com/betting/2026/11/celtics-vs-warriors-predictions-odds-and-best-bet-as-boston-tries-to-snap-a-three-game-skid.html",
+          "published_at": "2026-11-22T22:33:23Z"
+        }
+      ]
+    },
+    {
+      "headline": "Officers rescue people in burning Medford home, arrest suspect after break-in",
+      "score": 67,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": [
+          "boston",
+          "celtics"
+        ]
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "NBC Boston",
+        "The Boston Globe",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-22T07:50:47Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Officers rescue people in burning Medford home, arrest suspect after break-in",
+          "url": "https://www.nbcboston.com/news/local/medford-rescue-fire-home-break-in-report/4053413/",
+          "published_at": "2026-11-22T07:50:47Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "Three police officers injured in intentionally set fire at Medford home",
+          "url": "https://www.wcvb.com/article/three-police-officers-taken-to-hospital-after-reporting-fire-in-medford/74499420",
+          "published_at": "2026-11-22T16:35:00Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Officers injured while rescuing residents from suspected arson house fire in Medford",
+          "url": "https://www.bostonglobe.com/2026/11/22/metro/medford-fire-arson-police-injured/",
+          "published_at": "2026-11-22T19:22:57Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "3 Medford police officers get medical treatment after suspected arson",
+          "url": "https://www.boston.com/news/crime/2026/11/22/3-medford-police-officers-get-medical-treatment-after-suspected-arson/",
+          "published_at": "2026-11-22T23:17:03Z"
+        }
+      ]
+    },
+    {
+      "headline": "Swatting incident at Woods Hole terminal impacts ferry service",
+      "score": 67,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": [
+          "boston",
+          "celtics"
+        ]
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "MassLive",
+        "NBC Boston",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-22T07:50:47Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Swatting incident at Woods Hole terminal impacts ferry service",
+          "url": "https://www.nbcboston.com/news/local/swatting-steamship-authority-ferry-delays-woods-hole-police/4053275/",
+          "published_at": "2026-11-22T07:50:47Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Woods Hole ferry service resumes after swatting hoax Saturday evening",
+          "url": "https://www.masslive.com/capecod/2026/11/woods-hole-ferry-service-returns-to-normal-after-swatting-incident-saturday-evening.html",
+          "published_at": "2026-11-22T16:41:51Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "State, local police investigation at Woods Hole terminal disrupts ferry service",
+          "url": "https://www.bostonglobe.com/2026/11/21/metro/steamship-authority-woods-hole-police-investigation/",
+          "published_at": "2026-11-22T16:51:14Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Falmouth police investigate threat at ferry terminal",
+          "url": "https://www.boston.com/news/crime/2026/11/22/falmouth-police-investigate-threat-at-ferry-terminal/",
+          "published_at": "2026-11-22T22:51:48Z"
+        }
+      ]
+    },
+    {
+      "headline": "Roxbury armed robbery and assault leaves four suspects arrested",
+      "score": 66,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": [
+          "boston",
+          "celtics"
+        ]
+      },
+      "independent_outlets": [
+        "NBC Boston",
+        "The Boston Globe",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-22T07:50:47Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Roxbury armed robbery and assault leaves four suspects arrested",
+          "url": "https://www.nbcboston.com/news/local/roxbury-armed-robbery-assault-four-suspects-arrested/4053439/",
+          "published_at": "2026-11-22T07:50:47Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Armed robbery and assault in Roxbury involving martial arts weapon leads to multiple arrests",
+          "url": "https://www.bostonglobe.com/2026/11/22/metro/roxbury-robbery-assault-sai-weapon/",
+          "published_at": "2026-11-22T20:30:06Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "4 arrested in Boston armed robbery, assault involving sai weapon",
+          "url": "https://www.wcvb.com/article/4-arrested-in-boston-armed-robbery-assault-involving-sai-weapon/74501524",
+          "published_at": "2026-11-22T22:42:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "ICE officers arrest 2 passengers boarding a flight at Seattle airport",
+      "score": 64,
+      "signals": {
+        "us_outlets": 4,
+        "intl_outlets": 0,
+        "front_pages": 3,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "CBS News",
+        "PBS NewsHour",
+        "The Boston Globe",
+        "The New York Times"
+      ],
+      "first_seen": "2026-11-22T05:40:28Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "ICE officers arrest 2 passengers boarding a flight at Seattle airport",
+          "url": "https://www.bostonglobe.com/2026/11/22/nation/ice-officers-arrest-2-flight-seattle-airport/",
+          "published_at": "2026-11-22T05:40:28Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Immigration officers make arrests at Seattle airport in 'distressing' scene, delaying flight",
+          "url": "https://www.pbs.org/newshour/nation/immigration-officers-make-arrests-at-seattle-airport-in-distressing-scene-delaying-flight",
+          "published_at": "2026-11-22T16:18:21Z"
+        },
+        {
+          "publisher": "The New York Times",
+          "group": "nyt",
+          "kind": "news",
+          "wire": false,
+          "title": "ICE Officers Arrest 2 Passengers Boarding a Flight at Seattle Airport",
+          "url": "https://www.nytimes.com/2026/11/22/us/ice-arrest-passengers-seattle-airport.html",
+          "published_at": "2026-11-22T22:48:36Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Lawyer: Father and daughter detained by ICE at Seattle airport were traveling to family baptism",
+          "url": "https://www.pbs.org/newshour/nation/lawyer-father-and-daughter-detained-by-ice-at-seattle-airport-were-traveling-to-family-baptism",
+          "published_at": "2026-11-22T23:46:56Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Unmarked ICE agents make violent arrest at Seattle airport",
+          "url": "https://www.cbsnews.com/video/unmarked-ice-agents-violent-arrest-seattle-airport/",
+          "published_at": "2026-11-23T01:52:28Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "ICE officers arrest 2 passengers boarding flight in Seattle",
+          "url": "https://www.cbsnews.com/news/ice-arrest-alaska-airlines-flight-seattle/",
+          "published_at": "2026-11-23T01:55:35Z"
+        }
+      ]
+    },
+    {
+      "headline": "Fire at confectionery factory in Indonesia leaves at least three dead and dozens missing",
+      "score": 63,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 2,
+        "front_pages": 3,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "BBC News",
+        "The Boston Globe",
+        "The Guardian",
+        "WCVB Boston"
+      ],
+      "first_seen": "2026-11-22T07:11:17Z",
+      "reports": [
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Fire at confectionery factory in Indonesia leaves at least three dead and dozens missing",
+          "url": "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta",
+          "published_at": "2026-11-22T07:11:17Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Fire at Indonesian candy factory leaves 3 dead, dozens of workers unaccounted for",
+          "url": "https://www.bostonglobe.com/2026/11/21/world/fire-at-indonesian-candy-factory/",
+          "published_at": "2026-11-22T09:04:25Z"
+        },
+        {
+          "publisher": "BBC News",
+          "group": "bbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Three killed and dozens missing after fire at Indonesian factory",
+          "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-22T14:05:20Z"
+        },
+        {
+          "publisher": "WCVB Boston",
+          "group": "wcvb",
+          "kind": "news",
+          "wire": false,
+          "title": "More remains recovered in the search for 34 workers missing after an Indonesian candy factory fire",
+          "url": "https://www.wcvb.com/article/indonesia-candy-factory-fire/74501115",
+          "published_at": "2026-11-23T01:38:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Trump calling Putin \u2018my friend' at APEC summit sparks backlash",
+      "score": 53,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 1,
+        "front_pages": 2,
+        "boston_local": [
+          "boston",
+          "celtics"
+        ]
+      },
+      "independent_outlets": [
+        "NBC Boston",
+        "PBS NewsHour",
+        "The Guardian"
+      ],
+      "first_seen": "2026-11-22T07:50:47Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump calling Putin \u2018my friend' at APEC summit sparks backlash",
+          "url": "https://www.nbcboston.com/news/national-international/trump-friend-greeting-putin-causes-alarm-europe-ukraine/4052933/",
+          "published_at": "2026-11-22T07:50:47Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "U.S. intelligence chief says Trump's description of Putin as a 'friend' is 'entirely appropriate'",
+          "url": "https://www.pbs.org/newshour/world/u-s-intelligence-chief-says-trumps-description-of-putin-as-a-friend-is-entirely-appropriate",
+          "published_at": "2026-11-22T18:37:06Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "US intelligence chief says he trusts Trump\u2019s description of Putin as \u2018my friend\u2019",
+          "url": "https://www.theguardian.com/us-news/2026/nov/22/intelligence-chief-jay-clayton-trump-putin-my-friend",
+          "published_at": "2026-11-22T20:55:33Z"
+        }
+      ]
+    },
+    {
+      "headline": "Mets reportedly agree $450m contract with Tarik Skubal, richest deal for pitcher in MLB history",
+      "score": 51,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 1,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ESPN",
+        "Fox News",
+        "The Boston Globe",
+        "The Guardian"
+      ],
+      "first_seen": "2026-11-22T22:25:59Z",
+      "reports": [
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Mets reportedly agree $450m contract with Tarik Skubal, richest deal for pitcher in MLB history",
+          "url": "https://www.theguardian.com/sport/2026/nov/22/tarik-skubal-new-york-mets-reported-deal-contract",
+          "published_at": "2026-11-22T22:25:59Z"
+        },
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Mets, Tarik Skubal agree to record contract as MLB lockout looms over offseason",
+          "url": "https://www.foxnews.com/outkick-sports/mets-tarik-skubal-agree-record-contract-mlb-lockout-looms-offseason",
+          "published_at": "2026-11-22T22:36:24Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Tarik Skubal agrees to record $450 million, nine-year contract with New York Mets, AP source says",
+          "url": "https://www.bostonglobe.com/2026/11/22/sports/mlb-mets-tarik-skubal/",
+          "published_at": "2026-11-23T00:07:01Z"
+        },
+        {
+          "publisher": "ESPN",
+          "group": "espn",
+          "kind": "news",
+          "wire": false,
+          "title": "Big Apple blockbuster: Mets, Skubal reach record 9-year, $450M contract, sources say",
+          "url": "https://www.espn.com/mlb/story/_/id/50565674/sources-mets-skubal-agree-9-year-450m-contract",
+          "published_at": "2026-11-23T00:09:01Z"
+        },
+        {
+          "publisher": "ESPN",
+          "group": "espn",
+          "kind": "news",
+          "wire": false,
+          "title": "Tarik Skubal to the Mets! Grading the record $450 million deal",
+          "url": "https://www.espn.com/mlb/story/_/id/50521081/tarik-skubal-new-york-mets-grade-record-contract",
+          "published_at": "2026-11-23T01:24:49Z"
+        },
+        {
+          "publisher": "ESPN",
+          "group": "espn",
+          "kind": "news",
+          "wire": false,
+          "title": "What Skubal's $450 million deal means for the Mets -- and all of MLB",
+          "url": "https://www.espn.com/mlb/story/_/id/50521569/tarik-skubal-mets-record-contract-impact-dodgers",
+          "published_at": "2026-11-23T01:24:49Z"
+        }
+      ]
+    },
+    {
+      "headline": "FIRST ALERT: How much rain will storm drop on Boston? Will it affect the commute?",
+      "score": 50,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "boston",
+          "celtics",
+          "new england"
+        ]
+      },
+      "independent_outlets": [
+        "NBC Boston",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-22T07:50:47Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "FIRST ALERT: How much rain will storm drop on Boston? Will it affect the commute?",
+          "url": "https://www.nbcboston.com/weather/boston-mass-storm-thanksgiving-week-travel/4053500/",
+          "published_at": "2026-11-22T07:50:47Z"
+        },
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "FIRST ALERT: Heavy rain approaches Boston area \u2014 track the storm with live radar",
+          "url": "https://www.nbcboston.com/news/local/rain-thanksgiving-weather-afternoon-windy-storm-new-england/4053320/",
+          "published_at": "2026-11-22T07:50:47Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Quick-hitting coastal storm brings heavy, windswept rain into New England. Our next system tracks closer to Thanksgiving.",
+          "url": "https://www.bostonglobe.com/2026/11/17/metro/new-england-noreaster-coastal-storm/",
+          "published_at": "2026-11-23T00:43:04Z"
+        }
+      ]
+    },
+    {
+      "headline": "\u2018The highlight of my life right now:\u2019 Central Catholic wins thriller for first D1 girls\u2019 volleyball title",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "covered mainly by Boston outlets"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-22T05:00:22Z",
+      "reports": [
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "\u2018The highlight of my life right now:\u2019 Central Catholic wins thriller for first D1 girls\u2019 volleyball title",
+          "url": "https://www.bostonglobe.com/2026/11/21/sports/central-catholic-brookline-miaa-girls-volleyball-championship/",
+          "published_at": "2026-11-22T05:00:22Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Sweepstakes slots: 5 new titles our team is backing right now",
+          "url": "https://www.masslive.com/sweepstakes/2026/11/sweepstakes-slots-5-new-titles-our-team-is-backing-right-now.html",
+          "published_at": "2026-11-22T15:40:00Z"
+        }
+      ]
+    },
+    {
+      "headline": "Ex-Swampscott police officer charged after Flock camera misuse investigation",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "boston",
+          "celtics"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "NBC Boston"
+      ],
+      "first_seen": "2026-11-22T07:50:47Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Ex-Swampscott police officer charged after Flock camera misuse investigation",
+          "url": "https://www.nbcboston.com/news/local/swampscott-police-officer-camera-charges/4052840/",
+          "published_at": "2026-11-22T07:50:47Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "Former North Shore officer indicted after investigation into police database misuse",
+          "url": "https://www.masslive.com/news/2026/11/former-swampscott-officer-indicted-after-investigation-into-police-database-misuse.html",
+          "published_at": "2026-11-22T23:29:29Z"
+        }
+      ]
+    },
+    {
+      "headline": "Mercury gets its first visitors in years as a pair of spacecraft loop into orbit",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "boston",
+          "celtics"
+        ]
+      },
+      "independent_outlets": [
+        "NBC Boston",
+        "PBS NewsHour"
+      ],
+      "first_seen": "2026-11-22T07:50:47Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Mercury gets its first visitors in years as a pair of spacecraft loop into orbit",
+          "url": "https://www.nbcboston.com/news/national-international/mercury-gets-first-visitors-in-years-spacecraft-loop-into-orbit/4053312/",
+          "published_at": "2026-11-22T07:50:47Z"
+        },
+        {
+          "publisher": "PBS NewsHour",
+          "group": "pbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Mercury gets its first visitor in years as a pair of spacecraft loop into orbit",
+          "url": "https://www.pbs.org/newshour/science/mercury-gets-its-first-visitor-in-years-as-a-pair-of-spacecraft-loop-into-orbit",
+          "published_at": "2026-11-22T16:41:28Z"
+        }
+      ]
+    },
+    {
+      "headline": "Boston police take custody of Texas teen accused in deadly South Station fight",
+      "score": 49,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": [
+          "boston",
+          "celtics"
+        ]
+      },
+      "independent_outlets": [
+        "MassLive",
+        "NBC Boston"
+      ],
+      "first_seen": "2026-11-22T07:50:47Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Boston police take custody of Texas teen accused in deadly South Station fight",
+          "url": "https://www.nbcboston.com/news/local/boston-south-station-murder-arrest-update/4053185/",
+          "published_at": "2026-11-22T07:50:47Z"
+        },
+        {
+          "publisher": "MassLive",
+          "group": "masslive",
+          "kind": "news",
+          "wire": false,
+          "title": "South Station stabbing: Texas teen to face murder charge in escalator killing",
+          "url": "https://www.masslive.com/boston/2026/11/texas-teen-to-face-murder-charge-in-fatal-south-station-stabbing.html",
+          "published_at": "2026-11-22T17:30:57Z"
+        }
+      ]
+    },
+    {
+      "headline": "Trump vows to work with Democrats to cap credit card interest rates at 10%",
+      "score": 47,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 1,
+        "front_pages": 1,
+        "boston_local": [
+          "boston",
+          "celtics"
+        ]
+      },
+      "independent_outlets": [
+        "CBS News",
+        "NBC Boston",
+        "The Guardian"
+      ],
+      "first_seen": "2026-11-22T07:50:47Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Trump vows to work with Democrats to cap credit card interest rates at 10%",
+          "url": "https://www.nbcboston.com/news/national-international/trump-work-with-democrats-cap-credit-card-interest-rates/4053318/",
+          "published_at": "2026-11-22T07:50:47Z"
+        },
+        {
+          "publisher": "CBS News",
+          "group": "cbs",
+          "kind": "news",
+          "wire": false,
+          "title": "Jeffries talks about where Democrats may be able to work with Trump",
+          "url": "https://www.cbsnews.com/news/hakeem-jeffries-trump-democrats-healthcare/",
+          "published_at": "2026-11-22T17:39:08Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "Hakeem Jeffries willing to cross political aisle to work on Democrats\u2019 agenda",
+          "url": "https://www.theguardian.com/us-news/2026/nov/22/hakeem-jeffries-democrats-agenda",
+          "published_at": "2026-11-22T18:25:42Z"
+        }
+      ]
+    },
+    {
+      "headline": "\u2018Grand Theft Auto VI' sales in overdrive as series returns after 13-year absence",
+      "score": 47,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 1,
+        "front_pages": 1,
+        "boston_local": [
+          "boston",
+          "celtics"
+        ]
+      },
+      "independent_outlets": [
+        "ESPN",
+        "NBC Boston",
+        "The Guardian"
+      ],
+      "first_seen": "2026-11-22T07:50:47Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "\u2018Grand Theft Auto VI' sales in overdrive as series returns after 13-year absence",
+          "url": "https://www.nbcboston.com/entertainment/entertainment-news/grand-theft-auto-vi-sales-series-return/4052858/",
+          "published_at": "2026-11-22T07:50:47Z"
+        },
+        {
+          "publisher": "The Guardian",
+          "group": "guardian",
+          "kind": "news",
+          "wire": false,
+          "title": "As the real world falls apart, Grand Theft Auto looks more and more appealing | Dave Schilling",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/22/grand-theft-auto-vi-gaming",
+          "published_at": "2026-11-22T12:00:29Z"
+        },
+        {
+          "publisher": "ESPN",
+          "group": "espn",
+          "kind": "news",
+          "wire": false,
+          "title": "Bills poke fun at Dolphins with Grand Theft Auto VI post, leading NFL Week 11 trolls",
+          "url": "https://www.espn.com/nfl/story/_/id/50567903/nfl-week-11-trolls",
+          "published_at": "2026-11-23T01:28:47Z"
+        }
+      ]
+    },
+    {
+      "headline": "Week 12 AP Top 25 Poll sees Big Ten powers rightfully punished while Longhorns jump the Crimson Tide",
+      "score": 45,
+      "signals": {
+        "us_outlets": 3,
+        "intl_outlets": 0,
+        "front_pages": 2,
+        "boston_local": []
+      },
+      "independent_outlets": [
+        "ESPN",
+        "Fox News",
+        "The Boston Globe"
+      ],
+      "first_seen": "2026-11-22T21:23:42Z",
+      "reports": [
+        {
+          "publisher": "Fox News",
+          "group": "fox",
+          "kind": "news",
+          "wire": false,
+          "title": "Week 12 AP Top 25 Poll sees Big Ten powers rightfully punished while Longhorns jump the Crimson Tide",
+          "url": "https://www.foxnews.com/outkick-sports/week-12-ap-top-25-poll-big-ten-powers-rightfully-punished-longhorns-jump-crimson-tide",
+          "published_at": "2026-11-22T21:23:42Z"
+        },
+        {
+          "publisher": "The Boston Globe",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Big Ten takes a beating, no teams in AP top 5 for first time since 2021 as Georgia, Utah hold steady",
+          "url": "https://www.bostonglobe.com/2026/11/22/sports/college-football-poll-big-ten/",
+          "published_at": "2026-11-22T22:09:40Z"
+        },
+        {
+          "publisher": "ESPN",
+          "group": "espn",
+          "kind": "news",
+          "wire": false,
+          "title": "Big Ten tumbles out of AP top 5 for first time since '21; Georgia, Utah remain 1-2",
+          "url": "https://www.espn.com/college-football/story/_/id/50563638/no-big-ten-football-teams-ap-top-5-first-21",
+          "published_at": "2026-11-23T00:09:01Z"
+        }
+      ]
+    },
+    {
+      "headline": "Fire breaks out at renowned Boston restaurant, fire department says",
+      "score": 44,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 1,
+        "boston_local": [
+          "boston",
+          "celtics"
+        ]
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "NBC Boston"
+      ],
+      "first_seen": "2026-11-22T07:50:47Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "Fire breaks out at renowned Boston restaurant, fire department says",
+          "url": "https://www.nbcboston.com/news/local/south-boston-bar-volpe-fire/4053220/",
+          "published_at": "2026-11-22T07:50:47Z"
+        },
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "\u2018Difficult time': Renowned Boston restaurant still closed after fire",
+          "url": "https://www.nbcboston.com/news/local/bar-volpe-closed-boston-fire-update/4053487/",
+          "published_at": "2026-11-22T07:50:47Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Fire closes popular South Boston restaurant",
+          "url": "https://www.boston.com/news/food-news/2026/11/22/fire-closes-popular-south-boston-restaurant/",
+          "published_at": "2026-11-22T23:28:02Z"
+        }
+      ]
+    },
+    {
+      "headline": "After monthslong leave, Stoughton's police chief says she's returning to the job",
+      "score": 43,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 1,
+        "boston_local": [
+          "boston",
+          "celtics"
+        ]
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "NBC Boston"
+      ],
+      "first_seen": "2026-11-22T07:50:47Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "After monthslong leave, Stoughton's police chief says she's returning to the job",
+          "url": "https://www.nbcboston.com/news/local/stoughton-mass-police-chief-mcnamara-returning/4053002/",
+          "published_at": "2026-11-22T07:50:47Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "Stoughton Police Chief Donna McNamara to return to work after months on leave",
+          "url": "https://www.boston.com/news/local-news/2026/11/22/stoughton-police-chief-donna-mcnamara-to-return-to-work-after-months-on-leave/",
+          "published_at": "2026-11-23T00:54:59Z"
+        }
+      ]
+    },
+    {
+      "headline": "17-year-old indicted in deadly July shooting of teenager at Mattapan home",
+      "score": 43,
+      "signals": {
+        "us_outlets": 2,
+        "intl_outlets": 0,
+        "front_pages": 1,
+        "boston_local": [
+          "boston",
+          "celtics"
+        ]
+      },
+      "independent_outlets": [
+        "Boston.com",
+        "NBC Boston"
+      ],
+      "first_seen": "2026-11-22T07:50:47Z",
+      "reports": [
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "kind": "news",
+          "wire": false,
+          "title": "17-year-old indicted in deadly July shooting of teenager at Mattapan home",
+          "url": "https://www.nbcboston.com/news/local/mattapan-home-shooting-suspect-identified/4052962/",
+          "published_at": "2026-11-22T07:50:47Z"
+        },
+        {
+          "publisher": "Boston.com",
+          "group": "globe",
+          "kind": "news",
+          "wire": false,
+          "title": "17-year-old indicted in fatal shooting of woman, 18, in Mattapan",
+          "url": "https://www.boston.com/news/crime/2026/11/22/17-year-old-indicted-in-fatal-shooting-of-woman-18-in-mattapan/",
+          "published_at": "2026-11-23T00:17:28Z"
+        }
+      ]
+    }
+  ]
+}

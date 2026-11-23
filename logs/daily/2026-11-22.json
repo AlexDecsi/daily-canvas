@@ -1,0 +1,58 @@
+{
+  "date": "2026-11-22",
+  "runs": [
+    {
+      "started_at": "2026-11-23T02:13:01.072082Z",
+      "outcome": "published",
+      "steps": [
+        {
+          "at": "2026-11-23T02:13:01.072085Z",
+          "step": "prepare: lock acquired (live)"
+        },
+        {
+          "at": "2026-11-23T02:13:07.366570Z",
+          "step": "prepare: ran src/news/feeds.py"
+        },
+        {
+          "at": "2026-11-23T02:13:07.469569Z",
+          "step": "prepare: ran src/news/cluster.py"
+        },
+        {
+          "at": "2026-11-23T02:16:40.744574Z",
+          "step": "finalize: published to local site"
+        }
+      ],
+      "_new_run": true,
+      "mode": "live",
+      "prelaunch": false,
+      "finished_at": "2026-11-23T02:16:40.744448Z",
+      "link_checks": [
+        {
+          "url": "https://www.nbcnews.com/news/us-news/delta-tech-issues-thanksgiving-travel-rcna610685",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://abcnews.com/US/equipment-outage-atlanta-causes-1300-delta-flight-delays/story?id=138360900",
+          "ok": true,
+          "note": "HTTP 200"
+        },
+        {
+          "url": "https://www.nbcboston.com/news/local/boston-delta-flights-impact-system-issue/4053474/",
+          "ok": true,
+          "note": "HTTP 200"
+        }
+      ],
+      "samples_removed": [],
+      "stories_shown": [
+        "Delta outage delays flights nationwide as Thanksgiving travel begins"
+      ],
+      "usage": {
+        "article_reads": 3,
+        "web_searches": 0,
+        "render_rounds": 3,
+        "minutes": 22
+      }
+    }
+  ]
+}

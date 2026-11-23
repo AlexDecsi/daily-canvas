@@ -1,0 +1,54 @@
+{
+  "date": "2026-11-22",
+  "mode": "live (scheduled run, ~9:07 p.m. Boston time on Nov. 22)",
+  "prepared_at": "2026-11-23T02:25:00Z",
+  "candidates_considered": 25,
+  "rationale": "The top-scored cluster (8 US outlets, 7 front pages, a Logan Airport angle) is Delta's Sunday outage. A failure in the automated system that calculates aircraft weight and balance before takeoff delayed more than 1,600 Delta flights nationwide, mostly at Atlanta, just as Thanksgiving travel began. Logan had more than 80 delayed Delta flights by Sunday evening. It is chosen as the single focal story because it is national, touches Boston directly and breaks a run of four political entries (Nov. 18, 19 and 21 were Trump/White House stories). The close second, Democrats clinching at least 258 House seats (the final tally of the Nov. 3 midterms), would not fit the same scene and was set aside, as were the collapse of the COP31 climate talks, a court stay on Army chemical detonations in Iowa, and local crime and sports items. Facts come from NBC News and ABC News, two independent newsrooms (neither credits a wire service), plus NBC Boston for the Logan figure (same NBC group, so not counted as independent corroboration).",
+  "stories": [
+    {
+      "role": "focal",
+      "name": "Delta outage delays flights nationwide as Thanksgiving travel begins",
+      "facts": [
+        "On Sunday, Nov. 22, an outage in Delta's automated system that calculates aircraft weight and balance before takeoff caused widespread delays (NBC News, ABC News).",
+        "Delta said more than 1,600 of its flights nationwide were delayed Sunday, most of them at Atlanta's Hartsfield-Jackson airport (ABC News); NBC News, citing FlightAware, counted more than 1,100 delays and 36 cancellations into and out of Atlanta as of 4 p.m. ET.",
+        "The FAA briefly halted Atlanta-bound Delta flights Sunday morning and then let them depart at staggered times, lifting the delay program at 11:26 a.m. ET (NBC News); the FAA said the delays were not related to its own air traffic systems (ABC News).",
+        "Delta used manual workarounds Sunday morning and said the system was restored Sunday afternoon; it said the outage was not a hack (ABC News, NBC News).",
+        "Delta said about 70% of its Sunday delays and cancellations were tied to the automation issue and the rest to weather and air traffic restrictions in the Northeast (NBC News).",
+        "At Boston Logan, more than 80 Delta flights were delayed and a handful canceled as of Sunday evening, per FlightAware (NBC Boston).",
+        "Delta said it was rebooking passengers, covering meals and hotels where needed, and refunding canceled flights for customers who chose not to travel (NBC News, ABC News)."
+      ],
+      "people": [],
+      "visual_notes": "Late-afternoon view from inside a terminal gate area: generic travelers with rolling suitcases look out a tall window at a parked, unbranded airliner at the gate, while ramp workers in safety vests check a clipboard beside it (manual workarounds). A departures board with blank, amber-highlighted rows (no text). In the sky, a huge, obviously symbolic balance beam tips off-level, with an airliner on one pan and suitcases on the other, standing for the failed weight-and-balance system. No airline logos, no text, no invented crowds or scuffles.",
+      "confidence": "high: the cause, scale, FAA response and restoration are reported independently by NBC News and ABC News; the Logan figure is from NBC Boston only and is stated as a FlightAware count.",
+      "sources": [
+        {
+          "publisher": "NBC News",
+          "group": "nbc",
+          "title": "Delta restores system after nationwide flight delays as Thanksgiving travel begins",
+          "url": "https://www.nbcnews.com/news/us-news/delta-tech-issues-thanksgiving-travel-rcna610685",
+          "published_at": "2026-11-22T16:38:25Z",
+          "checked_at": "2026-11-23T02:20:00Z",
+          "checked": "full article (Jay Blackman)"
+        },
+        {
+          "publisher": "ABC News",
+          "group": "abc",
+          "title": "Equipment outage in Atlanta causes over 1,600 Delta flight delays",
+          "url": "https://abcnews.com/US/equipment-outage-atlanta-causes-1300-delta-flight-delays/story?id=138360900",
+          "published_at": "2026-11-22T21:43:29Z",
+          "checked_at": "2026-11-23T02:20:00Z",
+          "checked": "full article (Sam Sweeney, Bill Hutchinson)"
+        },
+        {
+          "publisher": "NBC Boston",
+          "group": "nbc",
+          "title": "Dozens of Boston flights impacted by latest U.S. air travel issue",
+          "url": "https://www.nbcboston.com/news/local/boston-delta-flights-impact-system-issue/4053474/",
+          "published_at": "2026-11-22T07:50:47Z",
+          "checked_at": "2026-11-23T02:20:00Z",
+          "checked": "full article (Mary Markos); feed timestamp, page shows relative times only"
+        }
+      ]
+    }
+  ]
+}
